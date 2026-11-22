@@ -1,0 +1,991 @@
+{
+ "id": "tema-08",
+ "title": "Topic 8: Renting and Housing Choices",
+ "summary": "Rent with confidence in the DC area, and compare the real costs of renting and buying before you start the path to owning a home.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "renters-rights",
+   "title": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "summary": "A lease checklist, the deposit and fee rules in DC, Maryland, and Virginia, a move-in photo routine, and where to get free help with repairs, rent increases, or eviction.",
+   "meta": "(About 18 min, 6 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "rent-or-buy",
+   "title": "Rent or Buy? Compare the Real Costs",
+   "summary": "A DC-area worked example that compares renting at $2,000 a month with buying a $320,000 condo, including the costs first-time buyers often miss and why the number of years you stay matters.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "renters-rights-intro",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "intro",
+   "title": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "body": [
+    {
+     "p": "A lease checklist, the deposit and fee rules in DC, Maryland, and Virginia, a move-in photo routine, and where to get free help with repairs, rent increases, or eviction."
+    },
+    {
+     "p": "(About 18 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Review a lease and find the key terms: rent, fees, length, renewal, repairs, and how to end it.",
+      "Compare the security deposit, fee, and notice rules in DC, Maryland, and Virginia.",
+      "Record a unit's condition at move-in and move-out to protect your deposit.",
+      "Find free local help for repairs, rent increases, lockouts, or eviction notices."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class walks through the steps to renting, reading a rental agreement, renter's insurance, and your basic rights as a renter. This lesson adds the actual rules in DC, Maryland, and Virginia, a lease checklist, a photo routine that protects your deposit, and local places to get free help."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-words",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Lease",
+       "A written contract between you and a landlord. It lists the rent, how long you can live there, the fees, and the rules for both of you."
+      ],
+      [
+       "Security deposit",
+       "Money you pay the landlord before you move in. The landlord can use it for unpaid rent or damage you caused. The rest must come back to you after you move out."
+      ],
+      [
+       "Normal wear and tear",
+       "Small changes that happen when people live in a home in the usual way, such as faded paint or carpet worn from walking. A landlord cannot keep your deposit for it."
+      ],
+      [
+       "Renter's insurance",
+       "Insurance for tenants. It helps pay to replace your belongings after a fire or theft, and it protects you if someone is hurt in your home."
+      ],
+      [
+       "Deductible",
+       "The part of a loss you pay yourself before insurance pays. With a $500 deductible and a $1,200 loss, insurance pays $700."
+      ],
+      [
+       "Rent control",
+       "Rules that limit how much a landlord can raise the rent each year. In DC, many older rental buildings are covered. DC also calls this rent stabilization."
+      ],
+      [
+       "Eviction",
+       "The legal process a landlord uses to make a tenant leave a home. In DC, Maryland, and Virginia, only a court can order it."
+      ],
+      [
+       "Sublet",
+       "To rent all or part of your home to another person while your name stays on the lease. Many leases require the landlord's written permission first."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s1",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "text",
+   "title": "Before you apply: fees and screening",
+   "body": [
+    {
+     "p": "Most landlords check your income, rental history, and credit. Many charge an application fee for this. Ask what the landlord requires before you pay, and apply only where you are likely to be accepted. The law limits these fees:"
+    },
+    {
+     "ul": [
+      "**DC:** For 2026, the limit is $54.",
+      "**Maryland:** A landlord with five or more units can keep only $25, unless the real screening costs were higher, and must refund the rest.",
+      "**Virginia:** No more than $50, plus the real cost of an outside background check."
+     ]
+    },
+    {
+     "p": "No Social Security number or credit history? Ask what else the landlord accepts, such as an ITIN, pay stubs, bank statements, or a letter from a past landlord. See our lesson on [building credit](https://dollarscholars.org/resources/lessons/build-credit/)."
+    },
+    {
+     "p": "Fair housing laws make it illegal to refuse to rent to you because of your race, color, national origin, religion, sex, disability, or children. DC, Maryland, and Virginia law also protect your source of income, such as a housing voucher, in most cases."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s2",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "warning",
+   "title": "Fake rental listings",
+   "body": [
+    {
+     "p": "Scammers copy real listings, lower the price, and ask for a deposit or fee before you see the home. Warning signs:"
+    },
+    {
+     "ul": [
+      "The rent is much lower than for similar homes nearby.",
+      "The \"owner\" is away and cannot show you the home.",
+      "You are pushed to pay today.",
+      "They want a wire transfer, gift card, cryptocurrency, or payment app."
+     ]
+    },
+    {
+     "p": "Visit the home in person. Search the address online for the same home at a different price or under a different name. Look up the owner in the property tax records. Never send money before you see the home and sign a lease. See also [how to spot scams](https://dollarscholars.org/resources/lessons/spot-scams/) and [scams that target newcomers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "renters-rights-s3",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "text",
+   "title": "Your lease checklist",
+   "body": [
+    {
+     "p": "A lease is a legal contract. Read all of it before you sign. If English is hard for you, ask someone you trust or a free legal helper to read it with you. Check:"
+    },
+    {
+     "ul": [
+      "Rent amount, due date, and ways to pay",
+      "Late fee: how much, and after how many days",
+      "Length of the lease, and whether it renews by itself",
+      "How much written notice you must give before you move out",
+      "Which bills you pay: electric, gas, water, trash, internet",
+      "How to ask for repairs, and who to call in an emergency",
+      "Rules for guests, roommates, pets, and subletting",
+      "What happens if you must end the lease early",
+      "Every extra fee, and whether renter's insurance is required"
+     ]
+    },
+    {
+     "h3": "Clauses to question before you sign"
+    },
+    {
+     "ul": [
+      "A clause saying you give up your legal rights or your right to a jury trial, or that you \"confess judgment.\" To confess judgment means you agree ahead of time to let the landlord win a court case. Maryland leases may not include these clauses. Virginia leases may not include a confession of judgment or make you give up your rights under the state rental law.",
+      "Fees for repairs or basic services. Virginia landlords cannot charge fees for maintenance or repairs you did not cause. Since August 14, 2026, DC landlords may not charge separate fees for services needed to keep a home livable, such as trash service or locks.",
+      "A late fee above the local limit (see the next section).",
+      "Blank spaces. Never sign a lease with blanks."
+     ]
+    },
+    {
+     "p": "Keep a full copy of the signed lease. In Maryland, the Maryland Tenants' Bill of Rights must be attached to it. In Virginia, you must get the state's [Statement of Tenant Rights and Responsibilities](https://www.dhcd.virginia.gov/landlord-tenant-resources) with a written lease."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s4",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "example",
+   "title": "DC, Maryland, and Virginia rules, with real numbers",
+   "body": [
+    {
+     "p": "The rules depend on where the home is. Some counties and cities add more protections."
+    },
+    {
+     "table": {
+      "caption": "Key renter rules as of September 2026",
+      "head": [
+       "Rule",
+       "DC",
+       "Maryland",
+       "Virginia"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Largest security deposit",
+        "One month's rent",
+        "One month's rent for most leases signed on or after October 1, 2024",
+        "Two months' rent"
+       ],
+       [
+        "Deadline after you move out",
+        "45 days to return it with interest or say in writing what will be kept",
+        "45 days to return the rest with interest and a list of charges",
+        "45 days to return it with a list of deductions"
+       ],
+       [
+        "Largest late fee",
+        "5% of the rent due, only after rent is 5 days late",
+        "5% of the late rent",
+        "10% of the monthly rent or of the unpaid balance, whichever is less"
+       ],
+       [
+        "Written notice before an eviction case for unpaid rent",
+        "10 days, and only if you owe $600 or more",
+        "10 days",
+        "14 days"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Now use the numbers. Rosa wants a one-bedroom apartment in Columbia Heights for $1,800 a month. This is the most cash she may need on moving day:"
+    },
+    {
+     "table": {
+      "caption": "Rosa's move-in cash for an $1,800 DC apartment",
+      "head": [
+       "Cost",
+       "Amount"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Application fee (DC limit for 2026)",
+        "$54"
+       ],
+       [
+        "Security deposit (one month's rent at most)",
+        "$1,800"
+       ],
+       [
+        "First month's rent",
+        "$1,800"
+       ],
+       [
+        "Renter's insurance, first month",
+        "$15"
+       ],
+       [
+        "Moving truck and supplies",
+        "$200"
+       ],
+       [
+        "Total",
+        "$3,869"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "In Virginia, the landlord could ask for a deposit of up to $3,600 for the same rent. In Maryland, you cannot be required to pay more than the first month's rent plus the deposit before you move in."
+    },
+    {
+     "formula": "DC or Maryland late fee limit: $1,800 × 5% = $90"
+    },
+    {
+     "formula": "Virginia late fee limit: $1,800 × 10% = $180"
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "renters-rights-s5",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "text",
+   "title": "Protect your deposit with photos",
+   "body": [
+    {
+     "p": "Many deposit arguments are about one question: was the damage there before you moved in? Dated photos and a written list answer it."
+    },
+    {
+     "ol": [
+      "Before you move your things in, take dated photos and a slow video of every room: walls, floors, windows, doors, appliances, the bathroom, and any damage. Email the files to yourself the same day.",
+      "List every problem, such as \"stain on bedroom carpet.\" Test the lights, faucets, heat, air conditioning, and smoke alarm.",
+      "Send the list and some photos to the landlord in writing, and keep a copy. In Maryland, you can ask for a move-in inspection by certified mail within 15 days after you move in. In Virginia, the landlord must give you a move-in report within 5 days, and you have 5 days to object in writing.",
+      "When you move out, clean, then take new photos and video of the same places.",
+      "Return all keys and give the landlord your new address in writing. In Maryland, to be present at the move-out inspection, send a certified letter at least 15 days before you leave. In Virginia, you have the right to be present at it if you ask the landlord in writing."
+     ]
+    },
+    {
+     "p": "A landlord cannot keep your deposit for normal wear and tear. In DC, since August 2026, a landlord who says you owe money must send photos or other proof, and you have 30 days to dispute it."
+    },
+    {
+     "h3": "Sample letter: asking for your deposit"
+    },
+    {
+     "quote": "Dear [landlord name], I moved out of [address and unit number] on [date] and returned all keys. I left the unit clean and in the same condition as when I moved in, except for normal wear and tear. My photos are attached. Please send my security deposit of $[amount], plus any interest the law requires, to [new address]. If you plan to keep any part of it, please send me an itemized list of the charges and your proof. Thank you, [Your name], [phone number], [date]"
+    },
+    {
+     "p": "Keep a copy and proof of the date you sent it."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s6",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "tip",
+   "title": "Renter's insurance: what it covers, with a sample cost",
+   "body": [
+    {
+     "p": "Your landlord's insurance covers the building, not your things. Renter's insurance can pay to replace your belongings after a fire, a burst pipe, or a theft. It also protects you if a guest is hurt in your home, and many policies pay for a hotel while your home is repaired. Some leases require it."
+    },
+    {
+     "p": "For example, Rosa gets a quote of $15 a month, or $180 a year, for $20,000 of coverage for her belongings, with a $500 deductible. Later, someone breaks in and steals her $1,200 laptop."
+    },
+    {
+     "formula": "$1,200 loss − $500 deductible = $700 paid by insurance"
+    },
+    {
+     "p": "Prices depend on the company, your ZIP code, the coverage, and the deductible, so compare two or three quotes. Standard renter's insurance usually does not cover floods."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "renters-rights-s7",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "warning",
+   "title": "A lockout is not a legal eviction",
+   "body": [
+    {
+     "p": "In DC, Maryland, and Virginia, only a court can order an eviction. A landlord may not change the locks, remove your things, or shut off your heat, water, or electricity to force you out. After a court order, the U.S. Marshals Service carries out evictions in DC, and the sheriff does in Maryland and Virginia."
+    },
+    {
+     "p": "If you are locked out, call the police and free legal help right away. In DC, also call the Office of the Tenant Advocate."
+    },
+    {
+     "p": "If you get court papers, go to your court date. You may be able to stop an eviction for unpaid rent by paying what the court says you owe before the eviction date. Get legal help fast."
+    },
+    {
+     "p": "A landlord also may not punish you for asking for repairs or reporting code problems, such as by raising your rent. In Maryland, it is a crime to demand money or anything of value by threatening to report someone's immigration status."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "renters-rights-s8",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "text",
+   "title": "Repairs, rent increases, and free help",
+   "body": [
+    {
+     "h3": "Repairs"
+    },
+    {
+     "p": "Ask for repairs in writing, such as by email or text, and keep a copy. In DC, you can ask the Department of Buildings for a housing inspection online or at [(202) 671-3500](tel:+12026713500). In Maryland and Virginia, call your local code enforcement office. Do not simply stop paying rent. Maryland and Virginia have court processes where you pay rent to the court until repairs are made. Get legal advice first."
+    },
+    {
+     "h3": "Rent increases"
+    },
+    {
+     "ul": [
+      "**DC:** Many older buildings have rent control. From May 1, 2026, to April 30, 2027, rent on a rent-controlled unit can go up by at most 4.1%, or 2.1% for qualifying elderly tenants and tenants with a disability. Ask the Office of the Tenant Advocate if your unit is covered.",
+      "**Maryland:** Rent can go up only when the lease renews, in most cases with 90 days of written notice. There is no statewide limit, but some local governments have limits.",
+      "**Virginia:** A landlord who owns more than four rental units must give written notice of a rent increase at least 60 days before a lease that can renew ends. Starting July 1, 2027, this notice period becomes 90 days."
+     ]
+    },
+    {
+     "h3": "Free help"
+    },
+    {
+     "ul": [
+      "**DC:** Office of the Tenant Advocate, [(202) 719-6560](tel:+12027196560), 899 North Capitol Street NE ([información en español](https://ota.dc.gov/page/spanish-espa%C3%B1ol-4a)). Legal Aid DC, [(202) 628-1161](tel:+12026281161).",
+      "**Maryland:** Office of Tenant and Landlord Affairs, [855-511-3423](tel:+18555113423). For a free lawyer in an eviction case, call 211 or visit legalhelpmd.org to see if you qualify.",
+      "**Virginia:** Virginia legal aid, [(866) 534-5243](tel:+18665345243). In Northern Virginia, Legal Services of Northern Virginia, [(703) 778-6800](tel:+17037786800).",
+      "**Anywhere:** A [HUD-approved housing counselor](https://www.consumerfinance.gov/find-a-housing-counselor/) can help with renting and budget problems, often at little or no cost."
+     ]
+    },
+    {
+     "p": "If a job loss or emergency makes rent hard to pay, talk to your landlord before the rent is late, and see our lesson on [what to do when your income drops](https://dollarscholars.org/resources/lessons/income-shock/)."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-takeaways",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Never pay a deposit or fee for a home you have not seen, and never pay by gift card, wire transfer, or cryptocurrency.",
+      "Read the whole lease before you sign. Ask about every fee, and keep a signed copy.",
+      "DC and Maryland limit most security deposits to one month's rent. Virginia allows up to two months. All three give landlords 45 days after you move out to return it or explain in writing what they will keep.",
+      "Take dated photos and video when you move in and when you move out, and send your list of problems to the landlord in writing.",
+      "Only a court can order an eviction. If you get court papers, go to your court date and call free legal help right away."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-quiz",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/renters-rights/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-links",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Renting in the DC Area: Leases, Deposits, and Your Rights",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Office of the Tenant Advocate (OTA)",
+       "u": "https://ota.dc.gov/",
+       "org": "DC government",
+       "d": "Free help for DC renters: legal advice and representation, emergency housing help, rent control information, and the current application fee limit."
+      },
+      {
+       "t": "Maryland Tenants' Bill of Rights",
+       "u": "https://dhcd.maryland.gov/housing/renter-landlord-resources/tenants-bill-rights",
+       "org": "Maryland Department of Housing and Community Development",
+       "d": "The state's yearly summary of renter rights in Maryland, with translations in Spanish and many other languages."
+      },
+      {
+       "t": "Tenant and Landlord Resources",
+       "u": "https://www.dhcd.virginia.gov/landlord-tenant-resources",
+       "org": "Virginia Department of Housing and Community Development",
+       "d": "Virginia's Statement of Tenant Rights and Responsibilities, updated July 1, 2026, in English, Spanish, Arabic, Chinese, Korean, and Tagalog."
+      },
+      {
+       "t": "Rental Listing Scams",
+       "u": "https://consumer.ftc.gov/articles/rental-listing-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Warning signs of fake rental ads and how to check a listing before you pay."
+      },
+      {
+       "t": "Estafas de listados de propiedades en alquiler",
+       "u": "https://consumidor.ftc.gov/articulos/estafas-de-listados-de-propiedades-en-alquiler",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The FTC's advice on fake rental listings, in Spanish."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-intro",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "intro",
+   "title": "Rent or Buy? Compare the Real Costs",
+   "body": [
+    {
+     "p": "A DC-area worked example that compares renting at $2,000 a month with buying a $320,000 condo, including the costs first-time buyers often miss and why the number of years you stay matters."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "List the monthly and one-time costs of owning a home and compare them with renting.",
+      "Use a worked example to compare the total cost of renting and buying over several years.",
+      "Explain why the number of years you plan to stay changes the answer.",
+      "Use a readiness checklist to decide whether to start preparing to buy."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers housing needs and wants, the choice between renting and buying, and what you can afford. This lesson adds a DC-area worked example over five years, the costs first-time buyers often miss, a break-even table, and a readiness checklist."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-words",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Principal and interest",
+       "The two parts of a mortgage payment. Principal pays down the amount you borrowed. Interest is what the lender charges you to borrow."
+      ],
+      [
+       "Condo or HOA fee",
+       "A monthly fee that condo or homeowners association members pay for shared costs, such as building repairs, common areas, and sometimes water or trash."
+      ],
+      [
+       "Private mortgage insurance (PMI)",
+       "Insurance you may have to pay for when you put less than 20% down on a conventional loan. It protects the lender, not you."
+      ],
+      [
+       "Closing costs",
+       "Fees you pay to complete a home purchase, such as lender fees, the appraisal, title insurance, government taxes, and prepaid property tax and insurance."
+      ],
+      [
+       "Equity",
+       "The part of your home you own. It is the home's value minus what you still owe on the mortgage."
+      ],
+      [
+       "Break-even point",
+       "The point in time when the total cost of buying becomes lower than the total cost of renting."
+      ],
+      [
+       "Down payment",
+       "The part of the home's price that you pay in cash at the start. You borrow the rest with a mortgage."
+      ],
+      [
+       "Itemize",
+       "To list certain costs, such as mortgage interest and property tax, on your federal tax return to lower the income you pay tax on. You do this instead of taking the standard deduction."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s1",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "text",
+   "title": "The full cost of owning a home",
+   "body": [
+    {
+     "p": "Many people compare their rent with a mortgage payment. That is not a fair comparison. A homeowner pays many costs that a renter does not:"
+    },
+    {
+     "ul": [
+      "**Principal and interest:** the loan payment itself.",
+      "**Property tax:** in DC, most homes are taxed at $0.85 for every $100 of assessed value each year. The assessed value is what the city or county says your home is worth for tax purposes. DC's homestead deduction lowers the tax for owners who live in the home. In Maryland and Virginia, the rate depends on the county or city where the home is.",
+      "**Homeowners or condo insurance:** covers your home and belongings.",
+      "**Condo or HOA fee:** this can go up over time. A condo association can also charge a one-time \"special assessment\" for a big repair, like a new roof.",
+      "**Private mortgage insurance (PMI):** often required if you put less than 20% down on a conventional loan. A conventional loan is a regular mortgage that the government does not back. An FHA loan is backed by the Federal Housing Administration and lets you put down as little as 3.5%, but you pay mortgage insurance.",
+      "**Repairs and upkeep:** when the water heater breaks, there is no landlord to call. Save for this every month."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s2",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "example",
+   "title": "Monthly cost: renting vs. buying a condo in DC",
+   "body": [
+    {
+     "p": "Kwame and Ama rent a one-bedroom apartment in Brookland, in Northeast DC, for $2,000 a month. They are looking at a one-bedroom condo nearby for $320,000. They would put 5% down and borrow $304,000 for 30 years at a fixed rate of 7%. With a fixed rate, the interest rate and the loan payment stay the same for the whole loan. With an adjustable rate, they can change later. That is close to the average 30-year rate in Freddie Mac's weekly survey in late September 2026, which was 7.03% on September 24. Your rate may be higher or lower."
+    },
+    {
+     "table": {
+      "caption": "First-year monthly cost of renting and of buying a $320,000 condo",
+      "head": [
+       "Monthly cost",
+       "Rent",
+       "Buy"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Rent",
+        "$2,000",
+        "$0"
+       ],
+       [
+        "Renter's insurance",
+        "$15",
+        "$0"
+       ],
+       [
+        "Principal and interest (7%, 30 years)",
+        "$0",
+        "$2,023"
+       ],
+       [
+        "Property tax ($0.85 per $100, before any homestead deduction)",
+        "$0",
+        "$227"
+       ],
+       [
+        "Condo fee",
+        "$0",
+        "$450"
+       ],
+       [
+        "Condo owner's insurance",
+        "$0",
+        "$30"
+       ],
+       [
+        "PMI",
+        "$0",
+        "$125"
+       ],
+       [
+        "Savings for repairs",
+        "$0",
+        "$100"
+       ],
+       [
+        "Total each month",
+        "$2,015",
+        "$2,955"
+       ]
+      ],
+      "total": [
+       8
+      ]
+     }
+    },
+    {
+     "formula": "$320,000 × $0.85 ÷ $100 = $2,720 a year, or about $227 a month"
+    },
+    {
+     "p": "In the first year, owning costs about $940 more each month than renting. The condo fee, insurance, PMI, and repair numbers are examples. Ask for the real condo fee and get insurance quotes for any home you consider."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "rent-or-buy-s3",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "text",
+   "title": "Cash you need before you get the keys",
+   "body": [
+    {
+     "p": "Buying also takes a lot of cash at the start. In the example, Kwame and Ama need:"
+    },
+    {
+     "ul": [
+      "**Down payment:** 5% of $320,000 is $16,000.",
+      "**Closing costs:** about $9,000 in this example. Your lender must give you a Loan Estimate within three business days after you apply. It shows your real closing costs.",
+      "**Moving and early repairs or furniture:** about $2,000."
+     ]
+    },
+    {
+     "formula": "$16,000 + $9,000 + $2,000 = $27,000 before move-in day"
+    },
+    {
+     "p": "They should also keep an [emergency fund](https://dollarscholars.org/resources/lessons/emergency-fund/) after they pay all of this. Programs in DC, Maryland, and Virginia may help first-time buyers with the down payment and closing costs. See our lesson on [down payment help](https://dollarscholars.org/resources/lessons/down-payment-help/)."
+    },
+    {
+     "p": "By law, you can ask your loan servicer in writing to cancel PMI when your loan balance is scheduled to reach 80% of the home's original value, if you meet certain conditions, such as a good payment record. In this example, that takes almost 11 years."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s4",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "example",
+   "title": "Five years later: what did each choice cost?",
+   "body": [
+    {
+     "p": "Now imagine Kwame and Ama must move after five years. We assume rent goes up 3% a year, owner costs other than the loan payment and PMI go up 3% a year, the condo's value goes up 3% a year, and selling costs are 6% of the sale price."
+    },
+    {
+     "formula": "Renting: $127,419 rent + $900 renter's insurance = $128,319"
+    },
+    {
+     "table": {
+      "caption": "Buying the condo and selling it after five years",
+      "head": [
+       "Item",
+       "Amount"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Cash at the start",
+        "$27,000"
+       ],
+       [
+        "Monthly costs for 60 months",
+        "$180,265"
+       ],
+       [
+        "Total paid",
+        "$207,265"
+       ],
+       [
+        "Sale price after five years",
+        "$370,968"
+       ],
+       [
+        "Minus selling costs (6%)",
+        "−$22,258"
+       ],
+       [
+        "Minus loan balance paid off at sale",
+        "−$286,160"
+       ],
+       [
+        "Cash back at sale",
+        "$62,550"
+       ],
+       [
+        "Net cost of buying ($207,265 − $62,550)",
+        "$144,715"
+       ]
+      ],
+      "total": [
+       7
+      ]
+     }
+    },
+    {
+     "p": "Over five years, renting cost $16,396 less. Why? In the first five years, Kwame and Ama pay $121,351 in principal and interest, but $103,511 of that is interest. Only $17,840 pays down the loan."
+    },
+    {
+     "p": "If the condo's value does not go up at all, the cash back at sale is only $14,640, and the net cost of buying rises to $192,625. Home prices can stay flat or even fall. Also, the renters kept their $27,000 and spent less each month. If they save that money, renting looks even better in this example."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "rent-or-buy-s5",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "text",
+   "title": "Break-even: why the number of years matters",
+   "body": [
+    {
+     "p": "The one-time costs of buying and selling are spread over the years you stay. The longer you stay, the smaller these costs are for each year. You also pay down more of the loan each year. Here is the same example over different lengths of time, if the condo's value goes up 3% a year."
+    },
+    {
+     "table": {
+      "caption": "Total cost of renting vs. net cost of buying, by years stayed",
+      "head": [
+       "Years",
+       "Renting",
+       "Buying",
+       "Which cost less?"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "3",
+        "$74,722",
+        "$99,601",
+        "Renting, by $24,879"
+       ],
+       [
+        "5",
+        "$128,319",
+        "$144,715",
+        "Renting, by $16,396"
+       ],
+       [
+        "7",
+        "$185,159",
+        "$188,737",
+        "Renting, by $3,578"
+       ],
+       [
+        "8",
+        "$214,856",
+        "$210,285",
+        "Buying, by $4,571"
+       ],
+       [
+        "10",
+        "$276,933",
+        "$252,338",
+        "Buying, by $24,595"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "p": "In this example, the break-even point comes in year 8. With different prices, rates, or fees, it could come sooner or much later. If the home's value stays flat, buying costs more than renting for all ten years."
+    },
+    {
+     "p": "Some owners can deduct mortgage interest and property tax on their federal tax return, but only if they itemize deductions. Many people take the standard deduction instead, so they get no extra tax savings. A free [VITA tax volunteer](https://dollarscholars.org/resources/lessons/file-for-free/) can tell you what applies to you."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s6",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "warning",
+   "title": "Common traps on the way to buying",
+   "body": [
+    {
+     "ul": [
+      "**\"Paying rent is a waste of money.\"** Rent pays for a place to live and the freedom to move. In the early years, most of a mortgage payment is interest, which you also do not get back.",
+      "**Rent-to-own or \"lease-purchase\" deals.** You may pay extra each month toward buying the home later. If you miss a payment or cannot get a mortgage in time, you may lose all of that extra money. Some of these contracts also make you pay for repairs. Have a housing counselor or a lawyer review any contract before you sign. In DC, you can report unfair deals to the Office of the Attorney General.",
+      "**Buying the most expensive home a lender approves.** A lender approval is not a budget. Make sure the full monthly cost still lets you save each month.",
+      "**Skipping the condo papers.** Before you buy a condo, ask for the association's budget, its savings for repairs, and any planned special assessments."
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "rent-or-buy-s7",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "text",
+   "title": "Beyond money, and a readiness checklist",
+   "body": [
+    {
+     "p": "Money is not the only question. Think about:"
+    },
+    {
+     "ul": [
+      "**Flexibility:** renters can move more easily for a new job or family needs.",
+      "**Stability:** owners who keep up with the mortgage control their home and cannot be told to leave when a lease ends.",
+      "**Commute:** a cheaper home far from work or Metro can cost more in time, gas, and fares.",
+      "**Schools:** in DC and nearby counties, your address usually decides your assigned public school.",
+      "**Time and work:** owners handle or pay for every repair."
+     ]
+    },
+    {
+     "p": "Check each box that is true for you:"
+    },
+    {
+     "ul": [
+      "We plan to stay in the area for many years. In our example, buying started to cost less only in year 8.",
+      "We have cash for the down payment, closing costs, and moving, and we will still have an emergency fund after we buy.",
+      "Our income is steady. Lenders often look at the last two years of work history. If we are self-employed or paid in cash, our tax returns show that income.",
+      "We checked our credit reports from all three credit bureaus for free at AnnualCreditReport.com and fixed any errors.",
+      "We can pay the full monthly cost of owning, not just the mortgage, and still save each month.",
+      "Our other monthly debt payments are low. See our lesson on [getting mortgage-ready](https://dollarscholars.org/resources/lessons/mortgage-ready/) to learn how lenders measure this.",
+      "We met with a HUD-approved housing counselor or took a homebuyer education class."
+     ]
+    },
+    {
+     "p": "No Social Security number? Most standard mortgage programs, including FHA loans, require one. Since May 2025, FHA loans are also only for U.S. citizens, lawful permanent residents (green card holders), and a few other small groups. Some banks, credit unions, and community lenders offer mortgages to borrowers with an ITIN. A housing counselor can help you find them."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s8",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "tip",
+   "title": "Start with a housing counselor, not a salesperson",
+   "body": [
+    {
+     "p": "A HUD-approved housing counselor works for a nonprofit or public agency, not for a lender or a seller. A counselor can go over your budget, credit, and savings, and can tell you about first-time buyer programs in DC, Maryland, or Virginia. Many down payment help programs require a homebuyer education class, and counselors often teach one. Search by ZIP code with the CFPB's [housing counselor finder](https://www.consumerfinance.gov/find-a-housing-counselor/)."
+    },
+    {
+     "p": "If you missed some boxes on the checklist, that is normal. Use your years of renting to save, build your credit, and pay down debt. Then check the list again next year."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "rent-or-buy-takeaways",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "The mortgage payment is only part of the cost. Add property tax, insurance, condo or HOA fees, mortgage insurance, and repairs.",
+      "Buying has large one-time costs, and selling a home costs money too. That is why a short stay usually favors renting.",
+      "In our example, renting cost less for each of the first seven years. Buying cost less only after that, and only because the home's value went up.",
+      "In the first years of a mortgage, most of each payment goes to interest, so you build equity slowly.",
+      "Before you decide, meet with a HUD-approved housing counselor. The help is often free or low cost."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-quiz",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/rent-or-buy/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-links",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "Rent or Buy? Compare the Real Costs",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Buying a House: Tools and Resources for Homebuyers",
+       "u": "https://www.consumerfinance.gov/owning-a-home/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Step-by-step guides to preparing to buy, comparing loan offers, and understanding your Loan Estimate and closing papers."
+      },
+      {
+       "t": "Find a Housing Counselor",
+       "u": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Search by ZIP code for HUD-approved housing counselors who help with buying, renting, and credit, often at little or no cost."
+      },
+      {
+       "t": "Real Property Tax Rates",
+       "u": "https://otr.cfo.dc.gov/page/real-property-tax-rates",
+       "org": "DC Office of Tax and Revenue",
+       "d": "DC's current property tax rates, so you can estimate the tax on a home you are thinking about buying."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

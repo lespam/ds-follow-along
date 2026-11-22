@@ -1,0 +1,852 @@
+{
+ "id": "tema-10",
+ "title": "Tema 10: Preparándose y recuperándose de choques financieros",
+ "summary": "Qué hacer en los primeros 30 días después de que se acabe el ingreso, y un plan de emergencia familiar ante desastres, enfermedades y cambios repentinos.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "income-shock",
+   "title": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "summary": "Un plan de 30 días para un despido, reducción de horas o un cierre del gobierno: decide qué proyectos de ley vienen primero, solicita ayuda y evita trampas costosas.",
+   "meta": "(Aproximadamente 15 min, 6 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "emergency-plan",
+   "title": "El Plan de Emergencia Financiera de Tu Familia",
+   "summary": "Construye un kit de documentos que puedas llevar en minutos, verifica que tu seguro se ajuste a tus riesgos y elige quién puede manejar tu dinero y cuidar a tus hijos si de repente no puedes.",
+   "meta": "(Aproximadamente 15 min, 6 preguntas de cuestionario)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "income-shock-intro",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "intro",
+   "title": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "body": [
+    {
+     "p": "Un plan de 30 días para un despido, reducción de horas o un cierre del gobierno: decide qué proyectos de ley vienen primero, solicita ayuda y evita trampas costosas."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Decide qué cuentas pagar primero cuando bajen los ingresos, usando un ejemplo trabajado.",
+      "Solicita el seguro de desempleo y otra ayuda en DC, Maryland y Virginia.",
+      "Llama a arrendadores, prestamistas y servicios públicos para pedir un plan de pagos antes de que una factura quede sin pagar.",
+      "Evita préstamos de alto costo y estafas que tengan como objetivo a personas en crisis financiera."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase explica cómo clasificar los proyectos de ley según lo que pasa si no los pagas. Esta lección convierte esa habilidad en un plan de acción de 30 días para despidos, recortes de horas o cierre federal, con lugares en DC, Maryland y Virginia para solicitar ayuda."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-words",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Seguro de desempleo (UI) (Unemployment insurance (UI))",
+       "Pagos semanales de un estado, por tiempo limitado, a trabajadores que pierden su empleo u horas sin que sea culpa suya."
+      ],
+      [
+       "Permiso (Furlough)",
+       "Un periodo en el que un empleador, como el gobierno federal durante un cierre, les dice a los trabajadores que dejen de trabajar y no les paga."
+      ],
+      [
+       "Plan de dificultades (Hardship plan)",
+       "Un acuerdo a corto plazo con un prestamista para reducir o pausar tus pagos porque tus ingresos disminuyeron."
+      ],
+      [
+       "Indulgencia (Forbearance)",
+       "Permiso de un prestamista para pausar o reducir los pagos del préstamo por un tiempo determinado. Por lo general, aún debes el monto pausado después."
+      ],
+      [
+       "Arreglo de pago (Payment arrangement)",
+       "Un plan con tu compañía eléctrica, de gas o de agua para pagar una factura atrasada en partes más pequeñas con el tiempo."
+      ],
+      [
+       "Carga pública (Public charge)",
+       "Una prueba en la ley migratoria que evalúa si una persona probablemente dependerá de la ayuda del gobierno. Principalmente afecta a las personas que solicitan la green card."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s1",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "text",
+   "title": "Tu plan de 30 días en un vistazo",
+   "body": [
+    {
+     "p": "Los ingresos pueden detenerse sin previo aviso. Un despido, recortes de horas, una lesión o un cierre federal pueden reducir un sueldo a la mitad. El cierre federal en otoño de 2025 duró 43 días, el más largo en la historia de Estados Unidos, y dejó a muchos trabajadores del área de DC sin pago."
+    },
+    {
+     "p": "Yaw y Abena Mensah viven en Hyattsville, Maryland. Yaw fue despedido de su trabajo de repartidor. Abena todavía trabaja medio tiempo como asistente de atención domiciliaria. Su pago neto bajó de $5,000 a $2,500 al mes. Este es el plan que siguieron."
+    },
+    {
+     "ol": [
+      "**Días 1 a 7:** Solicita el desempleo. Revisa tu sueldo final. Lista cada factura, su monto y su fecha de vencimiento.",
+      "**Días 5 a 14:** Clasifica tus cuentas. Antes de cada fecha de vencimiento, llama a todos los prestamistas y servicios públicos que no puedas pagar en totalidad.",
+      "**Días 7 a 21:** Solicita ayuda para comida, energía y renta. Reemplaza la cobertura médica perdida.",
+      "**Días 21 a 30:** Haz un plan de gastos más pequeño para el próximo mes. Sigue pidiendo tu pago de desempleo cada semana."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s2",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "text",
+   "title": "Semana 1: Solicita el desempleo y revisa tu último cheque de pago",
+   "body": [
+    {
+     "p": "**El seguro de desempleo (UI)** reemplaza parte de tu salario perdido por un tiempo limitado si perdiste tu trabajo u horas sin culpa tuya. Solicita en el estado donde trabajaste, incluso si vives en otro estado. Aplica en tu primera semana. Es gratis."
+    },
+    {
+     "ul": [
+      "**DC:** solicita en línea a través del [Departamento de Servicios de Empleo de DC (DOES).](https://unemployment.dc.gov/page/apply-benefits) Para ayuda, llama [al (202) 724-7000](tel:+12027247000).",
+      "**Maryland:** solicita en línea en el sistema BEACON o por teléfono. Comienza en [la División de Seguro de Desempleo de Maryland](https://labor.maryland.gov/unemployment-insurance/).",
+      "**Virginia:** solicita ante la [Comisión de Empleo de Virginia](https://www.vec.virginia.gov/) o llama [al 866-832-2363.](tel:+18668322363)"
+     ]
+    },
+    {
+     "p": "Cada semana, debes pedir un pago, reportar cualquier dinero que hayas ganado y usualmente buscar trabajo. Si te recortaron las horas pero tu trabajo no terminó, podrías recibir un pago menor y parcial."
+    },
+    {
+     "p": "Para obtener el seguro de desempleo, debes haber podido trabajar en Estados Unidos cuando ganaste el salario, y ahora debes poder trabajar. Las personas con un ITIN (un número fiscal del IRS) pero sin permiso de trabajo usualmente no pueden obtener el seguro de desempleo. Si te pagaron en efectivo o te trataron como contratista, solicita de todos modos y lleva prueba de tu pago. El estado decide."
+    },
+    {
+     "p": "**Último cheque de pago.** En DC, si tu empleador termina tu trabajo, tu pago final vence antes del siguiente día hábil. En Maryland y Virginia, se vence antes de tu siguiente día de pago regular."
+    },
+    {
+     "p": "**Cobertura de salud.** Si pierdes el seguro de salud de tu trabajo, tienes 60 días para inscribirte en un nuevo plan a través de DC Health Link, Maryland Health Connection o el Mercado de Seguros de Virginia."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s3",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "example",
+   "title": "¿Cuál proyecto de ley viene primero? La hoja de trabajo de los Mensah",
+   "body": [
+    {
+     "p": "Los $2,500 de Abena tenían que cubrir a la familia hasta que comenzaran los pagos de desempleo de Yaw. Enumeraron cada factura y clasificaron cada una según lo que pasaría si no se pagaba: perder su casa, calefacción y luces, comida o el auto que Abena necesita para trabajar."
+    },
+    {
+     "table": {
+      "caption": "Los proyectos de ley de los Mensah este mes, en orden",
+      "head": [
+       "Proyecto de ley (en orden)",
+       "Monto",
+       "Total hasta ahora"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "1. Renta",
+        "$1,600",
+        "$1,600"
+       ],
+       [
+        "2. Electricidad y gas",
+        "$170",
+        "$1,770"
+       ],
+       [
+        "3. Comida (una lista más corta, además de una despensa de alimentos)",
+        "$400",
+        "$2,170"
+       ],
+       [
+        "4. Seguro de auto",
+        "$150",
+        "$2,320"
+       ],
+       [
+        "5. Teléfono e internet (plan más barato)",
+        "$60",
+        "$2,380"
+       ],
+       [
+        "Se fue por otras deudas",
+        "",
+        "$120"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "$2,500 ingresos − $2,380 para necesidades = $120 restantes"
+    },
+    {
+     "p": "Tres cuentas no cabían: el préstamo del auto ($350), el mínimo de tarjeta de crédito ($75) y el mínimo de tarjeta de tienda ($40). El préstamo del auto llegó primero de los tres, porque el prestamista puede quedarse con el auto. Así que Abena llamó al prestamista antes de la fecha de vencimiento y pidió mover un pago al final del préstamo. El prestamista aceptó. Los $120 cubrieron ambos mínimos de tarjeta ($115). También cancelaron el streaming y una membresía en el gimnasio ($45)."
+    },
+    {
+     "p": "Fíjate en dos cosas. La renta y los servicios venían antes que las tarjetas de crédito, aunque el interés de las tarjetas es alto. Y el paso más importante fue una llamada telefónica, hecha temprano."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "income-shock-s4",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "text",
+   "title": "Llama antes de que pierdas un pago",
+   "body": [
+    {
+     "p": "Los prestamistas y los servicios públicos pueden hacer más por ti antes de que atrases un pago que después. La mayoría de los prestamistas no reportan un pago tardío a las agencias de crédito hasta que ya tienen 30 días de retraso, pero las comisiones por retraso pueden comenzar antes."
+    },
+    {
+     "ul": [
+      "**Préstamo para auto o préstamo personal:** pide mover un pago al final del préstamo (un diferimiento), o reducir tus pagos por unos meses.",
+      "**Tarjetas de crédito:** pide un plan de dificultades con una tasa de interés o pago más baja.",
+      "**Hipoteca:** pregunta a tu administrador (la empresa a la que envías tus pagos) sobre la tolerancia y habla con un consejero de vivienda aprobado por HUD gratis.",
+      "**Préstamos estudiantiles federales:** pregunta a tu administrador sobre un aplazamiento por desempleo o un pago basado en tus ingresos. Nunca pagues a una empresa por esta ayuda.",
+      "**Servicios públicos:** pidan un acuerdo de pago. En DC, la compañía eléctrica no puede cortar el servicio en casa en días donde el pronóstico sea de 95°F o más, 32°F o menos. Esto solo retrasa el corte. Aún debes la factura.",
+      "**Renta:** habla con tu arrendador antes de que se pague la renta. Lee nuestra [lección sobre derechos de inquilinos](https://dollarscholars.org/es-mx/resources/lessons/renters-rights/) para conocer tus derechos si no puedes pagar."
+     ]
+    },
+    {
+     "quote": "Hola, mi nombre es [tu nombre], y mi número de cuenta es [número]. Perdí mi trabajo en [fecha], y no puedo hacer mi pago completo debido a [fecha]. ¿Qué opciones de dificultad tienes, como mover un pago o bajarlo por unos meses? Por favor, envíame el acuerdo por escrito. ¿Me puedes dar tu nombre y un número de referencia para esta llamada?"
+    },
+    {
+     "p": "Escribe la fecha, el nombre de la persona y lo que acordó."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s5",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "text",
+   "title": "Ayuda para solicitar en DC, Maryland y Virginia",
+   "body": [
+    {
+     "p": "Marca **el 211** en DC, Maryland o Virginia para encontrar ayuda local con comida, renta y servicios."
+    },
+    {
+     "ul": [
+      "**Comida:** solicita SNAP (beneficios alimentarios): en DC a través del Departamento de Servicios Humanos, en Maryland a través del sitio web de MarylandBenefits, y en Virginia a través de CommonHelp. Para comida gratis ahora, llama a la Línea de Vida contra Hambre del Banco de Alimentos del Área Capital al [(202) 644-9807](tel:+12026449807) ([en español](https://www.capitalareafoodbank.org/ayuda/)).",
+      "**Facturas de energía:** en DC, solicita al Departamento de Energía y Medio Ambiente (DOEE) LIHEAP (el Programa Federal de Asistencia Energética para Hogares de Bajos Ingresos) y el Programa de Descuento para Servicios Públicos. En Maryland, solicita a la Oficina de Programas de Energía para el Hogar. En Virginia, solicita Asistencia Energética a través de CommonHelp. Algunos programas aceptan solicitudes solo en ciertas épocas del año.",
+      "**Renta:** El Programa de Asistencia de Emergencia para Rentas (ERAP) de DC ayuda a algunos inquilinos con ingresos muy bajos a pagar rentas atrasadas. Solo acepta solicitudes en ciertos momentos; consulta erap.dhs.dc.gov. En Maryland y Virginia, llama al 211."
+     ]
+    },
+    {
+     "p": "Las **reglas de SNAP cambiaron en 2025.** Una ley federal los hizo más estrictos. Más adultos de 18 a 64 años que pueden trabajar y no tienen un hijo menor de 14 años en su hogar ahora deben trabajar o unirse a un programa de trabajo aproximadamente 20 horas a la semana (80 horas al mes) para obtener SNAP por más de 3 meses en 3 años. Las personas que reciben beneficios de desempleo, o que han solicitado y siguen las reglas de desempleo, generalmente quedan exentas. Los refugiados y personas con asilo ya no pueden obtener SNAP solo por ese estatus. Los niños ciudadanos estadounidenses aún pueden obtener SNAP aunque un padre no pueda."
+    },
+    {
+     "p": "**Una nota para los inmigrantes.** Una nueva regla federal de \"carga pública\" entró en vigor el 18 de septiembre de 2026. Permite a los oficiales de inmigración revisar más tipos de beneficios públicos, usados a partir de esa fecha, cuando algunas personas solicitan la green card. Antes de solicitar beneficios, obtén asesoría gratuita de un abogado de inmigración o de un representante de una organización sin fines de lucro acreditada por el Departamento de Justicia de los Estados Unidos. No vayas a un notario. En Estados Unidos, un notario no es un abogado. Consulta nuestra [lección sobre estafas que apuntan a los recién llegados](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s6",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "text",
+   "title": "Cierres gubernamentales: empleados federales y contratistas",
+   "body": [
+    {
+     "p": "Muchas familias del área de DC dependen de los cheques federales. Un cierre afecta a empleados federales y contratistas de diferentes maneras."
+    },
+    {
+     "table": {
+      "caption": "Qué esperar durante un cierre federal",
+      "head": [
+       "Pregunta",
+       "Empleado federal",
+       "Empleado contratista"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "¿Pago retroactivo después de que termine?",
+        "Sí, por una ley de 2019.",
+        "No está garantizado."
+       ],
+       [
+        "¿Desempleo durante ese tiempo?",
+        "Si tienes un permiso temporal, puedes solicitar UCFE (desempleo para trabajadores federales) en el estado donde trabajas. Si tienes que trabajar sin paga, usualmente no puedes.",
+        "Puedes solicitar el seguro de desempleo estatal regular si tus horas se detienen o se reducen."
+       ],
+       [
+        "¿Después de que llega el pago atrasado?",
+        "Lo más probable es que tengas que pagar los beneficios de desempleo.",
+        "No aplica."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "El pago atrasado solo ayuda después de que termina un cierre. Hasta entonces, clasifica tus cuentas y llama a los prestamistas con anticipación. En cierres anteriores, algunos bancos y cooperativas de crédito ofrecían cortes de pago o préstamos de bajo costo a trabajadores federales, así que pregunta el tuyo. Si trabajas para un contratista, pregunta si puedes usar licencia pagada."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s7",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "warning",
+   "title": "Trampas de crisis: préstamos costosos y ayuda falsa",
+   "body": [
+    {
+     "p": "Cuando el dinero está corto, aparecen ofertas de \"efectivo rápido\" por todas partes. Un préstamo típico de día de pago cobra $15 por cada $100 que pidas prestado por dos semanas. Eso equivale a una tasa anual porcentual (APR) de aproximadamente 391%."
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 días × 100 = aproximadamente 391% de APR"
+    },
+    {
+     "p": "Maryland permite como máximo un 33% anual en intereses en préstamos pequeños, y DC también tiene límites estrictos, así que préstamos como este probablemente sean ilegales ahí, incluso en línea. Virginia permite algunos préstamos a corto plazo. Limita el interés al 36% anual, pero los prestamistas también pueden cobrar una comisión mensual de hasta $25. Revisa la licencia de un prestamista en NMLS Consumer Access (nmlsconsumeraccess.org). Un préstamo con título de auto pone en riesgo el auto que necesitas para trabajar."
+    },
+    {
+     "p": "También ten cuidado con:"
+    },
+    {
+     "ul": [
+      "Cualquiera que cobre una cuota para presentar su solicitud de desempleo. La presentación es gratuita en el sitio web del estado.",
+      "Llamadas o mensajes diciendo que ganaste una \"subvención de alivio\" pero que primero debes pagar una cuota.",
+      "Trabajos desde casa que te envían un cheque y te piden que devuelvas parte del dinero. El cheque rebotará y le deberás al banco."
+     ]
+    },
+    {
+     "p": "Aprende más en nuestras lecciones sobre [préstamos de alto costo](https://dollarscholars.org/es-mx/resources/lessons/high-cost-loans/) y [detección de estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "income-shock-s8",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "tip",
+   "title": "Planea impuestos sobre el desempleo",
+   "body": [
+    {
+     "p": "Los beneficios por desempleo cuentan como ingresos en tu declaración de impuestos federal. Para evitar una factura de impuestos después, puedes pedirle a tu estado que retenga el impuesto federal de cada pago. Por lo general, puedes elegir esto al solicitar, o más adelante entregando el Formulario W-4V del IRS de tu estado. Hay ayuda fiscal gratuita disponible en los sitios de VITA; consulta nuestra [lección sobre cómo presentar la declaración gratis](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/). Cuando regrese un cheque de pago regular, reconstruye tus ahorros con nuestra [lección sobre fondos de emergencia](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "income-shock-takeaways",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Solicita el desempleo en tu primera semana, en el estado donde trabajaste. Presentar la solicitud es gratis.",
+      "Paga primero la vivienda, los servicios, la comida y el transporte que necesitas para trabajar.",
+      "Llama a prestamistas y servicios públicos antes de la fecha límite. Pide un plan de dificultades y obténlo por escrito.",
+      "Los empleados federales reciben pago retroactivo después de un cierre por ley. A los empleados contratistas no se les garantiza eso, pero pueden solicitar el desempleo.",
+      "Los préstamos que cuestan cientos por ciento al año empeoran una crisis. Busca ayuda gratuita primero."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-quiz",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/income-shock/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "income-shock-links",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "Cuando se detiene el ingreso: tus primeros 30 días",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Solicita beneficios de desempleo en DC",
+       "u": "https://unemployment.dc.gov/page/apply-benefits",
+       "org": "DC Department of Employment Services (DOES)",
+       "d": "Instrucciones paso a paso para presentar una solicitud de desempleo en DC en línea y qué necesitas para aplicar."
+      },
+      {
+       "t": "División de Seguro de Desempleo de Maryland",
+       "u": "https://labor.maryland.gov/unemployment-insurance/",
+       "org": "Maryland Department of Labor",
+       "d": "Cómo presentar una reclamación en Maryland en BEACON, certificar cada semana y reportar tu búsqueda de empleo. Tiene ayuda en español."
+      },
+      {
+       "t": "Comisión de Empleo de Virginia",
+       "u": "https://www.vec.virginia.gov/",
+       "org": "Virginia Employment Commission (VEC)",
+       "d": "Presenta una solicitud de desempleo en Virginia en línea, presenta reclamaciones semanales y busca el número telefónico para recibir ayuda."
+      },
+      {
+       "t": "Encuentra asistencia alimentaria en la región de DC",
+       "u": "https://www.capitalareafoodbank.org/find-food-assistance/",
+       "org": "Capital Area Food Bank (nonprofit)",
+       "d": "Encuentra comida gratis cerca de ti en DC, Maryland y Virginia cercanos, o llama a Hunger Lifeline para pedir ayuda."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-intro",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "intro",
+   "title": "El Plan de Emergencia Financiera de Tu Familia",
+   "body": [
+    {
+     "p": "Construye un kit de documentos que puedas llevar en minutos, verifica que tu seguro se ajuste a tus riesgos y elige quién puede manejar tu dinero y cuidar a tus hijos si de repente no puedes."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Prepara un kit en papel y digital con documentos financieros y de identidad clave.",
+      "Verifica que tu seguro coincida con tus riesgos, incluyendo seguros para inquilinos e inundaciones.",
+      "Elige quién puede administrar tu dinero y cuidar a tus hijos si de repente no puedes.",
+      "Reconoce estafas que siguen a desastres y emergencias."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase muestra el Kit de Primeros Auxilios Financieros de Emergencia y cubre cómo el seguro y los buenos registros protegen lo que posees. Esta lección convierte eso en una lista de verificación para completar, un chequeo de seguros para inquilinos y un plan de quién puede actuar por ti."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-words",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Poder notarial (Power of attorney)",
+       "Un documento legal que permite a una persona que elijas, llamar a tu agente, manejar el dinero u otros asuntos por ti. Uno duradero sigue funcionando si no puedes tomar decisiones."
+      ],
+      [
+       "Beneficiario pagadero por fallecimiento (POD) (Payable-on-death (POD) beneficiary)",
+       "Una persona que nombras en una cuenta bancaria para recibir el dinero en ella después de que mueras."
+      ],
+      [
+       "Guardián de reserva (Standby guardian)",
+       "Un adulto que un padre nombra para cuidar a sus hijos si algo le sucede, como una enfermedad grave, muerte o detención por parte de las autoridades migratorias."
+      ],
+      [
+       "Seguro para inquilinos (Renter's insurance)",
+       "Una póliza que cubra la reposición de tus pertenencias después de eventos como incendio o robo, y que te proteja si alguien resulta herido en tu casa."
+      ],
+      [
+       "Deducible (Deductible)",
+       "La cantidad que te pagas a ti mismo en un reclamo de seguro antes de que la compañía de seguros pague el resto."
+      ],
+      [
+       "Seguro contra inundaciones (Flood insurance)",
+       "Una póliza separada que cubre los daños por inundaciones. La mayoría de las pólizas para inquilinos y propietarios de vivienda no cubren inundaciones."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s1",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "text",
+   "title": "Por qué toda familia necesita un plan",
+   "body": [
+    {
+     "p": "En un incendio, una inundación o una estancia hospitalaria repentina, puede que solo tengas minutos para salir de casa. Después, tendrás que probar quién eres, qué poseías y qué debes. Las familias que pueden encontrar sus papeles y su póliza de seguro se recuperan más rápido."
+    },
+    {
+     "p": "Fatima renta un departamento en el sótano del noreste de DC con sus dos hijos. Después de una tormenta de verano, el agua entró por debajo de la puerta durante la noche. Su pasaporte, los actas de nacimiento de sus hijos y su contrato de arrendamiento estaban en una caja en el piso. No tenía copias. Esta lección te ayuda a prepararte antes de que algo así te pase."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s2",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "text",
+   "title": "Construye tu kit de documentos",
+   "body": [
+    {
+     "p": "Tu kit es una carpeta o bolsa que puedes llevar contigo en unos minutos. Guarda **copias** de la mayoría de los papeles dentro. Guarda los originales de los papeles difíciles de reemplazar en un lugar seguro al que puedas llegar, como una caja ignífuga cerrada con llave."
+    },
+    {
+     "h3": "Identidad e inmigración"
+    },
+    {
+     "ul": [
+      "Una identificación con foto para cada adulto, como licencia de conducir o pasaporte",
+      "Tarjetas de Seguro Social, o cartas ITIN del IRS",
+      "Actas de nacimiento y matrimonio",
+      "Papeles migratorios, como green card, permiso de trabajo (EAD), visa, registro I-94 y avisos de aprobación de USCIS"
+     ]
+    },
+    {
+     "h3": "Dinero y hogar"
+    },
+    {
+     "ul": [
+      "Una lista de todas las cuentas bancarias, tarjetas de crédito y préstamos, con el nombre de la empresa, el número de cuenta y el número telefónico de la empresa. Nunca escribas PINs o contraseñas.",
+      "Tus declaraciones de impuestos más recientes, con tus formularios W-2 y 1099",
+      "Tu contrato de arrendamiento o escritura, y tu póliza de seguro para inquilinos o propietarios de vivienda",
+      "Título del auto, registro y tarjeta de seguro de auto",
+      "Fotos o un video de lo que posees, habitación por habitación"
+     ]
+    },
+    {
+     "h3": "Salud y familia"
+    },
+    {
+     "ul": [
+      "Tarjetas de seguro médico y una lista de medicamentos y doctores",
+      "Números telefónicos de la familia, tu empleador, tu arrendador y la escuela de tus hijos",
+      "Copias de cualquier documento de poder notarial o tutela",
+      "Algo de efectivo en billetes pequeños y una llave de repuesto de la casa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s3",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "text",
+   "title": "Guarda copias de manera segura, en papel y en línea",
+   "body": [
+    {
+     "ul": [
+      "**En casa:** usa una bolsa o caja ignífuga e impermeable. Guárdala en un solo lugar cerca de la puerta, donde todos los adultos saben encontrarla.",
+      "**En un banco:** una caja de seguridad protege papeles que rara vez necesitas. Solo puedes acceder cuando el banco está abierto y su contenido no está cubierto por el seguro de la FDIC.",
+      "**En línea:** escanea o fotografía cada documento. Guarda los archivos en una cuenta en la nube protegida por una contraseña fuerte y autenticación multifactor, como un código enviado a tu teléfono. Una memoria USB encriptada que necesita contraseña también funciona.",
+      "**Con una persona de confianza:** entrega una copia sellada de tu lista de cuentas y contactos de emergencia a un familiar o amigo, si es posible a alguien que viva en otra zona."
+     ]
+    },
+    {
+     "p": "No publiques fotos de tus documentos en redes sociales y no las envíes a nadie que te contacte primero. Revisa tu kit una vez al año y después de grandes cambios como un nuevo trabajo, una mudanza o un bebé nuevo."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s4",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "example",
+   "title": "Revisión del seguro: qué cuesta el seguro para inquilinos y qué reemplaza",
+   "body": [
+    {
+     "p": "Muchos inquilinos piensan que el seguro del arrendador cubre sus cosas. No es así. La póliza del arrendador cubre el edificio. Solo tu propia póliza de inquilino cubre tus pertenencias. Por lo general, también paga un hotel si tu casa no es segura para vivir, y te protege si algún huésped resulta lastimado en tu casa. La Administración de Seguros de Maryland dice que una póliza típica para inquilinos cuesta alrededor de $15 a $30 al mes."
+    },
+    {
+     "p": "Daniel y Grace rentan en Alexandria, Virginia. Un incendio en la cocina de la unidad de arriba dañó su departamento."
+    },
+    {
+     "table": {
+      "caption": "La pérdida de Daniel y Grace tras un incendio en la cocina arriba",
+      "head": [
+       "Lo que perdieron",
+       "Costo de reemplazo"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Muebles y camas",
+        "$3,000"
+       ],
+       [
+        "Ropa y zapatos",
+        "$1,500"
+       ],
+       [
+        "Laptop, teléfonos y TV",
+        "$1,800"
+       ],
+       [
+        "Artículos de cocina",
+        "$500"
+       ],
+       [
+        "Hotel por 5 noches mientras reparan la unidad",
+        "$900"
+       ],
+       [
+        "Pérdida total",
+        "$7,700"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "Con seguro: $7,700 pérdida − $500 deducible = $7,200 pagados por la compañía de seguros"
+    },
+    {
+     "formula": "Costo de la póliza: $20 al mes × 12 meses = $240 al año"
+    },
+    {
+     "p": "Sin una póliza, ellos pagarían los $7,700 completos ellos mismos. Cuando compres una póliza, pregunta si paga el \"costo de reemplazo\" (el precio de los artículos nuevos) o el \"valor real en efectivo\" (el valor de los artículos usados, que es menor). Algunos arrendadores cobran una tarifa por \"exención de daños\". No es un seguro para inquilinos y usualmente no cubre tus pertenencias."
+    },
+    {
+     "h3": "Otras políticas a revisar"
+    },
+    {
+     "dl": [
+      [
+       "Seguro contra inundaciones",
+       "Cubre daños por inundación, algo que las pólizas para inquilinos usualmente no hacen. Los inquilinos pueden comprar una póliza para pertenencias a través del Programa Nacional de Seguro contra Inundaciones."
+      ],
+      [
+       "Seguro de auto",
+       "La cobertura de responsabilidad civil paga por daños que causes a otros. Para reparar tu propio auto después de un choque, inundación o robo, necesitas cobertura de colisión y cobertura a todo riesgo."
+      ],
+      [
+       "Seguro de salud",
+       "Si pierdes la cobertura de tu trabajo, tienes 60 días para inscribirte en un nuevo plan."
+      ],
+      [
+       "Seguro de vida",
+       "Paga a tu familia si mueres. La cobertura a través del trabajo puede terminar cuando termine el trabajo."
+      ]
+     ]
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "emergency-plan-s5",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "text",
+   "title": "Elige quién puede actuar por ti",
+   "body": [
+    {
+     "p": "Si de repente estás enfermo, herido, detenido o lejos, alguien podría necesitar pagar tu renta y cuidar a tus hijos. Planea esto ahora, mientras puedas elegir."
+    },
+    {
+     "ul": [
+      "**Beneficiario pagadero al fallecimiento (POD):** nombra uno en cada cuenta bancaria. El banco paga a esa persona después de que falleces. Un beneficiario POD no puede usar la cuenta mientras estés vivo.",
+      "**Poder notarial:** un poder notarial financiero duradero permite que tu agente pague las cuentas y trate con tu banco por ti, incluso si no puedes tomar decisiones. Tu agente debe usar tu dinero solo para ti.",
+      "**Cuenta conjunta:** agregar a alguien como copropietario es rápido, pero esa persona tiene derecho a quedarse con todo el dinero. El dinero también puede estar en riesgo por las deudas de esa persona. Si solo necesitas ayuda para pagar cuentas, un poder notarial suele ser más seguro.",
+      "**Tutor de reserva:** DC, Maryland y Virginia permiten que un padre nombre a un adulto para cuidar a sus hijos si el padre fallece, se enferma demasiado para cuidarlos, o es detenido o deportado por razones migratorias. Lo que cuenta, y los formularios, varían en cada lugar, y algunos pasos requieren la aprobación de un tribunal."
+     ]
+    },
+    {
+     "p": "También escribe un breve plan para cuidadores: quién recoge a los niños de la escuela, quién tiene una llave y dónde está tu equipo. Cuéntales sobre el plan. Para ayuda gratuita con estos papeles, contacta a Legal Aid DC, el Centro Pro Bono del Colegio de Abogados de DC, Maryland Legal Aid o Servicios Legales del Norte de Virginia. Las guías gratuitas del CFPB [para manejar el dinero de otra](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) persona explican los deberes de un agente."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s6",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "text",
+   "title": "Riesgos locales: inundaciones, calor y cortes de luz",
+   "body": [
+    {
+     "p": "Las emergencias en el área de DC incluyen inundaciones repentinas, calor extremo, tormentas invernales y cortes de energía. Cada uno puede cerrar bancos y detener lectores de tarjetas y cajeros automáticos."
+    },
+    {
+     "ul": [
+      "Guarda algo de efectivo en casa en billetes pequeños, en un lugar seguro.",
+      "Configura el pago de cuentas en línea o automáticos de renta y servicios, para que se paguen aunque no puedas recibir tu correo.",
+      "Regístrate para recibir alertas de emergencia gratuitas. En DC, usa AlertDC. Los condados de Maryland y Virginia tienen sus propios sistemas de alerta.",
+      "Mantén tu teléfono cargado y también escribe los números telefónicos clave en papel.",
+      "Si vives en una planta baja, en un terreno bajo o cerca de un arroyo, pregunta sobre el seguro contra inundaciones.",
+      "Si vives en una unidad en el sótano, mantén los papeles y objetos de valor en alto, fuera del piso."
+     ]
+    },
+    {
+     "p": "**Las inundaciones necesitan su propia póliza.** La mayoría de las pólizas para inquilinos y propietarios de vivienda no cubren daños por inundación. El Programa Nacional de Seguro contra Inundaciones (NFIP) vende pólizas para inquilinos que cubren pertenencias de hasta $100,000. Estas pólizas cubren muy pocas cosas guardadas en un sótano, así que pregunta exactamente qué está cubierto. La cobertura usualmente comienza 30 días después de comprarla, así que no esperes una advertencia de tormenta. La mayoría de las inundaciones nunca llevan a una declaración federal de desastre, así que no cuentes con que FEMA reemplace lo que pierdes."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s7",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "warning",
+   "title": "Estafas que siguen a desastres",
+   "body": [
+    {
+     "p": "Después de un desastre, los estafadores llegan rápido. Estén atentos a estas señales de advertencia."
+    },
+    {
+     "ul": [
+      "**Trabajadores falsos de FEMA.** FEMA nunca cobra una tarifa para solicitar ayuda. Solicita tu DisasterAssistance.gov o llamando a la Línea de Ayuda de FEMA al [1-800-621-3362](tel:+18006213362).",
+      "**Organizaciones benéficas falsas.** Dona a grupos que ya conoces. Nunca des con tarjeta de regalo, transferencia bancaria o criptomonedas.",
+      "**Contratistas sin licencia.** Ten cuidado con cualquiera que toque tu puerta ofreciendo reparaciones, quiera efectivo antes de comenzar o te pida que firmes tu cheque de seguro. Obtén un contrato por escrito y revisa primero la licencia: en DC con el Departamento de Licencias y Protección al Consumidor, en Maryland con la Comisión de Mejoras del Hogar de Maryland, y en Virginia con el Departamento de Regulación Profesional y Ocupacional."
+     ]
+    },
+    {
+     "p": "En Maryland, un contratista de mejoras del hogar no puede tomar más de un tercio del precio como depósito."
+    },
+    {
+     "formula": "$6,000 empleo ÷ 3 = $2,000 el depósito más grande permitido en Maryland"
+    },
+    {
+     "p": "Paga con cheque o tarjeta de crédito, no en efectivo. Haz el último pago solo cuando el trabajo esté hecho. Si firmaste el contrato desde casa, usualmente tienes tres días hábiles para cancelar. Reporta estafas en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) y lee nuestras lecciones sobre [cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/) y [robo de identidad](https://dollarscholars.org/es-mx/resources/lessons/identity-theft/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "emergency-plan-s8",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "tip",
+   "title": "Empieza con una hora esta semana",
+   "body": [
+    {
+     "p": "No necesitas terminar en un solo día. Esta semana, graba un video de cada habitación con tu teléfono y escribe tu lista de cuentas. El próximo mes, haz copias de tus identificaciones. Si aún no tienes ahorros, comienza con nuestra [lección sobre fondos de emergencia](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/). Si tus ingresos se detienen, sigue nuestro [plan de 30 días](https://dollarscholars.org/es-mx/resources/lessons/income-shock/)."
+    },
+    {
+     "p": "Si se declara un desastre federal donde vives, el IRS a menudo te da más tiempo para presentar y pagar impuestos. También puedes obtener un resumen gratuito de una declaración de impuestos pasada, llamado transcripción, del IRS."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "emergency-plan-takeaways",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Guarda copias de los documentos clave en una bolsa ignífuga e impermeable y en una cuenta en línea protegida.",
+      "El seguro de arrendador no cubre tus pertenencias. El seguro de inquilino sí, pero la mayoría de las pólizas no cubren inundaciones.",
+      "Un poder notarial duradero permite que alguien en quien confías pague tus cuentas sin ser dueño de tu dinero.",
+      "DC, Maryland y Virginia permiten que los padres nombren un tutor de reserva para sus hijos. La asistencia legal puede ayudar.",
+      "FEMA nunca cobra una cuota por solicitar ayuda. Revisa la licencia de contratista antes de pagar algo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-quiz",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/emergency-plan/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-links",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "El Plan de Emergencia Financiera de Tu Familia",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Preparación financiera",
+       "u": "https://www.ready.gov/es/registros-vitales",
+       "org": "Ready.gov (FEMA)",
+       "d": "La misma guía en español: qué documentos reunir, efectivo para conservar y seguro."
+      },
+      {
+       "t": "Cómo evitar las estafas de recuperación después de un desastre",
+       "u": "https://consumidor.ftc.gov/articulos/como-evitar-las-estafas-de-recuperacion-despues-de-un-desastre",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La guía de la FTC en español: señales de estafas de reparación después de un desastre y cómo pagar las reparaciones de manera segura."
+      },
+      {
+       "t": "Preparación financiera",
+       "u": "https://www.ready.gov/financial-preparedness",
+       "org": "Ready.gov (FEMA)",
+       "d": "Qué papeles reunir, por qué guardar algo de efectivo y un Kit de Primeros Auxilios Financieros de Emergencia (EFFAK) gratis para descargar."
+      },
+      {
+       "t": "Cómo evitar estafas después de emergencias climáticas y desastres naturales",
+       "u": "https://consumer.ftc.gov/articles/how-avoid-scams-after-weather-emergencies-and-natural-disasters",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Señales de advertencia de estafas de reparación, cómo revisar a un contratista y formas seguras de pagar las reparaciones."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

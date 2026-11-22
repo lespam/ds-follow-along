@@ -1,0 +1,1281 @@
+{
+ "id": "tema-03",
+ "title": "Topic 3: Paychecks and Personal Income Taxes",
+ "summary": "Understand your pay stub and withholding, handle taxes on gig and cash income, and file for free while claiming every credit you earned. Money Smart has no tax module, so this topic is mostly a Dollar Scholars extension.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "pay-stub-and-w4",
+   "title": "Read Your Pay Stub and Fill Out Your W-4",
+   "summary": "Learn what each line on your pay stub means, fill out Form W-4 step by step, and avoid a surprise tax bill or a refund that is bigger than it needs to be.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "gig-income-taxes",
+   "title": "Taxes on Gig, Cash, and Self-Employment Income",
+   "summary": "What independent workers owe, how to set money aside for taxes, when to pay during the year, and simple records that lower your tax bill.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "file-for-free",
+   "title": "File for Free and Claim the Credits You Earned",
+   "summary": "Find free, trusted tax help, learn ITIN basics, claim the credits many working families miss, and avoid preparers and products that take part of your refund.",
+   "meta": "(About 18 min, 6 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "pay-stub-and-w4-intro",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "intro",
+   "title": "Read Your Pay Stub and Fill Out Your W-4",
+   "body": [
+    {
+     "p": "Learn what each line on your pay stub means, fill out Form W-4 step by step, and avoid a surprise tax bill or a refund that is bigger than it needs to be."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Identify each deduction on a pay stub, including income tax, Social Security, and Medicare.",
+      "Explain how Form W-4 controls how much federal income tax is withheld from your pay.",
+      "Decide when to update your withholding after a life change, such as a second job or a new child.",
+      "Tell the difference between an employee (W-2) and an independent contractor (1099)."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class introduces pay statements and Form W-4. This lesson adds a sample pay stub with real numbers, a walk-through of each W-4 step, and the rules for people who live in one part of the DC area and work in another."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-words",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Gross pay",
+       "Your total pay before anything is taken out."
+      ],
+      [
+       "Net pay",
+       "The money you actually receive after taxes and other deductions. Also called take-home pay."
+      ],
+      [
+       "Withholding",
+       "Money your employer takes out of your pay and sends to the government to pay your taxes."
+      ],
+      [
+       "Form W-4",
+       "The federal form you give your employer to tell it how much federal income tax to take out of your pay."
+      ],
+      [
+       "FICA taxes",
+       "Social Security and Medicare taxes. FICA stands for the Federal Insurance Contributions Act."
+      ],
+      [
+       "Independent contractor",
+       "A self-employed worker. No tax is withheld, and the worker gets a Form 1099 instead of a Form W-2."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s1",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "text",
+   "title": "Your pay stub, line by line",
+   "body": [
+    {
+     "p": "A pay stub (also called a pay statement) comes with each paycheck or direct deposit, on paper or online. Check it every payday. It shows how your pay was figured, and it is often the first place to find a mistake."
+    },
+    {
+     "dl": [
+      [
+       "Gross pay",
+       "Your hours times your pay rate, plus any overtime. This is your pay before anything is taken out."
+      ],
+      [
+       "Pre-tax deductions",
+       "Money taken out before some taxes are figured, such as health insurance or retirement savings. They lower the pay that is taxed."
+      ],
+      [
+       "Taxes",
+       "Federal income tax, state or DC income tax, Social Security, and Medicare."
+      ],
+      [
+       "After-tax deductions",
+       "Money taken out after taxes, such as union dues or a court-ordered wage garnishment."
+      ],
+      [
+       "Net pay",
+       "What is left for you. This is your take-home pay."
+      ],
+      [
+       "YTD (year to date)",
+       "Totals since January 1. Your Form W-2 for the year is based on these totals."
+      ]
+     ]
+    },
+    {
+     "p": "Also check your name, the dates of the pay period, your hours, and your pay rate. If something is wrong, tell your employer in writing right away and keep a copy."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s2",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "example",
+   "title": "Ana's pay stub, with real numbers",
+   "body": [
+    {
+     "p": "Ana lives in Hyattsville, Maryland, and works as a medical assistant in Northwest DC. She earns $20 an hour and is paid every two weeks for 80 hours. Her health insurance comes out before taxes. The income tax amounts are only samples."
+    },
+    {
+     "table": {
+      "caption": "Ana's pay for two weeks (sample pay stub)",
+      "head": [
+       "Line on the stub",
+       "This pay period"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Gross pay (80 hours × $20)",
+        "$1,600.00"
+       ],
+       [
+        "Health insurance (pre-tax)",
+        "−$60.00"
+       ],
+       [
+        "Social Security tax (6.2%)",
+        "−$95.48"
+       ],
+       [
+        "Medicare tax (1.45%)",
+        "−$22.33"
+       ],
+       [
+        "Federal income tax",
+        "−$101.00"
+       ],
+       [
+        "Maryland state and county income tax",
+        "−$98.00"
+       ],
+       [
+        "Net pay (take-home pay)",
+        "$1,223.19"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "formula": "$1,600 gross pay − $60 health insurance = $1,540 taxed for Social Security and Medicare"
+    },
+    {
+     "formula": "$1,540 × 6.2% = $95.48 for Social Security"
+    },
+    {
+     "formula": "$1,540 × 1.45% = $22.33 for Medicare"
+    },
+    {
+     "p": "Notice that no DC tax comes out, even though Ana works in DC. DC does not tax the wages of people who live outside DC. Ana pays Maryland tax instead, and in Maryland that includes county income tax."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "pay-stub-and-w4-s3",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "text",
+   "title": "Social Security and Medicare: taxes that build your future",
+   "body": [
+    {
+     "p": "Social Security tax is 6.2% of your pay. Medicare tax is 1.45%. Your employer pays the same amounts again, in addition to your pay. Together these are called FICA taxes. Most workers cannot opt out of them."
+    },
+    {
+     "p": "These taxes pay for retirement, disability, and survivor benefits, and for Medicare health coverage, which usually starts at age 65. When you work and pay these taxes, you earn Social Security credits. In 2026, you earn one credit for each $1,890 you earn, up to four credits a year. Most people need 40 credits to get retirement benefits. (Social Security tax stops once your pay for the year reaches $184,500, the 2026 limit. Medicare tax has no limit.)"
+    },
+    {
+     "p": "Make sure the name on your pay records matches your Social Security card, or your earnings may not be credited to you. You can check your earnings record with a free [my Social Security account](https://www.ssa.gov/myaccount/)."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s4",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "text",
+   "title": "Fill out Form W-4, step by step",
+   "body": [
+    {
+     "p": "Form W-4 tells your employer how much federal income tax to take out of your pay. You fill it out when you start a job, and you can give your employer a new one at any time. Everyone completes Steps 1 and 5. Do Steps 2 to 4 only if they apply to you."
+    },
+    {
+     "ol": [
+      "**Step 1, personal information:** your name, address, Social Security number, and filing status (single or married filing separately, married filing jointly, or head of household). Most single people choose single. A married couple usually files one return together (married filing jointly). An unmarried person who pays most of the costs of a home for a child or other relative they support may be able to file as head of household, which lowers the tax.",
+      "**Step 2, more than one job:** use this step if you have two or more jobs at the same time, or if you are married filing jointly and your spouse also works. The most accurate way is the free [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator). If there are only two jobs in total and the pay is similar, you can check the box in Step 2(c) on the W-4 for both jobs.",
+      "**Step 3, children and other dependents:** on the 2026 form, if your income will be $200,000 or less ($400,000 or less if married filing jointly), multiply the number of qualifying children under 17 by $2,200 and other dependents by $500. This lowers your withholding, because these credits lower your tax.",
+      "**Step 4, other adjustments:** enter other income that has no tax taken out (4a), deductions other than the standard deduction (4b), or extra tax you want taken out of each paycheck (4c).",
+      "**Step 5, sign and date:** the form is not valid without your signature."
+     ]
+    },
+    {
+     "p": "If you have more than one job, fill out Steps 3, 4(a), and 4(b) on the W-4 for only one job, usually the one that pays the most. Leave them blank on the others."
+    },
+    {
+     "p": "The 2026 Step 4(b) worksheet includes new federal deductions for qualified tips and overtime pay. If you expect to claim them, adding them can raise your take-home pay. Learn who qualifies in [File for Free and Claim the Credits You Earned](https://dollarscholars.org/resources/lessons/file-for-free/)."
+    },
+    {
+     "p": "Your state or DC has its own withholding form: Form D-4 in DC, Form MW507 in Maryland, and Form VA-4 in Virginia."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s5",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "example",
+   "title": "Two jobs and a surprise tax bill",
+   "body": [
+    {
+     "p": "Lucía is single and lives in Alexandria, Virginia. She has two part-time jobs. Each pays $20,000 a year. She filled out a simple W-4 at each job and skipped Step 2."
+    },
+    {
+     "p": "Each employer thinks its job is her only job. So each one subtracts the full 2026 standard deduction ($16,100) before it figures her tax. The standard deduction is an amount of income that is not taxed. Income above it is taxed in steps called tax brackets: the first $12,400 at 10%, the next part at 12%, and so on. Only the dollars inside a step pay that step's rate. These simplified numbers show federal income tax only. Real withholding tables differ a little, but the idea is the same."
+    },
+    {
+     "table": {
+      "caption": "Lucía's 2026 federal income tax (simplified)",
+      "head": [
+       "Line",
+       "Amount"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Job 1 withholds: ($20,000 − $16,100) × 10%",
+        "$390"
+       ],
+       [
+        "Job 2 withholds the same",
+        "$390"
+       ],
+       [
+        "Total withheld during the year",
+        "$780"
+       ],
+       [
+        "Tax she really owes on $23,900 of taxable income ($40,000 − $16,100): 10% of the first $12,400, plus 12% of the rest",
+        "$2,620"
+       ],
+       [
+        "Amount she may owe when she files",
+        "$1,840"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "p": "The fix: Lucía uses the IRS Tax Withholding Estimator, or checks the Step 2(c) box on the W-4 for both jobs. With the box checked, each employer uses half of the standard deduction and half of each tax bracket. A little more comes out of each paycheck, and there is no big bill at tax time."
+    },
+    {
+     "formula": "With Step 2(c) checked: about $1,310 withheld per job × 2 jobs = about $2,620 for the year"
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "pay-stub-and-w4-s6",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "text",
+   "title": "Live in one place, work in another",
+   "body": [
+    {
+     "p": "Many people in the DC area live in one state or in DC and work in another. Between DC, Maryland, and Virginia, your wages are usually taxed only where you live. DC does not tax the wages of people who live outside DC. Maryland and Virginia generally do not tax the wages of people who live in DC or in each other's state."
+    },
+    {
+     "ul": [
+      "**Live in Maryland or Virginia, work in DC:** DC income tax should not come out of your pay. Give your employer DC Form D-4A (Certificate of Nonresidence). Your home state's tax should come out instead.",
+      "**Live in DC, work in Maryland or Virginia:** give your employer Form MW507 (Maryland) or Form VA-4 (Virginia) to claim the exemption. You pay DC income tax.",
+      "**Live in Maryland and work in Virginia, or the reverse:** usually only your home state taxes your wages, if you do not keep a home in the state where you work and do not spend more than 183 days a year there. Give your employer the form for the state where you work (VA-4 or MW507).",
+      "**Live in Maryland:** your Maryland withholding also includes county income tax."
+     ]
+    },
+    {
+     "p": "These rules are for wages. Check your first pay stub at a new job. If your home state's tax is not coming out, ask your payroll office. If your employer does not withhold it, you may need to pay that tax yourself during the year, so you do not owe a large amount, plus a penalty, when you file."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s7",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "warning",
+   "title": "Paid on a 1099 but treated like an employee?",
+   "body": [
+    {
+     "p": "An employee gets a Form W-2. The employer withholds taxes and pays half of the Social Security and Medicare tax. An independent contractor gets a Form 1099-NEC. Nothing is withheld, and the worker pays both halves as self-employment tax."
+    },
+    {
+     "p": "Some businesses call workers contractors to avoid paying taxes and benefits. This is called misclassification. You may be an employee if:"
+    },
+    {
+     "ul": [
+      "The company sets your hours and tells you how to do the work.",
+      "The company gives you the tools, supplies, or uniform.",
+      "You are paid by the hour and cannot set your own prices.",
+      "You work only for this company, with no end date.",
+      "You get benefits, such as paid vacation."
+     ]
+    },
+    {
+     "p": "If this sounds like your job, you can ask the IRS to decide with Form SS-8. The answer can take six months or more. If you were misclassified, Form 8919 may let you pay only the employee share of Social Security and Medicare tax. For free help, contact a Low Income Taxpayer Clinic or legal aid, such as Legal Aid DC, Maryland Legal Aid, or Legal Services of Northern Virginia."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "pay-stub-and-w4-s8",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "tip",
+   "title": "Check your withholding every year",
+   "body": [
+    {
+     "p": "Use the [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator) early each year and after any big change, such as a new job, a second job, marriage, divorce, a new baby, or a big raise. It is free, needs no login, and takes about 25 minutes. Have your latest pay stub and last year's tax return ready."
+    },
+    {
+     "p": "The goal is a small refund or a small bill. A very large refund means too much of your own pay was held all year, with no interest paid to you. A large bill means too little was taken out."
+    },
+    {
+     "p": "Only claim exempt from withholding if you owed no federal income tax last year and expect to owe none this year. An exempt W-4 lasts for one year. For 2026, you must give your employer a new one by February 16, 2027."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "pay-stub-and-w4-takeaways",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Gross pay is what you earn. Net pay is what you take home after taxes and other deductions.",
+      "Social Security (6.2%) and Medicare (1.45%) come out of almost every paycheck and count toward your future benefits.",
+      "Give your employer a new W-4 when your life changes, such as a second job, marriage, or a new child.",
+      "Between DC, Maryland, and Virginia, your wages are usually taxed only where you live, not where you work.",
+      "If a company controls how, when, and where you work, you may be an employee, even if it gives you a 1099."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-quiz",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/pay-stub-and-w4/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-links",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Read Your Pay Stub and Fill Out Your W-4",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Tax Withholding Estimator",
+       "u": "https://www.irs.gov/individuals/tax-withholding-estimator",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "A free tool, with no login, that helps you fill out Form W-4 so the right amount of tax comes out of your pay."
+      },
+      {
+       "t": "Independent contractor (self-employed) or employee?",
+       "u": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "How the IRS decides if a worker is an employee or a contractor, and what to do if you think you were misclassified."
+      },
+      {
+       "t": "Reciprocity",
+       "u": "https://www.tax.virginia.gov/reciprocity",
+       "org": "Virginia Department of Taxation",
+       "d": "Which state taxes your wages when you live in Virginia and work in DC or Maryland, or the reverse."
+      },
+      {
+       "t": "Estimador para retención de impuestos",
+       "u": "https://www.irs.gov/es/individuals/tax-withholding-estimator",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "The IRS Tax Withholding Estimator page in Spanish."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-intro",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "intro",
+   "title": "Taxes on Gig, Cash, and Self-Employment Income",
+   "body": [
+    {
+     "p": "What independent workers owe, how to set money aside for taxes, when to pay during the year, and simple records that lower your tax bill."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Explain which income must be reported, including cash, tips, and payment-app income.",
+      "Estimate self-employment tax on net earnings using a worked example.",
+      "Set aside money for taxes and know when quarterly estimated payments are due.",
+      "Keep simple records of income and business expenses, such as mileage."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Module 3 mentions side jobs and Form 1099 but does not teach self-employment tax. This lesson shows the math with real numbers and gives drivers, cleaners, caregivers, and other independent workers a simple system for saving and keeping records."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-words",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Self-employed",
+       "Working for yourself instead of for an employer. No one withholds taxes from your pay."
+      ],
+      [
+       "Net profit",
+       "Your business income minus your business expenses. Self-employment tax is based on this number, not on all the money you took in."
+      ],
+      [
+       "Self-employment tax",
+       "Social Security and Medicare tax for people who work for themselves. The rate is 15.3%."
+      ],
+      [
+       "Estimated tax",
+       "Tax you pay to the IRS during the year, usually four times, when no tax is withheld from your income."
+      ],
+      [
+       "Form 1099-NEC",
+       "A form a business sends to someone it paid who is not an employee, showing how much it paid."
+      ],
+      [
+       "Form 1099-K",
+       "A form payment apps, online marketplaces, and card processors send to report payments you received for goods or services."
+      ],
+      [
+       "Business expense",
+       "A cost you pay to do your work, such as supplies or business miles. It lowers your profit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s1",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "text",
+   "title": "All income counts",
+   "body": [
+    {
+     "p": "If you are paid to drive for a rideshare app, deliver food, clean homes, braid hair, or care for children, and no one takes taxes out of your pay, you may be self-employed. That means you are in business for yourself, even if it is a part-time or side job. You must report what you earn, whether you are paid in cash, by check, through an app, or in tips."
+    },
+    {
+     "p": "One exception: if you work in one family's home and the family controls how you do the work, for example as a nanny or housekeeper, you may be that family's household employee instead. Ask a VITA volunteer if you are not sure."
+    },
+    {
+     "p": "You must report income even if you never get a tax form. Tax forms are only reports. Here is what you might get:"
+    },
+    {
+     "ul": [
+      "**Form 1099-NEC** from a business that paid you as a non-employee. For payments made in 2026, a business must send one if it pays you $2,000 or more. Before 2026, the amount was $600.",
+      "**Form 1099-K** from a payment app or online marketplace if you receive more than $20,000 for goods or services in more than 200 payments in a year. If you accept credit or debit cards directly, for example with a card reader, those card payments are reported on a 1099-K at any amount.",
+      "**No form at all** for many cash jobs. The income still counts."
+     ]
+    },
+    {
+     "p": "Money a friend sends to split a dinner bill, or a gift from family, is not business income. Keep personal payments apart from business payments so your records stay clear."
+    },
+    {
+     "p": "You must file a federal tax return if your net earnings from self-employment are $400 or more, even if your total income is low."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s2",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "text",
+   "title": "Two taxes: self-employment tax and income tax",
+   "body": [
+    {
+     "p": "An employee pays 7.65% of their pay for Social Security and Medicare, and the employer pays another 7.65%. When you work for yourself, you pay both parts. This is called self-employment tax. The rate is 15.3%: 12.4% for Social Security and 2.9% for Medicare."
+    },
+    {
+     "p": "The tax is not figured on all the money you take in. It is figured on 92.35% of your net profit. Net profit is your business income minus your business expenses. You can also deduct half of your self-employment tax when you figure your income tax."
+    },
+    {
+     "p": "You may also owe regular income tax. That depends on your total income, filing status, deductions, and credits. Many workers with low income owe little or no income tax after the standard deduction (the part of income that is not taxed, $16,100 for a single person in 2026), but they still owe self-employment tax. Refundable credits, such as the Earned Income Tax Credit, can lower what you owe or even give you a refund."
+    },
+    {
+     "p": "Filing with an ITIN? You still report your self-employment income. Whether you also owe self-employment tax can depend on your tax residency, which is not the same as your immigration status. Ask a VITA volunteer to check."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s3",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "example",
+   "title": "Marisol's delivery income in 2025",
+   "body": [
+    {
+     "p": "Marisol lives in Langley Park, Maryland, and delivers food with two apps. In 2025 the apps paid her $26,000, including tips. She kept a mileage log and her receipts."
+    },
+    {
+     "table": {
+      "caption": "Marisol's profit and self-employment tax for 2025",
+      "head": [
+       "Item",
+       "Amount"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Money from the apps, including tips",
+        "$26,000"
+       ],
+       [
+        "Business miles: 8,000 miles × 70 cents (the 2025 IRS rate)",
+        "−$5,600"
+       ],
+       [
+        "Business share of her phone bill",
+        "−$300"
+       ],
+       [
+        "Insulated delivery bags",
+        "−$100"
+       ],
+       [
+        "**Net profit**",
+        "**$20,000**"
+       ],
+       [
+        "Amount subject to self-employment tax: $20,000 × 92.35%",
+        "$18,470"
+       ],
+       [
+        "Self-employment tax: $18,470 × 15.3%",
+        "$2,826"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "formula": "$20,000 × 92.35% × 15.3% = about $2,826"
+    },
+    {
+     "p": "Marisol can deduct half of that, about $1,413, when she figures her income tax. Whether she owes income tax, and how much, depends on the rest of her tax return."
+    },
+    {
+     "p": "Her mileage log saved her money. Without it, her profit would be $5,600 higher, and her self-employment tax alone would be about $791 higher."
+    },
+    {
+     "p": "The IRS mileage rate changes. For 2026 driving, it is 72.5 cents a mile from January through June and 76 cents a mile from July 1 through December 31."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "gig-income-taxes-s4",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "text",
+   "title": "Set money aside every time you are paid",
+   "body": [
+    {
+     "p": "No one takes taxes out of gig pay. If you spend it all, the tax bill can be hard to pay. Protect yourself with a separate account."
+    },
+    {
+     "ol": [
+      "Open a second account just for taxes. Many banks and credit unions offer free or low-cost savings accounts. See our lesson on [opening an account](https://dollarscholars.org/resources/lessons/open-an-account/).",
+      "Each time you get paid, move a set percentage into it. Self-employment tax alone is about 14% of your profit. If you may also owe income tax, save more. The worksheet in IRS Form 1040-ES or a VITA volunteer can help you choose a percentage.",
+      "Do not use this money for bills. It is for your tax payments.",
+      "Use it to pay your estimated tax on time."
+     ]
+    },
+    {
+     "formula": "$385 weekly profit × 15% = about $58 a week, or about $3,000 a year"
+    },
+    {
+     "p": "For Marisol, saving 15% of her profit each week would cover her self-employment tax of about $2,826, with a little left over."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s5",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "text",
+   "title": "Pay during the year: estimated tax",
+   "body": [
+    {
+     "p": "The IRS expects you to pay tax during the year, as you earn income. If you expect to owe $1,000 or more when you file, you generally need to make estimated tax payments. If you pay too little or too late, you may owe a penalty, even if you get a refund later."
+    },
+    {
+     "table": {
+      "caption": "When estimated tax is due for 2026 income",
+      "head": [
+       "Income earned",
+       "Payment due"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "January 1 to March 31, 2026",
+        "April 15, 2026"
+       ],
+       [
+        "April 1 to May 31, 2026",
+        "June 15, 2026"
+       ],
+       [
+        "June 1 to August 31, 2026",
+        "September 15, 2026"
+       ],
+       [
+        "September 1 to December 31, 2026",
+        "January 15, 2027"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "If a due date falls on a weekend or holiday, you can pay on the next business day. To avoid a penalty, you generally must pay at least 90% of this year's tax, or 100% of last year's tax (110% if your income was over $150,000). DC, Maryland, and Virginia may also expect estimated payments for their income tax."
+    },
+    {
+     "p": "Ways to pay the IRS:"
+    },
+    {
+     "ul": [
+      "**[IRS Direct Pay](https://www.irs.gov/payments/direct-pay-with-bank-account):** free, from a checking or savings account, with no sign-in.",
+      "**Your IRS Online Account.**",
+      "**Debit or credit card:** the card processor charges a fee.",
+      "**Cash at a store,** through an IRS-approved retail partner: there is a small fee and a limit on each payment. Pay at least 7 days before the due date. You can also pay cash for free at an IRS Taxpayer Assistance Center, by appointment.",
+      "**A check by mail,** with a Form 1040-ES payment voucher."
+     ]
+    },
+    {
+     "p": "Have a W-2 job too? You can ask your employer to take out extra tax in Step 4(c) of your W-4 instead of making estimated payments. See [Read Your Pay Stub and Fill Out Your W-4](https://dollarscholars.org/resources/lessons/pay-stub-and-w4/)."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s6",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "text",
+   "title": "Records that save you money",
+   "body": [
+    {
+     "p": "Every business expense you can prove lowers your profit. Lower profit means less self-employment tax and less income tax. Use a paper notebook or an app. Either one works if you keep it up to date."
+    },
+    {
+     "ul": [
+      "Income: save app summaries and monthly statements. Write down cash and tips on the day you get them.",
+      "Mileage log: for each work trip, write the date, the miles, and the reason. Write down your car's odometer reading at the start and end of the year.",
+      "Receipts: supplies, tools, uniforms, cleaning products, and the business part of your phone bill.",
+      "Parking and tolls for work trips. You can deduct these even if you use the standard mileage rate.",
+      "One account for business money, so your bank statements support your records."
+     ]
+    },
+    {
+     "p": "Personal trips are not business miles. Traffic tickets and other fines are not deductible. If you want to use the standard mileage rate for a car you own, you must choose it in the first year you use that car for your business."
+    },
+    {
+     "p": "Keep your tax records for at least three years after you file."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s7",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "warning",
+   "title": "Common traps",
+   "body": [
+    {
+     "ul": [
+      "**Thinking cash does not count.** It does, even with no form.",
+      "**Spending the tax money.** Then the bill comes in April and there is no money to pay it.",
+      "**Not filing because you cannot pay.** File on time anyway. The penalty for filing late is usually much bigger than the penalty for paying late, and the IRS offers payment plans.",
+      "**Paying a company that promises to make your tax debt disappear.** Many charge large fees up front. For free help with a tax debt or an IRS letter, contact a Low Income Taxpayer Clinic."
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "gig-income-taxes-s8",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "tip",
+   "title": "Why reported income helps you later",
+   "body": [
+    {
+     "p": "Reporting all your income can feel expensive, but it helps your future. If you have a Social Security number, the self-employment tax you pay earns Social Security credits toward retirement and disability benefits. In 2026, each $1,890 of earnings earns one credit, up to four credits a year."
+    },
+    {
+     "p": "Your tax returns are also proof of income. Landlords, lenders, and some programs ask for them when you rent an apartment, apply for a loan, or [get ready for a mortgage](https://dollarscholars.org/resources/lessons/mortgage-ready/). Income you never reported cannot help you then."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "gig-income-taxes-takeaways",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "All income counts, including cash and tips, even if you never get a Form 1099.",
+      "Self-employment tax is 15.3% of 92.35% of your net profit, or about 14% of your profit.",
+      "Move part of every payment into a separate tax savings account.",
+      "If you expect to owe $1,000 or more, pay estimated tax during the year, usually four times.",
+      "Records of your miles and expenses lower your profit, and that lowers your tax."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-quiz",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/gig-income-taxes/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-links",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Taxes on Gig, Cash, and Self-Employment Income",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Gig Economy Tax Center",
+       "u": "https://www.irs.gov/businesses/gig-economy-tax-center",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "IRS information for app-based and other gig workers on reporting income, expenses, and paying taxes."
+      },
+      {
+       "t": "Estimated taxes",
+       "u": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Who must pay estimated tax, how to avoid a penalty, and the ways to pay."
+      },
+      {
+       "t": "Direct Pay with bank account",
+       "u": "https://www.irs.gov/payments/direct-pay-with-bank-account",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Pay estimated tax or a balance due to the IRS for free from a checking or savings account."
+      },
+      {
+       "t": "Centro de ayuda tributaria para la economía compartida",
+       "u": "https://www.irs.gov/es/businesses/gig-economy-tax-center",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "The IRS Gig Economy Tax Center in Spanish."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-intro",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "intro",
+   "title": "File for Free and Claim the Credits You Earned",
+   "body": [
+    {
+     "p": "Find free, trusted tax help, learn ITIN basics, claim the credits many working families miss, and avoid preparers and products that take part of your refund."
+    },
+    {
+     "p": "(About 18 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Find free, trusted tax help, such as IRS VITA sites and IRS Free File.",
+      "Explain how to get or renew an ITIN to file without a Social Security number.",
+      "Identify federal, DC, Maryland, and Virginia credits you may qualify for, and which ones require a Social Security number.",
+      "Recognize tax-prep traps and protect your return with an IRS Identity Protection PIN."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Money Smart for Adults does not have a module on filing taxes. This Dollar Scholars lesson walks you through tax season: what to bring, where to get free help in the DC area, which credits to ask about, and how to protect your refund."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-words",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "VITA",
+       "Volunteer Income Tax Assistance. An IRS program where trained volunteers prepare tax returns for free."
+      ],
+      [
+       "ITIN",
+       "Individual Taxpayer Identification Number. A 9-digit IRS number for people who need to file taxes but cannot get a Social Security number."
+      ],
+      [
+       "Refundable credit",
+       "A tax credit that can give you money back even if you owe no tax."
+      ],
+      [
+       "EITC",
+       "Earned Income Tax Credit. A refundable credit for workers with low to moderate income."
+      ],
+      [
+       "Adjusted gross income (AGI)",
+       "Your total income minus certain adjustments. It is on your federal tax return, and many credits and programs use it to decide who qualifies."
+      ],
+      [
+       "PTIN",
+       "Preparer Tax Identification Number. Every paid tax preparer must have one and put it on the returns they prepare."
+      ],
+      [
+       "IP PIN",
+       "Identity Protection PIN. A 6-digit number from the IRS that stops other people from filing a tax return with your SSN or ITIN."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s1",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "text",
+   "title": "Should you file? Often, yes",
+   "body": [
+    {
+     "p": "You must file a federal tax return if your income is above a certain amount for your filing status, or if you had $400 or more in net self-employment earnings. But many people should file even when they do not have to. Filing lets you:"
+    },
+    {
+     "ul": [
+      "Get back federal income tax that was taken out of your pay.",
+      "Claim refundable credits, such as the Earned Income Tax Credit (EITC), which can pay you even if you owe no tax.",
+      "Claim local credits, such as the DC property tax credit for renters.",
+      "Show proof of income for apartment and loan applications."
+     ]
+    },
+    {
+     "p": "Missed a year? You generally have three years from the original due date to file and claim a refund."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s2",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "text",
+   "title": "Free tax help you can trust",
+   "body": [
+    {
+     "p": "You do not need to pay to file. Start with these free options:"
+    },
+    {
+     "ul": [
+      "**VITA (Volunteer Income Tax Assistance):** IRS-certified volunteers prepare and e-file your return for free. VITA serves people who generally earn about $70,000 a year or less (the 2026 guideline, which changes each year), people with disabilities, and people who speak limited English. Most sites are open from about February to April. Use the [IRS site locator](https://freetaxassistance.for.irs.gov/s/sitelocator) (you can search by language) or call 800-906-9887.",
+      "**TCE and AARP Foundation Tax-Aide:** free help, with a focus on people 60 and older. Call 888-227-7669.",
+      "**IRS Free File:** free guided tax software. For the 2025 tax year (filed in 2026), it was for people with an adjusted gross income (AGI) of $89,000 or less. Each software company can add its own rules. Start at [IRS.gov](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free) so you get the free version.",
+      "**DC returns:** many DC residents can file their DC return for free online at MyTax.DC.gov."
+     ]
+    },
+    {
+     "p": "IRS Direct File, a free filing tool run by the IRS, was not offered in the 2026 filing season."
+    },
+    {
+     "p": "Local help: in DC, the Department of Insurance, Securities and Banking (DISB) lists free tax clinics each season at [disb.dc.gov/freetaxprepresources](https://disb.dc.gov/freetaxprepresources). In Maryland, the [CASH Campaign of Maryland](https://cashmd.org/) lists free tax help across the state, including sites for Montgomery County and Prince George's County residents. In Northern Virginia, use the IRS site locator."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s3",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "text",
+   "title": "What to bring",
+   "body": [
+    {
+     "ul": [
+      "Photo ID for you, and for your spouse if you file together",
+      "Social Security cards or ITIN letters for everyone on the return, and their birth dates",
+      "All Forms W-2, 1099-NEC, 1099-K, 1099-MISC, and 1099-G (for unemployment pay)",
+      "Records of self-employment income and expenses, including your mileage log",
+      "Form 1095-A, if you bought health insurance through a marketplace",
+      "Child care costs, with the provider's name, address, and tax ID number",
+      "For DC renters: the total rent you paid and your landlord's name, address, and phone number",
+      "Last year's tax return, if you have it",
+      "Any IP PIN letter from the IRS",
+      "Your bank routing and account numbers for direct deposit"
+     ]
+    },
+    {
+     "p": "Direct deposit is the fastest and safest way to get a refund. You can even split it into up to three accounts, such as your checking account and your [emergency fund](https://dollarscholars.org/resources/lessons/emergency-fund/). Since the end of September 2025, the IRS has generally stopped mailing paper refund checks. If you file without account information, the IRS holds your refund and mails you a letter (Notice CP53E). The letter asks you to add an account within 30 days. If you do not answer, the IRS mails a paper check, but only after about six weeks. Some prepaid cards and payment apps have routing and account numbers that can receive a refund. No account? See our lesson on [opening an account](https://dollarscholars.org/resources/lessons/open-an-account/) before you file, or ask your VITA volunteer about your options."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s4",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "text",
+   "title": "ITIN basics: filing without a Social Security number",
+   "body": [
+    {
+     "p": "If you must file taxes but cannot get a Social Security number (SSN), you can use an Individual Taxpayer Identification Number (ITIN). A spouse or dependent who cannot get an SSN may also need one."
+    },
+    {
+     "ol": [
+      "Fill out Form W-7.",
+      "Attach it to your federal tax return and send it by the filing deadline.",
+      "Include documents that prove who you are and your foreign status, such as a passport. Send originals or copies certified by the agency that issued them.",
+      "To avoid mailing original documents, you can go to a Certifying Acceptance Agent or an IRS Taxpayer Assistance Center (by appointment). Some VITA sites can also help with Form W-7.",
+      "Wait about 7 weeks for an answer, or 9 to 11 weeks during tax season (January 15 to April 30)."
+     ]
+    },
+    {
+     "p": "An ITIN expires if you do not use it on a federal tax return for three tax years in a row. It expires on December 31 of the third year. To renew, send a new Form W-7 and check the box for renewal. Filing with an expired ITIN can delay your refund and cause you to lose some credits."
+    },
+    {
+     "p": "An ITIN is for taxes only. It does not give you permission to work, change your immigration status, or qualify you for Social Security benefits or the federal EITC. If you have questions about how filing could affect an immigration matter, talk first to an immigration attorney or a DOJ-accredited representative, not a notario. See [scams that target newcomers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s5",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "text",
+   "title": "Credits many working families miss",
+   "body": [
+    {
+     "h3": "Federal credits and deductions"
+    },
+    {
+     "ul": [
+      "**Earned Income Tax Credit (EITC):** for the 2025 tax year, up to $649 with no children and up to $8,046 with three or more children. You, your spouse if you file together, and each child you claim must have a valid SSN. Workers with no children must be at least 25 and under 65.",
+      "**Child Tax Credit:** for the 2025 tax year, up to $2,200 for each child under 17, and up to $1,700 of it can be paid to you as a refund. You must have a valid SSN. On a joint return, only one spouse needs a valid SSN, and the other can use an ITIN. The child must have a valid SSN.",
+      "**Credit for other dependents:** up to $500 for some dependents who do not qualify for the Child Tax Credit.",
+      "**New deductions for tips and overtime (tax years 2025 to 2028):** up to $25,000 of qualified tips for workers in jobs that usually received tips, and the extra \"half\" of time-and-a-half overtime pay required by federal law, up to $12,500 ($25,000 on a joint return). Both require an SSN that is valid for work and are reduced for income over $150,000 ($300,000 joint). They lower federal income tax only, not Social Security and Medicare tax. DC does not allow them on DC returns for 2025, and Maryland and Virginia may not follow them either."
+     ]
+    },
+    {
+     "h3": "DC, Maryland, and Virginia credits"
+    },
+    {
+     "ul": [
+      "**DC EITC:** for the 2025 tax year, equal to 100% of your federal EITC. DC also allows certain ITIN filers who meet the other federal rules.",
+      "**DC Schedule H (Homeowner and Renter Property Tax Credit):** for the 2025 tax year, up to $1,425 for people who rented or owned their home and lived in DC all year, with federal adjusted gross income of $66,000 or less ($90,000 or less if age 70 or older). You cannot claim it if you lived in public or subsidized housing during the year. You can file it even if you do not have to file a DC tax return, and you may be able to claim it for past years you missed.",
+      "**Maryland EITC:** if you are married or have qualifying children, up to half of your federal EITC. With no children, up to the full federal amount. ITIN filers and workers aged 18 to 24 with no children may also qualify. Some filers also get a refundable Maryland credit or a local credit.",
+      "**Virginia EITC:** for the 2025 tax year, Virginia residents who got the federal EITC could claim a refundable credit equal to 20% of it."
+     ]
+    },
+    {
+     "p": "By law, if you claim the EITC or the refundable part of the Child Tax Credit, the IRS cannot send your refund before mid-February. It holds the whole refund, not just the credit."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s6",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "example",
+   "title": "How local credits add to a federal EITC",
+   "body": [
+    {
+     "p": "Imagine three workers who each get a $5,000 federal EITC for 2025. One lives in DC, one in Maryland with children, and one in Virginia. Here is about how much each could add from a local EITC. Real amounts depend on the whole return."
+    },
+    {
+     "table": {
+      "caption": "Local EITC added to a $5,000 federal EITC (2025 tax year)",
+      "head": [
+       "Where the worker lives",
+       "Local EITC"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "DC: 100% of the federal EITC",
+        "$5,000"
+       ],
+       [
+        "Maryland, with children: up to half of the federal EITC",
+        "up to $2,500"
+       ],
+       [
+        "Virginia, refundable credit: 20% of the federal EITC",
+        "$1,000"
+       ],
+       [
+        "Total for the DC worker: $5,000 federal + $5,000 DC",
+        "$10,000"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$5,000 federal EITC × 20% = $1,000 Virginia refundable EITC"
+    },
+    {
+     "p": "Patricia rents an apartment in Anacostia and earned $32,000 in 2025. Besides the federal and DC EITC, she should ask her VITA volunteer about Schedule H, which could add up to $1,425 more."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "file-for-free-s7",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "warning",
+   "title": "Tax preparation traps and fake IRS calls",
+   "body": [
+    {
+     "p": "Some preparers and products take a large share of refunds from working families. Warning signs:"
+    },
+    {
+     "ul": [
+      "A \"ghost\" preparer who will not sign your return. By law, a paid preparer must sign it and include their PTIN.",
+      "A fee based on a percentage of your refund, or a promise of a bigger refund than anyone else can get.",
+      "A request to send your refund to the preparer's bank account.",
+      "A request to sign a blank or unfinished return. Read the whole return before you sign. You are responsible for everything on it.",
+      "Refund \"advances\" and \"refund transfers\" sold as fast money. Many add fees or are tied to paid tax preparation. Ask for the total cost in writing.",
+      "A notario who offers tax help and immigration help together. Notarios cannot give immigration legal advice in the U.S."
+     ]
+    },
+    {
+     "p": "The IRS normally contacts you first by mail. A call or message that threatens arrest or demands payment now, especially by gift card, wire transfer, or payment app, is a scam. Report a bad preparer to the IRS with Form 14157. Learn more in [how to spot scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "file-for-free-s8",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "tip",
+   "title": "Protect your return with an IP PIN",
+   "body": [
+    {
+     "p": "Tax identity theft happens when someone files a return with your SSN or ITIN to steal a refund. An Identity Protection PIN (IP PIN) is a 6-digit number that stops this. Anyone with an SSN or ITIN who can verify their identity can get one."
+    },
+    {
+     "ol": [
+      "Sign in to your IRS Online Account and go to the IP PIN section. This is the fastest way.",
+      "If you cannot verify your identity online and your income is below $84,000 ($168,000 if married filing jointly), you can use Form 15227. You can also make an appointment at an IRS Taxpayer Assistance Center.",
+      "You get a new IP PIN every year. Give it only to the trusted preparer who files your return."
+     ]
+    },
+    {
+     "p": "The IRS will never call, email, or text you to ask for your IP PIN. Anyone who asks is a scammer. See also [protecting yourself from identity theft](https://dollarscholars.org/resources/lessons/identity-theft/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "file-for-free-takeaways",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Filing can bring you money even when you are not required to file, because refundable credits can be paid to you.",
+      "VITA sites prepare returns for free for people with low to moderate income, including people who speak limited English.",
+      "DC, Maryland, and Virginia each have an earned income credit in addition to the federal EITC.",
+      "A paid preparer must sign your return and include a PTIN. Do not use anyone who will not.",
+      "An IRS Identity Protection PIN stops other people from filing a return with your SSN or ITIN."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-quiz",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/file-for-free/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-links",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "File for Free and Claim the Credits You Earned",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Free tax return preparation for qualifying taxpayers (VITA and TCE)",
+       "u": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Who can get free tax help from IRS volunteers, what to bring, and how to find a site near you."
+      },
+      {
+       "t": "Individual Taxpayer Identification Number (ITIN)",
+       "u": "https://www.irs.gov/tin/itin/individual-taxpayer-identification-number-itin",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Who needs an ITIN, how to apply or renew with Form W-7, and what an ITIN does not do."
+      },
+      {
+       "t": "Free tax prep resources",
+       "u": "https://disb.dc.gov/freetaxprepresources",
+       "org": "DC Department of Insurance, Securities and Banking (DISB)",
+       "d": "A list of free tax clinics in DC each filing season, with locations, dates, and languages."
+      },
+      {
+       "t": "Preparación gratuita de la declaración de impuestos para contribuyentes calificados",
+       "u": "https://www.irs.gov/es/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "The IRS page on free VITA and TCE tax help, in Spanish."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

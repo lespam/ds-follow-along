@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dollar Scholars Follow-Along</title>
+<meta name="theme-color" content="#1d5e48">
+<meta name="robots" content="noindex">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<a class="skip" href="#main" data-i18n="skip">Saltar al contenido</a>
+<header class="top">
+  <h1 data-i18n="appName">Dollar Scholars Follow-Along</h1>
+  <label class="lang"><span data-i18n="language">Idioma</span>
+    <select id="lang"><option value="es">Español</option><option value="en">English</option></select>
+  </label>
+</header>
+<div id="update" class="banner" role="status" hidden>
+  <span data-i18n="updateText">Hay una versión nueva.</span>
+  <button id="update-btn" type="button" data-i18n="updateBtn">Actualizar</button>
+</div>
+<main id="main" tabindex="-1"></main>
+<footer><small id="ver"></small></footer>
+<script src="js/app.js" type="module"></script>
+</body>
+</html>

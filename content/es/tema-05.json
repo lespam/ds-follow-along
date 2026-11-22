@@ -1,0 +1,1087 @@
+{
+ "id": "tema-05",
+ "title": "Tema 5: Pidiendo prestado sabiamente y evitando préstamos depredadores",
+ "summary": "Consulta el precio real de un préstamo, reconoce productos de día de pago, título, renta con opción a compra y otros productos de alto costo, encuentra opciones más seguras y obtén un trato justo cuando financies un auto.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "high-cost-loans",
+   "title": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "summary": "Convierte las comisiones del préstamo en una APR, ve cuánto cuestan realmente las ofertas de día de pago, título, renta con opción a compra y 'compra ahora, paga después', aprende las reglas en DC, Maryland y Virginia, y encuentra opciones más baratas.",
+   "meta": "(Aproximadamente 18 min, 6 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "car-loans",
+   "title": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "summary": "Presupuesta el costo total de un auto, obtén una preaprobación para un préstamo, reconoce trampas de concesionarios como préstamos largos, adiciones y financiamiento yo-yo, y piensa bien antes de avalar.",
+   "meta": "(Aproximadamente 18 min, 5 preguntas de cuestionario)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "high-cost-loans-intro",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "intro",
+   "title": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "body": [
+    {
+     "p": "Convierte las comisiones del préstamo en una APR, ve cuánto cuestan realmente las ofertas de día de pago, título, renta con opción a compra y 'compra ahora, paga después', aprende las reglas en DC, Maryland y Virginia, y encuentra opciones más baratas."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Convierte una comisión de préstamo en una APR para que puedas comparar ofertas.",
+      "Conoce productos de día de pago, título de auto, pagos en línea, renta con opción a compra y pagos a tiempo extra, y cuánto cuestan realmente.",
+      "Explica cómo DC, Maryland y Virginia limitan los costos de los préstamos, y revisa la licencia del prestamista.",
+      "Elige una opción de menor costo, como un plan de pagos o un préstamo pequeño de una cooperativa de crédito."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre cómo comparar préstamos con la divulgación de Truth in Lending y por qué la deuda de alto costo es riesgosa. Esta lección añade las matemáticas para convertir cualquier comisión en una APR, las reglas de préstamos en DC, Maryland y Virginia, y una lista de opciones más económicas para probar primero."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-words",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "APR (tasa anual porcentual) (APR (annual percentage rate))",
+       "El costo anual de un préstamo, incluyendo intereses y la mayoría de las comisiones, se muestra como porcentaje. Te permite comparar préstamos de diferentes tamaños y duraciones."
+      ],
+      [
+       "Cargo financiero (Finance charge)",
+       "El costo total en dólares del préstamo, incluyendo intereses y comisiones."
+      ],
+      [
+       "Vuelco (Rollover)",
+       "Pagar una nueva comisión en un préstamo a corto plazo para mover la fecha de vencimiento después. Pagas una comisión cada vez y aún debes el monto completo."
+      ],
+      [
+       "Préstamo con título de auto (Car title loan)",
+       "Un préstamo corto y de alto costo donde le das al prestamista el título de tu auto. Si no pagas, el prestamista puede quedarse con el auto."
+      ],
+      [
+       "Renta con opción a compra (Rent-to-own)",
+       "Una oferta donde rentas un artículo por semana o mes y lo tienes solo después del último pago. El total suele ser mucho mayor que el precio de la tienda."
+      ],
+      [
+       "Préstamo Alternativo de Día de Pago (PAL) (Payday Alternative Loan (PAL))",
+       "Un pequeño préstamo de una cooperativa de crédito federal, con límites en la tasa de interés y comisiones, hecho para reemplazar los préstamos de día de pago."
+      ],
+      [
+       "Compra ahora, paga después (BNPL) (Buy now, pay later (BNPL))",
+       "Un plan que divide el costo de algo que compras en varios pagos, a menudo cuatro pagos en seis semanas."
+      ],
+      [
+       "Aplicación de adelanto de pago (Pay advance app)",
+       "Una app para teléfono que te da una pequeña cantidad de dinero antes del día de pago, y luego la recupera de tu cuenta bancaria cuando te pagan. Muchos cobran comisiones o piden propinas."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s1",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "text",
+   "title": "How to see the real price of a loan",
+   "body": [
+    {
+     "p": "Lenders like to talk about the fee or the payment: \"Only $15!\" or \"Just $50 a week!\" But the fee alone does not tell you if a loan is cheap. You need two numbers. The **APR** (annual percentage rate) is the yearly cost of a loan, including interest and most fees, shown as a percent. It lets you compare a two-week loan and a one-year loan in the same way. The **total of payments** tells you how many dollars you will pay in all."
+    },
+    {
+     "h3": "Turn a fee into an APR"
+    },
+    {
+     "ol": [
+      "Divide the fee by the amount you borrow.",
+      "Multiply by 365, then divide by the number of days in the loan.",
+      "Multiply by 100 to get a percent."
+     ]
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 days × 100 = about 391% APR"
+    },
+    {
+     "p": "A fee of $15 for each $100 is common for payday loans, the Consumer Financial Protection Bureau (CFPB) says. That APR is more than 15 times the APR of a credit card that charges 25%."
+    },
+    {
+     "h3": "If you have borrowed in another country"
+    },
+    {
+     "p": "Other countries have their own name for the yearly cost of a loan. If you know one of these, it is close to the APR. In some countries, the rate on the loan papers leaves out fees. Then it looks lower than the APR for the same loan, so add the fees before you compare."
+    },
+    {
+     "table": {
+      "caption": "What the yearly cost of a loan is called in other countries",
+      "head": [
+       "Country",
+       "Name on loan papers",
+       "Includes fees?"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Brazil",
+        "CET (Custo Efetivo Total)",
+        "Yes"
+       ],
+       [
+        "Canada",
+        "APR; in French, TAC (taux annuel du coût d'emprunt)",
+        "Most fees"
+       ],
+       [
+        "China",
+        "年化利率",
+        "Yes"
+       ],
+       [
+        "Colombia",
+        "E.A. (tasa efectiva anual)",
+        "Yes"
+       ],
+       [
+        "Dominican Republic",
+        "TAE (Tasa Anual Efectiva)",
+        "Yes"
+       ],
+       [
+        "El Salvador",
+        "tasa de interés efectiva",
+        "Yes"
+       ],
+       [
+        "France",
+        "TAEG (taux annuel effectif global)",
+        "Yes"
+       ],
+       [
+        "Germany",
+        "effektiver Jahreszins",
+        "Yes"
+       ],
+       [
+        "India",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Indonesia",
+        "suku bunga efektif",
+        "No, fees are listed separately"
+       ],
+       [
+        "Israel",
+        "שיעור העלות הממשית של האשראי",
+        "Yes"
+       ],
+       [
+        "Italy",
+        "TAEG (tasso annuo effettivo globale)",
+        "Yes"
+       ],
+       [
+        "Japan",
+        "実質年率",
+        "Most fees"
+       ],
+       [
+        "Kenya",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Mexico",
+        "CAT (Costo Anual Total)",
+        "Yes"
+       ],
+       [
+        "Nigeria",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Paraguay",
+        "CTC (Costo Total de Crédito)",
+        "Yes"
+       ],
+       [
+        "Peru",
+        "TCEA (Tasa de Costo Efectivo Anual)",
+        "Yes"
+       ],
+       [
+        "Philippines",
+        "EIR",
+        "Yes"
+       ],
+       [
+        "Poland",
+        "RRSO (rzeczywista roczna stopa oprocentowania)",
+        "Yes"
+       ],
+       [
+        "Portugal",
+        "TAEG (taxa anual de encargos efetiva global)",
+        "Yes"
+       ],
+       [
+        "Russia",
+        "ПСК (полная стоимость кредита)",
+        "Yes"
+       ],
+       [
+        "Saudi Arabia",
+        "APR (معدل النسبة السنوي)",
+        "Yes"
+       ],
+       [
+        "Spain",
+        "TAE (tasa anual equivalente)",
+        "Yes"
+       ],
+       [
+        "Sri Lanka",
+        "AER",
+        "No, fees are listed separately"
+       ],
+       [
+        "Turkey",
+        "efektif yıllık faiz oranı",
+        "Yes"
+       ],
+       [
+        "Ukraine",
+        "РРПС (реальна річна процентна ставка)",
+        "Yes"
+       ],
+       [
+        "United Kingdom",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Uruguay",
+        "tasa de interés implícita",
+        "Yes"
+       ],
+       [
+        "Vietnam",
+        "lãi suất quy đổi theo năm",
+        "No, fees are listed separately"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "We checked these names against each country's lending rules in November 2026. Rules change, so ask the lender what its rate includes. In the US, the APR also leaves out a few fees, such as some closing costs on a home loan."
+    },
+    {
+     "h3": "High-cost products to know"
+    },
+    {
+     "ul": [
+      "**Payday loan:** a small loan due on your next payday. Fees often run from $10 to $30 for each $100, depending on state law.",
+      "**Car title loan:** a short loan, often 15 or 30 days, where you give the lender your car title. The title is the official paper that shows who owns the car, so the lender can take the car if you do not pay. The Federal Trade Commission (FTC) says monthly fees can be as high as 25%, about 300% APR. If you cannot pay, you can lose the car.",
+      "**Online installment loan:** small monthly payments, but the APR can be 100% or more.",
+      "**Rent-to-own, buy now, pay later, and pay advance apps:** see the section below."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s2",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "example",
+   "title": "Cinco formas de cubrir una reparación de auto de $400",
+   "body": [
+    {
+     "p": "Teresa vive en Takoma Park. Su auto necesita una reparación de $400 para poder ir al trabajo. Esto es lo que le costarían cinco opciones. Los precios de préstamos de día de pago y de título de auto a continuación están muy por encima de los límites legales de Maryland, pero algunos prestamistas en línea aún ofrecen préstamos como estos."
+    },
+    {
+     "table": {
+      "caption": "El costo de pedir prestado $400 de cinco maneras diferentes",
+      "head": [
+       "Elección",
+       "Costo para pedir prestado",
+       "Total que paga"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Plan de pagos con el taller: dos pagos de $200",
+        "$0",
+        "$400"
+       ],
+       [
+        "PAL de la cooperativa de crédito: 3 meses con 28% de interés, más una cuota de solicitud de $20",
+        "$39",
+        "$439"
+       ],
+       [
+        "Préstamo de día de pago pagado en 2 semanas: $15 por cada $100",
+        "$60",
+        "$460"
+       ],
+       [
+        "Préstamo de día de pago renovado 3 veces, pagado después de 8 semanas",
+        "$240",
+        "$640"
+       ],
+       [
+        "Préstamo con título de auto al 25% mensual, pagado después de 3 meses",
+        "$300",
+        "$700"
+       ],
+       [
+        "La opción más cara menos la opción más barata",
+        "$300",
+        "$300"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Muchos prestatarios de día de pago no pueden pagar los $460 completos dos semanas después. Así que pagan otra tarifa de $60 para mover la fecha de vencimiento. Esto se llama **rollover**. Si Teresa renueva el préstamo tres veces y lo paga en la semana 8, paga $240 en comisiones en total, más de la mitad del costo de la reparación. El préstamo de la cooperativa de crédito dura más, pero cuesta mucho menos. Siempre compara el costo en dólares."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "high-cost-loans-s3",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "example",
+   "title": "Lee la caja de la Verdad en los Préstamos",
+   "body": [
+    {
+     "p": "La ley federal exige que el prestamista te muestre los números clave antes de firmar. A menudo están en casillas en la parte superior del contrato. Hector vive en Hyattsville, Maryland. Un prestamista en línea le ofrece $1,000 hoy, y pagará $135 al mes durante 12 meses. La caja muestra:"
+    },
+    {
+     "dl": [
+      [
+       "Monto financiado: $1,000",
+       "El dinero que Hector realmente recibe."
+      ],
+      [
+       "Cargo de financiamiento: $620",
+       "El costo en dólares de pedir prestado: todos los intereses y comisiones."
+      ],
+      [
+       "Total de pagos: $1,620",
+       "Lo que paga si hace los 12 pagos: 12 × $135."
+      ],
+      [
+       "APR: aproximadamente 100%",
+       "El costo anual como porcentaje."
+      ]
+     ]
+    },
+    {
+     "table": {
+      "caption": "Pedir prestado $1,000 por 12 meses a tres TAE",
+      "head": [
+       "APR",
+       "Pago mensual",
+       "Total de pagos"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "24%",
+        "$94.56",
+        "$1,134.72"
+       ],
+       [
+        "33%",
+        "$98.97",
+        "$1,187.64"
+       ],
+       [
+        "Aproximadamente 100% (la oferta en línea)",
+        "$135.00",
+        "$1,620.00"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "p": "Bajo la ley de préstamos al consumidor de Maryland, la tasa de interés más alta que un prestamista autorizado puede cobrar en un préstamo de $1,000 es del 33% anual. La oferta de Hector cuesta aproximadamente $430 más que eso. Antes de firmar, debe verificar si el prestamista tiene una licencia de Maryland."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "high-cost-loans-s4",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "text",
+   "title": "Reglas de préstamo en DC, Maryland y Virginia",
+   "body": [
+    {
+     "p": "Cada lugar en nuestra área limita lo que los prestamistas pueden cobrar en la mayoría de los préstamos al consumo. Algunos productos, como las tarjetas de crédito, siguen otras reglas."
+    },
+    {
+     "ul": [
+      "**DC:** La ley generalmente limita los intereses al 24% anual, y los préstamos de día de pago son ilegales en DC, según la Oficina del Fiscal General de DC. El Fiscal General ha demandado a prestamistas en línea que cobraron más a los residentes de DC.",
+      "**Maryland:** Para préstamos de $2,000 o menos, los prestamistas autorizados pueden cobrar hasta 2.75% al mes sobre los primeros $1,000. Eso es 33% al año. La mayoría de los prestamistas de consumo deben tener una licencia de Maryland.",
+      "**Virginia:** Desde que la Ley de Equidad en los Préstamos entró en vigor el 1 de enero de 2021, los préstamos a corto plazo pueden llegar hasta $2,500 y usualmente duran de 4 a 24 meses. El prestamista puede cobrar hasta un 36% de interés más una cuota mensual del 8% del préstamo o $25, lo que sea menor. Solo puedes tener uno de estos préstamos a la vez, y los prestamistas en línea también necesitan una licencia de Virginia."
+     ]
+    },
+    {
+     "p": "Algunos prestamistas en línea ignoran estos límites. Pueden decir que siguen las leyes de otro estado, una tribu o un banco asociado. En Virginia, un préstamo a corto plazo otorgado sin licencia es nulo, lo que significa que el prestamista no tiene derecho a cobrarlo. Si ya tienes un préstamo así, habla con asistencia legal antes de dejar de pagar."
+    },
+    {
+     "h3": "Revisa la licencia de un prestamista antes de pedir prestado"
+    },
+    {
+     "ol": [
+      "Encuentra el nombre legal completo del prestamista en el contrato de préstamo o al final de su sitio web.",
+      "Maryland: busca en [NMLS Consumer](https://www.nmlsconsumeraccess.org/) Access o llama a la Oficina de Regulación Financiera al [410-230-6077](tel:+14102306077).",
+      "Virginia: usa la página [de Verificar una Licencia](https://www.scc.virginia.gov/consumers/banks-consumer-lenders/regulated-financial-institutions/) de la Comisión Estatal de Corporaciones, o llama [al 804-371-9657](tel:+18043719657).",
+      "DC: pregunta al [Departamento de Seguros, Valores y Banca (DISB)](https://disb.dc.gov/) al [202-727-8000](tel:+12027278000), o llama al equipo de Respuesta al Consumidor e Inquilino del Fiscal General [al 202-442-9828](tel:+12024429828).",
+      "Si no encuentras licencia, no tomes prestado. Reporta la oferta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s5",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "text",
+   "title": "Renta con opción a compra, planes de pago extra y aplicaciones de adelanto de pago",
+   "body": [
+    {
+     "p": "**Renta con opción a compra.** Ana ve un televisor de $600 en una tienda de renta con opción a compra por \"$20 a la semana.\" Para tenerlo, debe pagar por 78 semanas."
+    },
+    {
+     "formula": "$20 × 78 semanas = $1,560, que es 2.6 veces el precio de $600 en tienda"
+    },
+    {
+     "p": "La renta con opción a compra está configurada como una renta, no como un préstamo, así que muchas veces no verás una APR. Si atrasas un pago, la tienda puede recuperar el artículo y puedes perder lo que pagaste. Si Ana ahorra $20 a la semana, tendrá los $600 en 30 semanas."
+    },
+    {
+     "p": "**Compra ahora, paga después (BNPL).** Estos planes dividen una compra en varios pagos, a menudo cuatro en seis semanas. Un plan puede ser gratuito si pagas a tiempo. El riesgo es usar varios planes al mismo tiempo. Los pagos realizados en los mismos días pueden vaciar tu cuenta y causar cargos por sobregiro. Algunas compañías BNPL reportan pagos a las agencias de crédito, por lo que un pago atrasado puede afectar tu crédito. Las reglas de devolución y disputa pueden ser diferentes a las de una tarjeta de crédito, así que lee primero los términos."
+    },
+    {
+     "p": "**Aplicaciones de adelanto de pago.** Mei, en Columbia Heights, puede recibir $100 de una app antes del día de pago. Es gratis si espera unos días, o $4.99 para recibirlo ahora. Lo paga de su cheque de pago una semana después."
+    },
+    {
+     "formula": "$4.99 ÷ $100 × 365 ÷ 7 días × 100 = aproximadamente 260% de APR"
+    },
+    {
+     "p": "Un \"propina\" también es un costo de pedir prestado, aunque la app lo considere opcional. En 2024, el Fiscal General de DC demandó a una aplicación de adelanto de pago. La demanda dijo que, con sus tarifas de entrega rápida, los adelantos instantáneos de la app cuestan más del 300% de APR en promedio. Usar una app cada día de pago también hace que cada nómina sea menor, por lo que podrías necesitar otro adelanto."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s6",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "warning",
+   "title": "Señales de advertencia y tus derechos",
+   "body": [
+    {
+     "ul": [
+      "El prestamista dice \"sin verificación de crédito\" y no pregunta si puedes pagar los pagos.",
+      "Pide tu usuario y contraseña de banca en línea.",
+      "Quiere una tarifa por \"seguro\" o \"procesamiento\" antes de que recibas el dinero. La FTC advierte que esto es una señal de estafa. Ve [cómo detectar una estafa](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/).",
+      "Te impulsa a renovar en lugar de pagar el préstamo.",
+      "Amenaza con arresto o deportación, o te apresura a firmar."
+     ]
+    },
+    {
+     "p": "No puedes ser arrestado solo por no pagar un préstamo de día de pago, y un prestamista necesita una orden judicial para quitarte dinero de tu salario. Si un prestamista te demanda, no ignores los documentos judiciales. Busca ayuda legal."
+    },
+    {
+     "p": "Para evitar que un prestamista retire dinero de tu cuenta, dile por escrito que estás retirando tu permiso. Luego avísale a tu banco al menos tres días hábiles antes del siguiente pago. El banco puede cobrar una comisión. Aún debes el préstamo, así que pide un plan de pagos. Si llama un cobrador de deudas, consulta [tus derechos con los cobradores](https://dollarscholars.org/es-mx/resources/lessons/debt-collectors/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "high-cost-loans-s7",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "text",
+   "title": "Opciones más seguras para probar primero",
+   "body": [
+    {
+     "ul": [
+      "**Pide un plan de pagos.** Muchas compañías de servicios, hospitales, arrendadores y talleres de reparación dividirán la factura si pides antes de la fecha límite.",
+      "**Pregunta a tu empleador.** Algunos empleadores ofrecen un adelanto de pago sin costo alguno.",
+      "**Pide a una cooperativa de crédito un préstamo pequeño.** Muchos te permiten unirte si vives o trabajas en cierta zona.",
+      "**Usa tu fondo de emergencia** y luego rellenarlo. Consulta [Iniciar un fondo de emergencia](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/).",
+      "**Llama al 211** en DC, Maryland o Virginia para obtener ayuda gratuita para encontrar ayuda local con renta, recibos de servicios y comida."
+     ]
+    },
+    {
+     "h3": "Préstamos alternativos de día de pago para cooperativas de crédito"
+    },
+    {
+     "p": "Según la Administración Nacional de Cooperativas de Crédito (NCUA), en 2026 las cooperativas de crédito federales pueden ofrecer Préstamos Alternativos de Día de Pago (PALs) que:"
+    },
+    {
+     "ul": [
+      "Cobra una tasa de interés de hasta 28%, más una cuota de solicitud de no más de $20.",
+      "Presta de $200 a $1,000 por 1 a 6 meses a personas que hayan sido miembros por al menos un mes, o hasta $2,000 por 1 a 12 meses sin periodo de espera requerido.",
+      "No se puede entregar. Una persona no puede conseguir más de tres en seis meses."
+     ]
+    },
+    {
+     "p": "No todas las cooperativas de crédito ofrecen PALs, así que pregunta. Algunas cooperativas aceptan un ITIN (Número de Identificación de Contribuyente Individual) en lugar de un número de Seguro Social."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s8",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "tip",
+   "title": "Ayuda gratuita cerca de ti",
+   "body": [
+    {
+     "p": "¿Ya tienes un préstamo de alto costo que no puedes pagar? Puede haber ayuda legal gratuita disponible en Legal Aid DC, Maryland Legal Aid y Legal Services of Northern Virginia. Un consejero de crédito para organizaciones sin fines de lucro puede ayudarte a hacer un plan para varias deudas. Consulta [Haz un plan de pago de deudas](https://dollarscholars.org/es-mx/resources/lessons/debt-payoff-plan/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "high-cost-loans-takeaways",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Compara los préstamos por APR y total de pagos, no por la comisión o el tamaño del pago.",
+      "Una comisión de $15 en un préstamo de $100 por dos semanas es aproximadamente 391% de APR.",
+      "DC y Maryland establecen límites bajos para la mayoría de las tasas de interés de los préstamos, y Virginia exige que los prestamistas a corto plazo, incluidos los prestamistas en línea, tengan licencia.",
+      "Las ofertas de renta con opción a compra, planes de pago extra y aplicaciones de adelanto de pago pueden costar mucho más de lo que parecen.",
+      "Antes de un préstamo de alto costo, prueba con un plan de pagos, un préstamo pequeño de una cooperativa de crédito o ayuda local gratuita."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-quiz",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/high-cost-loans/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-links",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "El precio real de un préstamo: trampas de alto costo y opciones más seguras",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Qué saber sobre los préstamos de día de pago y con título de propiedad de un carro",
+       "u": "https://consumidor.ftc.gov/articulos/que-saber-sobre-los-prestamos-de-dia-de-pago-y-con-titulo-de-propiedad-de-un-carro",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "El mismo consejo de la FTC sobre préstamos de día de pago y títulos de auto, en español."
+      },
+      {
+       "t": "Qué debes saber sobre préstamos de día de pago y títulos de auto",
+       "u": "https://consumer.ftc.gov/articles/what-know-about-payday-and-car-title-loans",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo funcionan los préstamos de día de pago y los préstamos con título de auto, cuánto cuestan y otras opciones para probar primero."
+      },
+      {
+       "t": "Préstamos alternativos de día de pago",
+       "u": "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+       "org": "National Credit Union Administration (MyCreditUnion.gov)",
+       "d": "Las reglas para las PALs de las cooperativas de crédito, incluyendo los montos, términos y límites de comisiones."
+      },
+      {
+       "t": "Préstamos de día de pago",
+       "u": "https://www.consumerfinance.gov/consumer-tools/payday-loans/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Tus derechos con prestamistas de día de pago, incluyendo cómo evitar que tomen dinero de tu cuenta bancaria."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-intro",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "intro",
+   "title": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "body": [
+    {
+     "p": "Presupuesta el costo total de un auto, obtén una preaprobación para un préstamo, reconoce trampas de concesionarios como préstamos largos, adiciones y financiamiento yo-yo, y piensa bien antes de avalar."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Estima el costo mensual completo de un auto, incluyendo seguro, gasolina, estacionamiento, impuestos y reparaciones.",
+      "Obtén una preaprobación para un préstamo y compara ofertas por APR y costo total.",
+      "Reconoce trampas para los concesionarios, como plazos largos de préstamos, complementos, financiamiento yo-yo y lotes de compra aquí-paga-aquí.",
+      "Decide si avalas un préstamo de auto para otra persona."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre autos como activos, cuánto auto puedes pagar y los riesgos de ser co-firmante. Esta lección añade costos en el área de DC, una comparación de préstamos trabajados, una lista de verificación para la visita al concesionario y qué hacer si un concesionario intenta cambiar el trato después de que manejas a casa."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-words",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Preaprobación (Pre-approval)",
+       "Un prestamista ofrece, antes de comparar, prestarte hasta una cantidad fija a una tasa fija si cumples con sus condiciones."
+      ],
+      [
+       "Plazo del préstamo (Loan term)",
+       "¿Cuánto tiempo tienes para pagar un préstamo, como 48 o 72 meses?"
+      ],
+      [
+       "Complemento (Add-on)",
+       "Un producto extra vendido con un auto o un préstamo, como un contrato de servicio o un seguro GAP. Los complementos son opcionales."
+      ],
+      [
+       "Patrimonio negativo (Negative equity)",
+       "Cuando debes más en tu préstamo de auto de lo que vale el auto."
+      ],
+      [
+       "Financiamiento yo-yo (Yo-yo financing)",
+       "Cuando un concesionario te deja llevar un auto a casa, luego dice que el préstamo no fue aprobado y te pide firmar un trato nuevo y más costoso. También llamado entrega puntual."
+      ],
+      [
+       "Cofirmante (Cosigner)",
+       "Una persona que firma un préstamo con el prestatario y promete pagar la deuda si el prestatario no lo hace."
+      ],
+      [
+       "Distribuidor de compra aquí, paga aquí (Buy-here-pay-here dealer)",
+       "Un concesionario de autos que te presta el dinero para el auto en sí, en lugar de conseguir un préstamo en un banco o cooperativa de crédito."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s1",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "text",
+   "title": "Cuenta el costo total, no solo el pago",
+   "body": [
+    {
+     "p": "El pago del préstamo es solo una parte de lo que cuesta un auto. Antes de comprar, suma todo lo que pagarás cada mes. Luego revisa que el total encaje en tu [plan de gastos](https://dollarscholars.org/es-mx/resources/lessons/spending-plan/) después de renta, comida y ahorros."
+    },
+    {
+     "ul": [
+      "**Seguro.** DC, Maryland y Virginia requieren seguro de auto. Desde el 1 de julio de 2024, Virginia ya no permite que los conductores paguen una tarifa en lugar de comprar seguro. Obtén cotizaciones de seguro antes de elegir un auto. El precio puede variar mucho según el modelo del auto y el código postal.",
+      "**Impuestos y cuotas.** Pagas un impuesto al titular el auto. En 2026, el impuesto de titularidad en Maryland es del 6.5% del precio de la mayoría de los vehículos. En el norte de Virginia, condados y ciudades como el condado de Fairfax también cobran un impuesto al auto cada año.",
+      "**Gasolina o carga, peajes y estacionamiento.** Piensa en tu traslado, un permiso de estacionamiento o cochera, y los carriles de peaje.",
+      "**Mantenimiento y reparaciones.** Cambios de aceite, llantas, frenos e inspecciones. Los autos antiguos suelen necesitar más reparaciones."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s2",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "example",
+   "title": "Mismo auto, dos condiciones de préstamo",
+   "body": [
+    {
+     "p": "Dev vive en Silver Spring. Quiere pedir prestados $20,000 para un auto. Su cooperativa de crédito le ofrece 9% de APR. Ve qué hace el plazo del préstamo."
+    },
+    {
+     "table": {
+      "caption": "Pidiendo prestado $20,000 con 9% de APR",
+      "head": [
+       "Plazo del préstamo",
+       "Pago mensual",
+       "Total pagado",
+       "Interés"
+      ],
+      "num": [
+       1,
+       2,
+       3
+      ],
+      "rows": [
+       [
+        "48 meses",
+        "$497.70",
+        "$23,890",
+        "$3,890"
+       ],
+       [
+        "60 meses",
+        "$415.17",
+        "$24,910",
+        "$4,910"
+       ],
+       [
+        "72 meses",
+        "$360.51",
+        "$25,957",
+        "$5,957"
+       ],
+       [
+        "Diferencia: 72 meses menos 48 meses",
+        "$137.19 menos",
+        "$2,067 más",
+        "$2,067 más"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$25,957 − $23,890 = $2,067 más por el préstamo de 72 meses"
+    },
+    {
+     "p": "El préstamo de 72 meses reduce el pago en aproximadamente $137 al mes. Pero Dev paga unos $2,067 más en intereses. Un préstamo largo también significa que puede deber más de lo que vale el auto por más tiempo. Esto se **llama capital negativo**. Si el auto está dañado o necesita venderlo, aún podría deber dinero por un auto que ya no tiene."
+    },
+    {
+     "table": {
+      "caption": "El costo mensual completo del auto de Dev con el préstamo de 48 meses (números de ejemplo)",
+      "head": [
+       "Costo",
+       "Cada mes"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Pago del préstamo",
+        "$498"
+       ],
+       [
+        "Seguros",
+        "$180"
+       ],
+       [
+        "Gas",
+        "$140"
+       ],
+       [
+        "Estacionamiento y peajes",
+        "$40"
+       ],
+       [
+        "Mantenimiento y reparaciones",
+        "$80"
+       ],
+       [
+        "Inscripción y otras cuotas anuales, ahorradas mensualmente",
+        "$15"
+       ],
+       [
+        "Costo mensual completo",
+        "$953"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "p": "El costo real es casi el doble del pago del préstamo. Usa tus propias cotizaciones, porque tus números serán diferentes."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "car-loans-s3",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "text",
+   "title": "Obtén una preaprobación antes de comprar",
+   "body": [
+    {
+     "p": "Con una **preaprobación**, un banco o cooperativa de crédito revisa tu solicitud y te dice cuánto te prestará y a qué tasa, antes de que elijas un auto. Así conoces tu presupuesto y puedes saber si la oferta de préstamo del concesionario es mejor o peor."
+    },
+    {
+     "ol": [
+      "Revisa tus reportes de crédito gratis y disputa cualquier error. Consulta [leer tu reporte de crédito](https://dollarscholars.org/es-mx/resources/lessons/read-your-credit-report/).",
+      "Solicita en dos o tres prestamistas, como tu banco y una cooperativa de crédito. El CFPB dice que estas revisiones de crédito deben tener entre 14 y 45 días de diferencia, para que cuenten como una sola consulta.",
+      "Compara las ofertas por APR, plazo del préstamo y total de pagos, no solo el pago mensual.",
+      "Decide el precio total más alto que pagarás y anótalo.",
+      "Lleva tu mejor oferta escrita al concesionario y pídele que ofrezca una tarifa más baja."
+     ]
+    },
+    {
+     "p": "Cuando un concesionario arregla tu préstamo, la tasa suele ser la tasa del prestamista más intereses extra que le pagan al concesionario, explica el CFPB. Puedes preguntar si hubo otras ofertas con tasas más bajas."
+    },
+    {
+     "p": "¿No tienes número de seguro social? Pregunta a bancos y cooperativas de crédito si aceptan un ITIN para préstamos de autos. Algunos sí. Ten cuidado si un concesionario te dice que nadie más te prestará. Revisa tú mismo primero."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s4",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "text",
+   "title": "En el concesionario: una decisión a la vez",
+   "body": [
+    {
+     "p": "Algunos concesionarios mezclan el precio del auto, tu intercambio y el préstamo, y solo hablan del pago mensual. Esto dificulta ver cuánto estás pagando. Acuerda cada parte por separado, en este orden:"
+    },
+    {
+     "ol": [
+      "El precio del auto, incluyendo todas las comisiones del concesionario.",
+      "El valor de tu recompra, si tienes uno.",
+      "El préstamo: APR, plazo y total de pagos."
+     ]
+    },
+    {
+     "p": "Puedes negociar el precio, el valor de entrega, la TAE, los complementos y las comisiones del distribuidor como las tarifas de documentos. No puedes negociar impuestos, títulos y tarifas de registro establecidas por el gobierno."
+    },
+    {
+     "h3": "Lista de verificación para visitas al concesionario"
+    },
+    {
+     "ul": [
+      "Tengo mi preaprobación y mi precio más alto por escrito.",
+      "Para un auto usado, leí la calcomanía de la Guía del Comprador en la ventana. Dice si el auto se vende \"tal cual\", sin garantía de concesionario, o con garantía.",
+      "Un mecánico en quien confío inspeccionó el auto antes de que aceptara comprarlo.",
+      "Dije que no a los complementos que no quiero, como un contrato de servicio, grabado en ventanas o seguro GAP, que paga lo que aún debes más allá del valor del auto si el auto es robado o destruido.",
+      "Si debo más de lo que vale en mi auto viejo, revisé que esa cantidad no esté oculta en el nuevo préstamo.",
+      "Cada espacio en blanco en el contrato se llena, y los números coinciden con lo que acordamos.",
+      "El préstamo es definitivo, y ya he firmado copias de todo antes de irme."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s5",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "warning",
+   "title": "Financiamiento yo-yo y lotes de compra aquí-paga-aquí",
+   "body": [
+    {
+     "p": "**Financiamiento yo-yo.** Fatima compra un auto en Woodbridge y lo lleva a casa el mismo día. Una semana después el concesionario llama: \"Tu préstamo no fue aprobado. Regresa y firma un nuevo contrato con una tasa más alta.\" Esto se llama financiamiento yo-yo, o entrega puntual."
+    },
+    {
+     "p": "No tienes que aceptar un nuevo trato. Si no lo quieres, puedes devolver el auto y el concesionario debería devolverte el enganche, dice la CFPB. Dependiendo de tu contrato, incluso podrías tener derecho a quedarte con el auto en las primeras condiciones. Pide también que te devuelvan el auto de intercambio. La mejor protección es asegurarte de que el préstamo sea definitivo antes de llevarte el auto a casa."
+    },
+    {
+     "quote": "Compré el auto en [fecha] y firmé un contrato con un APR de [tasa]. No voy a firmar un nuevo contrato hoy. Por favor, mándame, por escrito, la razón por la que dices que el préstamo no fue aprobado. Si la venta se cancela, quiero que me devuelvan el enganche de [monto] y mi pago de entrega. Estoy pidiendo consejo a la oficina de protección al consumidor del Fiscal General."
+    },
+    {
+     "p": "**Lotes de compra aquí, paga aquí.** Estos concesionarios te prestan el dinero ellos mismos, a menudo a personas con crédito bajo o nulo. El APR puede ser muy alto, y los autos suelen ser más antiguos. Algunos prestamistas ponen un dispositivo en el auto que lo rastrea o evita que arranque si atrasas un pago. En muchos estados, un prestamista puede recuperar el auto tan pronto como incumplas, por ejemplo, por no pagar un pago, sin previo aviso. Después de vender el auto, aún podrías deber la diferencia. Compara primero un préstamo de cooperativa de crédito."
+    },
+    {
+     "p": "¿Necesitas ayuda? En DC, llama al equipo de Respuesta al Consumidor e Inquilino del Fiscal General al [202-442-9828](tel:+12024429828). En Maryland o Virginia, contacta a la oficina de protección al consumidor del Fiscal General de tu estado, a Maryland Legal Aid o a los Servicios Legales del Norte de Virginia."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "car-loans-s6",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "text",
+   "title": "Antes de avalar un préstamo para auto",
+   "body": [
+    {
+     "p": "En muchas familias, se le pide a un familiar con buen crédito que avale como aval. Un **aval** no es solo una referencia. Prometes pagar el préstamo si el prestatario no lo hace."
+    },
+    {
+     "ul": [
+      "Puede que tengas que pagar el monto total, además de cargos por retraso y costos de cobranza.",
+      "En muchos estados, el prestamista puede cobrar de ti sin antes intentar cobrar al prestatario.",
+      "El préstamo aparece en tu reporte de crédito. Los pagos tardíos pueden dañar tu crédito y la deuda puede dificultar que tomes prestado.",
+      "El prestamista debe entregarte un documento llamado Aviso al Firmante que explique estos riesgos. Léelo."
+     ]
+    },
+    {
+     "h3": "Lista de verificación de co-firmas"
+    },
+    {
+     "ul": [
+      "Podría pagar todo el préstamo yo mismo si fuera necesario, sin afectar el presupuesto de mi propia familia.",
+      "He visto el presupuesto del prestatario y el pago encaja.",
+      "Tengo copias del contrato, la declaración de Veracidad en los Préstamos (la caja con los números clave de préstamo: el monto financiado, el cargo financiero, el total de los pagos y la APR), y el Aviso al Avalante.",
+      "El prestamista aceptó avisarme por escrito si se pierde un pago.",
+      "Revisaré mis reportes de crédito con frecuencia."
+     ]
+    },
+    {
+     "p": "Puedes decir que no. Aún puedes ayudar de otras formas, como ayudar a la persona a encontrar un préstamo para una cooperativa de crédito o un auto más barato."
+    },
+    {
+     "quote": "Me importas y quiero que compres un auto. Pero no puedo avalar. Si algo sale mal, tendría que pagar todo el préstamo, y mi familia depende de mi crédito. Puedo ayudarte a buscar un préstamo para una cooperativa de crédito o un auto más barato."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s7",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "tip",
+   "title": "Una nueva regla fiscal para algunos préstamos para autos nuevos",
+   "body": [
+    {
+     "p": "Para los años fiscales de 2025 a 2028, el IRS dice que algunos compradores pueden deducir hasta $10,000 al año de intereses en un préstamo para un **auto nuevo** para uso personal. El ensamblaje final del auto debe realizarse en Estados Unidos, y el préstamo debe haber comenzado después del 31 de diciembre de 2024. Los autos usados y los contratos de arrendamiento no califican. La deducción disminuye para ingresos mayores a $100,000 ($200,000 para parejas casadas que declaran juntas). Una deducción reduce tu ingreso gravable, no el pago del préstamo, así que no es razón para pedir más prestado. Un sitio de impuestos gratuito de VITA puede ayudarte a verificar si aplica para ti. Consulta [Presentar tus impuestos gratis](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "car-loans-takeaways",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Presupuesta el costo total del auto, no solo el pago mensual.",
+      "Un préstamo más largo reduce el pago pero aumenta el costo total: con $20,000 a 9% de APR, un préstamo de 72 meses cuesta aproximadamente $2,067 más que uno de 48 meses.",
+      "Obtén una preaprobación antes de comprar y acorda el precio, la entrega y el préstamo uno por uno.",
+      "Los complementos son opcionales y nunca debes firmar un contrato con espacios en blanco.",
+      "Si eres co-firmante, podrías tener que pagar la deuda total si el prestatario no lo hace."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-quiz",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/car-loans/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "car-loans-links",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Comprar un auto: Consigue un préstamo justo y evita las trampas de los concesionarios",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Cómo comprar un carro usado a un concesionario",
+       "u": "https://consumidor.ftc.gov/articulos/como-comprar-un-carro-usado-un-concesionario",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "El mismo consejo de la FTC sobre comprar un auto usado en un concesionario, en español."
+      },
+      {
+       "t": "Préstamos para autos",
+       "u": "https://www.consumerfinance.gov/consumer-tools/auto-loans/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Ayuda paso a paso para buscar un préstamo para auto, comparar ofertas y revisar el contrato antes de firmar."
+      },
+      {
+       "t": "Comprar un auto usado en un concesionario",
+       "u": "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo leer la calcomanía de la Guía para Compradores, obtener una inspección y evitar adiciones costosas y préstamos largos."
+      },
+      {
+       "t": "Preguntas frecuentes sobre co-firmar un préstamo",
+       "u": "https://consumer.ftc.gov/articles/cosigning-loan-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Lo que prometes cuando avalas y las preguntas que debes hacer antes de aceptar."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

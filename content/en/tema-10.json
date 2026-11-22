@@ -1,0 +1,852 @@
+{
+ "id": "tema-10",
+ "title": "Topic 10: Preparing for and Recovering from Financial Shocks",
+ "summary": "What to do in the first 30 days after income stops, and a family emergency plan for disasters, illness, and sudden changes.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "income-shock",
+   "title": "When Income Stops: Your First 30 Days",
+   "summary": "A 30-day plan for a layoff, cut hours, or a government shutdown: decide which bills come first, apply for help, and avoid costly traps.",
+   "meta": "(About 15 min, 6 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "emergency-plan",
+   "title": "Your Family's Financial Emergency Plan",
+   "summary": "Build a document kit you can take in minutes, check that your insurance fits your risks, and choose who can manage your money and care for your children if you suddenly cannot.",
+   "meta": "(About 15 min, 6 quiz questions)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "income-shock-intro",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "intro",
+   "title": "When Income Stops: Your First 30 Days",
+   "body": [
+    {
+     "p": "A 30-day plan for a layoff, cut hours, or a government shutdown: decide which bills come first, apply for help, and avoid costly traps."
+    },
+    {
+     "p": "(About 15 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Decide which bills to pay first when income drops, using a worked example.",
+      "Apply for unemployment insurance and other help in DC, Maryland, and Virginia.",
+      "Call landlords, lenders, and utilities to ask for a payment plan before a bill goes unpaid.",
+      "Avoid high-cost loans and scams that target people in a money crisis."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers how to rank bills by what happens if you do not pay them. This lesson turns that skill into a 30-day action plan for a layoff, cut hours, or a federal shutdown, with places in DC, Maryland, and Virginia to apply for help."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-words",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Unemployment insurance (UI)",
+       "Weekly payments from a state, for a limited time, to workers who lose their job or hours through no fault of their own."
+      ],
+      [
+       "Furlough",
+       "A period when an employer, such as the federal government during a shutdown, tells workers to stop working and does not pay them."
+      ],
+      [
+       "Hardship plan",
+       "A short-term agreement with a lender to lower or pause your payments because your income dropped."
+      ],
+      [
+       "Forbearance",
+       "Permission from a lender to pause or lower loan payments for a set time. You usually still owe the paused amount later."
+      ],
+      [
+       "Payment arrangement",
+       "A plan with your electric, gas, or water company to pay a past-due bill in smaller parts over time."
+      ],
+      [
+       "Public charge",
+       "A test in immigration law that looks at whether a person is likely to depend on government help. It mainly affects people applying for a green card."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s1",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "text",
+   "title": "Your 30-day plan at a glance",
+   "body": [
+    {
+     "p": "Income can stop without warning. A layoff, cut hours, an injury, or a federal shutdown can cut a paycheck in half. The fall 2025 federal shutdown lasted 43 days, the longest in U.S. history, and left many DC-area workers without pay."
+    },
+    {
+     "p": "Yaw and Abena Mensah live in Hyattsville, Maryland. Yaw was laid off from his delivery job. Abena still works part-time as a home health aide. Their take-home pay dropped from $5,000 to $2,500 a month. This is the plan they followed."
+    },
+    {
+     "ol": [
+      "**Days 1 to 7:** File for unemployment. Check your final paycheck. List every bill, its amount, and its due date.",
+      "**Days 5 to 14:** Rank your bills. Before each due date, call every lender and utility you cannot pay in full.",
+      "**Days 7 to 21:** Apply for food, energy, and rent help. Replace lost health coverage.",
+      "**Days 21 to 30:** Make a smaller spending plan for next month. Keep asking for your unemployment payment each week."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s2",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "text",
+   "title": "Week 1: File for unemployment and check your last paycheck",
+   "body": [
+    {
+     "p": "**Unemployment insurance (UI)** replaces part of your lost pay for a limited time if you lost your job or hours through no fault of your own. Apply in the state where you worked, even if you live in another state. Apply in your first week. It is free."
+    },
+    {
+     "ul": [
+      "**DC:** apply online through the [DC Department of Employment Services (DOES)](https://unemployment.dc.gov/page/apply-benefits). For help, call [(202) 724-7000](tel:+12027247000).",
+      "**Maryland:** apply online in the BEACON system or by phone. Start at [the Maryland Division of Unemployment Insurance](https://labor.maryland.gov/unemployment-insurance/).",
+      "**Virginia:** apply with the [Virginia Employment Commission](https://www.vec.virginia.gov/) or call [866-832-2363](tel:+18668322363)."
+     ]
+    },
+    {
+     "p": "Each week, you must ask for payment, report any money you earned, and usually look for work. If your hours were cut but your job did not end, you may get a smaller, partial payment."
+    },
+    {
+     "p": "To get UI, you must have been allowed to work in the U.S. when you earned the wages, and you must be allowed to work now. People with an ITIN (a tax number from the IRS) but no work permit usually cannot get UI. If you were paid in cash or treated as a contractor, apply anyway and bring proof of your pay. The state decides."
+    },
+    {
+     "p": "**Final paycheck.** In DC, if your employer ends your job, your final pay is due by the next working day. In Maryland and Virginia, it is due by your next regular payday."
+    },
+    {
+     "p": "**Health coverage.** If you lose health insurance from your job, you have 60 days to sign up for a new plan through DC Health Link, Maryland Health Connection, or Virginia's Insurance Marketplace."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s3",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "example",
+   "title": "Which bill comes first? The Mensahs' worksheet",
+   "body": [
+    {
+     "p": "Abena's $2,500 had to cover the family until Yaw's unemployment payments started. They listed every bill and ranked each one by what would happen if it went unpaid: losing their home, heat and lights, food, or the car Abena needs for work."
+    },
+    {
+     "table": {
+      "caption": "The Mensahs' bills this month, in order",
+      "head": [
+       "Bill (in order)",
+       "Amount",
+       "Total so far"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "1. Rent",
+        "$1,600",
+        "$1,600"
+       ],
+       [
+        "2. Electric and gas",
+        "$170",
+        "$1,770"
+       ],
+       [
+        "3. Food (a shorter list, plus a food pantry)",
+        "$400",
+        "$2,170"
+       ],
+       [
+        "4. Car insurance",
+        "$150",
+        "$2,320"
+       ],
+       [
+        "5. Phone and internet (cheaper plan)",
+        "$60",
+        "$2,380"
+       ],
+       [
+        "Left for other debts",
+        "",
+        "$120"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "$2,500 income − $2,380 for needs = $120 left"
+    },
+    {
+     "p": "Three bills did not fit: the car loan ($350), a credit card minimum ($75), and a store card minimum ($40). The car loan came first of the three, because the lender can take the car. So Abena called the lender before the due date and asked to move one payment to the end of the loan. The lender agreed. The $120 then covered both card minimums ($115). They also canceled streaming and a gym membership ($45)."
+    },
+    {
+     "p": "Notice two things. Rent and utilities came before the credit cards, even though card interest is high. And the most important step was a phone call, made early."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "income-shock-s4",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "text",
+   "title": "Call before you miss a payment",
+   "body": [
+    {
+     "p": "Lenders and utilities can do more for you before you miss a payment than after. Most lenders do not report a late payment to the credit bureaus until it is 30 days past due, but late fees can start sooner."
+    },
+    {
+     "ul": [
+      "**Car loan or personal loan:** ask to move a payment to the end of the loan (a deferral), or to lower your payments for a few months.",
+      "**Credit cards:** ask for a hardship plan with a lower interest rate or payment.",
+      "**Mortgage:** ask your servicer (the company you send your payments to) about forbearance, and talk to a free HUD-approved housing counselor.",
+      "**Federal student loans:** ask your servicer about an unemployment deferment or a payment based on your income. Never pay a company for this help.",
+      "**Utilities:** ask for a payment arrangement. In DC, the electric company cannot shut off home service on days when the forecast is 95°F or higher or 32°F or lower. This only delays a shutoff. You still owe the bill.",
+      "**Rent:** talk to your landlord before the rent is due. Read our [renters' rights lesson](https://dollarscholars.org/resources/lessons/renters-rights/) to learn your rights if you cannot pay."
+     ]
+    },
+    {
+     "quote": "Hello, my name is [your name], and my account number is [number]. I lost my job on [date], and I cannot make my full payment due on [date]. What hardship options do you have, such as moving a payment or lowering it for a few months? Please send me the agreement in writing. May I have your name and a reference number for this call?"
+    },
+    {
+     "p": "Write down the date, the person's name, and what they agreed to."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s5",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "text",
+   "title": "Help to apply for in DC, Maryland, and Virginia",
+   "body": [
+    {
+     "p": "Dial **211** in DC, Maryland, or Virginia to find local help with food, rent, and utilities."
+    },
+    {
+     "ul": [
+      "**Food:** apply for SNAP (food benefits): in DC through the Department of Human Services, in Maryland through the MarylandBenefits website, and in Virginia through CommonHelp. For free food now, call the Capital Area Food Bank's Hunger Lifeline at [(202) 644-9807](tel:+12026449807) ([en español](https://www.capitalareafoodbank.org/ayuda/)).",
+      "**Energy bills:** in DC, apply to the Department of Energy and Environment (DOEE) for LIHEAP (the federal Low Income Home Energy Assistance Program) and the Utility Discount Program. In Maryland, apply to the Office of Home Energy Programs. In Virginia, apply for Energy Assistance through CommonHelp. Some programs take applications only at certain times of the year.",
+      "**Rent:** DC's Emergency Rental Assistance Program (ERAP) helps some renters with very low incomes pay past-due rent. It takes applications only at certain times; check erap.dhs.dc.gov. In Maryland and Virginia, call 211."
+     ]
+    },
+    {
+     "p": "**SNAP rules changed in 2025.** A federal law made them stricter. More adults ages 18 to 64 who are able to work and do not have a child under 14 in their household must now work or join a work program about 20 hours a week (80 hours a month) to get SNAP for more than 3 months in 3 years. People who get unemployment benefits, or who have applied and are following the unemployment rules, are usually excused. Refugees and asylees can no longer get SNAP because of that status alone. U.S. citizen children can still get SNAP even if a parent cannot."
+    },
+    {
+     "p": "**A note for immigrants.** A new federal “public charge” rule took effect on September 18, 2026. It lets immigration officers look at more kinds of public benefits, used on or after that date, when some people apply for a green card. Before you apply for benefits, get free advice from an immigration attorney or a representative at a nonprofit accredited by the U.S. Department of Justice. Do not go to a notario. In the U.S., a notary is not a lawyer. See our [lesson on scams that target newcomers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s6",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "text",
+   "title": "Government shutdowns: federal employees and contractors",
+   "body": [
+    {
+     "p": "Many DC-area families depend on federal paychecks. A shutdown affects federal employees and contractor employees in different ways."
+    },
+    {
+     "table": {
+      "caption": "What to expect during a federal shutdown",
+      "head": [
+       "Question",
+       "Federal employee",
+       "Contractor employee"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Back pay after it ends?",
+        "Yes, by a 2019 law.",
+        "Not guaranteed."
+       ],
+       [
+        "Unemployment during it?",
+        "If furloughed, you can apply for UCFE (unemployment for federal workers) in the state where you work. If you must work without pay, you usually cannot.",
+        "You can apply for regular state unemployment if your hours stop or are cut."
+       ],
+       [
+        "After back pay arrives?",
+        "You will most likely have to repay the unemployment benefits.",
+        "Does not apply."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Back pay helps only after a shutdown ends. Until then, rank your bills and call lenders early. In past shutdowns, some banks and credit unions offered payment breaks or low-cost loans to federal workers, so ask yours. If you work for a contractor, ask whether you can use paid leave."
+    }
+   ]
+  },
+  {
+   "id": "income-shock-s7",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "warning",
+   "title": "Crisis traps: costly loans and fake help",
+   "body": [
+    {
+     "p": "When money is short, offers of “fast cash” appear everywhere. A typical payday loan charges $15 for every $100 you borrow for two weeks. That equals an annual percentage rate (APR) of about 391%."
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 days × 100 = about 391% APR"
+    },
+    {
+     "p": "Maryland allows at most 33% a year in interest on small loans, and DC also has strict limits, so loans like this are likely illegal there, even online. Virginia allows some short-term loans. It caps interest at 36% a year, but lenders can also charge a monthly fee of up to $25. Check a lender's license on NMLS Consumer Access (nmlsconsumeraccess.org). A car title loan puts the car you need for work at risk."
+    },
+    {
+     "p": "Also watch out for:"
+    },
+    {
+     "ul": [
+      "Anyone who charges a fee to file your unemployment claim. Filing is free on the state's own website.",
+      "Calls or texts saying you won a “relief grant” but must pay a fee first.",
+      "Work-from-home jobs that send you a check and ask you to send part of the money back. The check will bounce, and you will owe the bank."
+     ]
+    },
+    {
+     "p": "Learn more in our lessons on [high-cost loans](https://dollarscholars.org/resources/lessons/high-cost-loans/) and [spotting scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "income-shock-s8",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "tip",
+   "title": "Plan for taxes on unemployment",
+   "body": [
+    {
+     "p": "Unemployment benefits count as income on your federal tax return. To avoid a tax bill later, you can ask your state to hold back federal tax from each payment. You can usually choose this when you apply, or later by giving your state IRS Form W-4V. Free tax help is available at VITA sites; see our [lesson on filing for free](https://dollarscholars.org/resources/lessons/file-for-free/). When a regular paycheck returns, rebuild your savings with our [emergency fund lesson](https://dollarscholars.org/resources/lessons/emergency-fund/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "income-shock-takeaways",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "File for unemployment in your first week, in the state where you worked. Filing is free.",
+      "Pay for housing, utilities, food, and the transportation you need for work first.",
+      "Call lenders and utilities before the due date. Ask for a hardship plan and get it in writing.",
+      "Federal employees get back pay after a shutdown by law. Contractor employees are not guaranteed it, but they can apply for unemployment.",
+      "Loans that cost hundreds of percent a year make a crisis worse. Look for free help first."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "income-shock-quiz",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/income-shock/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "income-shock-links",
+   "type": "lesson",
+   "lesson": "income-shock",
+   "lessonTitle": "When Income Stops: Your First 30 Days",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Apply for Unemployment Benefits in DC",
+       "u": "https://unemployment.dc.gov/page/apply-benefits",
+       "org": "DC Department of Employment Services (DOES)",
+       "d": "Step-by-step instructions for filing a DC unemployment claim online and what you need to apply."
+      },
+      {
+       "t": "Maryland Division of Unemployment Insurance",
+       "u": "https://labor.maryland.gov/unemployment-insurance/",
+       "org": "Maryland Department of Labor",
+       "d": "How to file a Maryland claim in BEACON, certify each week, and report your job search. Has help in Spanish."
+      },
+      {
+       "t": "Virginia Employment Commission",
+       "u": "https://www.vec.virginia.gov/",
+       "org": "Virginia Employment Commission (VEC)",
+       "d": "File a Virginia unemployment claim online, file weekly claims, and find the phone number for help."
+      },
+      {
+       "t": "Find Food Assistance in the DC Region",
+       "u": "https://www.capitalareafoodbank.org/find-food-assistance/",
+       "org": "Capital Area Food Bank (nonprofit)",
+       "d": "Find free food near you in DC and nearby Maryland and Virginia, or call the Hunger Lifeline for help."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-intro",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "intro",
+   "title": "Your Family's Financial Emergency Plan",
+   "body": [
+    {
+     "p": "Build a document kit you can take in minutes, check that your insurance fits your risks, and choose who can manage your money and care for your children if you suddenly cannot."
+    },
+    {
+     "p": "(About 15 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Put together a paper and digital kit of key financial and identity documents.",
+      "Check that your insurance matches your risks, including renter's and flood insurance.",
+      "Choose who can manage your money and care for your children if you suddenly cannot.",
+      "Recognize scams that follow disasters and emergencies."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class shows the Emergency Financial First Aid Kit and covers how insurance and good records protect what you own. This lesson turns that into a fill-in checklist, an insurance check-up for renters, and a plan for who can act for you."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-words",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Power of attorney",
+       "A legal document that lets a person you choose, called your agent, handle money or other matters for you. A durable one keeps working if you become unable to make decisions."
+      ],
+      [
+       "Payable-on-death (POD) beneficiary",
+       "A person you name on a bank account to receive the money in it after you die."
+      ],
+      [
+       "Standby guardian",
+       "An adult a parent names to care for their children if something happens to the parent, such as a serious illness, death, or detention by immigration authorities."
+      ],
+      [
+       "Renter's insurance",
+       "A policy that pays to replace your belongings after events such as fire or theft, and protects you if someone is hurt in your home."
+      ],
+      [
+       "Deductible",
+       "The amount you pay yourself on an insurance claim before the insurance company pays the rest."
+      ],
+      [
+       "Flood insurance",
+       "A separate policy that pays for flood damage. Most renter's and homeowner's policies do not cover floods."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s1",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "text",
+   "title": "Why every family needs a plan",
+   "body": [
+    {
+     "p": "In a fire, a flood, or a sudden hospital stay, you may have only minutes to leave home. Later, you will need to prove who you are, what you owned, and what you owe. Families who can find their papers and their insurance policy recover faster."
+    },
+    {
+     "p": "Fatima rents a basement apartment in Northeast DC with her two children. After a summer storm, water came under the door during the night. Her passport, her children's birth certificates, and her lease were in a box on the floor. She had no copies. This lesson helps you prepare before something like that happens to you."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s2",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "text",
+   "title": "Build your document kit",
+   "body": [
+    {
+     "p": "Your kit is a folder or pouch you can take with you in a few minutes. Keep **copies** of most papers in it. Keep the originals of hard-to-replace papers in a safe place you can reach, such as a locked fireproof box."
+    },
+    {
+     "h3": "Identity and immigration"
+    },
+    {
+     "ul": [
+      "A photo ID for each adult, such as a driver's license or passport",
+      "Social Security cards, or ITIN letters from the IRS",
+      "Birth and marriage certificates",
+      "Immigration papers, such as a green card, work permit (EAD), visa, I-94 record, and USCIS approval notices"
+     ]
+    },
+    {
+     "h3": "Money and home"
+    },
+    {
+     "ul": [
+      "A list of every bank, credit card, and loan account, with the company's name, the account number, and the company's phone number. Never write PINs or passwords on it.",
+      "Your most recent tax returns, with your W-2 and 1099 forms",
+      "Your lease or deed, and your renter's or homeowner's insurance policy",
+      "Car title, registration, and auto insurance card",
+      "Photos or a video of what you own, room by room"
+     ]
+    },
+    {
+     "h3": "Health and family"
+    },
+    {
+     "ul": [
+      "Health insurance cards and a list of medicines and doctors",
+      "Phone numbers for family, your employer, your landlord, and your children's school",
+      "Copies of any power of attorney or guardianship papers",
+      "Some cash in small bills and a spare house key"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s3",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "text",
+   "title": "Store copies safely, on paper and online",
+   "body": [
+    {
+     "ul": [
+      "**At home:** use a fireproof and waterproof pouch or box. Keep it in one place near the door, where every adult knows to find it.",
+      "**At a bank:** a safe deposit box protects papers you rarely need. You can reach it only when the bank is open, and its contents are not covered by FDIC insurance.",
+      "**Online:** scan or photograph each document. Save the files in a cloud account protected by a strong password and multifactor authentication, such as a code sent to your phone. An encrypted USB flash drive that needs a password also works.",
+      "**With a trusted person:** give a sealed copy of your account list and emergency contacts to a relative or friend, if possible one who lives in another area."
+     ]
+    },
+    {
+     "p": "Do not post pictures of your documents on social media, and do not send them to anyone who contacts you first. Check your kit once a year, and after big changes such as a new job, a move, or a new baby."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s4",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "example",
+   "title": "Insurance check-up: what renter's insurance costs and what it replaces",
+   "body": [
+    {
+     "p": "Many renters think the landlord's insurance covers their things. It does not. The landlord's policy covers the building. Only your own renter's policy covers your belongings. It usually also pays for a hotel if your home is unsafe to live in, and it protects you if a guest is hurt in your home. The Maryland Insurance Administration says a typical renter's policy costs about $15 to $30 a month."
+    },
+    {
+     "p": "Daniel and Grace rent in Alexandria, Virginia. A kitchen fire in the unit above damaged their apartment."
+    },
+    {
+     "table": {
+      "caption": "Daniel and Grace's loss after a kitchen fire upstairs",
+      "head": [
+       "What they lost",
+       "Cost to replace"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Furniture and beds",
+        "$3,000"
+       ],
+       [
+        "Clothes and shoes",
+        "$1,500"
+       ],
+       [
+        "Laptop, phones, and TV",
+        "$1,800"
+       ],
+       [
+        "Kitchen items",
+        "$500"
+       ],
+       [
+        "Hotel for 5 nights while the unit is repaired",
+        "$900"
+       ],
+       [
+        "Total loss",
+        "$7,700"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "With insurance: $7,700 loss − $500 deductible = $7,200 paid by the insurance company"
+    },
+    {
+     "formula": "Cost of the policy: $20 a month × 12 months = $240 a year"
+    },
+    {
+     "p": "Without a policy, they would pay the full $7,700 themselves. When you buy a policy, ask whether it pays “replacement cost” (the price of new items) or “actual cash value” (the value of used items, which is less). Some landlords charge a “damage waiver” fee. It is not renter's insurance, and it usually does not cover your belongings."
+    },
+    {
+     "h3": "Other policies to check"
+    },
+    {
+     "dl": [
+      [
+       "Flood insurance",
+       "Covers flood damage, which renter's policies usually do not. Renters can buy a policy for belongings from the National Flood Insurance Program."
+      ],
+      [
+       "Auto insurance",
+       "Liability coverage pays for harm you cause to others. To fix your own car after a crash, flood, or theft, you need collision and comprehensive coverage."
+      ],
+      [
+       "Health insurance",
+       "If you lose coverage from your job, you have 60 days to sign up for a new plan."
+      ],
+      [
+       "Life insurance",
+       "Pays your family if you die. Coverage through work may end when the job ends."
+      ]
+     ]
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "emergency-plan-s5",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "text",
+   "title": "Choose who can act for you",
+   "body": [
+    {
+     "p": "If you are suddenly sick, hurt, detained, or far away, someone may need to pay your rent and care for your children. Plan this now, while you can choose."
+    },
+    {
+     "ul": [
+      "**Payable-on-death (POD) beneficiary:** name one on each bank account. The bank pays that person after you die. A POD beneficiary cannot use the account while you are alive.",
+      "**Power of attorney:** a durable financial power of attorney lets your agent pay bills and deal with your bank for you, even if you cannot make decisions. Your agent must use your money only for you.",
+      "**Joint account:** adding someone as a joint owner is quick, but that person gets the right to take all the money. The money may also be at risk from that person's debts. If you only need help paying bills, a power of attorney is usually safer.",
+      "**Standby guardian:** DC, Maryland, and Virginia each let a parent name an adult to care for their children if the parent dies, becomes too sick to care for them, or is detained or deported for immigration reasons. What counts, and the forms, are different in each place, and some steps need a court's approval."
+     ]
+    },
+    {
+     "p": "Also write a short caregiver plan: who picks up the children from school, who has a key, and where your kit is. Tell those people about the plan. For free help with these papers, contact Legal Aid DC, the DC Bar Pro Bono Center, Maryland Legal Aid, or Legal Services of Northern Virginia. The CFPB's free [guides for managing someone else's money](https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/) explain an agent's duties."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s6",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "text",
+   "title": "Local risks: floods, heat, and power outages",
+   "body": [
+    {
+     "p": "Emergencies in the DC area include flash floods, extreme heat, winter storms, and power outages. Each one can close banks and stop card readers and ATMs."
+    },
+    {
+     "ul": [
+      "Keep some cash at home in small bills, in a safe place.",
+      "Set up online bill pay or automatic payments for rent and utilities, so they get paid even if you cannot get your mail.",
+      "Sign up for free emergency alerts. In DC, use AlertDC. Counties in Maryland and Virginia have their own alert systems.",
+      "Keep your phone charged, and write key phone numbers on paper too.",
+      "If you live on a ground floor on low ground or near a stream, ask about flood insurance.",
+      "If you live in a basement unit, keep papers and valuables up high, off the floor."
+     ]
+    },
+    {
+     "p": "**Floods need their own policy.** Most renter's and homeowner's policies do not cover flood damage. The National Flood Insurance Program (NFIP) sells renter policies that cover belongings up to $100,000. These policies cover very few things kept in a basement, so ask exactly what is covered. Coverage usually starts 30 days after you buy it, so do not wait for a storm warning. Most floods never lead to a federal disaster declaration, so do not count on FEMA to replace what you lose."
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-s7",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "warning",
+   "title": "Scams that follow disasters",
+   "body": [
+    {
+     "p": "After a disaster, scammers arrive quickly. Watch for these warning signs."
+    },
+    {
+     "ul": [
+      "**Fake FEMA workers.** FEMA never charges a fee to apply for help. Apply yourself at DisasterAssistance.gov or by calling the FEMA Helpline at [1-800-621-3362](tel:+18006213362).",
+      "**Fake charities.** Give to groups you already know. Never give by gift card, wire transfer, or cryptocurrency.",
+      "**Unlicensed contractors.** Be careful with anyone who knocks on your door offering repairs, wants cash before starting, or asks you to sign over your insurance check. Get a written contract, and check the license first: in DC with the Department of Licensing and Consumer Protection, in Maryland with the Maryland Home Improvement Commission, and in Virginia with the Department of Professional and Occupational Regulation."
+     ]
+    },
+    {
+     "p": "In Maryland, a home improvement contractor cannot take more than one-third of the price as a deposit."
+    },
+    {
+     "formula": "$6,000 job ÷ 3 = $2,000 largest deposit allowed in Maryland"
+    },
+    {
+     "p": "Pay by check or credit card, not cash. Make the last payment only when the work is done. If you signed the contract at home, you usually have three business days to cancel. Report scams at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), and read our lessons on [spotting scams](https://dollarscholars.org/resources/lessons/spot-scams/) and [identity theft](https://dollarscholars.org/resources/lessons/identity-theft/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "emergency-plan-s8",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "tip",
+   "title": "Start with one hour this week",
+   "body": [
+    {
+     "p": "You do not need to finish in one day. This week, take a video of each room with your phone and write your account list. Next month, make copies of your IDs. If you have no savings yet, start with our [emergency fund lesson](https://dollarscholars.org/resources/lessons/emergency-fund/). If your income stops, follow our [30-day plan](https://dollarscholars.org/resources/lessons/income-shock/)."
+    },
+    {
+     "p": "If a federal disaster is declared where you live, the IRS often gives you more time to file and pay taxes. You can also get a free summary of a past tax return, called a transcript, from the IRS."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "emergency-plan-takeaways",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Keep copies of key documents in a fireproof, waterproof pouch and in a protected online account.",
+      "Your landlord's insurance does not cover your belongings. Renter's insurance does, but most policies do not cover floods.",
+      "A durable power of attorney lets someone you trust pay your bills without owning your money.",
+      "DC, Maryland, and Virginia let parents name a standby guardian for their children. Legal aid can help.",
+      "FEMA never charges a fee to apply for help. Check a contractor's license before you pay anything."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-quiz",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/emergency-plan/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "emergency-plan-links",
+   "type": "lesson",
+   "lesson": "emergency-plan",
+   "lessonTitle": "Your Family's Financial Emergency Plan",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Financial Preparedness",
+       "u": "https://www.ready.gov/financial-preparedness",
+       "org": "Ready.gov (FEMA)",
+       "d": "What papers to gather, why to keep some cash, and a free Emergency Financial First Aid Kit (EFFAK) to download."
+      },
+      {
+       "t": "How To Avoid Scams After Weather Emergencies and Natural Disasters",
+       "u": "https://consumer.ftc.gov/articles/how-avoid-scams-after-weather-emergencies-and-natural-disasters",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Warning signs of repair scams, how to check a contractor, and safe ways to pay for repairs."
+      },
+      {
+       "t": "Preparación financiera",
+       "u": "https://www.ready.gov/es/registros-vitales",
+       "org": "Ready.gov (FEMA)",
+       "d": "The same guide in Spanish: which documents to gather, cash to keep, and insurance."
+      },
+      {
+       "t": "Cómo evitar las estafas de recuperación después de un desastre",
+       "u": "https://consumidor.ftc.gov/articulos/como-evitar-las-estafas-de-recuperacion-despues-de-un-desastre",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The FTC guide in Spanish: signs of repair scams after a disaster and how to pay for repairs safely."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

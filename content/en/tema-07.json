@@ -1,0 +1,1240 @@
+{
+ "id": "tema-07",
+ "title": "Topic 7: Scam Awareness and Identity Protection",
+ "summary": "Recognize today's scams, especially those aimed at immigrants, renters, and job seekers. Protect your identity for free, and recover if it is stolen.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "spot-scams",
+   "title": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "summary": "The warning signs every scam shares, real example messages, and what to do in the first hour if you have been scammed.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "scams-targeting-newcomers",
+   "title": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "summary": "Notario fraud, fake government calls, job and rental scams, and money mule schemes, and where to find real, free help in DC, Maryland, and Virginia.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "identity-theft",
+   "title": "Protect Your Identity and Recover If It's Stolen",
+   "summary": "Step-by-step credit freezes, lesser-known locks such as the IRS IP PIN, and a recovery checklist if someone uses your identity.",
+   "meta": "(About 18 min, 5 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "spot-scams-intro",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "intro",
+   "title": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "body": [
+    {
+     "p": "The warning signs every scam shares, real example messages, and what to do in the first hour if you have been scammed."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Recognize the four signs most scams share: a name you trust, a problem or prize, pressure, and a payment that is hard to reverse.",
+      "Identify impostor scams that pretend to be a toll agency, a delivery company, your bank, or a family member.",
+      "Explain why money sent by gift card, crypto, wire, or payment app is hard to get back.",
+      "Use the stop, hang up, and call back routine, and act fast if you already paid."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers the warning signs of fraud and why to guard your personal information. This lesson shows the scams people in the DC area see today, with sample messages, and gives you a step-by-step plan for the first hour after a scam."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-words",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Impostor scam",
+       "A scam where someone pretends to be a person or group you trust, such as a bank, a government agency, a company, or a relative."
+      ],
+      [
+       "Phishing",
+       "A fake message, email, or website that tries to trick you into giving passwords, card numbers, or other personal information. When it comes by text message, it is sometimes called smishing."
+      ],
+      [
+       "Payment app",
+       "An app or bank service used to send money to other people, such as Zelle, Cash App, Venmo, or PayPal."
+      ],
+      [
+       "Unauthorized transfer",
+       "Money taken from your account by someone else without your permission, for example by a thief who got into your account."
+      ],
+      [
+       "One-time code",
+       "A short number a company sends to your phone or email to check that it is really you. Never read it to someone who calls you."
+      ],
+      [
+       "Overpayment scam",
+       "A scam where someone sends you a fake check for more than they owe you and asks you to send back the extra money."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s1",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "text",
+   "title": "Four signs almost every scam shares",
+   "body": [
+    {
+     "p": "Impostor scams are the type of fraud people report most often: someone pretends to be a person or group you trust. In 2025, people told the Federal Trade Commission (FTC) they lost about $16 billion to fraud. That is the highest amount on record. Impostor scams took $3.5 billion. Of that, scammers who pretended to be a business took nearly $1 billion, and fake banks caused the biggest losses in that group."
+    },
+    {
+     "p": "The stories change, but the pattern stays the same. Watch for these four signs:"
+    },
+    {
+     "ul": [
+      "**A name you trust.** The message says it is from your bank, the IRS, a toll company, the post office, your power company, or a relative. Caller ID and email names are easy to fake.",
+      "**A problem or a prize.** You owe money, your account is locked, a relative is in trouble, or you won something.",
+      "**Pressure and secrecy.** You must act today. You may hear threats of arrest, deportation, or a lost license. You are told not to tell anyone.",
+      "**A payment that is hard to reverse.** Gift cards, cryptocurrency (crypto), a wire transfer, a payment app, or cash given to a person who comes to your home."
+     ]
+    },
+    {
+     "p": "If you see even one of these signs, slow down. Honest businesses and agencies give you time to check."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s2",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "tip",
+   "title": "Stop, hang up, and call back",
+   "body": [
+    {
+     "ol": [
+      "**Stop.** Do not click, pay, or share anything yet. A real problem will still be there in ten minutes.",
+      "**Hang up or close the message.** Do not reply, and do not call a number the message gives you.",
+      "**Call back on a number you find yourself.** Use the number on the back of your card, on your bill, in the official app, or on the agency's .gov website.",
+      "**Talk to someone you trust.** Scammers want you to keep secrets. A friend, a family member, or your Dollar Scholars instructor can help you think it through."
+     ]
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "spot-scams-s3",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "text",
+   "title": "Three messages you might see this week",
+   "body": [
+    {
+     "h3": "1. The unpaid toll text"
+    },
+    {
+     "quote": "E-ZPass NOTICE: You have an unpaid toll of $6.99. Pay today to avoid a $50 late fee and a hold on your driver's license: [link]"
+    },
+    {
+     "p": "Texts like this go to people all over the DC area. The DC Attorney General has warned that DC does not have its own toll agency, yet people with 202 phone numbers still get fake toll texts. The link goes to a fake website that steals your card number and personal information. Maryland's and Virginia's toll programs say they never ask for payment by text message. If you drive on toll roads, check your account on your toll agency's official website or app. Type the address yourself."
+    },
+    {
+     "h3": "2. The package delivery text"
+    },
+    {
+     "quote": "USPS: Your package cannot be delivered because the address is incomplete. Update your address within 12 hours: [link]"
+    },
+    {
+     "p": "The U.S. Postal Service says it does not send texts unless you asked for tracking updates with a tracking number, and its texts do not contain a link. A USPS text with a link is a scam."
+    },
+    {
+     "h3": "3. The call from the bank's fraud department"
+    },
+    {
+     "quote": "\"This is the fraud team at your bank. We stopped a $950 charge at a store in Baltimore. Your account is not safe. To protect your money, we will move it to a new secure account. First, read me the code we just texted you.\""
+    },
+    {
+     "p": "The FTC says some of the most costly scams start with a call like this. The caller may know your name and the last digits of your card. The FTC warns that only a scammer will tell you to move your money to protect it. Anyone who asks for the code sent to your phone is trying to get into your account. Hang up and call the number on the back of your card."
+    },
+    {
+     "p": "For texts, do not reply. Use your phone's \"report junk\" option or forward the text to 7726 (the number spells SPAM), and then delete it."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s4",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "text",
+   "title": "Why some payments are so hard to get back",
+   "body": [
+    {
+     "p": "How you paid, and who sent the money, decide how much help you can get."
+    },
+    {
+     "table": {
+      "caption": "Your chances of getting money back",
+      "head": [
+       "What happened",
+       "What you can do"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "A thief got into your bank account or payment app and sent money without your permission.",
+        "This is an unauthorized transfer, even if a scammer tricked you into sharing your password or code. Federal law gives you strong rights if you tell your bank or app quickly."
+       ],
+       [
+        "You sent money on a payment app yourself, because someone lied to you.",
+        "The bank or app often does not have to give it back. Report it right away and ask anyway."
+       ],
+       [
+        "You paid with a gift card.",
+        "Call the gift card company right away. Keep the card and the receipt. Some companies may give your money back."
+       ],
+       [
+        "You sent a wire, for example through Western Union or MoneyGram.",
+        "Call the company right away and ask it to stop and reverse the transfer."
+       ],
+       [
+        "You paid with crypto or at a crypto ATM.",
+        "This is the hardest to get back. Report it to the company you used and to the FTC."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "That is why scammers ask for these payments. No real business or government agency will ever tell you to buy a gift card to pay them."
+    },
+    {
+     "p": "A credit card gives you more protection. Under federal law, the most you can owe for charges on a lost or stolen credit card is $50."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s5",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "text",
+   "title": "Voice clones and family emergency calls",
+   "body": [
+    {
+     "p": "Scammers can now copy a person's voice from a short recording posted online, such as a video. Then they call a parent or grandparent. The voice cries and says, \"I was in an accident and I am in jail. Please send money. Do not tell Mom.\""
+    },
+    {
+     "p": "The FBI suggests that families agree on a secret word or phrase. A real relative in trouble will know it. A copied voice will not."
+    },
+    {
+     "ul": [
+      "Choose a code word with your family today. Do not post it online.",
+      "If you get an emergency call, ask for the code word, or ask a question only the real person can answer.",
+      "Hang up and call your relative on the number you already have.",
+      "Call another family member, even if the caller said to keep it a secret."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s6",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "example",
+   "title": "How an overpayment scam empties your account",
+   "body": [
+    {
+     "p": "Maria lives in Hyattsville. She sells a used table online for $200. The buyer mails her a check for $1,200 and says he made a mistake. He asks Maria to keep $200 and send the extra $1,000 back on a payment app. Two days later, her bank shows the money as available, so Maria sends it."
+    },
+    {
+     "p": "By law, banks must make deposited money available quickly. But it can take weeks to find out that a check is fake. When the check bounces, the bank takes back the full amount."
+    },
+    {
+     "table": {
+      "caption": "What happens to Maria's bank account",
+      "head": [
+       "Step",
+       "Amount"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Maria deposits the buyer's check",
+        "+$1,200"
+       ],
+       [
+        "Maria sends the \"extra\" money back",
+        "−$1,000"
+       ],
+       [
+        "The bank finds the check is fake and takes the money back",
+        "−$1,200"
+       ],
+       [
+        "Maria's loss (and she may have given away the table)",
+        "−$1,000"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$1,200 − $1,000 − $1,200 = −$1,000"
+    },
+    {
+     "p": "The same trick shows up in fake jobs, \"mystery shopper\" offers, and prize letters. If someone sends you more than they owe and asks for money back, it is a scam."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "spot-scams-s7",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "text",
+   "title": "Already paid? Your first-hour plan",
+   "body": [
+    {
+     "p": "Scams can happen to anyone. Act fast, and do not be ashamed to ask for help. The sooner you act, the better your chances."
+    },
+    {
+     "ol": [
+      "**Stop all contact** with the scammer. Do not send more money, even if they promise to return the first payment.",
+      "**Call your bank, card company, or payment app** using the number on your card or in the official app. Say, \"This is fraud.\" Ask them to stop or reverse the payment and to protect your account.",
+      "**For a gift card or a wire,** call the gift card company or the wire company right away. Keep the card, the receipt, and the transfer number.",
+      "**If you shared a password or a code,** change your passwords and turn on two-step verification. With it, a site asks for a code, usually sent to your phone, after your password, so a thief who has only your password cannot get in.",
+      "**Report the scam** at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (in Spanish at [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)). If it happened online, you can also report it to the FBI at [ic3.gov](https://www.ic3.gov/).",
+      "**If you gave your Social Security number or ITIN,** follow the steps in [our lesson on protecting your identity](https://dollarscholars.org/resources/lessons/identity-theft/)."
+     ]
+    },
+    {
+     "quote": "\"Hello, my name is [your name]. I am calling to report fraud on my account ending in [last 4 digits]. Today at [time], I sent $[amount] to [name or phone number the scammer used] because of a scam. Please stop or reverse this payment, block more payments to this person, and open a fraud claim. What is my claim number?\""
+    },
+    {
+     "p": "Write down the date, the time, the name of the person you spoke to, and the claim number."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s8",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "warning",
+   "title": "Watch out for a second scam",
+   "body": [
+    {
+     "p": "After you lose money, scammers may contact you again. They say they can get your money back for a fee, or they pretend to be from the FTC or a law office. The FTC says government agencies and honest organizations will never ask for money to help you get a refund."
+    },
+    {
+     "p": "Scammers also follow the news. After a storm or flood, they pretend to be from FEMA or offer fast repairs if you pay for everything up front. FEMA does not charge application fees. Companies that promise to fix your credit are another trap: it is illegal for a credit repair company to charge you before it helps you."
+    },
+    {
+     "p": "For local phone numbers where you can report a scam, see [Scams That Target Immigrants, Renters, and Job Seekers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "spot-scams-takeaways",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Only a scammer will tell you to move your money to keep it safe, or to pay a bill with a gift card.",
+      "Do not use the link or phone number in a surprise message. Find the real contact information yourself.",
+      "If a thief sends money from your account, you have strong rights. If you send it yourself after a lie, it is much harder to get back.",
+      "Agree on a family code word to check emergency calls, even when the voice sounds real.",
+      "If you paid a scammer, call your bank or the payment company right away, then report it at ReportFraud.ftc.gov."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-quiz",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/spot-scams/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-links",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Spot Today's Scams: Impostors, Texts, and Payment Apps",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "How To Avoid a Scam",
+       "u": "https://consumer.ftc.gov/articles/how-avoid-scam",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The four signs of a scam, and simple ways to protect yourself."
+      },
+      {
+       "t": "How To Spot, Avoid, and Report Fake Check Scams",
+       "u": "https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How overpayment and fake check scams work, and who to call if you already sent money."
+      },
+      {
+       "t": "ReportFraud.ftc.gov",
+       "u": "https://reportfraud.ftc.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Report a scam to the FTC. The Spanish version is ReporteFraude.ftc.gov."
+      },
+      {
+       "t": "Cómo evitar una estafa",
+       "u": "https://consumidor.ftc.gov/articulos/como-evitar-una-estafa",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The FTC guide in Spanish: four signs of a scam and how to protect yourself."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-intro",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "intro",
+   "title": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "body": [
+    {
+     "p": "Notario fraud, fake government calls, job and rental scams, and money mule schemes, and where to find real, free help in DC, Maryland, and Virginia."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Recognize notario fraud and find licensed attorneys and accredited representatives for immigration help.",
+      "Explain that immigration forms are free and that government fees are paid only to the government, through official channels.",
+      "Spot fake job offers, including jobs that ask you to pay first, fake equipment checks, and online task scams.",
+      "Recognize money mule schemes and rental listing scams before you send any money."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Module 11 covers fraud in general. This Dollar Scholars extension focuses on scams aimed at newcomers, job seekers, and renters, and names trusted places in the DC area where you can get help."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-words",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Notario público",
+       "In many Latin American countries, a type of lawyer. In the United States, a notary public only checks your ID and watches you sign papers, and cannot give legal advice."
+      ],
+      [
+       "Accredited representative",
+       "A person who is not a lawyer but is approved by the U.S. Department of Justice to give immigration legal help while working for a recognized nonprofit organization."
+      ],
+      [
+       "Task scam",
+       "A fake online job that pays you a little to rate or like products, then tells you to deposit your own money to unlock more tasks or your earnings."
+      ],
+      [
+       "Money mule",
+       "A person who receives money that came from crime and moves it on for someone else, whether or not they know where it came from."
+      ],
+      [
+       "Rental listing scam",
+       "A fake ad for a home or apartment that the scammer does not own or that is not for rent, used to collect deposits and fees."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s1",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "text",
+   "title": "Notarios and immigration consultants",
+   "body": [
+    {
+     "p": "In many Latin American countries, a notario público is a lawyer with special training. In the United States, a notary public is very different. A notary only checks your ID and watches you sign papers. A notary cannot give legal advice or help you choose immigration forms."
+    },
+    {
+     "p": "Some businesses use the word \"notario,\" or call themselves \"immigration consultants,\" so that they seem like lawyers. They charge high fees, fill out the wrong forms, or add false information. Mistakes like these can hurt your case and cost you money, and they can be hard to fix."
+    },
+    {
+     "p": "U.S. Citizenship and Immigration Services (USCIS) says only these people may give you legal advice and represent you on immigration matters:"
+    },
+    {
+     "ul": [
+      "A **licensed attorney**. You can check a lawyer's license with the bar or court system of the state where they say they are licensed.",
+      "An **accredited representative** who works for a nonprofit organization recognized by the U.S. Department of Justice. The Department of Justice publishes a list of these organizations and representatives by state."
+     ]
+    },
+    {
+     "h3": "Warning signs of notario fraud"
+    },
+    {
+     "ul": [
+      "They promise you will get a green card, a work permit, or asylum.",
+      "They say they have a special friend at USCIS or can make your case go faster.",
+      "They charge you for blank government forms.",
+      "They ask you to sign a blank form, or a form with information that is not true.",
+      "They keep your passport, birth certificate, or other original documents.",
+      "They will not give you a written contract or a receipt."
+     ]
+    },
+    {
+     "h3": "Where to find real help"
+    },
+    {
+     "p": "The U.S. Department of Justice keeps a [list of free legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) for people in immigration court, and a [list of recognized organizations and accredited representatives](https://www.justice.gov/eoir/recognition-accreditation-roster-reports). In the DC area, nonprofits such as [Ayuda](https://ayuda.com/), with offices in DC, Silver Spring, and Fairfax, offer immigration legal services to people with low incomes."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s2",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "text",
+   "title": "Fake calls from USCIS, embassies, and the IRS",
+   "body": [
+    {
+     "p": "Scammers pretend to be from USCIS, an embassy, the IRS, or the police. They may know your name, your address, or even your case number. They say there is a problem with your case, your status, or your taxes. They say you must pay a fee or a fine today, or you will be arrested or deported."
+    },
+    {
+     "p": "Here are the facts from USCIS, the IRS, and the Department of State:"
+    },
+    {
+     "ul": [
+      "Immigration forms are free. You can download every USCIS form from uscis.gov.",
+      "USCIS will never ask you to send money to a person. It does not accept Western Union, MoneyGram, PayPal, Venmo, or gift cards for immigration fees.",
+      "Emails from USCIS come from addresses that end in .gov.",
+      "The IRS usually contacts you first by mail. A direct message on social media is never from the IRS.",
+      "The Diversity Visa lottery is run by the U.S. Department of State, not USCIS. The State Department does not email people to say they were selected. Winners are picked at random by computer, so no website or person can raise your chances. The only official website for entering is dvprogram.state.gov."
+     ]
+    },
+    {
+     "p": "In 2025 and 2026, the State Department changed some lottery rules and delayed the start of the next entry period. Always check the State Department's website, travel.state.gov, for current dates and rules. Do not trust a website or social media post that offers to enter you for a fee."
+    },
+    {
+     "p": "If you get a call like this, you can use these words and then hang up:"
+    },
+    {
+     "quote": "\"I do not discuss my case or make payments over the phone. I will contact USCIS myself, through my online account or the phone number on uscis.gov.\""
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s3",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "warning",
+   "title": "No real agency threatens you to make you pay today",
+   "body": [
+    {
+     "p": "Threats of arrest or deportation, a demand to pay right now, and a request for gift cards, a wire, crypto, or a payment app are all signs of a scam. Real agencies send letters, give you time, and take payments only through official channels. If you are worried about your case, talk to a licensed attorney or an accredited representative before you pay anyone."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "scams-targeting-newcomers-s4",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "text",
+   "title": "Job scams",
+   "body": [
+    {
+     "p": "When you need work, a fast job offer feels like good news. Scammers know this. Watch for these common tricks:"
+    },
+    {
+     "ul": [
+      "**Pay to work.** You must pay for training, a background check, a uniform, or a \"starter kit\" before you start. The FTC says honest employers will never ask you to pay to get a job.",
+      "**The equipment check.** The \"employer\" mails you a check to buy a laptop or supplies from their \"vendor.\" You deposit the check and send money to the vendor. The check is fake, and you owe the bank.",
+      "**Reshipping.** You receive packages at home and mail them to another address. The goods were often bought with stolen card numbers.",
+      "**Task scams.** A surprise text or WhatsApp message offers pay to \"rate\" or \"boost\" products online. You are paid a little at first, usually $5 to $20. Then you are told to deposit your own money, often in crypto, to unlock more tasks or your earnings."
+     ]
+    },
+    {
+     "p": "The FTC advises ignoring surprise job offers that come by text, WhatsApp, or Telegram. Before you accept any job, search the company name with the words \"scam\" or \"complaint,\" and find the company's phone number on your own."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s5",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "example",
+   "title": "How a task scam adds up",
+   "body": [
+    {
+     "p": "Samuel lives in Takoma Park and drives for a delivery app. He gets a WhatsApp message: \"Earn $300 a day from home rating hotels.\" Here is what happens over one week."
+    },
+    {
+     "table": {
+      "caption": "Samuel's money in a task scam",
+      "head": [
+       "Day",
+       "What happens",
+       "Samuel's money"
+      ],
+      "num": [
+       2
+      ],
+      "rows": [
+       [
+        "Day 1",
+        "He rates 40 hotels and gets paid.",
+        "+$15"
+       ],
+       [
+        "Day 3",
+        "He must deposit crypto to \"unlock\" a bonus task.",
+        "−$100"
+       ],
+       [
+        "Day 4",
+        "The app shows $2,400 in \"earnings.\" To take them out, he must deposit more.",
+        "−$600"
+       ],
+       [
+        "Day 6",
+        "He must pay a \"tax\" before he can take out his money.",
+        "−$1,200"
+       ],
+       [
+        "Total",
+        "Samuel's real loss",
+        "−$1,885"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$15 − $100 − $600 − $1,200 = −$1,885"
+    },
+    {
+     "p": "The $2,400 in \"earnings\" was only a number on a fake screen. The $15 was paid to win his trust. Each new deposit came with a new reason to pay more. The only way to stop losing money is to stop paying and report it."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "scams-targeting-newcomers-s6",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "text",
+   "title": "Money mules: when stolen money moves through you",
+   "body": [
+    {
+     "p": "A money mule is a person who receives money and moves it on for someone else. The money usually comes from fraud victims. Criminals find mules through online job ads, dating apps, social media, and fake prize offers."
+    },
+    {
+     "p": "The request sounds easy: \"My client will send $3,000 to your bank account. Keep $300 for your work, and send the rest by wire, gift cards, or crypto.\" Or they ask you to open a new bank account for them."
+    },
+    {
+     "p": "Knowingly moving money for criminals can lead to criminal charges. The FBI warns that even people who did not know can get into legal trouble, have trouble opening a bank account later, and become victims of identity theft."
+    },
+    {
+     "p": "If you think this is happening to you, stop talking to the person. Do not send the money on. Tell your bank right away, and report it to the FTC and to law enforcement, such as the FBI at [ic3.gov](https://www.ic3.gov/)."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s7",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "text",
+   "title": "Rental scams",
+   "body": [
+    {
+     "p": "Rent in the DC area is high, so a cheap listing is exciting. Scammers copy real listings and change the price and the contact information. For example, a two-bedroom apartment in Columbia Heights is listed for $1,300 a month, much less than similar apartments nearby. The \"owner\" says he is working overseas and cannot show it. He says he will mail the keys after you send the deposit and first month's rent, $2,600 in all, by wire or payment app."
+    },
+    {
+     "h3": "Before you pay for a rental"
+    },
+    {
+     "ul": [
+      "See the place in person, or send a trusted friend. If you cannot go, ask for a live video tour.",
+      "Compare the rent with similar places nearby. A much lower price is a warning sign.",
+      "Look up who owns the property in public property records. DC, Maryland, and many Virginia counties and cities have free online property searches.",
+      "If a company manages the building, call the number on the company's own website to check the listing.",
+      "Search the owner's or company's name with the words \"scam\" or \"complaint.\"",
+      "Get a written lease before you pay a deposit, and get a receipt for every payment.",
+      "Never pay by wire, gift card, or crypto. The FTC says paying this way is like sending cash: once the money is gone, you probably cannot get it back."
+     ]
+    },
+    {
+     "p": "To learn more about leases and deposits, see [our lesson on renters' rights](https://dollarscholars.org/resources/lessons/renters-rights/)."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s8",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "tip",
+   "title": "Where to report a scam and get free help",
+   "body": [
+    {
+     "ul": [
+      "**Federal Trade Commission:** report any scam at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), or in Spanish at [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/).",
+      "**DC:** Office of the Attorney General, Consumer and Tenant Response Hotline, [202-442-9828](tel:+12024429828).",
+      "**Maryland:** Attorney General's Consumer Protection Division, [410-576-6300](tel:+14105766300), or in Spanish, [410-230-1712](tel:+14102301712).",
+      "**Virginia:** Attorney General's Consumer Protection Section, [800-552-9963](tel:+18005529963) from inside Virginia.",
+      "**Fraud by an immigration helper:** the Department of Justice's Executive Office for Immigration Review (EOIR) Fraud and Abuse Prevention Program, by email at [EOIR.Fraud.Program@usdoj.gov](mailto:EOIR.Fraud.Program@usdoj.gov).",
+      "**Free legal help** with other money and housing problems: Legal Aid DC, Maryland Legal Aid, and Legal Services of Northern Virginia."
+     ]
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "scams-targeting-newcomers-takeaways",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Only a licensed attorney or an accredited representative of a recognized organization can give you immigration legal advice. A notario cannot.",
+      "Immigration forms are free on uscis.gov. USCIS never asks you to send money to a person. It does not take gift cards, Western Union, MoneyGram, PayPal, or Venmo.",
+      "Never pay to get a job, and never deposit your own money to unlock earnings.",
+      "If someone asks you to receive money and send it on, say no. The money is often stolen, and you could face criminal charges or have trouble opening a bank account later.",
+      "See a rental in person, or on a live video tour, before you pay. Never pay a deposit by wire, gift card, or crypto."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-quiz",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-links",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Scams That Target Immigrants, Renters, and Job Seekers",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Common Scams",
+       "u": "https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams",
+       "org": "U.S. Citizenship and Immigration Services (USCIS)",
+       "d": "Notario fraud, fake USCIS websites and calls, visa lottery scams, and how USCIS really takes payments."
+      },
+      {
+       "t": "Job Scams",
+       "u": "https://consumer.ftc.gov/articles/job-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to spot fake job offers, pay-to-work schemes, and fake check job scams."
+      },
+      {
+       "t": "Rental Listing Scams",
+       "u": "https://consumer.ftc.gov/articles/rental-listing-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Warning signs of fake rental ads and how to check a listing before you pay."
+      },
+      {
+       "t": "Estafas comunes",
+       "u": "https://www.uscis.gov/es/fraude-estafas-y-fallas-en-el-desempeno/evite-las-estafas-de-inmigracion/estafas-comunes",
+       "org": "U.S. Citizenship and Immigration Services (USCIS)",
+       "d": "Spanish-language warnings about notario fraud, fake calls, and other immigration scams."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-intro",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "intro",
+   "title": "Protect Your Identity and Recover If It's Stolen",
+   "body": [
+    {
+     "p": "Step-by-step credit freezes, lesser-known locks such as the IRS IP PIN, and a recovery checklist if someone uses your identity."
+    },
+    {
+     "p": "(About 18 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Choose between a fraud alert and a credit freeze, and freeze your credit for free at all three bureaus.",
+      "Use an IRS Identity Protection PIN and other lesser-known locks to protect your tax account, phone number, and bank records.",
+      "Protect your documents, passwords, and accounts with simple everyday habits.",
+      "Follow the IdentityTheft.gov recovery steps if someone uses your identity."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers the warning signs of identity theft and the key steps to respond. This lesson walks you through credit freezes and other free locks step by step, and gives you a recovery checklist and an example with real numbers."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-words",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Identity theft",
+       "When someone uses your personal information, such as your name, Social Security number, or ITIN, without your permission to get money, credit, jobs, or benefits."
+      ],
+      [
+       "Credit bureau",
+       "A company that collects information about how you use credit and sells credit reports. The three nationwide bureaus are Equifax, Experian, and TransUnion."
+      ],
+      [
+       "Credit freeze",
+       "A free block that stops a credit bureau from sharing your credit report with new lenders until you lift it. It is also called a security freeze."
+      ],
+      [
+       "Fraud alert",
+       "A free note on your credit report that tells lenders to check your identity before they open new credit in your name."
+      ],
+      [
+       "Identity Protection PIN (IP PIN)",
+       "A 6-digit number from the IRS that goes on your federal tax return. It keeps other people from filing a return with your SSN or ITIN."
+      ],
+      [
+       "Identity Theft Report",
+       "A report you create for free at IdentityTheft.gov. It helps prove to businesses and credit bureaus that someone stole your identity."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s1",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "text",
+   "title": "Fraud alert or credit freeze?",
+   "body": [
+    {
+     "p": "A thief who has your Social Security number (SSN) may try to open credit cards, loans, or phone plans in your name. Two free tools make this harder. Both work through the three nationwide credit bureaus: Equifax, Experian, and TransUnion."
+    },
+    {
+     "table": {
+      "caption": "Fraud alert and credit freeze compared",
+      "head": [
+       "Question",
+       "Fraud alert",
+       "Credit freeze"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "What does it do?",
+        "Tells lenders to check your identity before they open new credit in your name.",
+        "Stops new lenders from seeing your credit report, so most new credit cannot be opened."
+       ],
+       [
+        "What does it cost?",
+        "Nothing",
+        "Nothing"
+       ],
+       [
+        "How long does it last?",
+        "1 year, and you can renew it. Identity theft victims can get an extended alert that lasts 7 years.",
+        "Until you lift it."
+       ],
+       [
+        "Where do you place it?",
+        "At one bureau. That bureau must tell the other two.",
+        "At each of the three bureaus, one by one."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "A freeze gives stronger protection, and it does not affect your credit score. You can have a fraud alert and a freeze at the same time. Both are about new credit. They do not stop someone from using a card or account you already have, so keep checking your statements."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s2",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "text",
+   "title": "Freeze your credit, step by step",
+   "body": [
+    {
+     "ol": [
+      "Set aside about 30 minutes. Have your SSN, date of birth, and current address ready.",
+      "Go to each bureau's website yourself: equifax.com, experian.com, and transunion.com. Type the address. Do not use a link from an email or a text.",
+      "Create an account at each site and answer the questions that check your identity. You can also ask for a freeze by phone or by mail.",
+      "Choose the free \"security freeze\" or \"credit freeze.\" You do not have to buy anything or sign up for a paid service. When you ask online or by phone, the bureau must place the freeze within one business day.",
+      "Save your account login, and any PIN the bureau gives you. You will need them to lift the freeze later.",
+      "Repeat at the other two bureaus. A freeze at only one bureau leaves the other two open."
+     ]
+    },
+    {
+     "h3": "When you need credit, lift the freeze for a short time"
+    },
+    {
+     "p": "Before you apply for a loan, a credit card, an apartment, or a phone plan, ask the company which bureau it uses. Then lift the freeze at that bureau for a few days, or at all three. When you ask online or by phone, the bureau must lift the freeze within one hour. By mail, it can take up to three business days."
+    },
+    {
+     "p": "Parents can also freeze the credit of a child under 16 for free. Some people with an Individual Taxpayer Identification Number (ITIN) have credit files and some do not. If an online form asks for an SSN you do not have, call the bureau, or ask a nonprofit credit counselor for help."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s3",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "text",
+   "title": "Extra locks most people do not know about",
+   "body": [
+    {
+     "h3": "IRS Identity Protection PIN (IP PIN)"
+    },
+    {
+     "p": "An IP PIN is a 6-digit number that keeps someone else from filing a federal tax return with your SSN or ITIN. This stops a thief from filing a fake return and taking your refund. Anyone with an SSN or ITIN who can prove who they are can get one. It is free, and you get a new number every year. Once you have one, use it on every federal tax return you file."
+    },
+    {
+     "ul": [
+      "The fastest way to get one is online, through your IRS account at [irs.gov/ippin](https://www.irs.gov/ippin).",
+      "If you cannot prove who you are online, you may be able to use IRS Form 15227 if your income is below a limit, or make an appointment at an IRS Taxpayer Assistance Center.",
+      "The IRS will never call, email, or text you to ask for your IP PIN. Anyone who asks is a scammer."
+     ]
+    },
+    {
+     "h3": "A PIN on your phone account"
+    },
+    {
+     "p": "Banks and apps often send codes to your phone. A thief who moves your phone number to their own phone gets those codes. Ask your phone company to add a PIN or passcode to your account, and ask about a lock that stops your number from being moved to another phone or company. If your phone suddenly loses service for no clear reason, call your phone company from another phone right away."
+    },
+    {
+     "h3": "A freeze at ChexSystems"
+    },
+    {
+     "p": "Many banks and credit unions check new customers with ChexSystems, a consumer reporting company. A security freeze there helps stop someone from opening a bank account in your name. Ask for it at chexsystems.com, by phone, or by mail."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s4",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "tip",
+   "title": "Everyday habits that protect you",
+   "body": [
+    {
+     "ul": [
+      "Keep your Social Security card, ITIN letter, and passport at home in a safe place. Do not carry them in your wallet.",
+      "Shred bank statements, medical bills, and credit offers before you throw them away. To get fewer credit offers, opt out at optoutprescreen.com or 1-888-567-8688.",
+      "When someone asks for your SSN or ITIN, ask why they need it and how they will protect it. Employers, banks, and tax preparers usually do need it. Many other businesses do not.",
+      "Use a long password or passphrase of at least 15 characters, and a different one for each important account.",
+      "Turn on two-step verification for your email, bank, and payment apps. After your password, the site also asks for a code, usually sent to your phone or shown in an app, so a thief who has only your password cannot get in. Look for it in each account's security settings.",
+      "Check your credit reports for free every week at AnnualCreditReport.com."
+     ]
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "identity-theft-s5",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "text",
+   "title": "If it happens: your recovery plan",
+   "body": [
+    {
+     "p": "Warning signs include charges or bills you do not recognize, debt collectors calling about debts that are not yours, accounts on your credit report that you did not open, and regular bills that stop arriving. Act the same day. IdentityTheft.gov gives these steps:"
+    },
+    {
+     "ol": [
+      "**Call the companies where the fraud happened.** Ask for the fraud department. Ask them to close or freeze the accounts. Change your passwords and PINs.",
+      "**Place a free fraud alert** with one credit bureau. It must tell the other two. Then get your free credit reports at AnnualCreditReport.com and look for anything you do not recognize.",
+      "**Report it to the FTC** at [IdentityTheft.gov](https://www.identitytheft.gov/) (in Spanish at [RobodeIdentidad.gov](https://www.robodeidentidad.gov/)) or by calling [1-877-438-4338](tel:+18774384338). To report in another language, call and press 3. You will get an Identity Theft Report and a personal recovery plan.",
+      "**File a police report if you need one.** Do this if you know something about the thief, or if a company asks for a police report. Ask the police for a copy.",
+      "**Fix the damage.** Use your Identity Theft Report to close new accounts opened in your name, remove fake charges, and correct your credit reports.",
+      "**Protect yourself for the long term.** Think about a 7-year extended fraud alert or a credit freeze, and an IP PIN if your SSN or ITIN was taken."
+     ]
+    },
+    {
+     "quote": "\"Hello. My name is [your name]. Someone stole my identity and opened an account with your company in my name. The account number is [number, if you know it]. I did not open this account or make these charges. Please close the account, remove the charges, and send me a letter that says so. I have an Identity Theft Report from IdentityTheft.gov. What is your name, please?\""
+    },
+    {
+     "p": "For every call, write down the date, the person's name, and what they said. Send copies of papers, and keep the originals."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s6",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "example",
+   "title": "Why fast reporting matters: a stolen debit card",
+   "body": [
+    {
+     "p": "Kwame lives in Silver Spring. On Friday night, his wallet is stolen. By Saturday morning, the thief has used his debit card to spend $900. Under federal law, the most Kwame can lose depends on how fast he reports it to his bank."
+    },
+    {
+     "table": {
+      "caption": "The most Kwame can lose on $900 of stolen debit card charges",
+      "head": [
+       "When Kwame reports the card",
+       "Most he can lose"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Before the thief uses the card",
+        "$0"
+       ],
+       [
+        "Within 2 business days after he learns it is gone",
+        "$50"
+       ],
+       [
+        "After 2 business days, but within 60 days after his bank statement is sent",
+        "Up to $500"
+       ],
+       [
+        "More than 60 days after his statement is sent",
+        "All the money taken, and possibly more"
+       ],
+       [
+        "Money he protects by reporting on Saturday instead of waiting too long",
+        "$850"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$900 − $50 = $850"
+    },
+    {
+     "p": "For a lost or stolen credit card, the most you can owe is $50. If only your card number is stolen and you still have the card, you are not responsible for charges you did not make."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "identity-theft-s7",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "text",
+   "title": "Tax and medical identity theft",
+   "body": [
+    {
+     "h3": "Tax identity theft"
+    },
+    {
+     "p": "Signs include: your e-filed tax return is rejected because a return was already filed with your SSN or ITIN, an IRS letter about a return you did not file, or a W-2 or 1099 form from an employer you never worked for."
+    },
+    {
+     "ul": [
+      "If you get an IRS letter, make sure it is real, then follow its instructions.",
+      "If your e-filed return is rejected because a return was already filed with your number, you may need to file your return on paper. The IRS says to keep filing and paying your taxes as usual.",
+      "You may also need Form 14039, Identity Theft Affidavit. The IRS says not to file it if the IRS already sent you a letter about the problem.",
+      "Get free help at a VITA tax site (see [our lesson on filing for free](https://dollarscholars.org/resources/lessons/file-for-free/)), or call the IRS identity theft line at [800-908-4490](tel:+18009084490)."
+     ]
+    },
+    {
+     "h3": "Medical identity theft"
+    },
+    {
+     "p": "Signs include: a bill for medical care you did not get, a debt collector calling about a medical bill that is not yours, a medical debt on your credit report that you do not recognize, or a notice from your health insurance that you reached your benefit limit."
+    },
+    {
+     "p": "What to do: ask each provider for a copy of your medical records and bills, and tell the provider about any errors in writing. Check your credit reports, and report the theft at IdentityTheft.gov."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s8",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "warning",
+   "title": "Do not pay for protection that is free",
+   "body": [
+    {
+     "p": "Some companies charge a monthly fee to \"protect your identity.\" The most important tools are free: credit freezes, fraud alerts, weekly credit reports, the IRS IP PIN, and a recovery plan at IdentityTheft.gov."
+    },
+    {
+     "p": "Also watch for callers who say they are from the FTC, the IRS, or your bank and that your identity was stolen, and then ask for your SSN or tell you to move your money. Hang up, and call back at a number you find yourself. See [our lesson on spotting scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "identity-theft-takeaways",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "A credit freeze is free, does not hurt your credit score, and lasts until you lift it. You must place it at each of the three bureaus.",
+      "When you need credit or an apartment, you can lift a freeze online or by phone, and the bureau must do it within one hour.",
+      "An IRS IP PIN keeps others from filing a tax return with your SSN or ITIN. It is free, and you get a new one every year.",
+      "If your identity is stolen, go to IdentityTheft.gov (RobodeIdentidad.gov in Spanish) for a free report and a recovery plan.",
+      "Report a lost or stolen debit card right away. The sooner you report, the less you can lose."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-quiz",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/identity-theft/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-links",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protect Your Identity and Recover If It's Stolen",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "IdentityTheft.gov",
+       "u": "https://www.identitytheft.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Report identity theft and get a free, personal recovery plan."
+      },
+      {
+       "t": "Credit Freezes and Fraud Alerts",
+       "u": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How freezes and fraud alerts work, and how to place and lift them for free."
+      },
+      {
+       "t": "Get an Identity Protection PIN (IP PIN)",
+       "u": "https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Who can get an IP PIN, and how to get one online, by form, or in person."
+      },
+      {
+       "t": "RobodeIdentidad.gov",
+       "u": "https://www.robodeidentidad.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The Spanish version of IdentityTheft.gov: report identity theft and get a free recovery plan."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

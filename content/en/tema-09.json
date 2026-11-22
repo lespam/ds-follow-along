@@ -1,0 +1,1298 @@
+{
+ "id": "tema-09",
+ "title": "Topic 9: Buying a Home and Getting a Mortgage",
+ "summary": "Prepare over 12 months, use local down payment help, compare loan offers, close safely, and know where to turn if you fall behind.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "mortgage-ready",
+   "title": "Get Mortgage-Ready: A 12-Month Plan",
+   "summary": "A month-by-month plan to strengthen your credit, savings, and paperwork before you apply for a mortgage, with a worked debt-to-income example.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "down-payment-help",
+   "title": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "summary": "Compare common loan types, find down payment and closing cost help in DC, Maryland, and Virginia, understand mortgage insurance, and work out your cash to close.",
+   "meta": "(About 18 min, 6 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "closing-day",
+   "title": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "summary": "Compare loan offers line by line, understand rate locks and the Closing Disclosure, protect your closing money from wire fraud, and get help early if you fall behind.",
+   "meta": "(About 18 min, 6 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "mortgage-ready-intro",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "intro",
+   "title": "Get Mortgage-Ready: A 12-Month Plan",
+   "body": [
+    {
+     "p": "A month-by-month plan to strengthen your credit, savings, and paperwork before you apply for a mortgage, with a worked debt-to-income example."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Calculate your debt-to-income ratio and see how paying off a debt changes it.",
+      "Follow a 12-month plan to strengthen your credit, savings, and paperwork before you apply.",
+      "Gather the documents lenders ask for, including extra papers for self-employed and ITIN borrowers.",
+      "Tell pre-qualification from pre-approval, and find a HUD-approved housing counselor."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers the steps to buying a home and how to calculate a debt-to-income ratio. This lesson turns those steps into a 12-month plan, with worked numbers and document lists for different kinds of workers."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-words",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Debt-to-income ratio (DTI)",
+       "Your total monthly debt payments divided by your gross monthly income, shown as a percent. Lenders use it to judge whether you can afford a new payment."
+      ],
+      [
+       "Gross monthly income",
+       "What you earn in a month before taxes and other deductions are taken out."
+      ],
+      [
+       "Down payment",
+       "The part of the home price you pay with your own money or with help from a program. The mortgage pays the rest."
+      ],
+      [
+       "Pre-qualification",
+       "A lender's early estimate of how much you might borrow. It is often based on information you give without proof."
+      ],
+      [
+       "Pre-approval",
+       "A letter saying a lender is willing to lend you up to a certain amount, usually after checking your credit and some documents. It is not a final loan offer."
+      ],
+      [
+       "HUD-approved housing counselor",
+       "A trained counselor at an agency approved by the U.S. Department of Housing and Urban Development (HUD). They give free or low-cost advice on buying, renting, and avoiding foreclosure."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s1",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "text",
+   "title": "What lenders look at",
+   "body": [
+    {
+     "p": "Before a lender gives you a **mortgage** (a loan to buy a home), it wants to know that you can make the payments for many years. Lenders look at four main things:"
+    },
+    {
+     "ul": [
+      "**Credit:** your credit reports and scores show how you have paid bills and loans in the past.",
+      "**Income:** how much you earn, and whether you can prove it.",
+      "**Debts:** what you already pay each month, compared with your income.",
+      "**Savings:** money for the down payment, the closing costs, and emergencies after you move in. Closing, often called settlement in the DC area, is the meeting at the end of a home purchase where you sign the loan papers, pay your cash to close, and get the keys."
+     ]
+    },
+    {
+     "p": "You cannot change these in one month. But in a year, you can make real progress. This lesson gives you a plan."
+    },
+    {
+     "p": "For debts, the key number is your **debt-to-income ratio (DTI)**. It is all your monthly debt payments, including the new home payment, divided by your **gross monthly income** (your income before taxes). Each loan program and lender sets its own DTI limit. For example, in September 2026 the DC Open Doors program listed a maximum DTI of 50%, or 45% for some FHA loans. An FHA loan is a mortgage backed by the Federal Housing Administration. It lets buyers put down as little as 3.5% and can be easier to get with lower credit. A lower DTI leaves more room in your budget for food, transportation, and surprises."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s2",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "example",
+   "title": "Worked example: DTI before and after paying off a car loan",
+   "body": [
+    {
+     "p": "Marisol and Luis rent an apartment in Hyattsville, Maryland. Together they earn $6,500 a month before taxes. A lender estimates that a townhouse they like would cost $2,100 a month for the loan, property taxes, and insurance. Their car loan has 12 payments left."
+    },
+    {
+     "table": {
+      "caption": "Marisol and Luis: monthly debts if they apply now or in 12 months",
+      "head": [
+       "Monthly payment",
+       "Apply now",
+       "Apply in 12 months"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "New home payment (estimate)",
+        "$2,100",
+        "$2,100"
+       ],
+       [
+        "Car loan",
+        "$450",
+        "$0"
+       ],
+       [
+        "Credit card minimum payments",
+        "$150",
+        "$150"
+       ],
+       [
+        "Student loan",
+        "$200",
+        "$200"
+       ],
+       [
+        "Total monthly debts",
+        "$2,900",
+        "$2,450"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "Now: $2,900 ÷ $6,500 = 0.446, or about 45% DTI"
+    },
+    {
+     "formula": "After the car loan ends: $2,450 ÷ $6,500 = 0.377, or about 38% DTI"
+    },
+    {
+     "p": "By waiting until the car loan is paid off, their DTI falls by about 7 percentage points. That can help them qualify for a loan. After they buy, it also leaves $450 more each month in their budget for the costs of owning a home, such as repairs. Notice that their rent is not in the table. Rent stops when they buy, and the new home payment takes its place."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "mortgage-ready-s3",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "text",
+   "title": "Months 12 to 6: fix your credit and build savings",
+   "body": [
+    {
+     "h3": "Months 12 to 9: check and clean up your credit"
+    },
+    {
+     "ul": [
+      "Get your free credit reports from all three credit bureaus at [AnnualCreditReport.com](https://www.annualcreditreport.com/). You can check them for free every week.",
+      "Look for mistakes, such as accounts that are not yours or late payments you did not make. Dispute errors in writing. Our lesson on [reading your credit report](https://dollarscholars.org/resources/lessons/read-your-credit-report/) shows how.",
+      "Pay every bill on time. Set up automatic payments or reminders.",
+      "Pay down credit card balances. Using less of your credit limits can help your score. See [what affects your credit score](https://dollarscholars.org/resources/lessons/credit-score-factors/).",
+      "No credit history yet? Start now with our lesson on [building credit](https://dollarscholars.org/resources/lessons/build-credit/). Some loan programs, such as FHA loans, have rules that let a lender look at other records, such as rent and utility payments."
+     ]
+    },
+    {
+     "p": "The score a mortgage lender uses may not match the free score in your banking app. As of September 2026, lenders who sell loans to Fannie Mae and Freddie Mac may use a Classic FICO score or VantageScore 4.0, based on reports from all three bureaus. So check all three reports."
+    },
+    {
+     "h3": "Months 9 to 6: save for three things"
+    },
+    {
+     "ul": [
+      "**Down payment:** some loans need as little as 3% or 3.5% of the price. Programs in DC, Maryland, and Virginia may help.",
+      "**Closing costs:** fees for the loan, title, taxes, and prepaid items. Your lender will list them on a Loan Estimate.",
+      "**Emergency savings:** money you still have after you move in, for repairs and surprises."
+     ]
+    },
+    {
+     "p": "Keep your savings in a bank or credit union account. Lenders usually ask for recent bank statements, and they may ask where large deposits came from. Cash kept at home is hard for a lender to count, because it cannot see where the money came from. Deposit it early and keep records. If a family member will give you money, ask the lender what papers it needs, such as a signed gift letter."
+    },
+    {
+     "p": "This is also the time to look for help with your down payment. See [Down Payment Help and Loan Types in DC, Maryland, and Virginia](https://dollarscholars.org/resources/lessons/down-payment-help/)."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s4",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "text",
+   "title": "Months 6 to 3: gather your papers",
+   "body": [
+    {
+     "p": "Lenders must check that your income is real and likely to continue. Start a folder, on paper or on your phone, and add papers as you get them."
+    },
+    {
+     "h3": "Papers most lenders ask for"
+    },
+    {
+     "ul": [
+      "Photo ID, such as a driver's license or passport",
+      "Your Social Security number or ITIN",
+      "Pay stubs from the last 30 days",
+      "W-2 forms from the last two years",
+      "Federal tax returns from the last two years",
+      "Bank statements from the last two months, with every page",
+      "Proof that you pay rent on time, such as bank records or your landlord's contact information",
+      "A list of your debts and monthly payments"
+     ]
+    },
+    {
+     "h3": "Self-employed, gig, and cash workers"
+    },
+    {
+     "p": "If you drive for an app, clean houses, run a small business, or do contract work, you need more proof. Fannie Mae, which buys many U.S. mortgages, generally looks for two years of self-employment income on your tax returns. Many lenders ask for:"
+    },
+    {
+     "ul": [
+      "Personal federal tax returns for the last two years, with all schedules",
+      "Business tax returns, if your business files its own",
+      "1099 forms from the companies that paid you",
+      "A profit and loss statement for this year so far",
+      "Business bank statements, if you have a separate account"
+     ]
+    },
+    {
+     "p": "**Important:** for self-employed people, lenders usually count the income on your tax returns after business expenses, not your total sales. If you earn cash and do not report it, a lender cannot use it to help you qualify. See our lesson on [taxes for gig and self-employed workers](https://dollarscholars.org/resources/lessons/gig-income-taxes/)."
+    },
+    {
+     "h3": "Borrowers with an ITIN"
+    },
+    {
+     "p": "An ITIN (Individual Taxpayer Identification Number) is a tax number from the IRS for people who cannot get a Social Security number. Some banks, credit unions, and community lenders make mortgages to ITIN borrowers. These loans may need a larger down payment or cost more, so compare offers carefully. Lenders often ask for:"
+    },
+    {
+     "ul": [
+      "Your ITIN letter from the IRS",
+      "A passport or other government photo ID",
+      "Federal tax returns filed with your ITIN, often for two years",
+      "Proof of steady work and income, such as pay records or bank statements",
+      "Records of on-time rent and utility payments"
+     ]
+    },
+    {
+     "p": "Make sure your ITIN is still active. The IRS says an ITIN expires if it is not used on a federal tax return for three tax years in a row. Also know that since May 25, 2025, FHA loans are no longer open to non-permanent residents, such as people on work visas. U.S. citizens and lawful permanent residents (green card holders) can still apply."
+    },
+    {
+     "p": "Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN. They have also said that mortgage lenders may look at your immigration status when they decide whether you can repay a loan. Some may ask for more documents or say no, so ask before you apply. A housing counselor can help you find lenders that still make ITIN loans."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s5",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "text",
+   "title": "Months 3 to 0: class, pre-approval, and your price limit",
+   "body": [
+    {
+     "h3": "Take a homebuyer education class"
+    },
+    {
+     "p": "Many programs require a class. For example, Maryland Mortgage Program loans and many Virginia Housing loans require an approved class before closing. Fannie Mae requires homeownership education for some low down payment loans when all the buyers are first-time buyers. HUD-approved housing counseling agencies teach these classes, often for free or a small fee. Virginia Housing offers a free class, online or in person."
+    },
+    {
+     "h3": "Pre-qualification and pre-approval"
+    },
+    {
+     "p": "Lenders use these words in different ways. A **pre-qualification** is often a quick estimate based on what you tell the lender. A **pre-approval** usually means the lender has checked your credit and some documents. Neither one is a guaranteed loan. Sellers and real estate agents often ask to see a pre-approval letter with your offer."
+    },
+    {
+     "h3": "Set your own price limit"
+    },
+    {
+     "p": "A lender may approve you for more than you can comfortably pay. Count the full monthly cost of owning: the loan payment, property taxes, homeowners insurance, condo or homeowners association (HOA) fees, utilities, and money for repairs."
+    },
+    {
+     "ol": [
+      "Use your [spending plan](https://dollarscholars.org/resources/lessons/spending-plan/) to find the most you can pay for housing each month.",
+      "Ask your lender or housing counselor what home price matches that payment, with taxes, insurance, and fees included.",
+      "Look only at homes at or below that price, even if your pre-approval is higher."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s6",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "text",
+   "title": "Free help from HUD-approved housing counselors",
+   "body": [
+    {
+     "p": "A HUD-approved housing counselor can review your credit and budget, make a plan with you, explain loan offers, and tell you about local down payment programs. They can give you independent advice about whether a loan is a good fit for you. Help is often free or low-cost."
+    },
+    {
+     "ul": [
+      "Call HUD at 800-569-4287 to find an agency near you.",
+      "Search by ZIP code with the [CFPB housing counselor search](https://www.consumerfinance.gov/find-a-housing-counselor/).",
+      "Ask for a counselor who speaks your language, and ask if they meet by phone or online."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s7",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "warning",
+   "title": "Traps that can stop your mortgage",
+   "body": [
+    {
+     "ul": [
+      "**New debt before closing.** Do not buy a car or furniture on credit, and do not open new cards, until after you close. A new payment raises your DTI, and the lender may check your credit again before closing.",
+      "**Income that is not on your tax returns.** Lenders usually cannot count it.",
+      "**Credit repair companies that charge first.** It is illegal for them to charge you before they do the work. No one can legally remove correct negative information from your report. You can dispute errors yourself for free."
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "mortgage-ready-s8",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "tip",
+   "title": "Start a house folder today",
+   "body": [
+    {
+     "p": "Each month, save your pay stubs, bank statements, and rent receipts in one folder. When a lender asks for papers, you can send them in a day instead of a month."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "mortgage-ready-takeaways",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Lenders divide all your monthly debt payments, including the new home payment, by your income before taxes. Paying off a debt before you apply can lower this number a lot.",
+      "Start about a year ahead: check your credit reports first, then build savings, then gather your papers.",
+      "Lenders can usually count only income you can prove, such as the income on your tax returns.",
+      "A pre-approval letter is not a guaranteed loan. Do not take on new debt before closing.",
+      "HUD-approved housing counselors give free or low-cost help. Call 800-569-4287 to find one."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-quiz",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/mortgage-ready/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-links",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Get Mortgage-Ready: A 12-Month Plan",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Buying a house: tools and resources for homebuyers",
+       "u": "https://www.consumerfinance.gov/owning-a-home/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "A step-by-step homebuying guide with checklists and explainers for the Loan Estimate and Closing Disclosure."
+      },
+      {
+       "t": "Find a housing counselor",
+       "u": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Search by ZIP code for HUD-approved housing counseling agencies near you."
+      },
+      {
+       "t": "Free Credit Reports",
+       "u": "https://consumer.ftc.gov/articles/free-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to get your free credit reports from all three bureaus, online, by phone, or by mail."
+      },
+      {
+       "t": "Informes de crédito gratuitos",
+       "u": "https://consumidor.ftc.gov/articulos/informes-de-credito-gratuitos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The Spanish version of the FTC guide to getting your free credit reports."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-intro",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "intro",
+   "title": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "body": [
+    {
+     "p": "Compare common loan types, find down payment and closing cost help in DC, Maryland, and Virginia, understand mortgage insurance, and work out your cash to close."
+    },
+    {
+     "p": "(About 18 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Compare conventional, FHA, VA, and USDA loans and their minimum down payments.",
+      "Find down payment and closing cost help in DC, Maryland, and Virginia, and check each program's rules.",
+      "Explain mortgage insurance and when private mortgage insurance can be removed.",
+      "Calculate the cash you need at closing, with and without assistance."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers the kinds of mortgages and how they work. This lesson adds the local programs that can help DC-area buyers with the down payment, the rules to check, and a worked cash-to-close example."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-words",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Conventional loan",
+       "A mortgage that is not insured or guaranteed by a government agency. Many are sold to Fannie Mae or Freddie Mac."
+      ],
+      [
+       "FHA loan",
+       "A mortgage insured by the Federal Housing Administration, which is part of HUD. It allows a low down payment but charges mortgage insurance."
+      ],
+      [
+       "Private mortgage insurance (PMI)",
+       "Insurance that protects the lender, not you, if you stop paying a conventional loan. It is usually required when you put down less than 20%."
+      ],
+      [
+       "Down payment assistance",
+       "Money from a program that helps pay your down payment or closing costs. It may be a grant, which you do not repay, or a loan."
+      ],
+      [
+       "Deferred loan",
+       "A loan with no monthly payments for a period of time. You repay it later, usually when you sell, refinance, or stop living in the home."
+      ],
+      [
+       "Cash to close",
+       "The total amount you must bring to closing: your down payment and closing costs, minus any credits or help."
+      ],
+      [
+       "First-time homebuyer",
+       "For many programs, a person who has not owned a home in the last three years. Each program sets its own rule."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s1",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "text",
+   "title": "Loan types at a glance",
+   "body": [
+    {
+     "p": "Most buyers use one of four kinds of mortgage. The biggest differences are how much you must put down, who can qualify, and what kind of mortgage insurance you pay."
+    },
+    {
+     "table": {
+      "caption": "Common loan types and their minimum down payments (as of September 2026)",
+      "head": [
+       "Loan type",
+       "Down payment",
+       "Good to know"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Conventional",
+        "As low as 3% for some loans",
+        "With less than 20% down, you usually pay PMI. You can remove PMI later."
+       ],
+       [
+        "FHA",
+        "As low as 3.5%",
+        "Has mortgage insurance, often for the life of the loan. Since May 25, 2025, non-permanent residents, such as people on work visas, cannot get FHA loans."
+       ],
+       [
+        "VA",
+        "No down payment for eligible buyers, if the price is not higher than the appraised value (a professional estimate of what the home is worth, ordered by the lender)",
+        "For eligible service members, veterans, and some surviving spouses. No monthly mortgage insurance, but you may pay a one-time funding fee."
+       ],
+       [
+        "USDA",
+        "No down payment for eligible buyers",
+        "For low- and moderate-income buyers in eligible rural areas. Homes in cities such as DC do not qualify. You can check an address on the USDA eligibility website."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "If you are not a U.S. citizen or green card holder, ask each lender which loans you can get. Rules for conventional loans are different from FHA rules, and some local lenders offer their own loans for ITIN borrowers. A housing counselor can help you find them. Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN. Some may ask for more documents or say no, so ask before you apply."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s2",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "text",
+   "title": "Help in DC: HPAP and DC Open Doors",
+   "body": [
+    {
+     "h3": "Home Purchase Assistance Program (HPAP)"
+    },
+    {
+     "p": "The DC Department of Housing and Community Development (DHCD) runs HPAP, and the DC Housing Finance Agency (DCHFA) helps manage it. HPAP gives interest-free loans to help low- and moderate-income first-time buyers buy a home in DC."
+    },
+    {
+     "ul": [
+      "**Who:** first-time buyers. For HPAP, that means you have not owned any home or other residential property in the last three years. DC residents come first. Some people who have worked in DC for at least a year can also apply.",
+      "**Where:** the home must be in DC, and it must be your main home.",
+      "**How much:** it depends on your income and household size. DHCD updates its table every year.",
+      "**Repayment:** lower-income buyers make no monthly payments. Moderate-income buyers start making payments in the sixth year. The whole loan is due if you sell, refinance (with some exceptions), or stop living in the home. To refinance means to take out a new mortgage to pay off your old one, often to get a lower rate.",
+      "**How to apply:** through a community organization, such as Housing Counseling Services, the Latino Economic Development Center (LEDC), or MANNA."
+     ]
+    },
+    {
+     "p": "HPAP money is limited. For fiscal year 2026, DHCD said it would help applicants first-come, first-served. Funding and rules can change each fiscal year. DC's fiscal year starts on October 1, so ask a counselor early about timing."
+    },
+    {
+     "h3": "DC Open Doors"
+    },
+    {
+     "p": "DC Open Doors, from DCHFA, offers home loans with down payment help for homes in DC. As of September 2026, its website said:"
+    },
+    {
+     "ul": [
+      "First-time and repeat buyers can use it, and you do not need to live in DC now.",
+      "There is an income limit, and the minimum credit score is 640.",
+      "A down payment assistance loan can cover your full minimum down payment.",
+      "That loan has 0% interest and no monthly payments. It is due after 30 years, or sooner if you sell, refinance, or stop living in the home."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s3",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "text",
+   "title": "Help in Maryland and Virginia",
+   "body": [
+    {
+     "h3": "Maryland Mortgage Program (MMP)"
+    },
+    {
+     "ul": [
+      "**1st Time Advantage** loans are for first-time buyers. This includes people who have not owned a main home in the last three years. Some veterans and some buyers in certain targeted areas can also qualify.",
+      "**Flex** loans are for first-time or repeat buyers.",
+      "Most MMP loans come with down payment help as a 0% deferred loan. In 2026, options included a flat $6,000, or an amount equal to 3%, 4%, or 5% of the first mortgage. You repay it when the first mortgage ends, for example when you sell or refinance.",
+      "If an approved partner, such as some employers, gives you help, MMP may match it with up to $2,500 more on some loans.",
+      "Every borrower must take an approved homebuyer education class.",
+      "There are special loans for buyers in Montgomery County and Prince George's County.",
+      "You apply through an MMP-approved lender."
+     ]
+    },
+    {
+     "h3": "Virginia Housing"
+    },
+    {
+     "ul": [
+      "Virginia Housing makes home loans through approved lenders, with income and price limits.",
+      "Its **Down Payment Assistance Grant** is a true grant, so you never repay it. It is for first-time buyers, and for repeat buyers in certain areas, who use an eligible Virginia Housing loan.",
+      "A **Closing Cost Assistance Grant** can help buyers who get a VA or USDA loan through Virginia Housing. It is also never repaid.",
+      "Many Virginia Housing loans require its free homebuyer class. You can take it in person or online. The online course takes about eight hours."
+     ]
+    },
+    {
+     "p": "Some counties and cities in the region also run their own programs. A HUD-approved housing counselor can tell you which ones fit you."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s4",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "text",
+   "title": "Rules to check before you count on help",
+   "body": [
+    {
+     "p": "Every program has its own rules. Ask these questions before you make an offer on a home:"
+    },
+    {
+     "ul": [
+      "What is the income limit for my household size?",
+      "Is there a limit on the home price?",
+      "How does the program define a first-time buyer?",
+      "Must I live in the home as my main home? For how long?",
+      "Is a homebuyer class required? Which classes count?",
+      "What minimum credit score and maximum DTI do I need?",
+      "How much of my own money must I put in?",
+      "Is it a grant or a loan? If it is a loan, when must I repay it: when I sell, refinance, move out, or after a set number of years?",
+      "Can I combine it with other programs?",
+      "Does it accept buyers with my immigration status or an ITIN?",
+      "Is money available now, and how long does approval take?",
+      "Which lenders are approved to use this program?"
+     ]
+    },
+    {
+     "p": "Get the answers in writing. Program rules and dollar amounts change, often at the start of a new fiscal year."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s5",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "text",
+   "title": "Mortgage insurance: PMI and FHA premiums",
+   "body": [
+    {
+     "p": "When you put down a small amount, the lender takes more risk. Mortgage insurance protects the lender if you stop paying. It does not protect you, but it is what makes a low down payment possible."
+    },
+    {
+     "h3": "PMI on conventional loans"
+    },
+    {
+     "p": "With less than 20% down on a conventional loan, you usually pay private mortgage insurance (PMI) as part of your monthly payment. Federal law gives you two main ways to end it:"
+    },
+    {
+     "ul": [
+      "You can ask your servicer in writing to cancel PMI when your loan balance is scheduled to reach 80% of the home's original value. You need a good payment history and must meet other conditions, such as showing the home has not lost value.",
+      "Your servicer must end PMI automatically when your balance is scheduled to reach 78% of the original value, if you are current on your payments."
+     ]
+    },
+    {
+     "h3": "FHA mortgage insurance"
+    },
+    {
+     "p": "FHA loans charge two premiums. As of September 2026, the upfront premium is 1.75% of the loan amount, and it can be added to the loan. There is also a yearly premium, paid as part of your monthly payment. For most buyers who put down 3.5%, the yearly premium is 0.55% of the loan, and it lasts for the life of the loan. If you put down 10% or more, it ends after 11 years. Some owners later refinance into a conventional loan to stop paying it."
+    },
+    {
+     "formula": "$350,000 home − $12,250 down = $337,750 loan; $337,750 × 0.55% ÷ 12 = about $155 a month at the start"
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s6",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "example",
+   "title": "Worked example: cash to close on a $350,000 home",
+   "body": [
+    {
+     "p": "Mekdes works at a hospital in DC. She is buying a $350,000 condo in DC with an FHA loan and 3.5% down. Her Loan Estimate shows $10,500 in closing costs, including prepaid taxes and insurance. (Closing costs vary a lot. This number is only an example.)"
+    },
+    {
+     "formula": "$350,000 × 3.5% = $12,250 down payment"
+    },
+    {
+     "table": {
+      "caption": "Cash to close for a $350,000 home, with and without help (example)",
+      "head": [
+       "Item",
+       "Without help",
+       "With a down payment assistance loan"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Down payment (3.5%)",
+        "$12,250",
+        "$12,250"
+       ],
+       [
+        "Closing costs and prepaid items",
+        "$10,500",
+        "$10,500"
+       ],
+       [
+        "Down payment assistance loan",
+        "$0",
+        "−$12,250"
+       ],
+       [
+        "Cash Mekdes must bring",
+        "$22,750",
+        "$10,500"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "The assistance loan cuts her cash to close by more than half. But it is not free money. With a program like DC Open Doors, she must repay the $12,250 when she sells, refinances, or moves out, or after 30 years. If the seller agrees to pay part of her closing costs, she would need even less cash. She should also plan to keep emergency savings after closing, instead of spending every dollar she has."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "down-payment-help-s7",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "warning",
+   "title": "Do not pay for lists of free money",
+   "body": [
+    {
+     "p": "Some websites and callers promise free government money for your down payment if you pay a fee first. Others ask for your Social Security number or bank login to check if you qualify. The real programs in this lesson are listed for free on official websites, and HUD-approved counselors can help you apply for little or no cost. Never pay for a list of grants, and never give your bank login to anyone."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "down-payment-help-s8",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "tip",
+   "title": "Ask lenders the right question",
+   "body": [
+    {
+     "p": "Before you choose a lender, ask: \"Are you approved to make loans with [program name]? How many of these loans did you close this year?\" A lender that uses the program often can help you avoid delays."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "down-payment-help-takeaways",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Some loans need as little as 3% or 3.5% down, and VA and USDA loans can need nothing down for eligible buyers.",
+      "DC, Maryland, and Virginia all have programs that help with the down payment or closing costs. Many are loans you repay when you sell, refinance, or move.",
+      "Before you choose a home, check each program's income limit, first-time buyer rule, class requirement, and repayment rules.",
+      "With a conventional loan, you can ask to cancel PMI when your balance is scheduled to reach 80% of the home's original value.",
+      "Cash to close is your down payment plus closing costs, minus any help. Keep emergency savings after closing too."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-quiz",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/down-payment-help/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-links",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Down Payment Help and Loan Types in DC, Maryland, and Virginia",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Home Purchase Assistance Program (HPAP)",
+       "u": "https://dhcd.dc.gov/service/home-purchase-assistance-program",
+       "org": "DC Department of Housing and Community Development (DHCD)",
+       "d": "DC's interest-free loans for low- and moderate-income first-time buyers, with current income and assistance tables."
+      },
+      {
+       "t": "DC Open Doors",
+       "u": "https://www.dchfa.org/homeownership/dc-open-doors/",
+       "org": "DC Housing Finance Agency (DCHFA)",
+       "d": "Home loans with down payment help for first-time and repeat buyers purchasing in DC."
+      },
+      {
+       "t": "Maryland Mortgage Program",
+       "u": "https://mmp.maryland.gov/",
+       "org": "Maryland Department of Housing and Community Development",
+       "d": "Maryland's home loans with down payment and closing cost help, plus income and price limit tools."
+      },
+      {
+       "t": "Virginia Housing: homebuyers",
+       "u": "https://www.virginiahousing.com/homebuyers",
+       "org": "Virginia Housing",
+       "d": "Virginia's first-time homebuyer loans, down payment and closing cost grants, and free homebuyer classes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-intro",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "intro",
+   "title": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "body": [
+    {
+     "p": "Compare loan offers line by line, understand rate locks and the Closing Disclosure, protect your closing money from wire fraud, and get help early if you fall behind."
+    },
+    {
+     "p": "(About 18 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Compare two Loan Estimates line by line, including rate, points, APR, and closing costs.",
+      "Explain rate locks and the Closing Disclosure you must receive three business days before closing.",
+      "Protect your closing money from wire fraud.",
+      "Take the right first steps if you fall behind on your mortgage, and avoid foreclosure rescue scams."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class practices comparing Loan Estimates and covers the steps to closing. This lesson adds a side-by-side example with points, a closing-week checklist, wire fraud protection, and local help if you ever fall behind on payments."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-words",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Loan Estimate",
+       "A three-page form a lender must give you within three business days after you apply. It shows the estimated rate, monthly payment, and closing costs."
+      ],
+      [
+       "Closing Disclosure",
+       "A five-page form with your final loan terms and costs. You must receive it at least three business days before closing."
+      ],
+      [
+       "Discount points",
+       "An upfront fee you pay to get a lower interest rate. One point costs 1% of the loan amount."
+      ],
+      [
+       "APR (annual percentage rate)",
+       "The yearly cost of a loan, including the interest rate plus certain fees and points. It helps you compare offers."
+      ],
+      [
+       "Rate lock",
+       "A lender's promise to hold your interest rate for a set time, such as 30, 45, or 60 days, while you finish buying the home."
+      ],
+      [
+       "Mortgage servicer",
+       "The company that collects your monthly payments and handles your loan after closing. It may not be the lender that made the loan."
+      ],
+      [
+       "Loss mitigation",
+       "Options a servicer may offer to help you avoid foreclosure, such as a repayment plan, a forbearance, or a loan modification."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s1",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "example",
+   "title": "Worked example: two Loan Estimates side by side",
+   "body": [
+    {
+     "p": "Binh and Thao are buying a townhouse in Falls Church, Virginia. They will borrow $300,000 with a 30-year fixed-rate loan. A fixed-rate loan keeps the same interest rate for the whole loan. An adjustable-rate loan (ARM) can change its rate after a set time, so the payment can go up. Two lenders sent them Loan Estimates. (These rates are only examples, not today's rates.)"
+    },
+    {
+     "table": {
+      "caption": "Two Loan Estimates for a $300,000, 30-year fixed-rate loan (example)",
+      "head": [
+       "Item",
+       "Offer A",
+       "Offer B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Interest rate",
+        "6.50%",
+        "6.25%"
+       ],
+       [
+        "Discount points",
+        "0 ($0)",
+        "1 ($3,000)"
+       ],
+       [
+        "Other lender fees",
+        "$1,200",
+        "$1,200"
+       ],
+       [
+        "APR (with these fees)",
+        "about 6.54%",
+        "about 6.38%"
+       ],
+       [
+        "Monthly principal and interest",
+        "$1,896",
+        "$1,847"
+       ],
+       [
+        "Paid in the first 5 years (payments, points, and fees)",
+        "$114,972",
+        "$115,029"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "$3,000 for the point ÷ $49 saved each month = about 61 months, or about 5 years"
+    },
+    {
+     "p": "Offer B costs $3,000 more at closing but saves $49 a month. It takes about five years to earn back the cost of the point. After five years, the two offers have cost about the same. If Binh and Thao plan to keep this loan longer than that, Offer B saves money. If they might sell or refinance sooner, Offer A is the better choice, and it leaves them more cash for emergencies."
+    },
+    {
+     "p": "Also compare the APR. It includes points and fees, so it helps you compare offers that have different costs. Page 3 of every Loan Estimate also shows how much you will have paid in the first five years."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "closing-day-s2",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "text",
+   "title": "Compare at least three offers",
+   "body": [
+    {
+     "ol": [
+      "Ask at least three lenders for a Loan Estimate, for example a bank, a credit union, and a mortgage company. A lender must send it within three business days after you apply.",
+      "Apply within a short time, such as two weeks. Credit scores count several credit checks from mortgage lenders made close together as a single inquiry. Depending on the score, that window is 14 to 45 days.",
+      "Make sure each estimate is for the same loan type, loan amount, and down payment, so you can compare fairly.",
+      "Compare the interest rate, points, APR, monthly payment, closing costs, and cash to close.",
+      "Ask each lender to explain any fee you do not understand. You can ask, \"Can you lower this fee or match this other offer?\"",
+      "On page 1, check for a **prepayment penalty** (a fee for paying off the loan early) or a **balloon payment** (a very large payment due at the end). Most buyers should avoid both."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s3",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "text",
+   "title": "Rate locks: what can still change",
+   "body": [
+    {
+     "p": "Mortgage rates change every day. A rate lock holds your rate for a set time, often 30, 45, or 60 days, as long as you close in time and nothing in your application changes. Ask for the lock in writing."
+    },
+    {
+     "p": "Even with a lock, your rate or costs can change if:"
+    },
+    {
+     "ul": [
+      "you change the loan type or the size of your down payment,",
+      "the appraisal (a professional estimate of the home's value) comes in higher or lower than expected,",
+      "your credit score changes, or",
+      "the lender cannot document some of your income, such as overtime or bonuses."
+     ]
+    },
+    {
+     "p": "Ask your lender: \"How long is my lock? What will it cost to extend it if closing is delayed?\" Extensions can be expensive."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s4",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "text",
+   "title": "The Closing Disclosure: check it three days before closing",
+   "body": [
+    {
+     "p": "The lender must give you the Closing Disclosure at least three business days before closing. (In the DC area, closing is often called settlement.) Use those days to compare it with your latest Loan Estimate, line by line."
+    },
+    {
+     "h3": "Which costs can change"
+    },
+    {
+     "ul": [
+      "**Cannot go up** (unless something in your application or loan changed, or your rate was not locked yet): fees paid to the lender or mortgage broker, such as points and origination fees, fees for required services you were not allowed to shop for, and transfer taxes.",
+      "**Can go up, but by no more than 10% in total:** recording fees, and fees for required services when you chose a provider from the lender's list.",
+      "**Can change by any amount:** prepaid interest, homeowners insurance, escrow deposits, and services the lender does not require."
+     ]
+    },
+    {
+     "p": "An escrow account is money your servicer collects with each monthly payment to pay your property taxes and home insurance for you. At closing you usually put some money in to start it."
+    },
+    {
+     "p": "If a fee went up more than the rules allow and nothing changed, you are entitled to a refund of the extra amount. Some changes also give you a new three-day waiting period: the APR on a fixed-rate loan goes up by more than 1/8 of a percentage point, a prepayment penalty is added, or the loan type changes, for example from fixed to adjustable."
+    },
+    {
+     "h3": "Closing-week checklist"
+    },
+    {
+     "ul": [
+      "Compare the Closing Disclosure with your Loan Estimate: loan amount, rate, monthly payment, points, fees, and cash to close.",
+      "Ask the lender about every difference before closing day.",
+      "Set up homeowners insurance. Lenders require it.",
+      "Confirm how to pay your cash to close by calling a phone number you already trust.",
+      "Do a final walk-through: visit the home to check that it is in the condition you agreed to.",
+      "Bring a photo ID. If you need an interpreter, arrange one ahead of time, or bring someone you trust.",
+      "Do not sign anything you do not understand, and never sign blank pages. Keep copies of everything."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s5",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "warning",
+   "title": "Wire fraud: check before you send",
+   "body": [
+    {
+     "p": "A title company or settlement attorney runs the closing. It checks that the seller really owns the home, collects your cash to close, and pays everyone. That is why scammers pretend to be them."
+    },
+    {
+     "p": "Scammers break into or copy email accounts. A few days before closing, they send a message that looks like it is from your title company, settlement attorney, or agent. It says the wiring instructions have changed. If you send money to the scammer, it can be very hard to get it back."
+    },
+    {
+     "ol": [
+      "Early in the process, write down the names and phone numbers of your settlement agent and loan officer. Get the numbers from your contract or a meeting, not from an email.",
+      "Before you send money, call the title company or settlement attorney at that number. Confirm the account number and amount out loud.",
+      "Treat any message about new payment instructions as a warning sign, even if it looks real. Do not use phone numbers or links in that message.",
+      "If you already sent money, call your bank right away and ask it to stop or recall the wire. Then report it to the FBI at [ic3.gov](https://www.ic3.gov/)."
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "closing-day-s6",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "text",
+   "title": "If you fall behind on payments",
+   "body": [
+    {
+     "p": "Fewer work hours, a layoff, or a medical bill can make it hard to pay. The most important step is to act early. Foreclosure is the legal process a lender uses to take and sell your home when you stop paying the mortgage. Generally, the foreclosure process cannot start until you are more than 120 days behind. Use that time."
+    },
+    {
+     "ol": [
+      "Call your servicer as soon as you know you might miss a payment. The phone number is on your monthly statement.",
+      "Ask about **loss mitigation** options, such as a repayment plan, a forbearance (a short pause or lower payments), or a loan modification (a lasting change to your loan terms).",
+      "Send a complete application quickly. If your servicer gets it before the foreclosure starts, the servicer generally must review it before it can start the foreclosure.",
+      "Call a HUD-approved housing counselor at 800-569-4287. They can help you with the application, often for free.",
+      "Open every letter from your servicer and from the court. If you miss a deadline, you can lose some options."
+     ]
+    },
+    {
+     "quote": "Hello, my name is [your name]. My loan number is [loan number]. My income dropped on [date] because [reason]. I want to keep my home, but I may not be able to make my payment due on [due date]. What loss mitigation options do I have? Please send me an application and tell me every document you need and the deadline. May I have your name and a reference number for this call?"
+    },
+    {
+     "h3": "Local help"
+    },
+    {
+     "ul": [
+      "**DC:** call the Foreclosure Prevention Hotline at (202) 265-2255. After you get a notice of default, you can use the DC Foreclosure Mediation Program, where you and your lender meet with a neutral mediator. Legal Aid DC and the DC Bar Pro Bono Center offer free legal help to people who qualify.",
+      "**Maryland:** call the homeowner assistance hotline at 1-877-462-7555. Maryland also has foreclosure mediation for people who live in the home. You must ask the court for it within 25 days after you receive the court papers that start the foreclosure, and there is a fee. Maryland Legal Aid helps people who qualify.",
+      "**Virginia:** call a HUD-approved counselor early. Legal Services of Northern Virginia helps people who qualify."
+     ]
+    },
+    {
+     "p": "For more steps when income drops, see [When Income Stops: Your First 30 Days](https://dollarscholars.org/resources/lessons/income-shock/)."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s7",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "warning",
+   "title": "Foreclosure rescue scams",
+   "body": [
+    {
+     "p": "People who fall behind often get calls, letters, and visits from companies that promise to save their home. Some say they work with the government or your lender. Watch for these warning signs:"
+    },
+    {
+     "ul": [
+      "They ask for a fee before they do anything. Under federal rules, a company generally cannot charge you until you have a written offer from your lender and you accept it.",
+      "They tell you to stop talking to your servicer, or to send your mortgage payments to them.",
+      "They ask you to sign over the deed (the paper that shows who owns the home). If you do, you can lose your home and still owe the mortgage.",
+      "They want payment by wire transfer, cashier's check, or a payment app."
+     ]
+    },
+    {
+     "p": "Help from your servicer and from HUD-approved counselors is free or low-cost. Report scams to the FTC at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) or to your state attorney general. See also our lesson on [spotting scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "closing-day-s8",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "tip",
+   "title": "Keep a home file",
+   "body": [
+    {
+     "p": "Keep your Loan Estimate, Closing Disclosure, deed, and insurance policy together. Each year, read your escrow statement. Your escrow account is money your servicer collects each month to pay property taxes and insurance. If taxes or insurance go up, your monthly payment can go up too."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "closing-day-takeaways",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Get Loan Estimates from at least three lenders within about two weeks. Credit scores count mortgage credit checks made close together as one inquiry.",
+      "Points lower your rate but cost cash now. Divide the cost by the monthly savings to see how long it takes to earn it back.",
+      "You must get the Closing Disclosure at least three business days before closing. Compare it with your Loan Estimate.",
+      "Before you send closing money, call your title company or settlement attorney at a phone number you already know.",
+      "If you might miss a payment, call your servicer and a HUD-approved counselor right away. Never pay upfront fees to save your home."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-quiz",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/closing-day/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "closing-day-links",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "From Loan Estimate to Closing Day (and Keeping Your Home)",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Loan Estimate explainer",
+       "u": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "A sample Loan Estimate you can click on to see what each line means and what to check."
+      },
+      {
+       "t": "Mortgage Relief Scams",
+       "u": "https://consumer.ftc.gov/articles/mortgage-relief-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Warning signs of foreclosure rescue scams, the rule against upfront fees, and where to get free help."
+      },
+      {
+       "t": "Foreclosure Prevention",
+       "u": "https://disb.dc.gov/service/foreclosure-prevention",
+       "org": "DC Department of Insurance, Securities and Banking (DISB)",
+       "d": "DC's foreclosure prevention hotline, the Foreclosure Mediation Program, and other help for DC homeowners."
+      },
+      {
+       "t": "Estafas de alivio para deudores hipotecarios",
+       "u": "https://consumidor.ftc.gov/articulos/estafas-de-alivio-para-deudores-hipotecarios",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The Spanish version of the FTC guide to mortgage relief scams."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

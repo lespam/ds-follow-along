@@ -1,0 +1,135 @@
+import * as store from "./storage.js";
+import { h } from "./dom.js";
+import { renderBlockBody } from "./blocks.js";
+import { detectLang, initLanguages, setLanguage, t, loadTopic, loadIndex } from "./i18n.js";
+import { renderBackup } from "./backup.js";
+
+const main = document.getElementById("main");
+const langSel = document.getElementById("lang");
+const $ = h;
+
+// ---- Vistas ----
+async function showTopics() {
+  const idx = await loadIndex();
+  const last = store.getLast();
+  main.replaceChildren($("h2", { tabIndex: -1, textContent: t("topics") }));
+  if (last) {
+    const topic = await loadTopic(last.topic);
+    const n = Math.min(last.block, topic.blocks.length - 1);
+    main.append($("div", { className: "card" },
+      $("button", { type: "button", textContent: t("continue"), onclick: () => showBlock(last.topic, n) }),
+      $("p", { className: "muted", textContent: t("continueTo", { topic: topic.title, n: n + 1, total: topic.blocks.length }) })));
+  }
+  const ul = $("ul", { className: "topics" });
+  idx.topics.forEach((tp) => ul.append($("li", {}, $("button", { type: "button", className: "ghost", textContent: tp.title, onclick: () => showBlock(tp.id, store.getLast()?.topic === tp.id ? store.getLast().block : 0) }),
+    tp.summary ? $("p", { className: "muted small-text", textContent: tp.summary }) : null)));
+  main.append(ul, $("p", { className: "muted", textContent: store.isMemoryOnly() ? t("memoryOnly") : t("saved") }),
+    $("button", { type: "button", className: "ghost", textContent: t("myData"), onclick: () => { renderBackup(main, showTopics); } }));
+  focusHeading();
+}
+
+async function showBlock(topicId, n) {
+  const topic = await loadTopic(topicId);
+  const total = topic.blocks.length;
+  n = Math.max(0, Math.min(n, total - 1));
+  const b = topic.blocks[n];
+  store.setLast(topicId, n);
+  const card = $("section", { className: "card" },
+    $("p", { className: "muted", textContent: `${topic.title} · ${t("blockOf", { n: n + 1, total })}` }),
+    b.lessonTitle ? $("p", { className: "muted lesson-name", textContent: b.lessonTitle }) : null,
+    $("h2", { tabIndex: -1, textContent: b.title }),
+    );
+  renderBlockBody(card, b, topic);
+  const last = n === total - 1;
+  const nav = $("div", { className: "nav" },
+    $("button", { type: "button", className: "ghost", disabled: n === 0, textContent: t("back"), onclick: () => showBlock(topicId, n - 1) }),
+    $("button", { type: "button", textContent: last ? t("finish") : t("next"), onclick: () => { store.markDone(topicId, b.id); last ? showTopics() : showBlock(topicId, n + 1); } }));
+  main.replaceChildren(card, nav, tocFor(topic, n), $("button", { type: "button", className: "ghost", textContent: t("toTopics"), onclick: showTopics }));
+  focusHeading();
+}
+
+function tocFor(topic, current) {
+  const box = $("details", { className: "toc" }, $("summary", { textContent: t("toc") }));
+  let lesson, ul;
+  topic.blocks.forEach((b, i) => {
+    if (b.lessonTitle !== lesson || !ul) {
+      lesson = b.lessonTitle;
+      if (lesson) box.append($("h3", { textContent: lesson }));
+      ul = $("ul", { className: "toc-list" }); box.append(ul);
+    }
+    const btn = $("button", { type: "button", className: "ghost small", textContent: `${store.isDone(topic.id, b.id) ? "✓ " : ""}${b.title}`, onclick: () => showBlock(topic.id, i) });
+    if (i === current) btn.setAttribute("aria-current", "step");
+    ul.append($("li", {}, btn));
+  });
+  return box;
+}
+
+// Enlaces entre lecciones: abre el primer bloque de la lección pedida.
+document.addEventListener("ds:lesson", (e) => safe(async () => {
+  const slug = e.detail;
+  const tp = (await loadIndex()).topics.find((x) => x.lessons?.includes(slug));
+  if (!tp) return;
+  const topic = await loadTopic(tp.id);
+  const i = topic.blocks.findIndex((b) => b.lesson === slug);
+  showBlock(tp.id, Math.max(0, i));
+}));
+
+const focusHeading = () => main.querySelector("h2")?.focus({ preventScroll: false });
+const safe = (fn) => fn().catch(() => main.replaceChildren($("p", { role: "alert", textContent: t("loadError") })));
+
+// ---- Idioma ----
+langSel.addEventListener("change", () => safe(async () => {
+  store.setLang(langSel.value);
+  await setLanguage(langSel.value);
+  document.title = t("appName");
+  showVersion();
+  await showTopics();
+}));
+
+// ---- Versión y actualización (sin reinstalar) ----
+let build = "";
+const showVersion = () => { if (build) document.getElementById("ver").textContent = t("version", { build }); };
+async function setupUpdates() {
+  try {
+    const v = await (await fetch("version.json", { cache: "no-store" })).json();
+    build = v.build;
+    showVersion();
+  } catch { /* sin conexión: se omite */ }
+  if (!("serviceWorker" in navigator)) return;
+  const banner = document.getElementById("update");
+  const offer = (worker) => {
+    banner.hidden = false;
+    document.getElementById("update-btn").onclick = () => worker.postMessage("SKIP_WAITING");
+  };
+  let hadController = !!navigator.serviceWorker.controller;
+  const reg = await navigator.serviceWorker.register("sw.js");
+  if (reg.waiting && navigator.serviceWorker.controller) offer(reg.waiting);
+  reg.addEventListener("updatefound", () => {
+    const w = reg.installing;
+    w.addEventListener("statechange", () => {
+      if (w.state === "installed" && navigator.serviceWorker.controller) offer(w);
+    });
+  });
+  let reloading = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (!hadController) { hadController = true; return; } // primera instalación: no recargar
+    if (reloading) return;
+    reloading = true;
+    location.reload(); // los datos están en localStorage: no se pierden
+  });
+  const check = () => reg.update().catch(() => {});
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) check(); });
+  setInterval(check, 60 * 60 * 1000);
+}
+
+// ---- Arranque ----
+safe(async () => {
+  langSel.replaceChildren(...(await initLanguages()).map((l) => $("option", { value: l.code, textContent: l.name })));
+  const lang = detectLang(store.getLang());
+  langSel.value = lang;
+  await setLanguage(lang);
+  document.title = t("appName");
+  store.askPersistent();
+  await showTopics();
+  setupUpdates();
+});

@@ -1,0 +1,1276 @@
+{
+ "id": "tema-04",
+ "title": "Tema 4: Reportes de crédito y puntajes crediticios",
+ "summary": "Lee tu reporte de crédito y corrige errores, construye crédito desde cero (incluso siendo nuevo o titular de ITIN) y aprende qué es lo que realmente mueve tu puntaje.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "read-your-credit-report",
+   "title": "Lee tu reporte de crédito y corrige errores",
+   "summary": "Obtén tus reportes gratuitos, lee cada parte con un reporte de ejemplo, envía una disputa con una carta de relleno y sabe qué hacer si no se corrige un error.",
+   "meta": "(Aproximadamente 18 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "build-credit",
+   "title": "Construye crédito desde cero",
+   "summary": "Un plan mes a mes para obtener un primer puntaje crediticio, con costos comparados, para recién llegados, adultos jóvenes, titulares de ITIN y cualquier persona sin historial crediticio.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "credit-score-factors",
+   "title": "Qué mueve tu puntaje crediticio (y qué no)",
+   "summary": "Observa cómo los pagos y los saldos de las tarjetas cambian un puntaje con ejemplos resueltos, distingue mitos de hechos, revisa las reglas de deuda médica 2026 y evita estafas de reparación de crédito.",
+   "meta": "(Aproximadamente 17 min, 6 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "read-your-credit-report-intro",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "intro",
+   "title": "Lee tu reporte de crédito y corrige errores",
+   "body": [
+    {
+     "p": "Obtén tus reportes gratuitos, lee cada parte con un reporte de ejemplo, envía una disputa con una carta de relleno y sabe qué hacer si no se corrige un error."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Obtén tus reportes de crédito gratuitos en AnnualCreditReport.com, el sitio oficial, para reportes gratuitos.",
+      "Lee cada sección de un reporte de crédito y detecta errores comunes.",
+      "Envía una disputa a una agencia de crédito y a la empresa que reportó el error.",
+      "Da seguimiento a una disputa y presenta una queja si no se corrige un error."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre lo que contiene un reporte de crédito y tu derecho a disputar errores. Esta lección te guía a través de un informe de ejemplo, una carta de disputa para llenar y un registro de registros, y muestra los siguientes pasos si una agencia de crédito no corrige un error."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-words",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Reporte de crédito (Credit report)",
+       "Un registro de cómo usas el crédito, como préstamos y tarjetas de crédito, cuánto debes y si pagaste a tiempo."
+      ],
+      [
+       "Agencia de crédito (Credit bureau)",
+       "Una empresa que recopila información crediticia y vende reportes de crédito. Las tres agencias de crédito a nivel nacional son Equifax, Experian y TransUnion."
+      ],
+      [
+       "Disputa (Dispute)",
+       "Una solicitud formal que pide a una agencia de crédito o a una empresa que revise la información que usted considere incorrecta y la corrija."
+      ],
+      [
+       "Proveedor (Furnisher)",
+       "La empresa que envía información sobre ti a una agencia de crédito, como un banco, compañía de tarjetas, prestamista o cobrador de deudas."
+      ],
+      [
+       "Investigación dura (Hard inquiry)",
+       "Un registro de que un prestamista revisó tu crédito porque solicitaste crédito. Puede bajar un poco tu puntaje."
+      ],
+      [
+       "Cuenta de cobranza (Collection account)",
+       "Una deuda que la primera empresa envió o vendió a un cobrador porque no fue pagada."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s1",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "text",
+   "title": "Obtén tus reportes gratis de la manera segura",
+   "body": [
+    {
+     "p": "Tu **reporte de crédito** es un registro de cómo usas el crédito. Incluye tus préstamos y tarjetas de crédito, cuánto debes y si pagaste a tiempo. Prestamistas, arrendadores, compañías de seguros y algunos empleadores pueden revisarlo. Un error en tu reporte puede costarte un préstamo, un departamento o una tasa de interés más baja."
+    },
+    {
+     "p": "Tres **agencias de crédito** a nivel nacional mantienen reportes: Equifax, Experian y TransUnion. Cada una lleva su propio reporte sobre ti, y los tres reportes no siempre coinciden. Por eso deberías revisar los tres."
+    },
+    {
+     "p": "Puedes obtener los tres reportes gratis cada [semana en AnnualCreditReport.com](https://www.annualcreditreport.com/). Las agencias han hecho permanentes los reportes gratuitos semanales. Este es el sitio oficial para reportes de crédito gratuitos. Escribe la dirección tú mismo en lugar de hacer clic en un anuncio o enlace en un mensaje. No necesitas comprar nada para obtener tus reportes gratuitos ahí."
+    },
+    {
+     "ol": [
+      "Ve a AnnualCreditReport.com desde tu propio teléfono o computadora. O llama al 1-877-322-8228 para recibir tus reportes por correo.",
+      "Ingresa tu nombre, dirección, fecha de nacimiento y número de Seguro Social. Luego responde preguntas de seguridad sobre tus cuentas anteriores.",
+      "Elige las tres agencias de crédito.",
+      "Guarda o imprime cada reporte. Anota el número de confirmación si el reporte tiene uno. Lo necesitarás si disputas algo."
+     ]
+    },
+    {
+     "p": "**¿No tienes número de Seguro Social?** Aún puedes tener un reporte de crédito. Por lo general no puedes obtenerlo en línea, pero puedes preguntar a cada agencia por correo. Incluye copias de una identificación gubernamental que muestre tu dirección actual y una factura o estado de cuenta bancario reciente. Llama primero a la agencia para preguntar qué necesita: Equifax (866) 349-5191, Experian (888) 397-3742, TransUnion (800) 916-8800."
+    },
+    {
+     "p": "Si una empresa te rechaza por tu reporte, debe enviarte un aviso. Entonces puedes obtener un reporte extra gratuito de la agencia de crédito mencionada en el aviso. Pregunta dentro de los 60 días."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s2",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "example",
+   "title": "Un informe de ejemplo: el informe de Elena para TransUnion",
+   "body": [
+    {
+     "p": "Elena vive en Hyattsville, Maryland. Vivió en Washington, DC, de 2019 a 2023. Nunca ha vivido en Richmond, Virginia. Paga su préstamo de auto con pago automático, y sus estados de cuenta bancarios muestran que todos los pagos se enviaron a tiempo. Imprimió su reporte de TransUnion en agosto de 2026. Aquí hay una versión corta."
+    },
+    {
+     "table": {
+      "caption": "Ejemplo de reporte de crédito de Elena (versión corta)",
+      "head": [
+       "Sección",
+       "Lo que muestra el informe",
+       "Qué revisar"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Información personal",
+        "Elena M. Mendez. Direcciones: Hyattsville, MD; Washington, DC; Richmond, VA.",
+        "¿Cada nombre, dirección y fecha de nacimiento es tuyo?"
+       ],
+       [
+        "Cuenta: préstamo para auto en una cooperativa de crédito",
+        "Abierto en junio de 2023. Pago de $310 al mes. Marcado con 30 días de retraso en enero de 2026.",
+        "¿Son correctos el saldo, las fechas y el estado de pago de cada mes?"
+       ],
+       [
+        "Cuenta: tarjeta de crédito de la tienda",
+        "Límite de $500. Saldo $120. Pagado a tiempo cada mes.",
+        "¿El límite y el saldo coinciden con tu estado de cuenta?"
+       ],
+       [
+        "Cuenta: tarjeta de crédito bancaria",
+        "Abierto en marzo de 2026 con la dirección de Richmond, VA. Saldo $1,900. 60 días tarde.",
+        "¿Abriste esta cuenta tú mismo?"
+       ],
+       [
+        "Colecciones",
+        "Compañía telefónica, $240, no pagado. Primer pago atrasado en 2017.",
+        "¿La deuda es tuya? ¿La cantidad es correcta? ¿Es muy vieja para reportar?"
+       ],
+       [
+        "Registros públicos",
+        "Ninguno.",
+        "Si aparece una bancarrota, ¿es tuya y tiene menos de 10 años?"
+       ],
+       [
+        "Consultas duras",
+        "Compañía de tarjetas bancarias, marzo de 2026.",
+        "¿Solicitaste crédito con cada empresa listada?"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Un reporte real es más largo. Tu propia copia también muestra consultas suaves, como cuando revisas tu propio reporte. Solo tú ves esas, y no afectan tu puntaje."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "read-your-credit-report-s3",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "text",
+   "title": "Errores comunes a los que debes buscar",
+   "body": [
+    {
+     "p": "Usa esta lista de verificación en cada uno de tus tres reportes. El informe de muestra de Elena arriba tiene tres problemas. ¿Puedes encontrarlos?"
+    },
+    {
+     "ul": [
+      "**Información que no es tuya.** Un nombre, dirección, fecha de nacimiento o número de Seguro Social que no conoces. Esto puede significar que tu expediente está mezclado con el de otra persona, a menudo alguien con un nombre similar.",
+      "**Cuentas o consultas duras que no hiciste.** Estas pueden ser señales de robo de identidad.",
+      "**Pagos atrasados incorrectos.** Un pago marcado como tardío cuando pagaste a tiempo. Busca tu estado de cuenta bancario o recibo.",
+      "**La misma deuda listada dos veces**, por ejemplo por la primera compañía y por un cobrador de deudas, ambos con saldo.",
+      "**Estatus o montos incorrectos**, como una cuenta que cerraste que aparece como abierta, o el saldo o límite incorrectos.",
+      "**Información negativa antigua.** La mayoría de la información negativa puede permanecer en tu reporte por siete años. Una bancarrota puede permanecer hasta por 10 años. Los artículos antiguos deberían desaparecer.",
+      "**Cobranzas médicas que no deberían estar ahí.** Las tres oficinas dicen que no incluyen cobranzas médicas pagadas o que comenzaron con menos de $500."
+     ]
+    },
+    {
+     "p": "Si encuentras una cuenta que nunca abriste, trátala como posible robo de identidad. Puedes congelar el crédito gratis. Sigue los pasos de la [lección sobre robo de identidad](https://dollarscholars.org/es-mx/resources/lessons/identity-theft/)."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s4",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "text",
+   "title": "Cómo disputar, paso a paso",
+   "body": [
+    {
+     "p": "Las disputas son gratuitas. Puedes disputar en línea, por teléfono o por correo. En línea suele ser el más rápido. El correo certificado con acuse de recibo es más lento, pero prueba lo que enviaste y cuándo llegó. De cualquier forma, guarda una copia o una captura de pantalla de lo que enviaste."
+    },
+    {
+     "ol": [
+      "Marca o resalta cada error en una copia de tu informe.",
+      "Reúne pruebas, como estados de cuenta bancarios, recibos, cartas del prestamista o un reporte de robo de identidad. Envíe copias y conserve los originales.",
+      "Envía una disputa a cada agencia de crédito que muestre el error. Di qué está mal, por qué está mal y qué quieres: elimínalo o corrígelo.",
+      "Envía también una disputa al **proveedor** . Esta es la empresa que reportó la información, como el prestamista o el cobrador de deudas. Su dirección suele aparecer en tu reporte.",
+      "Escribe cada paso en un registro: la fecha, a quién contactaste, qué enviaste y cualquier número de rastreo.",
+      "Espera los resultados. La agencia de crédito generalmente tiene 30 días para investigar. Envía tu disputa y tu comprobante al proveedor, y luego debe decirte los resultados.",
+      "Consigue nuevas copias de tus reportes. Asegúrate de que la solución aparezca en todos los reportes que tuvieron el error."
+     ]
+    },
+    {
+     "p": "La Comisión Federal de Comercio (FTC) lista estas direcciones de disputa. Revisa el sitio web de la oficina antes de enviar correo, en caso de que haya cambiado una dirección:"
+    },
+    {
+     "ul": [
+      "Equifax, apartado postal 740256, Atlanta, GA 30348",
+      "Experian, P.O. Box 4500, Allen, TX 75013",
+      "TransUnion, P.O. Box 2000, Chester, PA 19016"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s5",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "example",
+   "title": "Carta de disputa para completar y registro de registros",
+   "body": [
+    {
+     "p": "Aquí hay una carta que Elena podría enviar sobre su préstamo de auto. Cambia las palabras entre corchetes para ajustarlas a tu caso. Envía una carta a la agencia de crédito y una carta similar a la compañía que reportó el error."
+    },
+    {
+     "quote": "[Tu nombre completo] [Dirección de calle] [Ciudad, estado, código postal] [Número de teléfono] [Fecha] [Nombre de la agencia de crédito o empresa] [Dirección de disputa] Asunto: Disputa de información en mi reporte de crédito. Número de confirmación: [número de tu reporte, si lo hay] Escribo para disputar información en mi reporte de crédito que no sea correcta. He marcado el elemento en la copia adjunta de mi reporte. Empresa: [nombre de la empresa]. Número de cuenta: [solo los últimos cuatro dígitos]. Lo que dice el informe: [por ejemplo, 30 días tarde en enero de 2026]. Por qué está mal: [por ejemplo, pagué a tiempo. Mi estado de cuenta bancario muestra el pago el 5 de enero de 2026.] Por favor, investiga y [corrige / elimina] este artículo. Por favor, envíame los resultados por escrito. He adjuntado: una copia de mi informe con el ítem circulado; [lista tu prueba]; una copia de mi identificación. Atentamente, [Tu firma] [Tu nombre impreso]"
+    },
+    {
+     "p": "Lleva un registro sencillo como este. Es una prueba útil si después presentas una queja o recibes ayuda legal."
+    },
+    {
+     "table": {
+      "caption": "Registro de disputas de Elena",
+      "head": [
+       "Fecha",
+       "¿Quién",
+       "Qué pasó y siguiente paso"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "10 de agosto de 2026",
+        "TransUnion",
+        "Carta de disputa enviada por correo certificado. Anoté el número de rastreo. Siguiente: busca resultados aproximadamente 30 días después de que llega la carta."
+       ],
+       [
+        "10 de agosto de 2026",
+        "Cooperativa de crédito",
+        "Envié una carta similar a la dirección de disputa en el reporte. Siguiente: llama si no hay respuesta en 30 días."
+       ],
+       [
+        "4 de septiembre de 2026",
+        "TransUnion",
+        "Carta de resultados: el pago atrasado fue eliminado. Siguiente: consigue un nuevo reporte para revisar."
+       ]
+      ],
+      "total": []
+     }
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "read-your-credit-report-s6",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "text",
+   "title": "Si el error no se corrige",
+   "body": [
+    {
+     "p": "A veces la agencia de crédito dice que la compañía confirmó la información, así que se queda. Aún tienes opciones."
+    },
+    {
+     "ol": [
+      "**Disputa directamente con el proveedor**, si no lo has hecho ya. Por lo general, debe investigar y responder dentro de los 30 días posteriores a tu disputa.",
+      "**Envía nuevas pruebas.** Si encuentras más documentos, envía una nueva disputa e inclúyelos.",
+      "**Agrega un estado de cuenta.** Pide a la agencia de crédito que ponga un extracto corto sobre la disputa en tu expediente. Aparecerá con futuros reportes. Puedes pedirle a la agencia que lo envíe a cualquiera que haya recibido tu reporte recientemente. Puede que haya una tarifa por eso.",
+      "**Presenta una queja ante la Oficina de Protección Financiera del Consumidor (CFPB)** al [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) o al (855) 411-2372. La CFPB envía tu queja a la empresa. La mayoría de las empresas responden en un plazo de 15 días.",
+      "**Obtén ayuda legal gratuita.** Un abogado puede decirte si tienes un reclamo bajo la Ley de Reporte Justo de Crédito, la ley federal sobre reportes de crédito."
+     ]
+    },
+    {
+     "p": "Ayuda legal gratuita en el área de DC: **Legal Aid DC** (202) 628-1161, **Maryland Legal Aid** 888-465-2468 y **Legal Services of Northern Virginia** 703-778-6800. También puedes presentar una queja ante la oficina de protección al consumidor del Fiscal General de DC al 202-442-9828, la Oficina de Regulación Financiera de Maryland al 410-230-6077, o la sección de protección al consumidor del Fiscal General de Virginia al 804-786-2042."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s7",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "warning",
+   "title": "Sitios web parecidos y ayudantes falsos",
+   "body": [
+    {
+     "p": "Algunos sitios web usan nombres que parecen AnnualCreditReport.com, o lo escriben un poco diferente. Pueden intentar venderte algo o recopilar tu información personal. Siempre escribe AnnualCreditReport.com tú mismo."
+    },
+    {
+     "p": "Si alguien te contacta por un problema con tu reporte de crédito y te pide tu número de Seguro Social, una contraseña o un pago, detente. Consigue tus reportes tú mismo. Nunca pagues a una empresa para disputar errores antes de que haga el trabajo. Cobrar primero es ilegal. Ve [qué mueve tu puntaje crediticio](https://dollarscholars.org/es-mx/resources/lessons/credit-score-factors/) y [cómo detectar una estafa](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "read-your-credit-report-s8",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "tip",
+   "title": "Hazlo un hábito",
+   "body": [
+    {
+     "p": "Pon un recordatorio en tu teléfono para revisar tus reportes cada pocos meses, y siempre antes de un gran paso, como rentar un departamento o solicitar un préstamo para auto. Como los reportes son gratuitos cada semana, puedes revisar una agencia a la vez durante el año, o las tres a la vez."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "read-your-credit-report-takeaways",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Puedes obtener reportes gratuitos de Equifax, Experian y TransUnion cada semana en AnnualCreditReport.com.",
+      "Revisa los tres reportes. Un error puede estar en un reporte y no en los demás.",
+      "Disputa por escrito con la agencia de crédito y con la empresa que reportó el error, y guarda copias de todo.",
+      "La agencia de crédito generalmente tiene 30 días para investigar. Si el error persiste, agrega una declaración y presenta una queja ante la CFPB.",
+      "Las disputas son gratuitas. Nunca necesitas pagarle a nadie para arreglar un error real."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-quiz",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/read-your-credit-report/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-links",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Lee tu reporte de crédito y corrige errores",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Informes de crédito gratuitos",
+       "u": "https://consumidor.ftc.gov/articulos/informes-de-credito-gratuitos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La guía de la FTC en español: cómo obtener tus reportes de crédito gratuitos cada semana y evitar sitios web falsos."
+      },
+      {
+       "t": "Reportes de crédito gratuitos",
+       "u": "https://consumer.ftc.gov/articles/free-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo obtener tus reportes semanales gratuitos en línea, por teléfono o por correo, y cuándo puedes obtener reportes extra gratuitos."
+      },
+      {
+       "t": "Disputando errores en tus reportes de crédito",
+       "u": "https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Instrucciones paso a paso para disputar con cartas de ejemplo para las agencias de crédito y para el negocio que reportó el error."
+      },
+      {
+       "t": "Presenta una queja",
+       "u": "https://www.consumerfinance.gov/complaint/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Presenta una queja sobre una agencia de crédito o una empresa que reportó información incorrecta, en línea o por teléfono al (855) 411-2372."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-intro",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "intro",
+   "title": "Construye crédito desde cero",
+   "body": [
+    {
+     "p": "Un plan mes a mes para obtener un primer puntaje crediticio, con costos comparados, para recién llegados, adultos jóvenes, titulares de ITIN y cualquier persona sin historial crediticio."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Explica qué significa invisible el crédito y por qué es importante para rentas, empleos y préstamos.",
+      "Compara tarjetas garantizadas, préstamos para aumentar el crédito, cuentas de usuario autorizado, círculos de préstamos y reportes de renta.",
+      "Describe cómo solicitar crédito con un ITIN en prestamistas que lo aceptan.",
+      "Sigue un plan mes a mes para obtener tu primer puntaje de crédito."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre cómo construir crédito con herramientas como tarjetas garantizadas e historial crediticio alternativo. Esta lección te da un plan mes a mes, una comparación de costos con números reales y pasos para recién llegados y titulares de ITIN."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-words",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Crédito invisible (Credit invisible)",
+       "No tener historial crediticio en ninguna de las tres agencias de crédito a nivel nacional."
+      ],
+      [
+       "Lima delgada (Thin file)",
+       "Un reporte de crédito con muy pocas cuentas. Puede ser demasiado pequeño para producir un puntaje de crédito."
+      ],
+      [
+       "Tarjeta de crédito asegurada (Secured credit card)",
+       "Una tarjeta de crédito que necesita un depósito en efectivo. El depósito usualmente establece tu límite de crédito."
+      ],
+      [
+       "Préstamo para construir crédito (Credit-builder loan)",
+       "Un pequeño préstamo que se mantiene en una cuenta de ahorros bloqueada mientras haces los pagos. Al final recibes el dinero."
+      ],
+      [
+       "Usuario autorizado (Authorized user)",
+       "Una persona a la que se le permite usar la tarjeta de crédito de otra persona. Un usuario autorizado generalmente no es responsable de pagar la cuenta."
+      ],
+      [
+       "ITIN",
+       "Número de identificación de contribuyente individual. Un número fiscal de 9 dígitos del IRS para personas que no pueden obtener un número de Seguro Social."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s1",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "text",
+   "title": "No tener crédito no es mal crédito, pero puede costarte",
+   "body": [
+    {
+     "p": "Si ninguna de las tres agencias de crédito nacionales tiene un expediente sobre ti, eres **invisible en el crédito**. Si tu expediente solo tiene una o dos cuentas nuevas, podrías tener un **archivo delgado**, que puede ser demasiado pequeño para producir un puntaje. Un puntaje de crédito es un número, usualmente de 300 a 850, que proviene de tu reporte crediticio. Ayuda a los prestamistas a adivinar qué tan probable es que pagues a tiempo, y un puntaje más alto usualmente significa menores costos para pedir prestado. Muchas personas están en este grupo: recién llegados a Estados Unidos, adultos jóvenes y personas que pagan todo en efectivo."
+    },
+    {
+     "p": "No tener puntuación no es lo mismo que tener una mala puntuación. Pero aún así puede costarte dinero:"
+    },
+    {
+     "ul": [
+      "**Préstamos y tarjetas:** Los prestamistas pueden rechazarte o cobrarte una tasa de interés más alta.",
+      "**Vivienda:** Los arrendadores pueden revisar tu crédito antes de rentarte.",
+      "**Empleos:** Algunos empleadores revisan el crédito. En DC, la mayoría de los empleadores pueden no pedir ni usar tu información crediticia al tomar decisiones laborales, con algunas excepciones. Puedes reportar una violación a la Oficina de Derechos Humanos de DC."
+     ]
+    },
+    {
+     "p": "Algunos buenos hábitos que ya tienes pueden no contar. Los pagos de renta, teléfono y servicios generalmente no aparecen en los reportes de crédito a menos que la empresa los reporte. Las tarjetas de débito y las tarjetas prepagadas no generan crédito, porque no estás pidiendo dinero prestado. Los préstamos de día de pago tampoco ayudan, porque los pagos no se reportan a las agencias de crédito. Los concesionarios de autos que prestan su propio dinero (a veces llamados compra aquí, paga aquí) suelen reportar solo pagos atrasados, no pagos puntuales."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s2",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "text",
+   "title": "Cinco formas de empezar, comparadas",
+   "body": [
+    {
+     "p": "Solo necesitas una o dos de estas herramientas. Elige una que se ajuste a tu presupuesto y que reporte tus pagos a las agencias de crédito."
+    },
+    {
+     "table": {
+      "caption": "Herramientas para la construcción de crédito comparadas",
+      "head": [
+       "Herramienta",
+       "Cómo funciona",
+       "Fíjate en"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Tarjeta de crédito asegurada",
+        "Pagas un depósito en efectivo, por ejemplo $300. El depósito usualmente se convierte en tu límite de crédito. Usas la tarjeta y pagas la cuenta. Recibes el depósito cuando cierras la cuenta y no debes nada, o cuando pasas a una tarjeta regular.",
+        "Cuotas anuales o mensuales. Pregunta si reporta a las tres agencias y si después puedes cambiar a una tarjeta regular."
+       ],
+       [
+        "Préstamo para construir crédito",
+        "A menudo de una cooperativa de crédito o organización sin fines de lucro. El prestamista pone un pequeño préstamo, a menudo de $300 a $1,000, en una cuenta de ahorros bloqueada. Haces pagos de 6 a 24 meses. Luego recibes el dinero.",
+        "Intereses y comisiones. Un pago atrasado daña tu crédito en lugar de ayudarlo."
+       ],
+       [
+        "Usuario autorizado",
+        "Un familiar o amigo te agrega a su cuenta de tarjeta de crédito. Generalmente no eres responsable de pagar la cuenta.",
+        "Pregunta a la compañía de la tarjeta si reporta a los usuarios autorizados a las agencias de crédito. Los pagos atrasados o el saldo alto del dueño pueden afectar tu crédito. Úsalo como primer paso, no como único paso."
+       ],
+       [
+        "Círculo de préstamos",
+        "Un grupo de personas paga cada uno a un fondo compartido cada mes. Cada mes, un miembro recibe la cantidad total. Algunas organizaciones sin fines de lucro manejan círculos de préstamos y reportan cada pago a las agencias de crédito.",
+        "Un tanda o susu familiar construye crédito solo si alguien reporta los pagos al menos a una agencia de crédito."
+       ],
+       [
+        "Reporte de renta",
+        "Tu arrendador, o un servicio al que te inscribas, reporta tus pagos de renta al menos a una agencia de crédito.",
+        "Pregunta qué agencias obtienen los datos, si hay una tarifa y si también se reportan pagos atrasados. No todos los puntajes crediticios cuentan los pagos de renta."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Un ejemplo de un programa de círculos de préstamos: el fondo sin fines de lucro Mission Asset Fund opera Círculos de Préstamos con grupos socios. Dice que sus préstamos no tienen intereses, reporta los pagos a las tres principales agencias de crédito, y las personas con un ITIN pueden usarlo para construir crédito."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s3",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "example",
+   "title": "Cuánto cuesta: una tarjeta garantizada o un préstamo para construir crédito",
+   "body": [
+    {
+     "p": "Samuel trabaja en un restaurante en Silver Spring y recibe un pago parcial en efectivo. Tiene $300 ahorrados. Compara dos ofertas de su cooperativa de crédito. Estos son números de ejemplo. Siempre pide por escrito los costos reales."
+    },
+    {
+     "table": {
+      "caption": "El costo del primer año de Samuel para dos herramientas de construcción de crédito",
+      "head": [
+       "Ítem",
+       "Tarjeta garantizada",
+       "Préstamo para construir crédito"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "El dinero que pone",
+        "Depósito de $300",
+        "$636 en pagos"
+       ],
+       [
+        "El dinero que recupera",
+        "$300",
+        "$600"
+       ],
+       [
+        "Cuota anual",
+        "$0",
+        "$0"
+       ],
+       [
+        "Interés",
+        "$0",
+        "$36"
+       ],
+       [
+        "Costo anual",
+        "$0",
+        "$36"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$53 × 12 meses = $636 pagados; $636 − $600 devueltos = $36 de costo"
+    },
+    {
+     "p": "La tarjeta garantizada no cuesta nada si Samuel elige una tarjeta sin cuota anual y paga el saldo completo cada mes. Recupera su depósito cuando cierra la tarjeta y no debe nada, o cuando cambia a una tarjeta regular. El préstamo cuesta $36, pero funciona como un plan de ahorro: al final tiene $600. Ambos construyen crédito si se reportan a las agencias. Si Samuel no tuviera $300 para un depósito, el préstamo podría ser la forma más fácil de empezar."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "build-credit-s4",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "text",
+   "title": "Recién llegados y poseedores de ITIN",
+   "body": [
+    {
+     "p": "Un **ITIN** es un número fiscal del IRS para personas que no pueden obtener un número de Seguro Social. Puedes construir un historial crediticio en EE. UU. con un ITIN. Algunas compañías de tarjetas y otros prestamistas aceptan un ITIN en solicitudes de crédito. No todas lo hacen, y las reglas son diferentes en cada prestamista. Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN. Algunos pueden pedir más documentos o decir que no, así que pregunta antes de solicitar. Lleva esta lista de preguntas contigo:"
+    },
+    {
+     "ul": [
+      "¿Aceptas un ITIN para esta tarjeta o préstamo?",
+      "¿Reportas los pagos a Equifax, Experian y TransUnion?",
+      "¿Cuáles son todas las cuotas, cada mes y cada año?",
+      "Para una tarjeta asegurada: ¿cuál es el depósito más pequeño y cuándo puedo cambiar a una tarjeta regular?",
+      "¿Qué documentos necesito, como pasaporte, identificación consular o comprobante de domicilio?"
+     ]
+    },
+    {
+     "p": "Usa la misma ortografía de tu nombre, la misma fecha de nacimiento y tu dirección actual en cada solicitud. Esto ayuda a las agencias de crédito a mantener todas tus cuentas en un solo archivo."
+    },
+    {
+     "p": "**Crédito de otro país:** Tu historial crediticio de otro país no aparece en los reportes de crédito de Estados Unidos. Algunos prestamistas estadounidenses trabajan con empresas que pueden revisar el historial crediticio de otros países. Pregunta al prestamista si puede hacer esto. Si no puede, comienza con una de las herramientas anteriores."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s5",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "example",
+   "title": "Plan mes a mes: el primer golpe de Aisha",
+   "body": [
+    {
+     "p": "Aisha se mudó a Takoma Park y trabaja en un hotel. Tiene un ITIN y ningún historial crediticio en EE.UU. Aquí está su plan. Puedes seguir los mismos pasos."
+    },
+    {
+     "ol": [
+      "**Antes de comenzar:** Obtén tus reportes de cada oficina para ver si ya tienes un expediente. Sin un número de Seguro Social, pide por correo. Ahorra dinero para un depósito si lo necesitas.",
+      "**Mes 1:** Abre una cuenta que reporta a las tres agencias. Aisha abre una tarjeta segura con un límite de $300. Configura el pago automático desde su cuenta de cheques para el saldo total de cada estado de cuenta.",
+      "**Meses 1 a 6:** Usa la tarjeta para una factura pequeña y regular, como una factura telefónica de $30. Mantén el saldo por debajo del 30% del límite. En una tarjeta de $300, eso significa menos de $90. Los puntajes de crédito consideran cuánto de tu límite estás usando, llamado utilización de crédito, y usar solo una pequeña parte ayuda a tu puntaje. Paga el saldo total antes de la fecha de vencimiento cada mes.",
+      "**Mes 6:** Revisa tus reportes de las tres oficinas. Asegúrate de que la nueva cuenta esté ahí y esté correcta. Un puntaje FICO necesita al menos una cuenta que haya estado abierta seis meses o más, y al menos una cuenta reportada en los últimos seis meses. Así que por ahora, podrías obtener tu primer puntaje.",
+      "**Meses 7 a 12:** Sigue usando la tarjeta para cantidades pequeñas y pagando a tiempo. Pregunta si puedes cambiar a una tarjeta regular y recuperar tu depósito. No solicites muchas cuentas nuevas al mismo tiempo.",
+      "**Después del mes 12:** Si lo necesitas, agrega un segundo tipo de crédito diferente, como un préstamo para construir crédito. Mantén abierta tu cuenta más antigua."
+     ]
+    },
+    {
+     "formula": "Límite de $300 × 30% = $90, así que mantén el saldo por debajo de $90"
+    },
+    {
+     "p": "¿Dónde puede ver Aisha su puntaje? Muchas compañías de tarjetas de crédito otorgan a sus clientes un puntaje de crédito gratuito. Los consejeros de vivienda aprobados por HUD y los consejeros de crédito de organizaciones sin fines de lucro a menudo también pueden darte un reporte y puntaje de crédito gratuitos."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "build-credit-s6",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "warning",
+   "title": "Trampas a evitar",
+   "body": [
+    {
+     "ul": [
+      "**Comisiones altas.** Algunas tarjetas y productos de construcción de crédito cobran tarifas mensuales, comisiones de apertura o anuales. Suma todas las comisiones de un año y compáralas con una tarjeta asegurada que no tiene cuota anual.",
+      "**Promesas de un golpe rápido. Construir** crédito toma meses. Nadie puede darte una buena puntuación en unos días.",
+      "**Una nueva identidad de crédito.** Algunos vendedores ofrecen un nuevo número para usar en lugar de tu propio número de Seguro Social o ITIN. Usar un número que no es tuyo para solicitar crédito es ilegal. Podrías enfrentar multas o prisión.",
+      "**Demasiado crédito demasiado rápido.** Abrir varias cuentas nuevas en poco tiempo puede bajar tu puntaje y preocupar a los prestamistas."
+     ]
+    },
+    {
+     "p": "Los estafadores suelen apuntar a personas que son nuevas en el país. Mira [estafas que apuntan a los recién llegados](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "build-credit-s7",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "tip",
+   "title": "Ayuda gratuita cerca de ti",
+   "body": [
+    {
+     "p": "En DC, el Departamento de Seguros, Valores y Banca ofrece programas de educación financiera a través de su [Oficina de Empoderamiento y Educación Financiera](https://disb.dc.gov/service/office-financial-empowerment-and-education-ofee). En Maryland, la [Campaña CASH de Maryland](https://cashmd.org/) ofrece asesoría financiera gratuita. En cualquier parte de la región, puedes [encontrar un consejero de vivienda aprobado por HUD](https://www.hud.gov/findacounselor) que pueda revisar tu crédito por poco o ningún costo. ¿Necesitas primero una cuenta bancaria o cooperativa de crédito? [Descubre cómo abrir una cuenta](https://dollarscholars.org/es-mx/resources/lessons/open-an-account/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "build-credit-takeaways",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "No tener historial crediticio no es lo mismo que tener mal crédito, pero aún así puede costarte dinero.",
+      "Empieza con un producto que reporte a las tres agencias de crédito. Úsalo por cantidades pequeñas y paga puntual cada mes.",
+      "Algunos prestamistas aceptan un ITIN. Pregunta antes de solicitar.",
+      "Un primer puntaje FICO generalmente toma alrededor de seis meses de historial reportado.",
+      "Aléjate de comisiones altas, promesas de un puntaje rápido y cualquiera que venda una nueva identidad de crédito."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-quiz",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/build-credit/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "build-credit-links",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Construye crédito desde cero",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Crédito",
+       "u": "https://consumidor.gov/credito",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Páginas en español sencillo sobre cómo construir, mejorar y revisar tu crédito."
+      },
+      {
+       "t": "¿Cuáles son algunas formas de empezar o reconstruir un buen historial crediticio?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/what-are-some-ways-to-start-or-rebuild-a-good-credit-history-en-2155/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Explica las tarjetas garantizadas, los préstamos para construir crédito y las tarjetas de tienda, y qué productos no ayudan a construir crédito."
+      },
+      {
+       "t": "Crédito",
+       "u": "https://consumer.gov/credit",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Páginas en lenguaje sencillo sobre cómo construir, revisar y mejorar tu crédito, escritas para adultos que aprenden inglés."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-intro",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "intro",
+   "title": "Qué mueve tu puntaje crediticio (y qué no)",
+   "body": [
+    {
+     "p": "Observa cómo los pagos y los saldos de las tarjetas cambian un puntaje con ejemplos resueltos, distingue mitos de hechos, revisa las reglas de deuda médica 2026 y evita estafas de reparación de crédito."
+    },
+    {
+     "p": "(Aproximadamente 17 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Nombra los factores principales en un puntaje crediticio y cuánto importa cada uno.",
+      "Calcula la utilización del crédito y planea cómo reducirla.",
+      "Distingue los mitos del puntaje crediticio de los hechos.",
+      "Reconoce las estafas de reparación de crédito y sabe qué puedes hacer tú mismo gratis."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre los conceptos básicos de la puntuación crediticia y cómo detectar estafas de reparación de crédito. Esta lección agrega ejemplos prácticos de utilización de crédito y pagos atrasados, una revisión de mito o hecho y las reglas actuales sobre deuda médica."
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-words",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Puntaje crediticio (Credit score)",
+       "Un número, usualmente de 300 a 850, que predice qué tan probable es que pagues el crédito a tiempo. Se basa en tu reporte de crédito."
+      ],
+      [
+       "Modelo de puntuación (Scoring model)",
+       "La fórmula que usa una empresa para convertir la información en tu reporte crediticio en un puntaje. FICO y VantageScore son dos ejemplos."
+      ],
+      [
+       "Historial de pagos (Payment history)",
+       "El registro de si pagaste tus cuentas de crédito a tiempo."
+      ],
+      [
+       "Utilización del crédito (Credit utilization)",
+       "La parte de los límites de tu tarjeta de crédito que usas, mostrada como porcentaje."
+      ],
+      [
+       "Indagación suave (Soft inquiry)",
+       "Una revisión de crédito que no afecte tu puntaje, como cuando revisas tu propio crédito."
+      ],
+      [
+       "Empresa de reparación de crédito (Credit repair company)",
+       "Un negocio que dice que puede mejorar tu crédito por una tarifa. La ley federal limita lo que puede cobrar y prometer."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s1",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "text",
+   "title": "¿Qué entra en tu puntuación?",
+   "body": [
+    {
+     "p": "Un **puntaje crediticio** es un número que predice qué tan probable es que pagues crédito a tiempo. Proviene de la información en tu reporte crediticio. Tienes muchos puntajes, no solo uno, porque las empresas usan diferentes fórmulas, llamadas **modelos de puntuación**. La mayoría de los puntajes van de 300 a 850. Un puntaje más alto usualmente significa que pagas menos por pedir prestado."
+    },
+    {
+     "p": "Los puntajes FICO son ampliamente utilizados. FICO dice que sus puntajes analizan cinco grupos de información:"
+    },
+    {
+     "table": {
+      "caption": "Qué implica un puntaje FICO",
+      "head": [
+       "Factor",
+       "Lo que observa",
+       "Compartir"
+      ],
+      "num": [
+       2
+      ],
+      "rows": [
+       [
+        "Historial de pagos",
+        "Ya sea que hayas pagado a tiempo, o en pagos atrasados, cobranza o bancarrota",
+        "35%"
+       ],
+       [
+        "Cantidades adeudadas",
+        "Cuánto debes, incluyendo cuánto de los límites de tu tarjeta usas",
+        "30%"
+       ],
+       [
+        "Duración del historial crediticio",
+        "¿Cuánto tiempo llevan abiertas tus cuentas?",
+        "15%"
+       ],
+       [
+        "Nuevo crédito",
+        "¿Cuántas cuentas abriste o solicitaste recientemente",
+        "10%"
+       ],
+       [
+        "Mezcla de créditos",
+        "Los tipos de crédito que tienes, como tarjetas y préstamos",
+        "10%"
+       ],
+       [
+        "Total",
+        "",
+        "100%"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Otros modelos de puntuación, como VantageScore, valoran las cosas de manera un poco diferente. Los mismos hábitos ayudan con todos: pagar a tiempo, mantener bajos los saldos y aplicar solo para el crédito que necesitas."
+    },
+    {
+     "p": "Tu puntaje solo usa lo que aparece en tu reporte de crédito. Tus ingresos no forman parte de ellos. Un prestamista aún puede preguntarte sobre tus ingresos y tu trabajo cuando solicites."
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s2",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "example",
+   "title": "Utilización de crédito: tarjeta de Marcus",
+   "body": [
+    {
+     "p": "**La utilización de crédito** es la proporción de los límites de tu tarjeta de crédito que estás usando. Los modelos de puntuación analizan qué tan cerca estás de tus límites. Muchos expertos, incluido el CFPB, sugieren no usar más del 30% de tus límites totales."
+    },
+    {
+     "p": "Marcus vive en Anacostia. Su única tarjeta tiene un límite de $1,000."
+    },
+    {
+     "table": {
+      "caption": "La utilización de Marcus en diferentes balances",
+      "head": [
+       "Balance",
+       "Límite",
+       "Utilización"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "$800",
+        "$1,000",
+        "80%"
+       ],
+       [
+        "$300",
+        "$1,000",
+        "30%"
+       ],
+       [
+        "$100",
+        "$1,000",
+        "10%"
+       ],
+       [
+        "Meta: $300 o menos",
+        "$1,000",
+        "30% o menos"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "Límite de saldo ÷ × 100 = utilización: $800 ÷ $1,000 × 100 = 80%"
+    },
+    {
+     "p": "Para pasar del 80% al 30%, Marcus necesita pagar $500, porque $800 − $300 = $500. Si deja de usar la tarjeta y paga $125 al mes, toma como cuatro meses, o un poco más por los intereses."
+    },
+    {
+     "formula": "$500 ÷ $125 al mes = 4 meses, más intereses"
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "credit-score-factors-s3",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "example",
+   "title": "Cerrar una tarjeta antigua: antes y después",
+   "body": [
+    {
+     "p": "Joy vive en Alexandria. Tiene dos tarjetas. La Tarjeta A tiene un límite de $500 y un saldo de $400. La Tarjeta B tiene un límite de $1,500 y un saldo de $0. Ella nunca usa la Tarjeta B y quiere cerrarla. Mira lo que pasa con su utilización."
+    },
+    {
+     "table": {
+      "caption": "Utilización de Joy antes y después de cerrar la Tarjeta B",
+      "head": [
+       "Ítem",
+       "Ambas cartas abiertas",
+       "Después de cerrar la Tarjeta B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Límite total",
+        "$2,000",
+        "$500"
+       ],
+       [
+        "Saldo total",
+        "$400",
+        "$400"
+       ],
+       [
+        "Utilización",
+        "20%",
+        "80%"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "formula": "Antes: $400 ÷ $2,000 = 20%. Después: $400 ÷ $500 = 80%"
+    },
+    {
+     "p": "Cerrar la Tarjeta B no reduce su deuda. Solo elimina $1,500 de crédito disponible, por lo que su utilización aumenta considerablemente. Si la Tarjeta B no tiene comisión anual, mantenerla abierta y sin usar puede ser mejor para su puntaje. Si una tarjeta tiene una comisión alta o dificulta que evites gastar, cerrarla aún puede ser la decisión correcta."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "credit-score-factors-s4",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "text",
+   "title": "Pagos atrasados: por qué importan los 30 días",
+   "body": [
+    {
+     "p": "**El historial de pagos** es lo que más importa. Los prestamistas usualmente no reportan un pago atrasado a las agencias de crédito hasta que hayan pasado al menos 30 días después de la fecha de vencimiento. Algunos esperan hasta 60 días. Pero se puede cobrar una multa por retraso poco después de la fecha de vencimiento. Una vez que se reporta un pago atrasado, puede permanecer en tu reporte por siete años."
+    },
+    {
+     "p": "Por ejemplo, Denise en Bowie tiene un pago del auto que vence el día 15. Si paga en su totalidad el día 22, puede que deba una multa por retraso, pero el prestamista usualmente no reportará el pago como atrasado. Si paga 35 días después de la fecha de vencimiento, su reporte puede mostrar un pago atrasado de 30 días por siete años."
+    },
+    {
+     "h3": "¿Estás a punto de atrasar un pago? Haz esto"
+    },
+    {
+     "ol": [
+      "Llama al prestamista antes de la fecha de vencimiento. Pregunta sobre cambiar tu fecha de vencimiento, una breve pausa en los pagos o un plan de dificultades. Anota con quién hablaste y qué te dijeron.",
+      "Paga lo que puedas tan pronto como puedas. Pagar el monto total adeudado antes de que esté 30 días tarde a menudo evita que el pago atrasado salga de tu reporte.",
+      "Configura pagos automáticos al menos para el mínimo en cada tarjeta y préstamo.",
+      "Si no puedes mantenerte al día con varias cuentas, habla con un consejero de crédito sin fines de lucro. Consulta [cómo hacer un plan de pago de deudas](https://dollarscholars.org/es-mx/resources/lessons/debt-payoff-plan/) y [cuándo tus ingresos disminuyan](https://dollarscholars.org/es-mx/resources/lessons/income-shock/)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s5",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "text",
+   "title": "¿Mito o hecho?",
+   "body": [
+    {
+     "dl": [
+      [
+       "Mito: Revisar mi propio puntaje crediticio lo baja.",
+       "Hecho: Cuando revisas tu propio reporte o puntaje, es una consulta suave. No afecta tu puntaje. Una consulta dura ocurre cuando solicitas crédito, y puede bajar un poco tu puntaje. Cuando buscas un préstamo para auto, hipoteca o préstamo estudiantil, los modelos de puntuación suelen contar varias verificaciones en un corto tiempo, a menudo de 14 a 45 días, como una sola."
+      ],
+      [
+       "Mito: Un ingreso mayor significa una puntuación más alta.",
+       "Hecho: Tus ingresos no aparecen en tu reporte crediticio, por lo que no forman parte de tu puntaje."
+      ],
+      [
+       "Mito: Debería cerrar cartas viejas que no uso.",
+       "Hecho: Cerrar una tarjeta puede aumentar tu utilización, como muestra el ejemplo de Joy. Mantener una tarjeta que has tenido abierta por muchos años generalmente ayuda, especialmente si no tiene cuota anual."
+      ],
+      [
+       "Mito: Debo llevar un saldo y pagar intereses para construir crédito.",
+       "Hecho: Pagar tu saldo completo cada mes construye crédito, puede mejorar tu puntaje y no te cuesta intereses."
+      ],
+      [
+       "Mito: Pagar una cobranza la elimina de mi informe.",
+       "Hecho: Una cobranza pagada puede permanecer en tu reporte hasta por siete años, pero debería aparecer como pagada. Las cobranzas médicas pagadas son diferentes: las agencias de crédito dicen que no las incluyen."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s6",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "text",
+   "title": "Deuda médica en los reportes de crédito: qué aplica en 2026",
+   "body": [
+    {
+     "p": "Las reglas sobre facturas médicas cambiaron varias veces. En enero de 2025, el CFPB terminó una regla para mantener la mayoría de las facturas médicas fuera de los reportes de crédito. En julio de 2025, un tribunal federal canceló esa regla. Así que hoy no hay prohibición federal."
+    },
+    {
+     "p": "Las tres agencias de crédito siguen sus propias políticas:"
+    },
+    {
+     "ul": [
+      "Las cobranzas médicas pagadas no se incluyen en los reportes de crédito.",
+      "Las cobranzas médicas que comenzaron por debajo de $500 no están incluidas.",
+      "Una recaudación médica no pagada no se incluye hasta que haya pasado al menos un año."
+     ]
+    },
+    {
+     "p": "Las leyes locales añaden más protección. Las leyes de Maryland vigentes desde el 1 de octubre de 2025 dicen que los proveedores médicos y cobradores de deudas no pueden reportar deudas médicas, y las agencias de crédito no pueden incluirla. Una ley de Virginia de 2024 dice que los proveedores de atención médica, y cualquier persona que cobre una deuda médica, no pueden reportarla. DC aprobó una ley de deuda médica en 2026 que impedirá que los proveedores de salud y cobradores de deudas reporten deudas médicas. Comienza a aplicarse solo seis meses después de que el presupuesto de DC la pague, así que pregunta a asistencia legal si ya aplica a ti. En octubre de 2025, el CFPB dijo que cree que la ley federal prevalece sobre reglas estatales como estas, por lo que los tribunales pueden decidir hasta dónde llegan."
+    },
+    {
+     "ul": [
+      "Busca colecciones médicas en los tres reportes.",
+      "Disputa cualquier cobro médico que se haya pagado, que haya empezado por debajo de $500 o que tenga menos de un año.",
+      "En Maryland, si una agencia de crédito no elimina la deuda médica que la ley prohíbe, puedes presentar una queja ante la Oficina de Regulación Financiera al 410-230-6077.",
+      "Pregunta al hospital o clínica sobre ayuda financiera antes de pagar una factura grande. En Maryland, los pacientes hospitalizados tienen 240 días desde la primera factura para solicitar."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s7",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "warning",
+   "title": "Estafas de reparación de crédito",
+   "body": [
+    {
+     "p": "Algunas empresas prometen borrar mal crédito o agregar 100 puntos rápido, a cambio de una tarifa. La verdad es que nadie puede eliminar legalmente información negativa precisa y actualizada de tu reporte. Solo el tiempo y los buenos hábitos lo mejoran."
+    },
+    {
+     "p": "Una ley federal, la Ley de Organizaciones de Reparación de Crédito, te protege. Una empresa de reparación de crédito no puede cobrarte antes de haber realizado el trabajo que prometió. Debe darte un contrato escrito que liste los servicios, el costo total y cuánto tiempo tomará. Tienes tres días para cancelar sin pagar nada."
+    },
+    {
+     "p": "Señales de advertencia de una estafa de reparación de crédito:"
+    },
+    {
+     "ul": [
+      "Quiere el pago antes de hacer cualquier trabajo.",
+      "Te dice que no contactes tú mismo a las agencias de crédito.",
+      "Te dice que disputes información que sabes que es correcta.",
+      "Te dice que mientas en una solicitud de crédito o que presentes un reporte falso de robo de identidad.",
+      "Ofrece una nueva identidad de crédito o un número diferente para usar en lugar del tuyo. Eso es ilegal."
+     ]
+    },
+    {
+     "p": "Reporta estafas de reparación de crédito en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (en español [en ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)) y al fiscal general de tu estado o DC."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "credit-score-factors-s8",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "tip",
+   "title": "Hazlo tú mismo gratis",
+   "body": [
+    {
+     "p": "Todo lo que una empresa de reparación de crédito puede hacer legalmente, tú mismo puedes hacerlo gratis: obtener tus reportes, disputar errores, pagar a tiempo y reducir tus saldos. Para orientación gratuita, habla con un consejero de vivienda aprobado por HUD o con un asesor crediticio sin fines de lucro. [Comienza con leer tu reporte de crédito y corregir errores](https://dollarscholars.org/es-mx/resources/lessons/read-your-credit-report/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "credit-score-factors-takeaways",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Pagar a tiempo es lo que más importa. Por lo general, un pago no se reporta tarde hasta que tiene 30 días de retraso, pero una multa por retraso puede llegar antes.",
+      "Mantén los saldos de las tarjetas bajos en comparación con tus límites. Muchos expertos sugieren no usar más del 30%.",
+      "Revisar tu propio reporte o puntaje no reduce tu puntaje, y tus ingresos no forman parte de tu puntaje.",
+      "Cerrar una tarjeta sin usar puede aumentar tu utilización, así que piensa antes de cerrar una.",
+      "Nadie puede eliminar legalmente información negativa precisa, y las empresas de reparación de crédito no pueden cobrar antes de hacer el trabajo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-quiz",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/credit-score-factors/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-links",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "Qué mueve tu puntaje crediticio (y qué no)",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Preguntas frecuentes acerca de cómo reparar su crédito",
+       "u": "https://consumidor.ftc.gov/articulos/preguntas-frecuentes-acerca-de-como-reparar-su-credito",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La guía de la FTC en español: cómo detectar estafas de reparación de crédito y qué puedes hacer tú mismo gratis."
+      },
+      {
+       "t": "¿Cómo obtengo y mantengo un buen puntaje crediticio?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Hábitos que ayudan a tu puntaje: pagar a tiempo, mantener el uso de tarjetas en o por debajo del 30% de tus límites, y solicitar solo el crédito que necesitas."
+      },
+      {
+       "t": "Preguntas frecuentes sobre cómo arreglar tu crédito",
+       "u": "https://consumer.ftc.gov/articles/fixing-your-credit-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo detectar estafas de reparación de crédito, tus derechos bajo la Ley de Organizaciones de Reparación de Crédito y qué puedes hacer tú mismo gratis."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
