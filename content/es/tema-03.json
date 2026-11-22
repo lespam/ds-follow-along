@@ -1,0 +1,1281 @@
+{
+ "id": "tema-03",
+ "title": "Tema 3: Cheques de nómina e impuestos sobre la renta personal",
+ "summary": "Entiende tu recibo de nómina y retención, maneja impuestos sobre ingresos por trabajo y efectivo, y presenta la declaración gratis mientras reclamas cada crédito que ganaste. Money Smart no tiene módulo de impuestos, así que este tema es principalmente una extensión de Dollar Scholars.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "pay-stub-and-w4",
+   "title": "Lee tu recibo de nómina y llena tu W-4",
+   "summary": "Aprende qué significa cada línea en tu recibo de nómina, llena el Formulario W-4 paso a paso y evita una factura de impuestos sorpresa o un reembolso mayor de lo necesario.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "gig-income-taxes",
+   "title": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "summary": "Lo que deben los trabajadores independientes, cómo apartar dinero para impuestos, cuándo pagar durante el año y registros simples que reducen tu factura de impuestos.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "file-for-free",
+   "title": "Solicita gratis y reclama los créditos que ganaste",
+   "summary": "Encuentra ayuda fiscal gratuita y confiable, aprende lo básico de ITIN, reclama los créditos que muchas familias trabajadoras pierden y evita preparadores y productos que forman parte de tu reembolso.",
+   "meta": "(Aproximadamente 18 min, 6 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "pay-stub-and-w4-intro",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "intro",
+   "title": "Lee tu recibo de nómina y llena tu W-4",
+   "body": [
+    {
+     "p": "Aprende qué significa cada línea en tu recibo de nómina, llena el Formulario W-4 paso a paso y evita una factura de impuestos sorpresa o un reembolso mayor de lo necesario."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Identifica cada deducción en un recibo de nómina, incluyendo impuestos sobre la renta, Seguro Social y Medicare.",
+      "Explica cómo el Formulario W-4 controla cuánto impuesto federal sobre la renta se retiene de tu pago.",
+      "Decide cuándo actualizar tu retención después de un cambio en tu vida, como un segundo trabajo o un nuevo hijo.",
+      "Marca la diferencia entre un empleado (W-2) y un contratista independiente (1099)."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase presenta los estados de pago y el Formulario W-4. Esta lección agrega un recibo de nómina de muestra con números reales, un recorrido de cada paso del W-4 y las reglas para personas que viven en una parte del área de DC y trabajan en otra."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-words",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Pago bruto (Gross pay)",
+       "Tu pago total antes de que se desconte algo."
+      ],
+      [
+       "Pago neto (Net pay)",
+       "El dinero que realmente recibes después de impuestos y otras deducciones. También llamado pago neto."
+      ],
+      [
+       "Retención (Withholding)",
+       "Dinero que tu empleador descuenta de tu sueldo y lo envía al gobierno para que pague tus impuestos."
+      ],
+      [
+       "Formulario W-4 (Form W-4)",
+       "El formulario federal que le das a tu empleador para decirle cuánto impuesto federal debe descontar de tu pago."
+      ],
+      [
+       "Impuestos FICA (FICA taxes)",
+       "Impuestos del Seguro Social y Medicare. FICA significa Ley Federal de Contribuciones al Seguro."
+      ],
+      [
+       "Contratista independiente (Independent contractor)",
+       "Un trabajador independiente. No se retiene impuesto y el trabajador recibe un Formulario 1099 en lugar de un Formulario W-2."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s1",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "text",
+   "title": "Tu recibo de nómina, línea por línea",
+   "body": [
+    {
+     "p": "Un recibo de nómina (también llamado estado de cuenta) viene con cada cheque de nómina o depósito directo, en papel o en línea. Revísalo cada día de pago. Muestra cómo se calculó tu pago y a menudo es el primer lugar donde puedes encontrar un error."
+    },
+    {
+     "dl": [
+      [
+       "Pago bruto",
+       "Tus horas por tu salario, más cualquier hora extra. Este es tu pago antes de que se desconte algo."
+      ],
+      [
+       "Deducciones antes de impuestos",
+       "Dinero retirado antes de que se calculen algunos impuestos, como seguro médico o ahorros para el retiro. Reducen el salario que se grava."
+      ],
+      [
+       "Impuestos",
+       "Impuesto federal sobre la renta, impuesto estatal o de DC, Seguro Social y Medicare."
+      ],
+      [
+       "Deducciones después de impuestos",
+       "Dinero retirado después de impuestos, como cuotas sindicales o un embargo salarial ordenado por la corte."
+      ],
+      [
+       "Pago neto",
+       "Lo que te queda. Este es tu pago neto."
+      ],
+      [
+       "Año acumulado (en lo que va del año)",
+       "Totales desde el 1 de enero. Tu Formulario W-2 para el año se basa en estos totales."
+      ]
+     ]
+    },
+    {
+     "p": "También revisa tu nombre, las fechas del periodo de pago, tus horas y tu salario. Si algo anda mal, dile a tu empleador por escrito de inmediato y guarda una copia."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s2",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "example",
+   "title": "El recibo de nómina de Ana, con números reales",
+   "body": [
+    {
+     "p": "Ana vive en Hyattsville, Maryland, y trabaja como asistente médica en el noroeste de DC. Gana $20 la hora y le pagan cada dos semanas por 80 horas. Su seguro médico sale antes de pagar impuestos. Los montos del impuesto sobre la renta son solo muestras."
+    },
+    {
+     "table": {
+      "caption": "El pago de Ana por dos semanas (recibo de nómina de ejemplo)",
+      "head": [
+       "Línea en el esbozo",
+       "Este periodo de pago"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Pago bruto (80 horas × $20)",
+        "$1,600.00"
+       ],
+       [
+        "Seguro de salud (antes de impuestos)",
+        "−$60.00"
+       ],
+       [
+        "Impuesto al Seguro Social (6.2%)",
+        "−$95.48"
+       ],
+       [
+        "Impuesto a Medicare (1.45%)",
+        "−$22.33"
+       ],
+       [
+        "Impuesto federal sobre la renta",
+        "−$101.00"
+       ],
+       [
+        "Impuesto sobre la renta estatal y del condado de Maryland",
+        "−$98.00"
+       ],
+       [
+        "Pago neto (pago neto)",
+        "$1,223.19"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "formula": "$1,600 de pago bruto − $60 de seguro de salud = $1,540 gravados por el Seguro Social y Medicare"
+    },
+    {
+     "formula": "$1,540 × 6.2% = $95.48 para el Seguro Social"
+    },
+    {
+     "formula": "$1,540 × 1.45% = $22.33 para Medicare"
+    },
+    {
+     "p": "Nota que no se aplica ningún impuesto de DC, aunque Ana trabaja en DC. DC no grava los salarios de las personas que viven fuera de DC. Ana paga impuestos de Maryland en su lugar, y en Maryland eso incluye el impuesto sobre la renta del condado."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "pay-stub-and-w4-s3",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "text",
+   "title": "Seguro Social y Medicare: impuestos que construyen tu futuro",
+   "body": [
+    {
+     "p": "El impuesto al Seguro Social es el 6.2% de tu salario. El impuesto de Medicare es del 1.45%. Tu empleador paga las mismas cantidades nuevamente, además de tu pago. En conjunto, estos se llaman impuestos FICA. La mayoría de los trabajadores no pueden optar por no participarlos."
+    },
+    {
+     "p": "Estos impuestos pagan beneficios de jubilación, discapacidad y sobreviviente, así como la cobertura médica de Medicare, que usualmente comienza a los 65 años. Cuando trabajas y pagas estos impuestos, obtienes créditos del Seguro Social. En 2026, ganas un crédito por cada $1,890 que ganas, hasta cuatro créditos al año. La mayoría de las personas necesita 40 créditos para obtener beneficios de retiro. (El impuesto al Seguro Social se detiene una vez que tu pago anual llega a $184,500, el límite de 2026. El impuesto de Medicare no tiene límite.)"
+    },
+    {
+     "p": "Asegúrate de que el nombre en tus registros de pago coincida con tu tarjeta de Seguro Social, o tus ingresos podrían no ser acreditados a tu nombre. Puedes revisar tu historial de ingresos con una [cuenta gratuita de mi Seguro Social](https://www.ssa.gov/myaccount/)."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s4",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "text",
+   "title": "Llena el Formulario W-4, paso a paso",
+   "body": [
+    {
+     "p": "El Formulario W-4 le dice a tu empleador cuánto impuesto federal debes descontar de tu pago. Lo llenas cuando empiezas un trabajo y puedes darle uno nuevo a tu empleador en cualquier momento. Todos completan los Pasos 1 y 5. Haz los Pasos 2 a 4 solo si aplican para ti."
+    },
+    {
+     "ol": [
+      "**Paso 1, información personal:** tu nombre, dirección, número de Seguro Social y estado civil (soltero o casado declarando por separado, casado declarando conjuntamente o cabeza de familia). La mayoría de las personas solteras eligen soltero. Una pareja casada usualmente presenta una declaración juntos (casados presentando en conjunto). Una persona soltera que pague la mayor parte de los costos de la casa para un hijo u otro familiar que mantiene puede presentar como cabeza de familia, lo que reduce el impuesto.",
+      "**Paso 2, más de un trabajo:** usa este paso si tienes dos o más empleos al mismo tiempo, o si estás casado y declaras declaración conjunta y tu cónyuge también trabaja. La forma más precisa es el [Estimador de Retención de Impuestos del IRS](https://www.irs.gov/individuals/tax-withholding-estimator) gratuito. Si solo hay dos empleos en total y el pago es similar, puedes marcar la casilla en el Paso 2(c) del W-4 para ambos trabajos.",
+      "**Paso 3, hijos y otros dependientes:** en el formulario 2026, si tus ingresos serán de $200,000 o menos ($400,000 o menos si estás casado y presenta declaración conjunta), multiplica el número de hijos que califican menores de 17 años por $2,200 y otros dependientes por $500. Esto reduce tu retención, porque estos créditos reducen tus impuestos.",
+      "**Paso 4, otros ajustes:** ingresa otros ingresos que no tengan impuestos descontados (4a), deducciones distintas a la deducción estándar (4b), o impuestos extra que quieras descontar de cada cheque de pago (4c).",
+      "**Paso 5, firma y fecha:** el formulario no es válido sin tu firma."
+     ]
+    },
+    {
+     "p": "Si tienes más de un trabajo, llena los Pasos 3, 4(a) y 4(b) en el W-4 solo para un trabajo, usualmente el que pague más. Déjalos en blanco en los demás."
+    },
+    {
+     "p": "La hoja de cálculo del Paso 4(b) 2026 incluye nuevas deducciones federales por propinas calificadas y pago de horas extras. Si esperas reclamarlas, agregarlas puede aumentar tu pago neto. Descubre quién califica en [Presentar gratis y reclama los créditos que ganaste](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/)."
+    },
+    {
+     "p": "Tu estado o DC tiene su propio formulario de retención: Formulario D-4 en DC, Formulario MW507 en Maryland y Formulario VA-4 en Virginia."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s5",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "example",
+   "title": "Dos empleos y una factura fiscal sorpresa",
+   "body": [
+    {
+     "p": "Lucía está soltera y vive en Alexandria, Virginia. Tiene dos trabajos de medio tiempo. Cada uno paga $20,000 al año. Llenó un sencillo W-4 en cada trabajo y se saltó el Paso 2."
+    },
+    {
+     "p": "Cada empleador piensa que su trabajo es su único trabajo. Así que cada uno resta la deducción estándar completa de 2026 ($16,100) antes de calcular su impuesto. La deducción estándar es una cantidad de ingresos que no se grava. Los ingresos superiores se gravan en pasos llamados tramos fiscales: los primeros $12,400 al 10%, la siguiente parte al 12%, y así sucesivamente. Solo los dólares dentro de un paso pagan la tasa de ese escalón. Estos números simplificados muestran solo el impuesto federal sobre la renta. Las tablas reales de retención difieren un poco, pero la idea es la misma."
+    },
+    {
+     "table": {
+      "caption": "Impuesto federal sobre la renta 2026 de Lucía (simplificado)",
+      "head": [
+       "Línea",
+       "Monto"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Retiene el Trabajo 1: ($20,000 − $16,100) × 10%",
+        "$390"
+       ],
+       [
+        "El Trabajo 2 retiene lo mismo",
+        "$390"
+       ],
+       [
+        "Total retenido durante el año",
+        "$780"
+       ],
+       [
+        "Impuestos que realmente debe sobre $23,900 de ingresos gravables ($40,000 − $16,100): 10% de los primeros $12,400, más 12% del resto",
+        "$2,620"
+       ],
+       [
+        "Cantidad que podría deber cuando presente",
+        "$1,840"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "p": "La solución: Lucía usa el Estimador de Retención de Impuestos del IRS, o marca la casilla del Paso 2(c) en el W-4 para ambos trabajos. Con la casilla marcada, cada empleador usa la mitad de la deducción estándar y la mitad de cada tramo impositivo. Se descuenta un poco más de cada sueldo y no hay una factura grande en el momento de impuestos."
+    },
+    {
+     "formula": "Con el Paso 2(c) verificado: aproximadamente $1,310 retenidos por trabajo × 2 empleos = aproximadamente $2,620 para el año"
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "pay-stub-and-w4-s6",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "text",
+   "title": "Vive en un lugar, trabaja en otro",
+   "body": [
+    {
+     "p": "Muchas personas en el área de DC viven en un estado o en DC y trabajan en otro. Entre DC, Maryland y Virginia, tus salarios usualmente solo se gravan donde vives. DC no grava los salarios de las personas que viven fuera de DC. Maryland y Virginia generalmente no gravan los salarios de quienes viven en DC o en el estado del otro."
+    },
+    {
+     "ul": [
+      "**Vive en Maryland o Virginia, trabaja en DC:** El impuesto sobre la renta de DC no debería descontarse de tu salario. Dale a tu empleador el Formulario D-4A de DC (Certificado de No Residencia). En su lugar, el impuesto de tu estado de origen debería salir.",
+      "**Vive en DC, trabaja en Maryland o Virginia:** entrega a tu empleador el Formulario MW507 (Maryland) o el Formulario VA-4 (Virginia) para reclamar la exención. Pagas impuesto sobre la renta de DC.",
+      "**Vive en Maryland y trabaja en Virginia, o al revés:** usualmente solo tu estado de origen grava tu salario, si no tienes una casa en el estado donde trabajas y no pasas más de 183 días al año ahí. Dale a tu empleador el formulario del estado donde trabajas (VA-4 o MW507).",
+      "**Vive en Maryland:** tu retención en Maryland también incluye el impuesto sobre la renta del condado."
+     ]
+    },
+    {
+     "p": "Estas reglas son para los salarios. Revisa tu primer recibo de nómina en un nuevo trabajo. Si el impuesto de tu estado de origen no está saliendo de pago, pregunta a la oficina de nómina. Si tu empleador no lo retiene, puede que tengas que pagar ese impuesto tú mismo durante el año, para no deber una cantidad grande, más una multa, al presentar la declaración."
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-s7",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "warning",
+   "title": "¿Pagado con un 1099 pero tratado como empleado?",
+   "body": [
+    {
+     "p": "Un empleado recibe un Formulario W-2. El empleador retiene impuestos y paga la mitad del impuesto del Seguro Social y Medicare. Un contratista independiente recibe un Formulario 1099-NEC. No se retiene nada y el trabajador paga ambas mitades como impuesto por cuenta propia."
+    },
+    {
+     "p": "Algunas empresas llaman contratistas a los trabajadores para evitar pagar impuestos y beneficios. Esto se llama clasificación incorrecta. Podrías ser empleado si:"
+    },
+    {
+     "ul": [
+      "La empresa establece tus horas y te dice cómo hacer el trabajo.",
+      "La empresa te da las herramientas, suministros o el uniforme.",
+      "Te pagan por hora y no puedes fijar tus propios precios.",
+      "Solo trabajas para esta empresa, sin fecha de finalización.",
+      "Obtienes beneficios, como vacaciones pagadas."
+     ]
+    },
+    {
+     "p": "Si esto suena como tu trabajo, puedes pedirle al IRS que decida con el Formulario SS-8. La respuesta puede tardar seis meses o más. Si fuiste mal clasificado, el Formulario 8919 puede permitirte pagar solo la parte del empleado en el impuesto del Seguro Social y Medicare. Para ayuda gratuita, contacta una Clínica para Contribuyentes de Bajos Ingresos o asistencia legal, como Legal Aid DC, Maryland Legal Aid o Legal Services of Northern Virginia."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "pay-stub-and-w4-s8",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "tip",
+   "title": "Revisa tu retención cada año",
+   "body": [
+    {
+     "p": "Usa el [Estimador de Retención de Impuestos del IRS](https://www.irs.gov/individuals/tax-withholding-estimator) a principios de cada año y después de cualquier cambio importante, como un nuevo trabajo, un segundo empleo, matrimonio, divorcio, un bebé nuevo o un gran aumento. Es gratis, no necesita inicio de sesión y toma alrededor de 25 minutos. Ten listo tu último recibo de nómina y la declaración de impuestos del año pasado."
+    },
+    {
+     "p": "El objetivo es un reembolso pequeño o una factura pequeña. Un reembolso muy grande significa que se retuvo demasiado de tu propio pago durante todo el año, sin que te paguen intereses. Una factura grande significa que se descontó muy poco."
+    },
+    {
+     "p": "Solo reclama exención de retención si no debías impuesto federal sobre la renta el año pasado y esperas no deberlo este año. Un W-4 exento dura un año. Para 2026, debes darle uno nuevo a tu empleador antes del 16 de febrero de 2027."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "pay-stub-and-w4-takeaways",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "El salario bruto es lo que ganas. El salario neto es lo que te llevas después de impuestos y otras deducciones.",
+      "El Seguro Social (6.2%) y Medicare (1.45%) se descuentan de casi todos los cheques de pago y cuentan para tus beneficios futuros.",
+      "Dale a tu empleador un nuevo W-4 cuando tu vida cambie, como un segundo trabajo, matrimonio o un nuevo hijo.",
+      "Entre DC, Maryland y Virginia, tus salarios usualmente solo se gravan donde vives, no donde trabajas.",
+      "Si una empresa controla cómo, cuándo y dónde trabajas, podrías ser empleado, incluso si te da un 1099."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-quiz",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/pay-stub-and-w4/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "pay-stub-and-w4-links",
+   "type": "lesson",
+   "lesson": "pay-stub-and-w4",
+   "lessonTitle": "Lee tu recibo de nómina y llena tu W-4",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Estimador para retención de impuestos",
+       "u": "https://www.irs.gov/es/individuals/tax-withholding-estimator",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "La página del Estimador de Retención de Impuestos del IRS en español."
+      },
+      {
+       "t": "Estimador de Retención de Impuestos",
+       "u": "https://www.irs.gov/individuals/tax-withholding-estimator",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Una herramienta gratuita, sin inicio de sesión, que te ayuda a llenar el Formulario W-4 para que la cantidad correcta de impuestos se desconte de tu pago."
+      },
+      {
+       "t": "¿Contratista independiente (trabajador independiente) o empleado?",
+       "u": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Cómo decide el IRS si un trabajador es empleado o contratista, y qué hacer si crees que fuiste mal clasificado."
+      },
+      {
+       "t": "Reciprocidad",
+       "u": "https://www.tax.virginia.gov/reciprocity",
+       "org": "Virginia Department of Taxation",
+       "d": "¿Qué estado grava tus salarios cuando vives en Virginia y trabajas en DC o Maryland, o al revés?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-intro",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "intro",
+   "title": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "body": [
+    {
+     "p": "Lo que deben los trabajadores independientes, cómo apartar dinero para impuestos, cuándo pagar durante el año y registros simples que reducen tu factura de impuestos."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Explica qué ingresos deben reportarse, incluyendo efectivo, propinas y ingresos de la aplicación de pago.",
+      "Estima el impuesto al trabajo por cuenta propia sobre las ganancias netas usando un ejemplo trabajado.",
+      "Aparta dinero para impuestos y sabe cuándo vencen los pagos estimados trimestrales.",
+      "Lleva registros simples de ingresos y gastos del negocio, como el kilometraje."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** El Módulo 3 menciona trabajos secundarios y el Formulario 1099, pero no enseña impuestos para el trabajo por cuenta propia. Esta lección muestra las matemáticas con números reales y ofrece a conductores, limpiadores, cuidadores y otros trabajadores independientes un sistema sencillo para guardar y llevar registros."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-words",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Trabajadores independientes (Self-employed)",
+       "Trabajar para ti mismo en lugar de para un empleador. Nadie retiene impuestos de tu salario."
+      ],
+      [
+       "Utilidad neta (Net profit)",
+       "Tus ingresos del negocio menos tus gastos del negocio. El impuesto por autoempleo se basa en esta cifra, no en todo el dinero que ingresaste."
+      ],
+      [
+       "Impuesto para trabajadores independientes (Self-employment tax)",
+       "Impuestos de Seguro Social y Medicare para personas que trabajan por su cuenta. La tasa es del 15.3%."
+      ],
+      [
+       "Impuesto estimado (Estimated tax)",
+       "Impuestos que pagas al IRS durante el año, usualmente cuatro veces, cuando no se retiene impuesto de tus ingresos."
+      ],
+      [
+       "Formulario 1099-NEC (Form 1099-NEC)",
+       "Un formulario que una empresa envía a alguien a quien pagó y que no es empleado, mostrando cuánto pagó."
+      ],
+      [
+       "Formulario 1099-K (Form 1099-K)",
+       "Un formulario de aplicaciones de pago, mercados en línea y procesadores de tarjetas envían para reportar los pagos que recibiste por bienes o servicios."
+      ],
+      [
+       "Gasto de negocio (Business expense)",
+       "Un costo que pagas por hacer tu trabajo, como suministros o kilómetros de negocio. Reduce tus ganancias."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s1",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "text",
+   "title": "Todos los ingresos cuentan",
+   "body": [
+    {
+     "p": "Si te pagan por manejar para una app de rideshare, entregar comida, limpiar casas, trenzar el cabello o cuidar niños, y nadie te descuenta impuestos de tu pago, podrías ser trabajador independiente. Eso significa que tienes un negocio por tu cuenta, aunque sea un trabajo de medio tiempo o extra. Debes reportar lo que ganas, ya sea que te paguen en efectivo, con cheque, a través de una app o en propinas."
+    },
+    {
+     "p": "Una excepción: si trabajas en la casa de una familia y la familia controla cómo haces el trabajo, por ejemplo como niñera o ama de llaves, podrías ser el empleado del hogar de esa familia. Pregunta a un voluntario de VITA si no estás seguro."
+    },
+    {
+     "p": "Debes reportar ingresos aunque nunca recibas un formulario de impuestos. Los formularios fiscales son solo reportes. Esto es lo que podrías recibir:"
+    },
+    {
+     "ul": [
+      "**Formulario 1099-NEC** de una empresa que te pagó como no empleado. Para pagos realizados en 2026, una empresa debe enviar uno si te paga $2,000 o más. Antes de 2026, la cantidad era de $600.",
+      "**Formulario 1099-K** de una aplicación de pagos o mercado en línea si recibes más de $20,000 por bienes o servicios en más de 200 pagos en un año. Si aceptas tarjetas de crédito o débito directamente, por ejemplo con un lector de tarjetas, esos pagos con tarjeta se reportan en un 1099-K a cualquier cantidad.",
+      "**No hay ningún formulario** para muchos trabajos en efectivo. El ingreso sigue contando."
+     ]
+    },
+    {
+     "p": "El dinero que un amigo envía para dividir la factura de una cena, o un regalo de la familia, no es ingreso del negocio. Mantén los pagos personales separados de los pagos del negocio para que tus registros se mantengan limpios."
+    },
+    {
+     "p": "Debes presentar una declaración de impuestos federal si tus ingresos netos por trabajo independiente son de $400 o más, incluso si tu ingreso total es bajo."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s2",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "text",
+   "title": "Dos impuestos: impuesto al trabajo por cuenta propia e impuesto sobre la renta",
+   "body": [
+    {
+     "p": "Un empleado paga el 7.65% de su salario por el Seguro Social y Medicare, y el empleador paga otro 7.65%. Cuando trabajas por tu cuenta, pagas ambas partes. Esto se llama impuesto por cuenta propia. La tasa es del 15.3%: 12.4% para el Seguro Social y 2.9% para Medicare."
+    },
+    {
+     "p": "El impuesto no se calcula sobre todo el dinero que recibes. Se calcula en el 92.35% de tu utilidad neta. La utilidad neta es el ingreso de tu negocio menos tus gastos comerciales. También puedes deducir la mitad de tu impuesto por cuenta propia cuando calcules tu impuesto sobre la renta."
+    },
+    {
+     "p": "También podrías deber impuesto sobre la renta regular. Eso depende de tu ingreso total, estatus declarativo, deducciones y créditos. Muchos trabajadores con bajos ingresos deben poco o ningún impuesto sobre la renta después de la deducción estándar (la parte de los ingresos que no se grava, $16,100 para una persona sola en 2026), pero aún así deben impuesto por trabajo independiente. Los créditos reembolsables, como el Crédito Fiscal por Ingreso del Trabajo, pueden reducir lo que debes o incluso darte un reembolso."
+    },
+    {
+     "p": "¿Presentar con un ITIN? Aún reportas tus ingresos por cuenta propia. Si también debes impuestos por cuenta propia puede depender de tu residencia fiscal, que no es lo mismo que tu estatus migratorio. Pide a un voluntario de VITA que revise."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s3",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "example",
+   "title": "Ingresos por entregas de Marisol en 2025",
+   "body": [
+    {
+     "p": "Marisol vive en Langley Park, Maryland, y entrega comida con dos apps. En 2025 las apps le pagaron $26,000, incluyendo propinas. Ella llevaba un registro de kilometraje y sus recibos."
+    },
+    {
+     "table": {
+      "caption": "Impuesto sobre las ganancias y el trabajo por cuenta propia de Marisol para 2025",
+      "head": [
+       "Ítem",
+       "Monto"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Dinero de las apps, incluyendo propinas",
+        "$26,000"
+       ],
+       [
+        "Millas de negocio: 8,000 millas × 70 centavos (la tarifa del IRS 2025)",
+        "−$5,600"
+       ],
+       [
+        "Parte del negocio de su recibo telefónico",
+        "−$300"
+       ],
+       [
+        "Bolsas de entrega aislantes",
+        "−$100"
+       ],
+       [
+        "**Utilidad neta**",
+        "**$20,000**"
+       ],
+       [
+        "Monto sujeto al impuesto por autoempleo: $20,000 × 92.35%",
+        "$18,470"
+       ],
+       [
+        "Impuesto para el trabajo por cuenta propia: $18,470 × 15.3%",
+        "$2,826"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "formula": "$20,000 × 92.35% × 15.3% = aproximadamente $2,826"
+    },
+    {
+     "p": "Marisol puede deducir la mitad de eso, alrededor de $1,413, cuando calcule su impuesto sobre la renta. Si debe impuesto sobre la renta, y cuánto, depende del resto de su declaración de impuestos."
+    },
+    {
+     "p": "Su registro de kilometraje le ahorraba dinero. Sin él, su ganancia sería $5,600 más y solo su impuesto por cuenta propia sería aproximadamente $791 más."
+    },
+    {
+     "p": "La tarifa de kilometraje del IRS cambia. Para conducir en 2026, es de 72.5 centavos por milla de enero a junio y 76 centavos por milla del 1 de julio al 31 de diciembre."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "gig-income-taxes-s4",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "text",
+   "title": "Aparta dinero cada vez que te pagan",
+   "body": [
+    {
+     "p": "Nadie descuenta impuestos del pago gig. Si lo gastas todo, la factura de impuestos puede ser difícil de pagar. Protégete con una cuenta separada."
+    },
+    {
+     "ol": [
+      "Abre una segunda cuenta solo para impuestos. Muchos bancos y cooperativas de crédito ofrecen cuentas de ahorro gratuitas o de bajo costo. Consulta nuestra lección sobre [cómo abrir una cuenta](https://dollarscholars.org/es-mx/resources/lessons/open-an-account/).",
+      "Cada vez que recibas pago, mueve un porcentaje fijo hacia ella. Solo el impuesto por autoempleo representa aproximadamente el 14% de tu ganancia. Si también debes impuesto sobre la renta, ahorra más. La hoja de trabajo en el Formulario 1040-ES del IRS o un voluntario de VITA pueden ayudarte a elegir un porcentaje.",
+      "No uses este dinero para las cuentas. Es para tus pagos de impuestos.",
+      "Úsalo para pagar tu impuesto estimado a tiempo."
+     ]
+    },
+    {
+     "formula": "$385 de ganancia semanal × 15% = aproximadamente $58 a la semana, o alrededor de $3,000 al año"
+    },
+    {
+     "p": "Para Marisol, ahorrar el 15% de sus ganancias cada semana cubriría su impuesto de trabajo por cuenta propia de aproximadamente $2,826, con un poco de sobra."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s5",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "text",
+   "title": "Pago durante el año: impuesto estimado",
+   "body": [
+    {
+     "p": "El IRS espera que pagues impuestos durante el año, conforme ganes ingresos. Si esperas deber $1,000 o más al presentar la declaración, generalmente necesitas hacer pagos estimados de impuestos. Si pagas muy poco o demasiado tarde, podrías tener que pagar una multa, incluso si después recibes un reembolso."
+    },
+    {
+     "table": {
+      "caption": "Cuándo vence el impuesto estimado para los ingresos de 2026",
+      "head": [
+       "Ingresos obtenidos",
+       "Pago pendiente"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Del 1 de enero al 31 de marzo de 2026",
+        "15 de abril de 2026"
+       ],
+       [
+        "Del 1 de abril al 31 de mayo de 2026",
+        "15 de junio de 2026"
+       ],
+       [
+        "Del 1 de junio al 31 de agosto de 2026",
+        "15 de septiembre de 2026"
+       ],
+       [
+        "Del 1 de septiembre al 31 de diciembre de 2026",
+        "15 de enero de 2027"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Si la fecha límite cae en fin de semana o día festivo, puedes pagar el siguiente día hábil. Para evitar una multa, generalmente debes pagar al menos el 90% del impuesto de este año, o el 100% del impuesto del año pasado (110% si tus ingresos fueron mayores a $150,000). DC, Maryland y Virginia también pueden esperar pagos estimados por su impuesto sobre la renta."
+    },
+    {
+     "p": "Formas de pagar al IRS:"
+    },
+    {
+     "ul": [
+      "**[IRS Direct Pay](https://www.irs.gov/payments/direct-pay-with-bank-account):** gratis, desde una cuenta corriente o de ahorros, sin iniciar sesión.",
+      "**Tu cuenta en línea del IRS.**",
+      "**Tarjeta de débito o crédito:** el procesador cobra una tarifa.",
+      "**Efectivo en una tienda,** a través de un socio minorista aprobado por el IRS: hay una pequeña tarifa y un límite en cada pago. Paga al menos 7 días antes de la fecha límite. También puedes pagar en efectivo gratis en un Centro de Asistencia al Contribuyente del IRS, con cita previa.",
+      "**Un cheque por correo,** con un comprobante de pago del Formulario 1040-ES."
+     ]
+    },
+    {
+     "p": "¿También tienes un trabajo con W-2? Puedes pedirle a tu empleador que desconte impuestos extra en el Paso 4(c) de tu W-4 en lugar de hacer pagos estimados. Consulta [Leer tu recibo de nómina y llenar tu W-4](https://dollarscholars.org/es-mx/resources/lessons/pay-stub-and-w4/)."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s6",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "text",
+   "title": "Discos que te ahorran dinero",
+   "body": [
+    {
+     "p": "Cada gasto de negocio que puedas probar reduce tus ganancias. Menor ganancia significa menos impuestos para el trabajo por cuenta propia y menos impuesto sobre la renta. Usa un cuaderno de papel o una aplicación. Cualquiera de los dos funciona si lo mantienes actualizado."
+    },
+    {
+     "ul": [
+      "Ingresos: guarda resúmenes de la app y estados de cuenta mensuales. Anota el dinero y las propinas el día que los recibas.",
+      "Registro de kilometraje: para cada viaje de trabajo, escribe la fecha, los kilómetros y la razón. Anota la lectura del odómetro de tu auto al inicio y al final del año.",
+      "Recibos: suministros, herramientas, uniformes, productos de limpieza y la parte de negocio de tu recibo telefónico.",
+      "Estacionamiento y peajes para viajes de trabajo. Puedes deducirlos incluso si usas la tarifa estándar de kilometraje.",
+      "Una cuenta para dinero de negocios, así que tus estados de cuenta bancarios respaldan tus registros."
+     ]
+    },
+    {
+     "p": "Los viajes personales no son millas de negocios. Las multas de tránsito y otras multas no son deducibles. Si quieres usar la tarifa estándar de kilometraje para un auto que posees, debes elegirlo en el primer año que lo uses para tu negocio."
+    },
+    {
+     "p": "Conserva tus registros fiscales por al menos tres años después de presentar la declaración."
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-s7",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "warning",
+   "title": "Trampas comunes",
+   "body": [
+    {
+     "ul": [
+      "**Pensar que el efectivo no cuenta.** Sí cuenta, incluso sin forma.",
+      "**Gastando el dinero de los impuestos.** Luego llega la factura en abril y no hay dinero para pagarla.",
+      "**No presentar porque no puedes pagar.** De todos modos, presenta a tiempo. La multa por presentar tarde suele ser mucho mayor que la penalización por pagar tarde, y el IRS ofrece planes de pago.",
+      "**Pagar a una empresa que promete hacer desaparecer tu deuda fiscal.** Muchos cobran tarifas altas por adelantado. Para ayuda gratuita con una deuda fiscal o una carta del IRS, contacta a una Clínica para Contribuyentes de Bajos Ingresos."
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "gig-income-taxes-s8",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "tip",
+   "title": "Por qué los ingresos reportados te ayudan después",
+   "body": [
+    {
+     "p": "Reportar todos tus ingresos puede parecer costoso, pero ayuda a tu futuro. Si tienes un número de Seguro Social, el impuesto de trabajo por cuenta propia que pagas otorga créditos de Seguro Social para beneficios de jubilación y discapacidad. En 2026, cada $1,890 de ingresos otorga un crédito, hasta cuatro créditos al año."
+    },
+    {
+     "p": "Tus declaraciones de impuestos también son prueba de ingresos. Los arrendadores, prestamistas y algunos programas los piden cuando rentas un departamento, solicitas un préstamo o [te preparas para una hipoteca.](https://dollarscholars.org/es-mx/resources/lessons/mortgage-ready/) Los ingresos que nunca reportaste no pueden ayudarte entonces."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "gig-income-taxes-takeaways",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Todos los ingresos cuentan, incluyendo efectivo y propinas, incluso si nunca recibes un Formulario 1099.",
+      "El impuesto sobre el trabajo por cuenta propia representa el 15.3% del 92.35% de tu utilidad neta, o aproximadamente el 14% de tu ganancia.",
+      "Mueve parte de cada pago a una cuenta de ahorro fiscal separada.",
+      "Si esperas deber $1,000 o más, paga impuestos estimados durante el año, usualmente cuatro veces.",
+      "Los registros de tus millas y gastos reducen tus ganancias, y eso reduce tus impuestos."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-quiz",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/gig-income-taxes/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "gig-income-taxes-links",
+   "type": "lesson",
+   "lesson": "gig-income-taxes",
+   "lessonTitle": "Impuestos sobre ingresos por trabajos por trabajos por cuenta propia",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Centro de ayuda tributaria para la economía compartida",
+       "u": "https://www.irs.gov/es/businesses/gig-economy-tax-center",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "El Centro de Impuestos de la Economía Gig del IRS en español."
+      },
+      {
+       "t": "Centro de Impuestos de la Economía Gig",
+       "u": "https://www.irs.gov/businesses/gig-economy-tax-center",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Información del IRS para trabajadores basados en aplicaciones y otros trabajos intermedios sobre cómo reportar ingresos, gastos y pagar impuestos."
+      },
+      {
+       "t": "Impuestos estimados",
+       "u": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Quién debe pagar el impuesto estimado, cómo evitar una multa y las formas de pagar."
+      },
+      {
+       "t": "Pago Directo con cuenta bancaria",
+       "u": "https://www.irs.gov/payments/direct-pay-with-bank-account",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "Paga impuestos estimados o un saldo debido al IRS gratis desde una cuenta corriente o de ahorros."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-intro",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "intro",
+   "title": "Solicita gratis y reclama los créditos que ganaste",
+   "body": [
+    {
+     "p": "Encuentra ayuda fiscal gratuita y confiable, aprende lo básico de ITIN, reclama los créditos que muchas familias trabajadoras pierden y evita preparadores y productos que forman parte de tu reembolso."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Encuentra ayuda fiscal gratuita y confiable, como los sitios del IRS VITA y el IRS Free File.",
+      "Explica cómo obtener o renovar un ITIN para presentar sin un número de Seguro Social.",
+      "Identifica créditos federales, DC, Maryland y Virginia para los que podrías calificar, y cuáles requieren un número de Seguro Social.",
+      "Reconoce trampas de preparación de impuestos y protege tu declaración con un PIN de Protección de Identidad del IRS."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Money Smart para Adultos no tiene un módulo sobre cómo presentar impuestos. Esta lección de Dollar Scholars te guía durante la temporada de impuestos: qué llevar, dónde obtener ayuda gratuita en el área de DC, qué créditos preguntar y cómo proteger tu reembolso."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-words",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "VITA",
+       "Asistencia voluntaria para impuestos sobre la renta. Un programa del IRS donde voluntarios capacitados preparan declaraciones de impuestos gratis."
+      ],
+      [
+       "ITIN",
+       "Número de identificación de contribuyente individual. Un número del IRS de 9 dígitos para personas que necesitan presentar impuestos pero no pueden obtener un número de Seguro Social."
+      ],
+      [
+       "Crédito reembolsable (Refundable credit)",
+       "Un crédito fiscal que puede devolverte dinero aunque no debas impuestos."
+      ],
+      [
+       "EITC",
+       "Crédito Fiscal por Ingreso del Trabajo. Un crédito reembolsable para trabajadores con ingresos bajos a moderados."
+      ],
+      [
+       "Ingreso bruto ajustado (AGI) (Adjusted gross income (AGI))",
+       "Tu ingreso total menos ciertos ajustes. Está en tu declaración de impuestos federal, y muchos créditos y programas lo usan para decidir quién califica."
+      ],
+      [
+       "PTIN",
+       "Número de identificación fiscal del preparador. Todo preparador de impuestos pagado debe tener uno y ponerlo en las declaraciones que prepare."
+      ],
+      [
+       "IP PIN",
+       "PIN de Protección de Identidad. Un número de 6 dígitos del IRS que impide que otras personas presenten una declaración de impuestos con tu SSN o ITIN."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s1",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "text",
+   "title": "¿Deberías presentar la demanda? A menudo, sí",
+   "body": [
+    {
+     "p": "Debes presentar una declaración de impuestos federal si tus ingresos son mayores a cierta cantidad para tu estatus de declaración, o si tenías $400 o más en ingresos netos por cuenta propia. Pero muchas personas deberían presentar la declaración incluso cuando no sean necesarios. La declaración te permite:"
+    },
+    {
+     "ul": [
+      "Recupera el impuesto federal sobre la renta que te descontaron de tu sueldo.",
+      "Reclama créditos reembolsables, como el Crédito Fiscal por Ingreso del Trabajo (EITC), que puede pagarte incluso si no debes impuestos.",
+      "Reclama créditos locales, como el crédito fiscal predial de DC para inquilinos.",
+      "Muestra comprobante de ingresos para solicitudes de departamento y préstamos."
+     ]
+    },
+    {
+     "p": "¿Faltaste un año? Generalmente tienes tres años desde la fecha de vencimiento original para presentar y reclamar un reembolso."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s2",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "text",
+   "title": "Ayuda fiscal gratuita en la que puedes confiar",
+   "body": [
+    {
+     "p": "No necesitas pagar para presentar la solicitud. Comienza con estas opciones gratuitas:"
+    },
+    {
+     "ul": [
+      "**VITA (Asistencia Voluntaria para Impuestos sobre la Renta):** Voluntarios certificados por el IRS preparan y presentan electrónicamente tu declaración de forma gratuita. VITA atiende a personas que generalmente ganan alrededor de $70,000 al año o menos (la guía de 2026, que cambia cada año), personas con discapacidades y personas que hablan inglés limitado. La mayoría de los sitios están abiertos de aproximadamente febrero a abril. Usa el [localizador de sitios del IRS](https://freetaxassistance.for.irs.gov/s/sitelocator) (puedes buscar por idioma) o llama al 800-906-9887.",
+      "**TCE y AARP Foundation Tax-Aide:** ayuda gratuita, con enfoque en personas de 60 años o más. Llama al 888-227-7669.",
+      "**IRS Free File:** software gratuito de impuestos guiados. Para el año fiscal 2025 (presentado en 2026), fue para personas con un ingreso bruto ajustado (AGI) de $89,000 o menos. Cada empresa de software puede agregar sus propias reglas. Empieza desde [IRS.gov](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free) para obtener la versión gratuita.",
+      "**Declaraciones de DC:** muchos residentes de DC pueden presentar su declaración de DC gratis en línea en MyTax.DC.gov."
+     ]
+    },
+    {
+     "p": "IRS Direct File, una herramienta gratuita de presentación administrada por el IRS, no se ofreció en la temporada de presentación de 2026."
+    },
+    {
+     "p": "Ayuda local: en DC, el Departamento de Seguros, Valores y Banca (DISB) publica clínicas fiscales gratuitas cada temporada en [disb.dc.gov/freetaxprepresources](https://disb.dc.gov/freetaxprepresources). En Maryland, la [Campaña CASH de Maryland](https://cashmd.org/) ofrece ayuda fiscal gratuita en todo el estado, incluyendo sitios para residentes del condado de Montgomery y del condado de Prince George. En el norte de Virginia, usa el localizador de sitios del IRS."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s3",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "text",
+   "title": "Qué llevar",
+   "body": [
+    {
+     "ul": [
+      "Identificación con foto para ti y para tu cónyuge si presentan la declaración juntos",
+      "Tarjetas de Seguro Social o cartas ITIN para todos en la declaración, y sus fechas de nacimiento",
+      "Todos los Formularios W-2, 1099-NEC, 1099-K, 1099-MISC y 1099-G (para el pago por desempleo)",
+      "Registros de ingresos y gastos por trabajo independiente, incluyendo tu registro de kilometraje",
+      "Formulario 1095-A, si compraste un seguro de salud a través de un mercado",
+      "Costos de cuidado infantil, con el nombre, dirección y número de identificación fiscal del proveedor",
+      "Para los inquilinos en DC: la renta total que pagaste y el nombre, dirección y número telefónico de tu arrendador",
+      "La declaración de impuestos del año pasado, si la tienes",
+      "Cualquier carta de IP PIN del IRS",
+      "Tu ruta bancaria y números de cuenta para depósito directo"
+     ]
+    },
+    {
+     "p": "El depósito directo es la forma más rápida y segura de obtener un reembolso. Incluso puedes dividirlo en hasta tres cuentas, como tu cuenta de cheques y tu [fondo de emergencia](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/). Desde finales de septiembre de 2025, el IRS generalmente ha dejado de enviar cheques de reembolso en papel. Si declaras sin información de cuenta, el IRS retiene tu reembolso y te envía una carta por correo (Aviso CP53E). La carta te pide que agregas una cuenta dentro de 30 días. Si no respondes, el IRS envía un cheque en papel, pero solo después de unas seis semanas. Algunas tarjetas prepagadas y aplicaciones de pago tienen números de ruta y de cuenta que pueden recibir un reembolso. ¿Sin cuenta? Consulta nuestra lección sobre [cómo abrir una cuenta](https://dollarscholars.org/es-mx/resources/lessons/open-an-account/) antes de presentar la solicitud, o pregunta a tu voluntario de VITA sobre tus opciones."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s4",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "text",
+   "title": "Conceptos básicos de ITIN: presentar sin número de seguro social",
+   "body": [
+    {
+     "p": "Si debes presentar impuestos pero no puedes obtener un número de seguro social (SSN), puedes usar un Número de Identificación de Contribuyente Individual (ITIN). Un cónyuge o dependiente que no pueda obtener un SSN también puede necesitarlo."
+    },
+    {
+     "ol": [
+      "Llena el Formulario W-7.",
+      "Adjuntarlo a tu declaración de impuestos federales y enviarlo antes de la fecha límite de presentación.",
+      "Incluye documentos que prueben quién eres y tu estatus extranjero, como un pasaporte. Envía originales o copias certificadas por la agencia que los emitió.",
+      "Para evitar enviar documentos originales por correo, puedes acudir a un Agente de Aceptación Certificadora o a un Centro de Asistencia al Contribuyente del IRS (con cita previa). Algunos sitios de VITA también pueden ayudarte con el Formulario W-7.",
+      "Espera alrededor de 7 semanas para una respuesta, o de 9 a 11 semanas durante la temporada de impuestos (del 15 de enero al 30 de abril)."
+     ]
+    },
+    {
+     "p": "Un ITIN expira si no lo usas en una declaración de impuestos federal durante tres años fiscales consecutivos. Expira el 31 de diciembre del tercer año. Para renovar, envía un nuevo Formulario W-7 y marca la casilla para renovar. Presentar con un ITIN vencido puede retrasar tu reembolso y hacer que pierdas algunos créditos."
+    },
+    {
+     "p": "Un ITIN es solo para impuestos. No te da permiso para trabajar, cambiar tu estatus migratorio ni calificarte para beneficios del Seguro Social o el EITC federal. Si tienes preguntas sobre cómo podría afectar la presentación a un asunto migratorio, habla primero con un abogado de inmigración o un representante acreditado por el DOJ, no con un notario. Consulta [estafas que apuntan a recién llegados](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s5",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "text",
+   "title": "Créditos que muchas familias trabajadoras pasan por alto",
+   "body": [
+    {
+     "h3": "Créditos y deducciones federales"
+    },
+    {
+     "ul": [
+      "**Crédito Fiscal por Ingreso del Trabajo (EITC):** para el año fiscal 2025, hasta $649 sin hijos y hasta $8,046 con tres o más hijos. Tú, tu cónyuge si declaran juntos, y cada hijo que declares debe tener un número de seguro social válido. Los trabajadores sin hijos deben tener al menos 25 años y menos de 65 años.",
+      "**Crédito Fiscal por Hijos:** para el año fiscal 2025, se pueden pagar hasta $2,200 por cada hijo menor de 17 años, y hasta $1,700 de ese valor como reembolso. Debes tener un SSN válido. En una declaración conjunta, solo un cónyuge necesita un SSN válido, y el otro puede usar un ITIN. El niño debe tener un SSN válido.",
+      "**Crédito para otros dependientes:** hasta $500 para algunos dependientes que no califican para el Crédito Fiscal por Hijos.",
+      "**Nuevas deducciones por propinas y horas extras (años fiscales 2025 a 2028):** hasta $25,000 en propinas calificadas para trabajadores en empleos que usualmente recibían propinas, y la \"mitad\" extra del pago de horas extras requeridas por la ley federal, hasta $12,500 ($25,000 en una declaración conjunta). Ambos requieren un SSN válido para trabajar y se reducen para ingresos superiores a $150,000 ($300,000 conjuntos). Reducen solo el impuesto federal sobre la renta, no el impuesto de Seguro Social y Medicare. DC no los permite en declaraciones de DC para 2025, y Maryland y Virginia tampoco pueden seguirlos."
+     ]
+    },
+    {
+     "h3": "Créditos en DC, Maryland y Virginia"
+    },
+    {
+     "ul": [
+      "**DC EITC:** para el año fiscal 2025, equivalente al 100% de tu EITC federal. DC también permite a ciertos declarantes de ITIN que cumplen con otras reglas federales.",
+      "**DC Schedule H (Crédito Fiscal por Propiedad para Propietarios y Inquilinos):** para el año fiscal 2025, hasta $1,425 para personas que rentaron o fueron dueñas de su casa y vivieron en DC todo el año, con ingreso bruto ajustado federal de $66,000 o menos ($90,000 o menos si tienes 70 años o más). No puedes reclamarlo si viviste en vivienda pública o subsidiada durante el año. Puedes presentarlo incluso si no tienes que presentar una declaración de impuestos en DC, y puede que puedas reclamarlo por años anteriores que perdiste.",
+      "**EITC de Maryland:** si estás casado o tienes hijos que califican, hasta la mitad de tu EITC federal. Sin hijos, hasta el monto federal completo. Los declarantes de ITIN y los trabajadores de 18 a 24 años sin hijos también pueden calificar. Algunos declarantes también obtienen un crédito reembolsable de Maryland o un crédito local.",
+      "**Virginia EITC:** para el año fiscal 2025, los residentes de Virginia que recibieron el EITC federal podrían reclamar un crédito reembolsable igual al 20% de él."
+     ]
+    },
+    {
+     "p": "Por ley, si reclamas el EITC o la parte reembolsable del Crédito Fiscal por Hijos, el IRS no puede enviar tu reembolso antes de mediados de febrero. Retiene todo el reembolso, no solo el crédito."
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-s6",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "example",
+   "title": "Cómo los créditos locales contribuyen a un EITC federal",
+   "body": [
+    {
+     "p": "Imagina a tres trabajadores que reciben cada uno un EITC federal de $5,000 para 2025. Uno vive en DC, otro en Maryland con hijos y uno en Virginia. Aquí está aproximadamente cuánto podría agregar cada uno de un EITC local. Las cantidades reales dependen del retorno total."
+    },
+    {
+     "table": {
+      "caption": "EITC local añadido a un EITC federal de $5,000 (año fiscal 2025)",
+      "head": [
+       "Dónde vive el trabajador",
+       "Local EITC"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "DC: 100% del EITC federal",
+        "$5,000"
+       ],
+       [
+        "Maryland, con hijos: hasta la mitad del EITC federal",
+        "hasta $2,500"
+       ],
+       [
+        "Virginia, crédito reembolsable: 20% del EITC federal",
+        "$1,000"
+       ],
+       [
+        "Total para el trabajador de DC: $5,000 federales + $5,000 DC",
+        "$10,000"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$5,000 EITC federal × 20% = $1,000 EITC reembolsable en Virginia"
+    },
+    {
+     "p": "Patricia renta un departamento en Anacostia y ganó $32,000 en 2025. Además del EITC federal y de DC, debería preguntarle a su voluntario de VITA sobre el Schedule H, que podría sumar $1,425 más."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "file-for-free-s7",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "warning",
+   "title": "Trampas de preparación de impuestos y llamadas falsas al IRS",
+   "body": [
+    {
+     "p": "Algunos preparadores y productos reciben una gran parte de los reembolsos de las familias trabajadoras. Señales de advertencia:"
+    },
+    {
+     "ul": [
+      "Un preparador \"fantasma\" que no firmará tu declaración. Por ley, un preparador pagado debe firmarla e incluir su PTIN.",
+      "Una comisión basada en un porcentaje de tu reembolso, o la promesa de un reembolso mayor que el que cualquier otra persona puede obtener.",
+      "Una solicitud para enviar tu reembolso a la cuenta bancaria del preparador.",
+      "Una solicitud para firmar una declaración en blanco o sin terminar. Lee toda la declaración antes de firmar. Eres responsable de todo lo que está en ella.",
+      "Los \"adelantamientos\" y \"transferencias de reembolso\" se venden como dinero rápido. Muchos agregan comisiones o están ligados a la preparación de impuestos pagados. Pide el costo total por escrito.",
+      "Un notario que ofrece ayuda fiscal y ayuda migratoria juntos. Los notarios no pueden dar asesoría legal migratoria en Estados Unidos."
+     ]
+    },
+    {
+     "p": "El IRS normalmente te contacta primero por correo. Una llamada o mensaje que amenaza con arrestar o exige el pago ahora, especialmente por tarjeta de regalo, transferencia bancaria o aplicación de pago, es una estafa. Reporta a un mal preparador al IRS con el Formulario 14157. Aprende [más sobre cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "file-for-free-s8",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "tip",
+   "title": "Protege tu declaración con un IP PIN",
+   "body": [
+    {
+     "p": "El robo de identidad fiscal ocurre cuando alguien presenta una declaración con tu SSN o ITIN para robar un reembolso. Un PIN de Protección de Identidad (IP PIN) es un número de 6 dígitos que detiene esto. Cualquier persona con un SSN o ITIN que pueda verificar su identidad puede obtener uno."
+    },
+    {
+     "ol": [
+      "Inicia sesión en tu cuenta en línea del IRS y ve a la sección de PIN IP. Esta es la forma más rápida.",
+      "Si no puedes verificar tu identidad en línea y tus ingresos son menores a $84,000 ($168,000 si estás casado y declaras conjuntamente), puedes usar el Formulario 15227. También puedes agendar una cita en un Centro de Asistencia al Contribuyente del IRS.",
+      "Cada año recibes un nuevo PIN IP. Dáselo solo al preparador de confianza que presenta tu declaración."
+     ]
+    },
+    {
+     "p": "El IRS nunca te llamará, enviará correos electrónicos o mensajes para pedirte tu PIN de IP. Cualquiera que pregunte es un estafador. Consulta también [cómo protegerte del robo de identidad](https://dollarscholars.org/es-mx/resources/lessons/identity-theft/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "file-for-free-takeaways",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Presentar puede traerte dinero incluso cuando no estás obligado a hacerlo, porque se pueden pagar créditos reembolsables.",
+      "Los sitios VITA preparan declaraciones gratis para personas con ingresos bajos a moderados, incluyendo personas que hablan inglés limitado.",
+      "DC, Maryland y Virginia cuentan cada una con un crédito por ingresos ganados además del EITC federal.",
+      "Un preparador pagado debe firmar tu declaración e incluir un PTIN. No uses a nadie que no lo haga.",
+      "Un PIN de Protección de Identidad del IRS impide que otras personas presenten una declaración con tu SSN o ITIN."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-quiz",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/file-for-free/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "file-for-free-links",
+   "type": "lesson",
+   "lesson": "file-for-free",
+   "lessonTitle": "Solicita gratis y reclama los créditos que ganaste",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Preparación gratuita de la declaración de impuestos para contribuyentes calificados",
+       "u": "https://www.irs.gov/es/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "La página del IRS sobre ayuda gratuita con impuestos VITA y TCE, en español."
+      },
+      {
+       "t": "Preparación gratuita de declaraciones de impuestos para contribuyentes que califican (VITA y TCE)",
+       "u": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "¿Quién puede obtener ayuda fiscal gratuita de voluntarios del IRS, qué llevar y cómo encontrar un sitio cerca de ti?"
+      },
+      {
+       "t": "Número de Identificación de Contribuyente Individual (ITIN)",
+       "u": "https://www.irs.gov/tin/itin/individual-taxpayer-identification-number-itin",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "¿Quién necesita un ITIN, cómo solicitar o renovar con el Formulario W-7, y qué no hace un ITIN?"
+      },
+      {
+       "t": "Recursos gratuitos para preparar impuestos",
+       "u": "https://disb.dc.gov/freetaxprepresources",
+       "org": "DC Department of Insurance, Securities and Banking (DISB)",
+       "d": "Una lista de clínicas fiscales gratuitas en DC en cada temporada de declaración, con ubicaciones, fechas e idiomas."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

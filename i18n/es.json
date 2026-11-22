@@ -71,5 +71,9 @@
  "d.wipeBtn": "Borrar todos mis datos",
  "d.wipeConfirm": "¿Seguro? Se borran todos tus meses, respuestas y avance.",
  "d.wiped": "Datos borrados.",
- "d.yes": "Sí, borrar"
+ "d.yes": "Sí, borrar",
+ "toc": "Contenido del tema",
+ "external": "(otro sitio web)",
+ "quiz.text": "El cuestionario de esta lección está en el sitio de Dollar Scholars. Se abre en otra pestaña.",
+ "quiz.btn": "Hacer el cuestionario en el sitio"
 }

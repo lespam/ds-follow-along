@@ -71,5 +71,9 @@
  "d.wipeBtn": "Delete all my data",
  "d.wipeConfirm": "Are you sure? All your months, answers and progress will be deleted.",
  "d.wiped": "Data deleted.",
- "d.yes": "Yes, delete"
+ "d.yes": "Yes, delete",
+ "toc": "Topic contents",
+ "external": "(external site)",
+ "quiz.text": "This lesson's quiz is on the Dollar Scholars site. It opens in a new tab.",
+ "quiz.btn": "Take the quiz on the site"
 }

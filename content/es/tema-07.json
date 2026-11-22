@@ -1,0 +1,1240 @@
+{
+ "id": "tema-07",
+ "title": "Tema 7: Conciencia sobre estafas y protección de identidad",
+ "summary": "Reconoce las estafas actuales, especialmente las dirigidas a inmigrantes, inquilinos y buscadores de empleo. Protege tu identidad gratis y recupera si te la roban.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "spot-scams",
+   "title": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "summary": "Las señales de advertencia que comparten todas las estafas, mensajes reales de ejemplo y qué hacer en la primera hora si te han estafado.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "scams-targeting-newcomers",
+   "title": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "summary": "Fraude notario, llamadas gubernamentales falsas, estafas de empleo y renta, y esquemas de mulas de dinero, y dónde encontrar ayuda real y gratuita en DC, Maryland y Virginia.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "identity-theft",
+   "title": "Protege tu identidad y recupera si te la roban",
+   "summary": "Congelamientos de crédito paso a paso, bloqueos menos conocidos como el PIN IP del IRS, y una lista de verificación de recuperación si alguien usa tu identidad.",
+   "meta": "(Aproximadamente 18 min, 5 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "spot-scams-intro",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "intro",
+   "title": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "body": [
+    {
+     "p": "Las señales de advertencia que comparten todas las estafas, mensajes reales de ejemplo y qué hacer en la primera hora si te han estafado."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Reconoce las cuatro señales que la mayoría de las estafas comparten: un nombre en el que confíes, un problema o premio, presión y un pago difícil de revertir.",
+      "Identifica estafas de impostores que fingen ser una agencia de peajes, una empresa de entregas, tu banco o un familiar.",
+      "Explica por qué es difícil recuperar el dinero enviado por tarjeta de regalo, criptomonedas, transferencia bancaria o aplicación de pago.",
+      "Usa la rutina de parar, colgar y regresar la llamada, y actúa rápido si ya pagaste."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre las señales de advertencia de fraude y por qué proteger tu información personal. Esta lección muestra las estafas que la gente del área de DC ve hoy, con mensajes de ejemplo, y te da un plan paso a paso para la primera hora después de una estafa."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-words",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Estafa de impostores (Impostor scam)",
+       "Una estafa donde alguien finge ser una persona o grupo en quien confías, como un banco, una agencia gubernamental, una empresa o un familiar."
+      ],
+      [
+       "Phishing",
+       "Un mensaje, correo electrónico o sitio web falso que intenta engañarte para que des contraseñas, números de tarjeta u otra información personal. Cuando llega por mensaje de texto, a veces se llama smishing."
+      ],
+      [
+       "Aplicación de pago (Payment app)",
+       "Una app o servicio bancario usado para enviar dinero a otras personas, como Zelle, Cash App, Venmo o PayPal."
+      ],
+      [
+       "Transferencia no autorizada (Unauthorized transfer)",
+       "Dinero tomado de tu cuenta por otra persona sin tu permiso, por ejemplo por un ladrón que entró a tu cuenta."
+      ],
+      [
+       "Código de un solo uso (One-time code)",
+       "Un número corto que una empresa envía a tu teléfono o correo electrónico para verificar que realmente eres tú. Nunca lo leas a alguien que te llame."
+      ],
+      [
+       "Estafa de sobrepago (Overpayment scam)",
+       "Una estafa donde alguien te envía un cheque falso por más de lo que te debe y te pide que devuelvas el dinero extra."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s1",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "text",
+   "title": "Cuatro señales que casi todas las estafas comparten",
+   "body": [
+    {
+     "p": "Las estafas de impostores son el tipo de fraude que la gente reporta con más frecuencia: alguien finge ser una persona o grupo en quien confías. En 2025, la gente le dijo a la Comisión Federal de Comercio (FTC) que perdió alrededor de 16 mil millones de dólares por fraude. Esa es la cantidad más alta registrada. Las estafas de impostores se llevaron 3.5 mil millones de dólares. De eso, estafadores que fingieron ser un negocio se llevaron casi mil millones de dólares, y los bancos falsos causaron las mayores pérdidas en ese grupo."
+    },
+    {
+     "p": "Las historias cambian, pero el patrón se mantiene igual. Estén atentos a estas cuatro señales:"
+    },
+    {
+     "ul": [
+      "**Un nombre en el que confíes.** El mensaje dice que viene de tu banco, el IRS, una compañía de peaje, la oficina de correos, tu compañía eléctrica o un familiar. El identificador de llamadas y los nombres de correo electrónico son fáciles de falsificar.",
+      "**Un problema o un premio.** Debes dinero, tu cuenta está bloqueada, un familiar está en problemas, o ganaste algo.",
+      "**Presión y secreto.** Debes actuar hoy. Puedes escuchar amenazas de arresto, deportación o pérdida de licencia. Se te dice que no se lo digas a nadie.",
+      "**Un pago difícil de revertir.** Tarjetas de regalo, criptomonedas (cripto), una transferencia bancaria, una aplicación de pago o dinero en efectivo entregado a una persona que viene a tu casa."
+     ]
+    },
+    {
+     "p": "Si ves aunque sea una de estas señales, ve más despacio. Los negocios y agencias honestos te dan tiempo para revisar."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s2",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "tip",
+   "title": "Para, cuelga y vuelve a llamar",
+   "body": [
+    {
+     "ol": [
+      "**Alto.** No hagas clic, no pagues ni compartas nada todavía. Un problema real seguirá ahí en diez minutos.",
+      "**Cuelga o cierra el mensaje.** No respondas y no llames a un número que te dé el mensaje.",
+      "**Llama de nuevo a un número que encuentres.** Usa el número que está en el reverso de tu tarjeta, en tu factura, en la app oficial o en el sitio web .gov de la agencia.",
+      "**Habla con alguien en quien confíes.** Los estafadores quieren que guardes secretos. Un amigo, un familiar o tu instructor de Dollar Scholars puede ayudarte a pensarlo."
+     ]
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "spot-scams-s3",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "text",
+   "title": "Tres mensajes que podrías ver esta semana",
+   "body": [
+    {
+     "h3": "1. El texto del peaje impagado"
+    },
+    {
+     "quote": "AVISO E-ZPass: Tienes un peaje impagado de $6.99. Paga hoy para evitar una multa de $50 por retraso y una retención en tu licencia de conducir: [enlace]"
+    },
+    {
+     "p": "Mensajes como este llegan a personas de toda el área de DC. El Fiscal General de DC ha advertido que DC no tiene su propia agencia de peajes, pero las personas con 202 números de teléfono aún reciben mensajes falsos. El enlace lleva a un sitio web falso que roba tu número de tarjeta e información personal. Los programas de peaje de Maryland y Virginia dicen que nunca piden pago por mensaje de texto. Si manejas por carreteras de peaje, revisa tu cuenta en el sitio web oficial o la app de tu agencia de peaje. Escribe la dirección tú mismo."
+    },
+    {
+     "h3": "2. El texto de entrega del paquete"
+    },
+    {
+     "quote": "USPS: Tu paquete no puede ser entregado porque la dirección está incompleta. Actualiza tu dirección dentro de 12 horas: [enlace]"
+    },
+    {
+     "p": "El Servicio Postal de EE. UU. dice que no envía mensajes de texto a menos que pidas actualizaciones de rastreo con un número de rastreo, y sus mensajes no contienen un enlace. Un mensaje de texto de USPS con un enlace es una estafa."
+    },
+    {
+     "h3": "3. La llamada del departamento de fraude del banco"
+    },
+    {
+     "quote": "\"Este es el equipo de fraude de tu banco. Detuvimos un cargo de $950 en una tienda en Baltimore. Tu cuenta no está segura. Para proteger tu dinero, lo moveremos a una nueva cuenta segura. Primero, léeme el código que acabamos de enviarte por mensaje.\""
+    },
+    {
+     "p": "La FTC dice que algunas de las estafas más costosas comienzan con una llamada como esta. La persona que llama puede saber tu nombre y los últimos dígitos de tu tarjeta. La FTC advierte que solo un estafador te dirá que muevas tu dinero para protegerlo. Cualquiera que pida el código enviado a tu teléfono está tratando de entrar a tu cuenta. Cuelga y llama al número que está en el reverso de tu tarjeta."
+    },
+    {
+     "p": "Para los mensajes, no respondas. Usa la opción de \"reportar spam\" de tu teléfono o reenvía el mensaje al 7726 (el número dice SPAM), y luego bórralo."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s4",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "text",
+   "title": "Por qué algunos pagos son tan difíciles de recuperar",
+   "body": [
+    {
+     "p": "Cómo pagaste y quién envió el dinero, decide cuánto ayuda puedes recibir."
+    },
+    {
+     "table": {
+      "caption": "Tus posibilidades de recuperar el dinero",
+      "head": [
+       "¿Qué pasó?",
+       "Lo que puedes hacer"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Un ladrón entró a tu cuenta bancaria o a tu aplicación de pago y envió dinero sin tu permiso.",
+        "Esta es una transferencia no autorizada, incluso si un estafador te engañó para que compartieras tu contraseña o código. La ley federal te da derechos fuertes si avisas rápido a tu banco o a la aplicación."
+       ],
+       [
+        "Tú mismo enviaste dinero en una app de pago, porque alguien te mintió.",
+        "El banco o la app muchas veces no tienen que devolverlo. Repórtalo de inmediato y pregunta de todos modos."
+       ],
+       [
+        "Pagaste con una tarjeta de regalo.",
+        "Llama de inmediato a la compañía de tarjetas de regalo. Quédate con la tarjeta y el recibo. Algunas compañías pueden devolverte tu dinero."
+       ],
+       [
+        "Enviaste una transferencia, por ejemplo a través de Western Union o MoneyGram.",
+        "Llama a la empresa de inmediato y pídele que detenga y revierta la transferencia."
+       ],
+       [
+        "Pagaste con criptomonedas o en un cajero automático de criptomonedas.",
+        "Esto es lo más difícil de recuperar. Repórtalo a la empresa que usaste y a la FTC."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Por eso los estafadores piden estos pagos. Ninguna empresa real o agencia gubernamental te dirá que compres una tarjeta de regalo para pagarles."
+    },
+    {
+     "p": "Una tarjeta de crédito te brinda más protección. Según la ley federal, lo máximo que puedes pagar por cargos en una tarjeta de crédito perdida o robada es $50."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s5",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "text",
+   "title": "Clones de voz y llamadas de emergencia familiar",
+   "body": [
+    {
+     "p": "Los estafadores ahora pueden copiar la voz de una persona de una grabación corta publicada en línea, como un video. Luego llaman a un padre o abuelo. La voz llora y dice: \"Tuve un accidente y estoy en la cárcel. Por favor, envíen dinero. No le digan a mamá.\""
+    },
+    {
+     "p": "El FBI sugiere que las familias acuerden una palabra o frase secreta. Un familiar real en problemas lo sabrá. Una voz copiada no."
+    },
+    {
+     "ul": [
+      "Elige una palabra clave con tu familia hoy. No la publiques en línea.",
+      "Si recibes una llamada de emergencia, pide la palabra clave o haz una pregunta que solo la persona real pueda responder.",
+      "Cuelga y llama a tu familiar al número que ya tienes.",
+      "Llama a otro familiar, aunque la persona que llamó haya dicho que lo mantuviera en secreto."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s6",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "example",
+   "title": "Cómo una estafa de pago en exceso vacía tu cuenta",
+   "body": [
+    {
+     "p": "María vive en Hyattsville. Vende una mesa usada en línea por $200. El comprador le envía un cheque de $1,200 y dice que cometió un error. Le pide a María que se quede con $200 y que envíe los $1,000 extra de vuelta en una aplicación de pagos. Dos días después, su banco muestra el dinero como disponible, así que María lo envía."
+    },
+    {
+     "p": "Por ley, los bancos deben poner a disposición el dinero depositado rápidamente. Pero puede tomar semanas descubrir que un cheque es falso. Cuando el cheque rebota, el banco recupera el monto completo."
+    },
+    {
+     "table": {
+      "caption": "¿Qué pasa con la cuenta bancaria de María?",
+      "head": [
+       "Escalón",
+       "Monto"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "María deposita el cheque del comprador",
+        "+$1,200"
+       ],
+       [
+        "María devuelve el dinero \"extra\"",
+        "−$1,000"
+       ],
+       [
+        "El banco descubre que el cheque es falso y recupera el dinero",
+        "−$1,200"
+       ],
+       [
+        "La pérdida de María (y puede que haya regalado la mesa)",
+        "−$1,000"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$1,200 − $1,000 − $1,200 = −$1,000"
+    },
+    {
+     "p": "El mismo truco aparece en trabajos falsos, ofertas de \"comprador misterioso\" y cartas de premio. Si alguien te envía más de lo que debe y te pide que te devuelvas dinero, es una estafa."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "spot-scams-s7",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "text",
+   "title": "¿Ya pagaste? Tu plan de la primera hora",
+   "body": [
+    {
+     "p": "Las estafas le pueden pasar a cualquiera. Actúa rápido y no te avergüences de pedir ayuda. Mientras antes actúes, mejores serán tus posibilidades."
+    },
+    {
+     "ol": [
+      "**Detengan todo contacto** con el estafador. No envíen más dinero, aunque prometan devolver el primer pago.",
+      "**Llama a tu banco, compañía de tarjeta o aplicación de pago** usando el número de tu tarjeta o en la app oficial. Diles: \"Esto es fraude.\" Pídeles que detengan o reviertan el pago y que protejan tu cuenta.",
+      "**Para una tarjeta de regalo o transferencia,** llama de inmediato a la compañía de tarjetas de regalo o a la empresa de transferencia. Quédate con la tarjeta, el recibo y el número de transferencia.",
+      "**Si compartiste una contraseña o un código,** cambia tus contraseñas y activa la verificación en dos pasos. Con ella, un sitio pide un código, que usualmente se envía a tu teléfono, después de tu contraseña, para que un ladrón que solo tenga tu contraseña no pueda entrar.",
+      "**Reporta la estafa** en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (en español en [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)). Si pasó en línea, también puedes reportarlo al FBI en [ic3.gov](https://www.ic3.gov/).",
+      "**Si diste tu número de Seguro Social o ITIN,** sigue los pasos de [nuestra lección sobre cómo proteger tu identidad](https://dollarscholars.org/es-mx/resources/lessons/identity-theft/)."
+     ]
+    },
+    {
+     "quote": "\"Hola, mi nombre es [tu nombre]. Llamo para reportar fraude en mi cuenta que termina en [últimos 4 dígitos]. Hoy en [hora], envié $[monto] a [nombre o número de teléfono que usó el estafador] por una estafa. Por favor, detén o revierte este pago, bloquea más pagos a esta persona y abre una reclamación por fraude. ¿Cuál es mi número de reclamación?\""
+    },
+    {
+     "p": "Anota la fecha, la hora, el nombre de la persona con la que hablaste y el número de reclamación."
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-s8",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "warning",
+   "title": "Cuidado con una segunda estafa",
+   "body": [
+    {
+     "p": "Después de que pierdas dinero, los estafadores pueden contactarte de nuevo. Dicen que pueden recuperar tu dinero por una tarifa, o que fingen ser de la FTC o de un despacho legal. La FTC dice que las agencias gubernamentales y organizaciones honestas nunca pedirán dinero para ayudarte a obtener un reembolso."
+    },
+    {
+     "p": "Los estafadores también siguen las noticias. Después de una tormenta o inundación, fingen ser de FEMA o ofrecen reparaciones rápidas si pagas todo por adelantado. FEMA no cobra tarifas de solicitud. Las empresas que prometen arreglar tu crédito son otra trampa: es ilegal que una empresa de reparación de crédito te cobre antes de ayudarte."
+    },
+    {
+     "p": "Para números telefónicos locales donde puedes reportar una estafa, consulta [Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "spot-scams-takeaways",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Solo un estafador te dirá que muevas tu dinero para mantenerlo seguro, o que pagues una factura con una tarjeta de regalo.",
+      "No uses el enlace o número telefónico en un mensaje sorpresa. Encuentra la información de contacto real tú mismo.",
+      "Si un ladrón envía dinero de tu cuenta, tienes derechos fuertes. Si lo envías tú mismo después de una mentira, es mucho más difícil recuperarlo.",
+      "Acuerda una palabra clave familiar para revisar llamadas de emergencia, incluso cuando la voz suene real.",
+      "Si pagaste a un estafador, llama a tu banco o a la compañía de pagos de inmediato y luego repórtalo en ReportFraud.ftc.gov."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-quiz",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/spot-scams/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "spot-scams-links",
+   "type": "lesson",
+   "lesson": "spot-scams",
+   "lessonTitle": "Detecta las estafas de hoy: impostores, mensajes de texto y aplicaciones de pago",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Cómo evitar una estafa",
+       "u": "https://consumidor.ftc.gov/articulos/como-evitar-una-estafa",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La guía de la FTC en español: cuatro señales de una estafa y cómo protegerte."
+      },
+      {
+       "t": "Cómo evitar una estafa",
+       "u": "https://consumer.ftc.gov/articles/how-avoid-scam",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Las cuatro señales de una estafa y formas sencillas de protegerte."
+      },
+      {
+       "t": "Cómo detectar, evitar y reportar estafas con cheques falsos",
+       "u": "https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo funcionan los pagos en exceso y las estafas de cheques falsos, y a quién llamar si ya enviaste dinero."
+      },
+      {
+       "t": "ReportFraud.ftc.gov",
+       "u": "https://reportfraud.ftc.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Reporta una estafa a la FTC. La versión en español es ReporteFraude.ftc.gov."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-intro",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "intro",
+   "title": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "body": [
+    {
+     "p": "Fraude notario, llamadas gubernamentales falsas, estafas de empleo y renta, y esquemas de mulas de dinero, y dónde encontrar ayuda real y gratuita en DC, Maryland y Virginia."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Reconoce el fraude notario y encuentra abogados con licencia y representantes acreditados para ayuda migratoria.",
+      "Explica que los formularios de inmigración son gratuitos y que las cuotas gubernamentales solo se pagan al gobierno, a través de canales oficiales.",
+      "Detecta ofertas de trabajo falsas, incluyendo trabajos que te piden pagar primero, cheques falsos de equipo y estafas de tareas en línea.",
+      "Reconoce esquemas de mulas de dinero y estafas de rentas antes de enviar cualquier dinero."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** El Módulo 11 cubre el fraude en general. Esta extensión de Dollar Scholars se enfoca en estafas dirigidas a recién llegados, buscadores de empleo y arrendatarios, y nombra lugares confiables en el área de DC donde puedes recibir ayuda."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-words",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Notario público",
+       "En muchos países latinoamericanos, un tipo de abogado. En Estados Unidos, un notario público solo revisa tu identificación y te observa firmar papeles, y no puede dar asesoría legal."
+      ],
+      [
+       "Representante acreditado (Accredited representative)",
+       "Una persona que no es abogada pero está aprobada por el Departamento de Justicia de los Estados Unidos para brindar ayuda legal migratoria mientras trabaja para una organización sin fines de lucro reconocida."
+      ],
+      [
+       "Estafa de tarea (Task scam)",
+       "Un trabajo falso en línea que te paga un poco por calificar o gustar productos, y luego te dice que deposites tu propio dinero para desbloquear más tareas o tus ganancias."
+      ],
+      [
+       "Mula de dinero (Money mule)",
+       "Una persona que recibe dinero proveniente del crimen y lo traslada a otra persona, sepa o no de dónde viene."
+      ],
+      [
+       "Estafa de anuncios de renta (Rental listing scam)",
+       "Un anuncio falso de una casa o departamento que el estafador no posee o que no está en renta, usado para cobrar depósitos y tarifas."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s1",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "text",
+   "title": "Notarios y consultores de inmigración",
+   "body": [
+    {
+     "p": "En muchos países latinoamericanos, un notario público es un abogado con formación especial. En Estados Unidos, un notario público es muy diferente. Un notario solo revisa tu identificación y te observa firmar papeles. Un notario no puede dar asesoría legal ni ayudarte a elegir los formularios migratorios."
+    },
+    {
+     "p": "Algunos negocios usan la palabra \"notario\" o se llaman a sí mismos \"consultores de inmigración\", para parecer abogados. Cobran honorarios altos, llenan los formularios incorrectos o agregan información falsa. Errores como estos pueden perjudicar tu caso y costarte dinero, y pueden ser difíciles de corregir."
+    },
+    {
+     "p": "El Servicio de Ciudadanía e Inmigración de EE. UU. (USCIS) dice que solo estas personas pueden darte asesoría legal y representarte en asuntos migratorios:"
+    },
+    {
+     "ul": [
+      "Un **abogado con licencia.** Puedes verificar la licencia de un abogado con el colegio de abogados o el sistema judicial del estado donde dicen que están licenciados.",
+      "**Un representante acreditado** que trabaja para una organización sin fines de lucro reconocida por el Departamento de Justicia de los Estados Unidos. El Departamento de Justicia publica una lista de estas organizaciones y representantes por estado."
+     ]
+    },
+    {
+     "h3": "Señales de advertencia de fraude notario"
+    },
+    {
+     "ul": [
+      "Te prometen que obtendrás una green card, un permiso de trabajo o asilo.",
+      "Dicen que tienen un amigo especial en USCIS o pueden hacer que tu caso avance más rápido.",
+      "Te cobran por formularios gubernamentales en blanco.",
+      "Te piden que firmes un formulario en blanco, o un formulario con información que no es verdadera.",
+      "Conservan tu pasaporte, acta de nacimiento u otros documentos originales.",
+      "No te darán un contrato por escrito ni un recibo."
+     ]
+    },
+    {
+     "h3": "Dónde encontrar ayuda real"
+    },
+    {
+     "p": "El Departamento de Justicia de los Estados Unidos mantiene una [lista de proveedores de servicios legales gratuitos](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) para personas en la corte de inmigración, así [como una lista de organizaciones reconocidas y representantes acreditados](https://www.justice.gov/eoir/recognition-accreditation-roster-reports). En el área de DC, organizaciones sin fines de lucro como [Ayuda](https://ayuda.com/), con oficinas en DC, Silver Spring y Fairfax, ofrecen servicios legales de inmigración a personas de bajos ingresos."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s2",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "text",
+   "title": "Llamadas falsas de USCIS, embajadas y el IRS",
+   "body": [
+    {
+     "p": "Los estafadores fingen ser de USCIS, una embajada, el IRS o la policía. Pueden saber tu nombre, tu dirección o incluso tu número de caso. Dicen que hay un problema con tu caso, tu estatus o tus impuestos. Dicen que debes pagar una cuota o una multa hoy, o serás arrestado o deportado."
+    },
+    {
+     "p": "Aquí están los hechos de USCIS, el IRS y el Departamento de Estado:"
+    },
+    {
+     "ul": [
+      "Los formularios de inmigración son gratuitos. Puedes descargar todos los formularios de USCIS de uscis.gov.",
+      "USCIS nunca te pedirá que envíes dinero a una persona. No acepta Western Union, MoneyGram, PayPal, Venmo ni tarjetas de regalo para tarifas de inmigración.",
+      "Los correos electrónicos de USCIS provienen de direcciones que terminan en .gov.",
+      "El IRS usualmente te contacta primero por correo. Un mensaje directo en redes sociales nunca viene del IRS.",
+      "La lotería de visas de diversidad es gestionada por el Departamento de Estado de EE. UU., no por USCIS. El Departamento de Estado no envía correos electrónicos a personas diciendo que fueron seleccionados. Los ganadores se seleccionan al azar por computadora, así que ningún sitio web ni persona puede aumentar tus posibilidades. El único sitio oficial para participar es dvprogram.state.gov."
+     ]
+    },
+    {
+     "p": "En 2025 y 2026, el Departamento de Estado cambió algunas reglas de la lotería y retrasó el inicio del siguiente periodo de inscripción. Siempre revisa el sitio web del Departamento de Estado, travel.state.gov, para fechas y reglas actuales. No confíes en un sitio web o publicación en redes sociales que ofrezca inscribirte por una tarifa."
+    },
+    {
+     "p": "Si recibes una llamada así, puedes usar estas palabras y luego colgar:"
+    },
+    {
+     "quote": "\"No discuto mi caso ni hago pagos por teléfono. Contactaré a USCIS personalmente, a través de mi cuenta en línea o del número telefónico en uscis.gov.\""
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s3",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "warning",
+   "title": "Ninguna agencia real te amenaza con hacerte pagar hoy",
+   "body": [
+    {
+     "p": "Las amenazas de arresto o deportación, la exigencia de pagar ahora mismo y la solicitud de tarjetas de regalo, transferencia, criptomonedas o una aplicación de pago son señales de una estafa. Las agencias reales envían cartas, te dan tiempo y solo aceptan pagos por canales oficiales. Si te preocupa tu caso, habla con un abogado autorizado o un representante acreditado antes de pagarle a alguien."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "scams-targeting-newcomers-s4",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "text",
+   "title": "Estafas laborales",
+   "body": [
+    {
+     "p": "Cuando necesitas trabajo, una oferta rápida se siente como una buena noticia. Los estafadores saben esto. Estate atento a estos trucos comunes:"
+    },
+    {
+     "ul": [
+      "**Paga para trabajar.** Debes pagar por capacitación, una verificación de antecedentes, un uniforme o un \"kit de inicio\" antes de comenzar. La FTC dice que los empleadores honestos nunca te pedirán que pagues para conseguir un trabajo.",
+      "**El cheque de equipo.** El \"empleador\" te envía un cheque por correo para comprar una laptop o suministros de su \"vendedor\". Depositas el cheque y le mandas dinero al vendedor. El cheque es falso y le debes al banco.",
+      "**Reenvío.** Recibes paquetes en casa y los envías a otra dirección. Los productos a menudo se compraban con números de tarjeta robados.",
+      "**Estafas de tareas.** Un mensaje sorpresa de texto o WhatsApp ofrece pagar para \"calificar\" o \"impulsar\" productos en línea. Al principio te pagan un poco, usualmente entre $5 y $20. Luego te dicen que deposites tu propio dinero, a menudo en criptomonedas, para desbloquear más tareas o tus ganancias."
+     ]
+    },
+    {
+     "p": "La FTC recomienda ignorar ofertas de trabajo sorpresa que lleguen por mensaje de texto, WhatsApp o Telegram. Antes de aceptar cualquier trabajo, busca el nombre de la empresa con las palabras \"estafa\" o \"queja\" y encuentra el número telefónico de la empresa por tu cuenta."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s5",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "example",
+   "title": "Cómo suma una estafa de tarea",
+   "body": [
+    {
+     "p": "Samuel vive en Takoma Park y maneja para una app de entregas. Recibe un mensaje de WhatsApp: \"Gana $300 al día en casa calificando hoteles.\" Esto es lo que pasa durante una semana."
+    },
+    {
+     "table": {
+      "caption": "El dinero de Samuel en una estafa de tarea",
+      "head": [
+       "Día",
+       "¿Qué pasa?",
+       "El dinero de Samuel"
+      ],
+      "num": [
+       2
+      ],
+      "rows": [
+       [
+        "Día 1",
+        "Él califica 40 hoteles y le pagan.",
+        "+$15"
+       ],
+       [
+        "Día 3",
+        "Debe depositar criptomonedas para \"desbloquear\" una tarea de bonificación.",
+        "−$100"
+       ],
+       [
+        "Día 4",
+        "La app muestra $2,400 en \"ganancias\". Para sacarlos, debe depositar más.",
+        "−$600"
+       ],
+       [
+        "Día 6",
+        "Debe pagar un \"impuesto\" antes de poder sacar su dinero.",
+        "−$1,200"
+       ],
+       [
+        "Total",
+        "La verdadera pérdida de Samuel",
+        "−$1,885"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$15 − $100 − $600 − $1,200 = −$1,885"
+    },
+    {
+     "p": "Los $2,400 en \"ganancias\" eran solo un número en una pantalla falsa. Los $15 se pagaban para ganar su confianza. Cada nuevo depósito venía con una nueva razón para pagar más. La única forma de dejar de perder dinero es dejar de pagar y reportarlo."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "scams-targeting-newcomers-s6",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "text",
+   "title": "Mulas de dinero: cuando el dinero robado pasa por ti",
+   "body": [
+    {
+     "p": "Una mula de dinero es una persona que recibe dinero y lo mueve para otra persona. El dinero usualmente proviene de víctimas de fraude. Los criminales encuentran mulas a través de anuncios de empleo en línea, aplicaciones de citas, redes sociales y ofertas falsas de premios."
+    },
+    {
+     "p": "La solicitud suena fácil: \"Mi cliente enviará $3,000 a tu cuenta bancaria. Quédate con $300 por tu trabajo, y envía el resto por transferencia, tarjetas de regalo o criptomonedas.\" O te piden que abras una nueva cuenta bancaria para ellos."
+    },
+    {
+     "p": "Mover dinero a sabiendas para criminales puede llevar a cargos penales. El FBI advierte que incluso personas que no lo sabían pueden meterse en problemas legales, tener dificultades para abrir una cuenta bancaria después y convertirse en víctimas de robo de identidad."
+    },
+    {
+     "p": "Si crees que esto te está pasando, deja de hablar con esa persona. No envíes el dinero. Díselo a tu banco de inmediato y repórtalo a la FTC y a las autoridades, como el FBI [en ic3.gov](https://www.ic3.gov/)."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s7",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "text",
+   "title": "Estafas de renta",
+   "body": [
+    {
+     "p": "La renta en el área de DC es alta, así que un anuncio barato es emocionante. Los estafadores copian los listados reales y cambian el precio y la información de contacto. Por ejemplo, un departamento de dos recámaras en Columbia Heights está listado por $1,300 al mes, mucho menos que departamentos similares cercanos. El \"dueño\" dice que está trabajando en el extranjero y no puede mostrarlo. Dice que enviará las llaves por correo después de que envíes el depósito y el primer mes de renta, $2,600 en total, por transferencia o aplicación de pago."
+    },
+    {
+     "h3": "Antes de pagar una renta"
+    },
+    {
+     "ul": [
+      "Visita el lugar en persona o envía a un amigo de confianza. Si no puedes ir, pide un tour en vivo.",
+      "Compara la renta con lugares similares cercanos. Un precio mucho más bajo es una señal de advertencia.",
+      "Busca quién es dueño de la propiedad en los registros públicos de propiedad. DC, Maryland y muchos condados y ciudades de Virginia tienen búsquedas gratuitas de propiedades en línea.",
+      "Si una empresa administra el edificio, llama al número en el sitio web de la empresa para revisar el listado.",
+      "Busca el nombre del dueño o de la empresa con las palabras \"estafa\" o \"queja\".",
+      "Consigue un contrato de arrendamiento por escrito antes de pagar un depósito y un recibo por cada pago.",
+      "Nunca pagues por transferencia, tarjeta de regalo o criptomonedas. La FTC dice que pagar de esta manera es como enviar efectivo: una vez que el dinero desaparece, probablemente no puedas recuperarlo."
+     ]
+    },
+    {
+     "p": "Para aprender más sobre arrendamientos y depósitos, consulta [nuestra lección sobre los derechos de los inquilinos](https://dollarscholars.org/es-mx/resources/lessons/renters-rights/)."
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-s8",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "tip",
+   "title": "Dónde reportar una estafa y obtener ayuda gratuita",
+   "body": [
+    {
+     "ul": [
+      "**Comisión Federal de Comercio:** reporta cualquier estafa en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), o en español [en ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/).",
+      "**DC:** Oficina del Fiscal General, Línea de Respuesta a Consumidores e Inquilinos, [202-442-9828](tel:+12024429828).",
+      "**Maryland:** División de Protección al Consumidor del Fiscal General, [410-576-6300](tel:+14105766300), o en español, [410-230-1712](tel:+14102301712).",
+      "**Virginia:** Sección de Protección al Consumidor del Fiscal General, [800-552-9963](tel:+18005529963) desde dentro de Virginia.",
+      "**Fraude por parte de un ayudante migratorio:** el Programa de Prevención de Fraude y Abuso de la Oficina Ejecutiva para la Revisión de Inmigración (EOIR) del Departamento de Justicia, por correo electrónico [a EOIR.Fraud.Program@usdoj.gov](mailto:EOIR.Fraud.Program@usdoj.gov).",
+      "**Ayuda legal gratuita** con otros problemas económicos y de vivienda: Asistencia Legal DC, Asistencia Legal de Maryland y Servicios Legales del Norte de Virginia."
+     ]
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "scams-targeting-newcomers-takeaways",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Solo un abogado con licencia o un representante acreditado de una organización reconocida puede darte asesoría legal migratoria. Un notario no puede.",
+      "Los formularios de inmigración son gratuitos en uscis.gov. USCIS nunca te pide que envíes dinero a una persona. No acepta tarjetas de regalo, Western Union, MoneyGram, PayPal ni Venmo.",
+      "Nunca pagues para conseguir un trabajo, y nunca deposites tu propio dinero para desbloquear ingresos.",
+      "Si alguien te pide que recibas dinero y lo envíes, di que no. El dinero a menudo es robado, y podrías enfrentar cargos penales o tener problemas para abrir una cuenta bancaria después.",
+      "Ve una renta en persona o en un video tour en vivo antes de pagar. Nunca pagues un depósito por transferencia, tarjeta de regalo o criptomonedas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-quiz",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "scams-targeting-newcomers-links",
+   "type": "lesson",
+   "lesson": "scams-targeting-newcomers",
+   "lessonTitle": "Estafas que apuntan a inmigrantes, inquilinos y buscadores de empleo",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Estafas comunes",
+       "u": "https://www.uscis.gov/es/fraude-estafas-y-fallas-en-el-desempeno/evite-las-estafas-de-inmigracion/estafas-comunes",
+       "org": "U.S. Citizenship and Immigration Services (USCIS)",
+       "d": "Advertencias en español sobre fraude notarial, llamadas falsas y otras estafas migratorias."
+      },
+      {
+       "t": "Estafas comunes",
+       "u": "https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams",
+       "org": "U.S. Citizenship and Immigration Services (USCIS)",
+       "d": "Fraude notarial, sitios web y llamadas falsos de USCIS, estafas de lotería de visas, y cómo USCIS realmente acepta pagos."
+      },
+      {
+       "t": "Estafas laborales",
+       "u": "https://consumer.ftc.gov/articles/job-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo detectar ofertas de trabajo falsas, esquemas de pago por trabajo y estafas de cheques falsos."
+      },
+      {
+       "t": "Estafas en anuncios de renta",
+       "u": "https://consumer.ftc.gov/articles/rental-listing-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Señales de advertencia de anuncios falsos de renta y cómo revisar un anuncio antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-intro",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "intro",
+   "title": "Protege tu identidad y recupera si te la roban",
+   "body": [
+    {
+     "p": "Congelamientos de crédito paso a paso, bloqueos menos conocidos como el PIN IP del IRS, y una lista de verificación de recuperación si alguien usa tu identidad."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Elige entre una alerta de fraude y un congelamiento de crédito, y congela tu crédito gratis en las tres agencias.",
+      "Usa un PIN de Protección de Identidad del IRS y otros candados menos conocidos para proteger tu cuenta fiscal, número telefónico y registros bancarios.",
+      "Protege tus documentos, contraseñas y cuentas con hábitos cotidianos sencillos.",
+      "Sigue los IdentityTheft.gov pasos de recuperación si alguien usa tu identidad."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre las señales de advertencia del robo de identidad y los pasos clave para responder. Esta lección te guía paso a paso por los congelamientos de crédito y otros bloqueos gratuitos, y te da una lista de verificación para la recuperación y un ejemplo con números reales."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-words",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Robo de identidad (Identity theft)",
+       "Cuando alguien usa tu información personal, como tu nombre, número de Seguro Social o ITIN, sin tu permiso para obtener dinero, crédito, empleo o beneficios."
+      ],
+      [
+       "Agencia de crédito (Credit bureau)",
+       "Una empresa que recopila información sobre cómo usas el crédito y vende reportes de crédito. Las tres agencias nacionales son Equifax, Experian y TransUnion."
+      ],
+      [
+       "Congelamiento de crédito (Credit freeze)",
+       "Un bloqueo gratuito que impide que una agencia de crédito comparta tu reporte de crédito con nuevos prestamistas hasta que lo levantes. También se le llama congelamiento de seguridad."
+      ],
+      [
+       "Alerta de fraude (Fraud alert)",
+       "Una nota gratuita en tu reporte de crédito que indica a los prestamistas que revisen tu identidad antes de abrir un nuevo crédito a tu nombre."
+      ],
+      [
+       "PIN de Protección de Identidad (PIN IP) (Identity Protection PIN (IP PIN))",
+       "Un número de 6 dígitos del IRS que aparece en tu declaración de impuestos federal. Evita que otras personas presenten una declaración con tu SSN o ITIN."
+      ],
+      [
+       "Reporte de robo de identidad (Identity Theft Report)",
+       "Un reporte que creas gratis en IdentityTheft.gov. Ayuda a probar a empresas y agencias de crédito que alguien robó tu identidad."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s1",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "text",
+   "title": "¿Alerta de fraude o congelamiento de crédito?",
+   "body": [
+    {
+     "p": "Un ladrón que tenga tu número de Seguro Social (SSN) puede intentar abrir tarjetas de crédito, préstamos o planes telefónicos a tu nombre. Dos herramientas gratuitas hacen esto más difícil. Ambas funcionan a través de las tres agencias de crédito a nivel nacional: Equifax, Experian y TransUnion."
+    },
+    {
+     "table": {
+      "caption": "Alerta de fraude y congelamiento de crédito comparados",
+      "head": [
+       "Pregunta",
+       "Alerta de fraude",
+       "Congelamiento de crédito"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "¿Qué hace?",
+        "Les dice a los prestamistas que revisen tu identidad antes de abrir un nuevo crédito a tu nombre.",
+        "Evita que los nuevos prestamistas vean tu reporte de crédito, así que la mayoría de los nuevos créditos no pueden abrirse."
+       ],
+       [
+        "¿Cuánto cuesta?",
+        "Nada",
+        "Nada"
+       ],
+       [
+        "¿Cuánto dura?",
+        "1 año, y puedes renovarlo. Las víctimas de robo de identidad pueden recibir una alerta extendida que dura 7 años.",
+        "Hasta que lo levantas."
+       ],
+       [
+        "¿Dónde lo colocas?",
+        "En una oficina. Esa oficina debe avisar a las otras dos.",
+        "En cada una de las tres oficinas, una por una."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Un congelamiento da una protección más fuerte y no afecta tu puntaje crediticio. Puedes tener una alerta de fraude y un congelamiento al mismo tiempo. Ambos son sobre crédito nuevo. No impiden que alguien use una tarjeta o cuenta que ya tienes, así que sigue revisando tus estados de cuenta."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s2",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "text",
+   "title": "Congela tu crédito, paso a paso",
+   "body": [
+    {
+     "ol": [
+      "Aparta alrededor de 30 minutos. Ten listo tu número de la Seguridad Social, fecha de nacimiento y dirección actual.",
+      "Ve tú mismo al sitio web de cada oficina: equifax.com, experian.com y transunion.com. Escribe la dirección. No uses un enlace de correo electrónico o mensaje de texto.",
+      "Crea una cuenta en cada sitio y responde las preguntas que verifiquen tu identidad. También puedes pedir un congelamiento por teléfono o por correo.",
+      "Elige gratis el \"congelamiento de seguridad\" o \"congelamiento de crédito\". No tienes que comprar nada ni registrarte en un servicio de pago. Cuando preguntes en línea o por teléfono, la agencia debe colocar el congelamiento dentro de un día hábil.",
+      "Guarda el inicio de sesión de tu cuenta y cualquier PIN que te dé la agencia. Los necesitarás para levantar el congelamiento después.",
+      "Repite en las otras dos oficinas. Una congelación solo en una caja deja abiertas las otras dos."
+     ]
+    },
+    {
+     "h3": "Cuando necesites crédito, levanta el congelamiento por un corto tiempo"
+    },
+    {
+     "p": "Antes de solicitar un préstamo, una tarjeta de crédito, un departamento o un plan telefónico, pregunta a la empresa qué agencia utiliza. Luego levanta el congelamiento en esa agencia por unos días, o los tres. Cuando preguntes en línea o por teléfono, el departamento debe levantar el congelamiento en menos de una hora. Por correo, puede tardar hasta tres días hábiles."
+    },
+    {
+     "p": "Los padres también pueden congelar el crédito de un hijo menor de 16 años de forma gratuita. Algunas personas con un Número de Identificación de Contribuyente Individual (ITIN) tienen archivos de crédito y otras no. Si un formulario en línea pide un SSN que no tienes, llama a la agencia o pide ayuda a un consejero de crédito sin fines de lucro."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s3",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "text",
+   "title": "Cerraduras extra que la mayoría de la gente no conoce",
+   "body": [
+    {
+     "h3": "PIN de Protección de Identidad del IRS (PIN IP)"
+    },
+    {
+     "p": "Un IP PIN es un número de 6 dígitos que impide que alguien más presente una declaración de impuestos federal con tu SSN o ITIN. Esto evita que un ladrón presente una declaración falsa y se quede con tu reembolso. Cualquiera con un SSN o ITIN que pueda probar quién es puede obtener uno. Es gratis y cada año recibes un número nuevo. Una vez que tengas uno, úsalo en cada declaración de impuestos federales que presentes."
+    },
+    {
+     "ul": [
+      "La forma más rápida de obtener uno es en línea, a través de tu cuenta del IRS [en irs.gov/ippin](https://www.irs.gov/ippin).",
+      "Si no puedes probar quién eres en línea, podrías usar el Formulario 15227 del IRS si tus ingresos están por debajo de un límite, o hacer una cita en un Centro de Asistencia al Contribuyente del IRS.",
+      "El IRS nunca te llamará, enviará correos electrónicos o mensajes para pedirte el PIN de tu IP. Cualquiera que pregunte es un estafador."
+     ]
+    },
+    {
+     "h3": "Un PIN en tu cuenta telefónica"
+    },
+    {
+     "p": "Los bancos y las aplicaciones a menudo envían códigos a tu teléfono. Un ladrón que mueva tu número de teléfono a su propio teléfono recibe esos códigos. Pide a tu compañía telefónica que agregue un PIN o código de acceso a tu cuenta, y pregunta por un candado que impida que tu número sea transferido a otro teléfono o compañía. Si tu teléfono pierde el servicio de repente sin razón clara, llama a tu compañía telefónica desde otro teléfono de inmediato."
+    },
+    {
+     "h3": "Una congelación en ChexSystems"
+    },
+    {
+     "p": "Muchos bancos y cooperativas de crédito revisan a los nuevos clientes con ChexSystems, una empresa de reporte de consumidores. Un congelamiento de seguridad ahí ayuda a evitar que alguien abra una cuenta bancaria a tu nombre. Pídelo en chexsystems.com, por teléfono o por correo."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s4",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "tip",
+   "title": "Hábitos cotidianos que te protegen",
+   "body": [
+    {
+     "ul": [
+      "Guarda tu tarjeta de Seguro Social, carta ITIN y pasaporte en casa en un lugar seguro. No los lleves en tu cartera.",
+      "Destruye estados de cuenta bancarios, facturas médicas y ofertas de crédito antes de tirarlos. Para obtener menos ofertas de crédito, opta por no participar en optoutprescreen.com o al 1-888-567-8688.",
+      "Cuando alguien te pida tu SSN o ITIN, pregunta por qué lo necesitan y cómo lo van a proteger. Los empleadores, bancos y preparadores de impuestos usualmente sí lo necesitan. Muchas otras empresas no lo necesitan.",
+      "Usa una contraseña o frase de contraseña larga de al menos 15 caracteres, y una diferente para cada cuenta importante.",
+      "Activa la verificación en dos pasos para tu correo electrónico, banco y aplicaciones de pago. Después de tu contraseña, el sitio también pide un código, usualmente enviado a tu teléfono o mostrado en una app, para que un ladrón que solo tenga tu contraseña no pueda entrar. Búscalo en la configuración de seguridad de cada cuenta.",
+      "Revisa tus reportes de crédito gratis cada semana a AnnualCreditReport.com."
+     ]
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "identity-theft-s5",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "text",
+   "title": "Si sucede: tu plan de recuperación",
+   "body": [
+    {
+     "p": "Las señales de advertencia incluyen cargos o facturas que no reconoces, cobradores de deudas llamando por deudas que no son tuyas, cuentas en tu reporte de crédito que no abriste y facturas regulares que dejan de llegar. Actúa el mismo día. IdentityTheft.gov te da estos pasos:"
+    },
+    {
+     "ol": [
+      "**Llama a las empresas donde ocurrió el fraude.** Pide al departamento de fraude. Pídeles que cierren o congelen las cuentas. Cambia tus contraseñas y PINs.",
+      "**Coloca una alerta gratuita de fraude** en una agencia de crédito. Debe informar a las otras dos. Luego obtén tus reportes de crédito gratuitos en AnnualCreditReport.com y busca cualquier cosa que no reconozcas.",
+      "**Repórtalo a la FTC** al [IdentityTheft.gov](https://www.identitytheft.gov/) (en español [al RobodeIdentidad.gov](https://www.robodeidentidad.gov/)) o llamando [al 1-877-438-4338](tel:+18774384338). Para reportar en otro idioma, llama y presiona 3. Recibirás un Reporte de Robo de Identidad y un plan personal de recuperación.",
+      "**Presenta un reporte policial si lo necesitas.** Haz esto si sabes algo sobre el ladrón, o si una empresa pide un reporte policial. Pide una copia a la policía.",
+      "**Arregla el daño.** Usa tu Reporte de Robo de Identidad para cerrar nuevas cuentas abiertas a tu nombre, eliminar cargos falsos y corregir tus reportes de crédito.",
+      "**Protégete a largo plazo.** Piensa en una alerta extendida de fraude de 7 años o un congelamiento de crédito, y un PIN IP si tu SSN o ITIN fue tomado."
+     ]
+    },
+    {
+     "quote": "\"Hola. Mi nombre es [tu nombre]. Alguien robó mi identidad y abrió una cuenta con tu empresa a mi nombre. El número de cuenta es [número, si lo conoces]. No abrí esta cuenta ni hice estos cargos. Por favor, cierra la cuenta, elimina los cargos y mándame una carta que lo diga. Tengo un Reporte de Robo de Identidad de IdentityTheft.gov. ¿Cuál es tu nombre, por favor?\""
+    },
+    {
+     "p": "Para cada llamada, anota la fecha, el nombre de la persona y lo que dijo. Envía copias de los papeles y guarda los originales."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s6",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "example",
+   "title": "Por qué importa el reporte rápido: una tarjeta de débito robada",
+   "body": [
+    {
+     "p": "Kwame vive en Silver Spring. El viernes por la noche, le roban la cartera. Para la mañana del sábado, el ladrón ya usó su tarjeta de débito para gastar $900. Según la ley federal, lo máximo que Kwame puede perder depende de qué tan rápido lo reporte a su banco."
+    },
+    {
+     "table": {
+      "caption": "Lo máximo que Kwame puede perder con $900 en cargos robados de tarjeta de débito",
+      "head": [
+       "Cuando Kwame reporta la tarjeta",
+       "La mayoría puede perderla"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Antes de que el ladrón use la carta",
+        "$0"
+       ],
+       [
+        "Dentro de 2 días hábiles después de enterarse, ya no está",
+        "$50"
+       ],
+       [
+        "Después de 2 días hábiles, pero dentro de los 60 días posteriores a que se envíe su estado de cuenta bancario",
+        "Hasta $500"
+       ],
+       [
+        "Más de 60 días después de que se envió su declaración",
+        "Todo el dinero que se llevó, y posiblemente más"
+       ],
+       [
+        "Dinero que protege reportando el sábado en lugar de esperar demasiado",
+        "$850"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$900 − $50 = $850"
+    },
+    {
+     "p": "Para una tarjeta de crédito perdida o robada, lo máximo que puedes deber son $50. Si solo te roban el número de tarjeta y aún tienes la tarjeta, no eres responsable de los cargos que no hayas hecho."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "identity-theft-s7",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "text",
+   "title": "Robo de identidad fiscal y médico",
+   "body": [
+    {
+     "h3": "Robo de identidad fiscal"
+    },
+    {
+     "p": "Las señales incluyen: tu declaración de impuestos presentada electrónicamente es rechazada porque una declaración ya fue presentada con tu SSN o ITIN, una carta del IRS sobre una declaración que no presentaste, o un formulario W-2 o 1099 de un empleador para el que nunca trabajaste."
+    },
+    {
+     "ul": [
+      "Si recibes una carta del IRS, asegúrate de que sea real y luego sigue sus instrucciones.",
+      "Si tu declaración presentada electrónicamente es rechazada porque ya se presentó con tu número, puede que tengas que presentarla en papel. El IRS dice que sigas presentando y pagando tus impuestos como siempre.",
+      "También podrías necesitar el Formulario 14039, Declaración Jurada de Robo de Identidad. El IRS dice que no lo presentes si ya te envió una carta sobre el problema.",
+      "Obtén ayuda gratuita en un sitio de impuestos de VITA (consulta [nuestra lección sobre cómo presentar la declaración gratis](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/)), o llama a la línea de robo de identidad del IRS al [800-908-4490](tel:+18009084490)."
+     ]
+    },
+    {
+     "h3": "Robo de identidad médica"
+    },
+    {
+     "p": "Las señales incluyen: una factura por atención médica que no recibiste, un cobrador de deudas llamando por una factura médica que no es tuya, una deuda médica en tu reporte de crédito que no reconoces, o un aviso de tu seguro de salud informando que alcanzaste tu límite de beneficios."
+    },
+    {
+     "p": "Qué hacer: Pídele a cada proveedor una copia de tus expedientes médicos y facturas, y informa por escrito sobre cualquier error. Revisa tus reportes de crédito y reporta el robo en IdentityTheft.gov."
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-s8",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "warning",
+   "title": "No pagues por una protección gratuita",
+   "body": [
+    {
+     "p": "Algunas empresas cobran una cuota mensual para \"proteger tu identidad\". Las herramientas más importantes son gratuitas: congelamientos de crédito, alertas de fraude, reportes semanales de crédito, el PIN de IP del IRS y un plan de recuperación en IdentityTheft.gov."
+    },
+    {
+     "p": "También observa a los llamantes que digan ser de la FTC, del IRS o de tu banco y que te robaron la identidad, y luego piden tu número de seguro social o te digan que muevas tu dinero. Cuelga y regresa la llamada al número que encuentres. Consulta [nuestra lección sobre cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "identity-theft-takeaways",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Un congelamiento de crédito es gratuito, no afecta tu puntaje crediticio y dura hasta que lo levantas. Debes presentarlo en cada una de las tres agencias.",
+      "Cuando necesites crédito o un departamento, puedes levantar un congelamiento en línea o por teléfono, y la agencia debe hacerlo dentro de una hora.",
+      "Un PIN IP DEL IRS impide que otros presenten una declaración de impuestos con tu SSN o ITIN. Es gratis, y cada año recibes uno nuevo.",
+      "Si te roban la identidad, ve a IdentityTheft.gov (RobodeIdentidad.gov en español) para obtener un reporte gratuito y un plan de recuperación.",
+      "Reporta una tarjeta de débito perdida o robada de inmediato. Mientras antes reportes, menos puedes perder."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-quiz",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/identity-theft/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "identity-theft-links",
+   "type": "lesson",
+   "lesson": "identity-theft",
+   "lessonTitle": "Protege tu identidad y recupera si te la roban",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "RobodeIdentidad.gov",
+       "u": "https://www.robodeidentidad.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La versión en español de IdentityTheft.gov: reporta robo de identidad y obtén un plan de recuperación gratis."
+      },
+      {
+       "t": "IdentityTheft.gov",
+       "u": "https://www.identitytheft.gov/",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Reporta el robo de identidad y obtén un plan de recuperación personal y gratuito."
+      },
+      {
+       "t": "Congelamientos de crédito y alertas de fraude",
+       "u": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo funcionan los congelamientos y las alertas de fraude, y cómo colocarlos y levantarlos gratis."
+      },
+      {
+       "t": "Obtén un PIN de Protección de Identidad (PIN IP)",
+       "u": "https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin",
+       "org": "Internal Revenue Service (IRS)",
+       "d": "¿Quién puede obtener un PIN IP y cómo conseguirlo en línea, por formulario o en persona?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

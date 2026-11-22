@@ -1,5 +1,6 @@
 // Dibuja el cuerpo de cada tipo de bloque. Tipos: text (por defecto), carlos, tipos, budget, summary.
 import { h } from "./dom.js";
+import { inline } from "./inline.js";
 import { t } from "./i18n.js";
 import { TYPES, chip, money, equation, renderBudget, renderSummary } from "./budget.js";
 
@@ -39,6 +40,34 @@ const renderers = {
     card.append(root);
     renderSummary(root);
   },
+};
+
+// ---- Lecciones importadas del sitio (content/*/tema-NN.json, bloques type "lesson") ----
+const node = {
+  p: (v) => h("p", {}, ...inline(v)),
+  formula: (v) => h("p", { className: "formula" }, ...inline(v)),
+  h3: (v) => h("h3", {}, ...inline(v)),
+  ul: (v) => h("ul", {}, ...v.map((x) => h("li", {}, ...inline(x)))),
+  ol: (v) => h("ol", {}, ...v.map((x) => h("li", {}, ...inline(x)))),
+  quote: (v) => h("blockquote", { className: "sample" }, ...inline(v)),
+  dl: (v) => h("dl", {}, ...v.flatMap(([d, x]) => [h("dt", {}, ...inline(d)), h("dd", {}, ...inline(x))])),
+  table: (v) => {
+    const cell = (tag, c, i, scope) => h(tag, { className: v.num.includes(i) ? "num" : "", ...(scope ? { scope } : {}) }, ...inline(c));
+    const wrap = h("div", { className: "tablebox", role: "region", tabIndex: 0 },
+      h("table", {}, h("caption", { textContent: v.caption }),
+        v.head.length ? h("thead", {}, h("tr", {}, ...v.head.map((c, i) => cell("th", c, i, "col")))) : null,
+        h("tbody", {}, ...v.rows.map((r, ri) => h("tr", { className: v.total.includes(ri) ? "total" : "" }, ...r.map((c, i) => cell("td", c, i)))))));
+    wrap.setAttribute("aria-label", v.caption);
+    return wrap;
+  },
+  links: (v) => h("ul", { className: "links" }, ...v.map((l) => h("li", {}, ...inline(`[${l.t}](${l.u})`),
+    l.org ? h("p", { className: "muted", textContent: l.org }) : null, l.d ? h("p", { textContent: l.d }) : null))),
+  quiz: (v) => h("div", { className: "note" }, h("p", { textContent: t("quiz.text") }), ...inline(`[${t("quiz.btn")}](${v})`)),
+};
+renderers.lesson = (card, b) => {
+  card.classList.add(`kind-${b.kind}`);
+  if (b.label) card.insertBefore(h("p", { className: "callout-label", textContent: b.label }), card.querySelector("h2"));
+  b.body.forEach((n) => { const k = Object.keys(n)[0]; if (node[k]) card.append(node[k](n[k])); });
 };
 
 export function renderBlockBody(card, b, topic) {

@@ -1,0 +1,1235 @@
+{
+ "id": "tema-06",
+ "title": "Topic 6: Credit Cards and Managing Debt",
+ "summary": "Use a credit card without paying interest, build a payoff plan that works, and deal with debt collectors, court papers, and medical bills with confidence.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "credit-cards",
+   "title": "Use a Credit Card Without Paying Interest",
+   "summary": "How the grace period works, how to read your statement, why paying only the minimum costs so much, and which card features to avoid.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "debt-payoff-plan",
+   "title": "Make a Plan to Pay Off Debt",
+   "summary": "List your debts, compare the avalanche and snowball methods with real numbers, call your creditors for help, and find debt help you can trust.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "debt-collectors",
+   "title": "Dealing with Debt Collectors and Collection Lawsuits",
+   "summary": "Your rights with debt collectors, a sample dispute letter, old debts, what to do with court papers, and new medical bill rules in DC, Maryland, and Virginia.",
+   "meta": "(About 18 min, 5 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "credit-cards-intro",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "intro",
+   "title": "Use a Credit Card Without Paying Interest",
+   "body": [
+    {
+     "p": "How the grace period works, how to read your statement, why paying only the minimum costs so much, and which card features to avoid."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Explain the grace period and how paying the full statement balance avoids interest.",
+      "Find the key numbers on a credit card statement, including the minimum payment warning.",
+      "Compare the cost of paying only the minimum with paying a fixed amount each month.",
+      "Avoid costly features such as cash advances, deferred interest offers, late fees, and penalty APRs."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers how credit cards work and what is on a statement. This lesson adds worked payoff numbers, the fees and traps to avoid, your rights when something goes wrong, and a checklist for choosing and using a first card."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-words",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Grace period",
+       "The time between the end of a billing cycle and the due date. If you pay the full statement balance by the due date, most cards charge no interest on purchases."
+      ],
+      [
+       "Statement balance",
+       "The amount you owed on the last day of the billing cycle. Paying this amount in full by the due date avoids interest on purchases."
+      ],
+      [
+       "Minimum payment",
+       "The smallest amount you must pay by the due date to avoid a late fee. You still pay interest on the rest of the balance."
+      ],
+      [
+       "APR (annual percentage rate)",
+       "The yearly cost of borrowing, shown as a percent. One card can have different APRs for purchases, cash advances, and balance transfers."
+      ],
+      [
+       "Cash advance",
+       "Using a credit card to get cash, for example at an ATM. It usually has a fee and a higher APR, and interest starts right away."
+      ],
+      [
+       "Penalty APR",
+       "A higher interest rate a card company may charge if you pay late. It can apply to your existing balance if you are more than 60 days late."
+      ],
+      [
+       "Deferred interest",
+       "A \"no interest if paid in full\" deal. If any of the balance is left when the deal ends, the company can add interest going back to the day of the purchase."
+      ],
+      [
+       "Secured credit card",
+       "A credit card that needs a deposit. The credit limit is usually the same as the deposit. It can help people with no credit history build credit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s1",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "text",
+   "title": "Three numbers on your statement",
+   "body": [
+    {
+     "p": "Each month, your card company sends a statement. It shows your purchases, payments, and fees for one billing cycle. A billing cycle is usually about one month. Three numbers on the statement matter most."
+    },
+    {
+     "dl": [
+      [
+       "Statement balance",
+       "What you owed on the last day of the billing cycle. If you pay this full amount by the due date, most cards charge no interest on your purchases."
+      ],
+      [
+       "Current balance",
+       "What you owe today. It includes purchases you made after the statement was made. You do not have to pay these yet to avoid interest."
+      ],
+      [
+       "Minimum payment",
+       "The smallest amount you must pay by the due date to avoid a late fee. If you pay only this amount, you pay interest on the rest."
+      ]
+     ]
+    },
+    {
+     "p": "The time between the end of the billing cycle and the due date is called the **grace period**. Card companies do not have to give you one, but most do for purchases. They must mail or deliver your bill at least 21 days before the payment is due."
+    },
+    {
+     "p": "If you do not pay the full statement balance, you lose the grace period. You pay interest on the unpaid amount, and new purchases start to charge interest right away. To use a card without paying interest, pay the full statement balance every month."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s2",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "example",
+   "title": "Amara pays in full and pays no interest",
+   "body": [
+    {
+     "p": "Amara works at a hotel in downtown DC. She uses her credit card only for groceries and to add money to her SmarTrip card for Metro. Her billing cycle ends on the 5th of each month. Her payment is due on the 30th."
+    },
+    {
+     "table": {
+      "caption": "Amara's card for one month",
+      "head": [
+       "What happened",
+       "Amount"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Statement balance (the billing cycle ended on the 5th)",
+        "$420"
+       ],
+       [
+        "Minimum payment shown on the statement",
+        "$25"
+       ],
+       [
+        "New purchases from the 6th to the 29th",
+        "$150"
+       ],
+       [
+        "Current balance on the 29th",
+        "$570"
+       ],
+       [
+        "Amount Amara pays on the 29th (the full statement balance)",
+        "$420"
+       ],
+       [
+        "Interest Amara pays on purchases",
+        "$0"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Amara paid $420, not $570. That is enough, because the $150 in new purchases will be on her next statement. If she had paid only the $25 minimum, she would pay interest on the other $395. Her new purchases would also start to charge interest right away."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "credit-cards-s3",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "example",
+   "title": "Why the minimum payment costs so much",
+   "body": [
+    {
+     "p": "Luis drives for a delivery app in Silver Spring. He owes $2,000 on a card with a 24% APR. He stops using the card and wants to pay it off. How long will it take?"
+    },
+    {
+     "formula": "24% APR ÷ 12 months = 2% a month; $2,000 × 2% = $40 interest in the first month"
+    },
+    {
+     "p": "In this example, the minimum payment is 1% of the balance plus that month's interest, or $25, whichever is more. So Luis's first minimum payment is $20 + $40 = $60. Card companies set minimums in different ways, so check your own card agreement."
+    },
+    {
+     "table": {
+      "caption": "Paying off $2,000 at 24% APR with no new purchases",
+      "head": [
+       "Monthly payment",
+       "Time to pay off",
+       "Total interest"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Minimum only (starts at $60, then gets smaller)",
+        "about 12 years",
+        "$2,887"
+       ],
+       [
+        "$79 a month (about the 3-year amount)",
+        "3 years",
+        "$816"
+       ],
+       [
+        "$100 a month",
+        "26 months",
+        "$580"
+       ],
+       [
+        "Saved by paying $100 a month instead of the minimum",
+        "almost 10 years",
+        "$2,307"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "The minimum payment gets smaller as the balance goes down, so the debt takes years to finish. A payment that stays the same each month ends the debt much faster. These numbers are estimates. Real cards add interest daily, so your numbers will be a little different."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "credit-cards-s4",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "text",
+   "title": "Use the warning box on your statement",
+   "body": [
+    {
+     "p": "In most cases, your statement must include a box with the words \"Minimum Payment Warning.\" It shows how long it will take to pay off your balance if you pay only the minimum, and about how much you will pay in total. It usually also shows how much to pay each month to pay off the balance in 3 years. These numbers assume you make no new purchases. The box also gives a free phone number for information about credit counseling."
+    },
+    {
+     "ol": [
+      "Find the warning box on your paper or online statement.",
+      "Read the line for paying only the minimum. Note the number of years and the total cost.",
+      "Read the line for paying off the balance in 3 years. Note the monthly amount.",
+      "If your spending plan allows it, pay at least the 3-year amount each month.",
+      "Stop adding new charges to the card until it is paid off."
+     ]
+    },
+    {
+     "p": "Paying more than the minimum also helps if one card has different balances, such as purchases and a cash advance. By law, any amount you pay above the minimum generally goes first to the balance with the highest interest rate."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s5",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "warning",
+   "title": "Costly features to avoid",
+   "body": [
+    {
+     "ul": [
+      "**Cash advances.** Getting cash from an ATM with a credit card is a short-term loan. You usually pay a fee, a higher APR, and maybe an ATM fee too. There is usually no grace period, so interest starts the day you take the cash.",
+      "**\"No interest if paid in full\" offers.** Stores and medical offices often offer these deals. They are called deferred interest. If even a small part of the balance is left when the offer ends, the company can add interest going back to the day of your purchase. A true 0% APR offer is different: you pay interest only on what is left after the offer ends.",
+      "**Balance transfers.** Moving a balance to a new card usually costs a fee. The low rate must last at least 6 months, unless you are more than 60 days late. When it ends, the regular APR applies to what is left."
+     ]
+    },
+    {
+     "p": "Before you accept any offer, look for the word \"if\" and the end date. Write the end date on your calendar. Divide the balance by the number of months in the offer, and pay at least that much each month so it is paid in full in time."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "credit-cards-s6",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "text",
+   "title": "Late payments and your rights",
+   "body": [
+    {
+     "p": "Paying late costs money and hurts your credit. Federal rules set some limits."
+    },
+    {
+     "ul": [
+      "A late fee can never be more than your minimum payment. The fee can go up if you are late again within the next six billing cycles.",
+      "If your payment is more than 60 days late, the card company can charge a higher **penalty APR** on your existing balance. If you then make six minimum payments on time in a row, it must lower that rate again.",
+      "In the first year, a card company generally cannot raise the rate on new purchases. After that, it must give you 45 days' notice before a big change, such as a higher rate.",
+      "If someone uses your credit card without your permission, the most you can owe is $50. Report a lost or stolen card right away.",
+      "If your bill has a mistake, such as a charge you did not make, send a letter to the address for billing questions. It must arrive within 60 days after the first bill with the mistake was sent to you."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s7",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "text",
+   "title": "Choosing your first card",
+   "body": [
+    {
+     "p": "If you are new to credit, a **secured card** may be the easiest card to get. You pay a deposit, and your credit limit is usually the same as the deposit. As you show you can pay on time, your limit may go up and you may get your deposit back. An unsecured card needs no deposit, but it is harder to get without a credit history."
+    },
+    {
+     "ul": [
+      "Is there an annual fee or a monthly fee? Look for a card with no fee, or a low one.",
+      "What is the APR for purchases? What is the APR for cash advances?",
+      "Is there a foreign transaction fee? Some cards charge 1% to 3% on purchases from stores outside the U.S. This matters if you buy things from your home country or travel.",
+      "Does the card report to all three credit bureaus: Equifax, Experian, and TransUnion?",
+      "Can you set up alerts and automatic payments?",
+      "Did you ask your own bank or credit union first?"
+     ]
+    },
+    {
+     "p": "If you have an ITIN instead of a Social Security number, some card companies accept it on an application. Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN. Some may ask for more documents or say no, so ask before you apply. For other ways to start, see [Build Credit from Zero](https://dollarscholars.org/resources/lessons/build-credit/)."
+    },
+    {
+     "p": "Apply for one card at a time. Each application can add an inquiry to your credit report."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s8",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "tip",
+   "title": "Habits that keep a card helpful",
+   "body": [
+    {
+     "ul": [
+      "Set up automatic payment for at least the minimum, so you are never late. Make sure the money is in your bank account on that day. Then pay the rest of the statement balance yourself before the due date.",
+      "Turn on text or app alerts for each purchase and for your due date.",
+      "Keep your balance low compared with your limit. A $300 balance on a $1,000 limit uses 30% of your credit. Lower is better for your score. See [What Moves Your Credit Score](https://dollarscholars.org/resources/lessons/credit-score-factors/).",
+      "Use the card only for things that are already in your spending plan."
+     ]
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "credit-cards-takeaways",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Pay the full statement balance by the due date every month, and you pay no interest on purchases.",
+      "Paying only the minimum on $2,000 at 24% APR can take about 12 years. Paying $100 a month takes about 2 years.",
+      "Cash advances usually have no grace period, so interest starts the day you take the cash.",
+      "With a \"no interest if paid in full\" offer, pay the whole balance before the offer ends.",
+      "Set up automatic payment for at least the minimum so you are never late."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-quiz",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/credit-cards/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-links",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Use a Credit Card Without Paying Interest",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Credit cards",
+       "u": "https://www.consumerfinance.gov/consumer-tools/credit-cards/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Answers about interest, fees, rate changes, and your rights with credit card companies."
+      },
+      {
+       "t": "Using Credit Cards and Disputing Charges",
+       "u": "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to use a card wisely and how to dispute a billing error or a charge you did not make."
+      },
+      {
+       "t": "Cómo usar las tarjetas de crédito y cómo disputar cargos",
+       "u": "https://consumidor.ftc.gov/articulos/como-usar-las-tarjetas-de-credito-y-como-disputar-cargos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The same guide in Spanish: how to use a credit card and how to dispute a charge."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-intro",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "intro",
+   "title": "Make a Plan to Pay Off Debt",
+   "body": [
+    {
+     "p": "List your debts, compare the avalanche and snowball methods with real numbers, call your creditors for help, and find debt help you can trust."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "List every debt with its balance, interest rate, and minimum payment.",
+      "Compare the avalanche (highest rate first) and snowball (smallest balance first) methods using real numbers.",
+      "Ask a creditor for a hardship plan, a lower rate, or a new due date.",
+      "Tell nonprofit credit counseling apart from risky debt settlement and paid student loan help."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers two ways to reduce debt and where to get help. This lesson works through both methods with the same three debts. It adds a script for calling creditors, a checklist for choosing debt help, and what changed for federal student loans."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-words",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Avalanche method",
+       "Paying extra on the debt with the highest interest rate first, and the minimum on the others. It usually costs the least interest."
+      ],
+      [
+       "Snowball method",
+       "Paying extra on the smallest debt first, and the minimum on the others. You finish one debt sooner, which can help you keep going."
+      ],
+      [
+       "Hardship plan",
+       "A short-term agreement with a lender that may lower your payment, interest rate, or fees when you have a money problem, such as lost work or illness."
+      ],
+      [
+       "Credit counseling",
+       "Help from a trained counselor who reviews your budget and debts with you. Many nonprofit agencies offer it for free or a low fee."
+      ],
+      [
+       "Debt management plan",
+       "A plan set up by a credit counseling agency. You make one monthly payment to the agency, and it pays your creditors, often at lower interest rates."
+      ],
+      [
+       "Debt settlement",
+       "When a company tries to get your creditors to accept less than you owe. It is risky: it can add fees, hurt your credit, and lead to lawsuits."
+      ],
+      [
+       "Loan servicer",
+       "The company that sends your student loan bills, takes your payments, and helps you change your repayment plan. Its help is free."
+      ],
+      [
+       "FSA ID",
+       "The username and password you use to log in to StudentAid.gov. Never share it with anyone."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s1",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "text",
+   "title": "Step 1: Make your debt list",
+   "body": [
+    {
+     "p": "You need to see all your debts in one place before you can make a plan. Get your latest statements, or log in to each account. Write down four things for each debt."
+    },
+    {
+     "ol": [
+      "The name of the debt, such as \"store card\" or \"car loan.\"",
+      "The balance: how much you owe today.",
+      "The interest rate (APR).",
+      "The minimum monthly payment and the due date."
+     ]
+    },
+    {
+     "p": "Include everything: credit cards, store cards, personal loans, \"buy now, pay later\" plans, medical bills, payday or car title loans, and money you owe family. For any bill that is past due, write how many days late it is. Your credit report can show debts you forgot. See [Read Your Credit Report and Fix Mistakes](https://dollarscholars.org/resources/lessons/read-your-credit-report/)."
+    },
+    {
+     "p": "Next, look at your spending plan. Pay for needs such as rent, food, and utilities first. Then choose one amount you can pay toward debt every month. Paying more than the minimums is what makes a payoff plan work. See [Build a Spending Plan That Fits Your Real Life](https://dollarscholars.org/resources/lessons/spending-plan/)."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s2",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "example",
+   "title": "Tesfaye's debts: $6,000 and $300 a month",
+   "body": [
+    {
+     "p": "Tesfaye works as a home health aide in Alexandria. After rent and other needs, he can pay $300 a month toward debt. His minimum payments add up to $200."
+    },
+    {
+     "table": {
+      "caption": "Tesfaye's debt list",
+      "head": [
+       "Debt",
+       "Balance",
+       "APR",
+       "Minimum payment"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Store card",
+        "$500",
+        "25%",
+        "$25"
+       ],
+       [
+        "Credit card",
+        "$3,500",
+        "27%",
+        "$105"
+       ],
+       [
+        "Credit union loan",
+        "$2,000",
+        "11%",
+        "$70"
+       ],
+       [
+        "Total",
+        "$6,000",
+        "",
+        "$200"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$300 a month − $200 in minimum payments = $100 extra each month"
+    },
+    {
+     "p": "Tesfaye pays every minimum on time. He puts the extra $100 on one \"target\" debt. When a debt is paid off, he adds its payment to the next target. He stops using the cards while he pays them off. There are two common ways to choose the target."
+    },
+    {
+     "ul": [
+      "**Avalanche:** the highest interest rate first. His order is the credit card (27%), then the store card (25%), then the loan (11%).",
+      "**Snowball:** the smallest balance first. His order is the store card ($500), then the loan ($2,000), then the credit card ($3,500)."
+     ]
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "debt-payoff-plan-s3",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "example",
+   "title": "Avalanche or snowball: same $300, two results",
+   "body": [
+    {
+     "table": {
+      "caption": "Tesfaye's results with each method (estimates)",
+      "head": [
+       "Method",
+       "First debt paid off",
+       "All debts paid off",
+       "Total interest"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Minimum payments only ($200 a month)",
+        "month 27",
+        "month 63",
+        "$3,525"
+       ],
+       [
+        "Snowball ($300 a month)",
+        "month 5",
+        "month 26",
+        "$1,680"
+       ],
+       [
+        "Avalanche ($300 a month)",
+        "month 22",
+        "month 25",
+        "$1,416"
+       ],
+       [
+        "Avalanche compared with snowball",
+        "",
+        "1 month sooner",
+        "$264 less"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "Both plans cost far less than paying only the minimums. They save Tesfaye more than $1,800 in interest and more than 3 years. The avalanche saves the most money. The snowball pays off the store card in month 5, and that early win may help him keep going. The best method is the one you will follow every month."
+    },
+    {
+     "p": "These numbers assume the minimum payments stay the same and interest is added once a month. Your real numbers will be a little different."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "debt-payoff-plan-s4",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "text",
+   "title": "Call your creditors before you miss a payment",
+   "body": [
+    {
+     "p": "Many lenders have hardship programs, but they may not advertise them. Call as soon as you know you will have trouble paying. It is easier to get help before you miss a payment."
+    },
+    {
+     "ul": [
+      "Your account number",
+      "Why your income dropped or your costs went up, such as fewer hours or an illness",
+      "An amount you can really pay each month, from your spending plan",
+      "Paper and a pen to write down names, dates, and what was agreed"
+     ]
+    },
+    {
+     "quote": "\"Hello, my name is [your name]. My account number is [number]. My income dropped because [reason]. I want to keep paying you. Can I pay [amount] a month for [number] months? Do you have a hardship program? Can you lower my interest rate or waive late fees? Can you move my due date to [date], after I get paid? Will this plan be reported to the credit bureaus? What happens to my card during the plan? Please send me the terms in writing. May I have your name and a reference number for this call?\""
+    },
+    {
+     "p": "Do not agree to a payment you cannot make. Some hardship plans close or freeze the card, so ask before you agree."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s5",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "text",
+   "title": "Nonprofit credit counseling and debt management plans",
+   "body": [
+    {
+     "p": "A credit counselor reviews your income, spending, and debts, and helps you make a plan. Many nonprofit agencies offer a first session for free or for a low fee, in person, by phone, or online. Some offer help in Spanish and other languages."
+    },
+    {
+     "p": "If it fits your situation, the counselor may suggest a **debt management plan**. You send one payment each month to the agency, and the agency pays your creditors. Creditors may agree to lower your interest rates or waive some fees. These plans often take four years or more, and you may need to close your credit cards."
+    },
+    {
+     "p": "A nonprofit is not always free, and it is not always honest. Before you sign up, check these things."
+    },
+    {
+     "ul": [
+      "Ask for every fee in writing.",
+      "Ask if the counselors are certified.",
+      "Check the license. In Maryland, debt management companies must have a license from the Office of Financial Regulation. In Virginia, credit counseling agencies are licensed by the State Corporation Commission's Bureau of Financial Institutions.",
+      "Look for complaints with your attorney general. In DC, contact the Office of the Attorney General.",
+      "Make sure the plan fits your budget. Keep paying your bills until each creditor has accepted the plan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s6",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "warning",
+   "title": "Debt settlement and \"debt relief\" traps",
+   "body": [
+    {
+     "p": "Debt settlement companies promise to get your creditors to accept less than you owe. Many tell you to stop paying your creditors and put money into a special account instead. While you wait, late fees and interest grow, your credit score drops, and creditors can sue you. Many people quit before the program ends."
+    },
+    {
+     "ul": [
+      "It is illegal for debt relief companies that sell by phone to charge you before they settle or reduce at least one of your debts.",
+      "Be careful with any company that tells you to stop paying or stop talking to your creditors.",
+      "No one can promise to stop all lawsuits or to erase all your debt.",
+      "Be careful with claims about a \"new government program\" for credit card debt."
+     ]
+    },
+    {
+     "p": "If a creditor forgives part of a debt, the IRS generally counts the forgiven amount as income. You may get a Form 1099-C. Some people qualify for an exception, for example if they owed more than they owned. A free VITA tax site can help. See [File for Free and Claim the Credits You Earned](https://dollarscholars.org/resources/lessons/file-for-free/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "debt-payoff-plan-s7",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "text",
+   "title": "Federal student loans: use the free official help",
+   "body": [
+    {
+     "p": "A federal law passed in July 2025 changed how federal student loans are repaid. Key changes began on July 1, 2026, and the SAVE repayment plan is ending. More rules and deadlines are still being announced."
+    },
+    {
+     "p": "You never have to pay anyone for help with federal student loans. Log in at [StudentAid.gov](https://studentaid.gov/) or call your loan servicer. Both are free. Never share your FSA ID, which is the username and password for StudentAid.gov. Scammers use it to take control of your account."
+    },
+    {
+     "p": "Private student loans are different. They come from banks and other lenders. Call your lender and ask what hardship options it has."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s8",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "tip",
+   "title": "Stop the debt from growing",
+   "body": [
+    {
+     "p": "While you pay down debt, try not to add new debt. Keep a small emergency fund, even a few hundred dollars, so you do not have to put a surprise bill on a card. See [Start an Emergency Fund from Zero](https://dollarscholars.org/resources/lessons/emergency-fund/). Stay away from payday and car title loans; see [The Real Price of a Loan](https://dollarscholars.org/resources/lessons/high-cost-loans/). Write your payoff date on your calendar, and mark each debt you finish."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "debt-payoff-plan-takeaways",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Start with a full list of your debts and one monthly amount you can pay toward them.",
+      "Avalanche saves the most interest. Snowball pays off a first debt sooner. The best method is the one you will follow.",
+      "Call creditors before you miss a payment and ask about hardship programs. Get every agreement in writing.",
+      "Never pay a debt relief company before it settles a debt, and never stop paying because a company tells you to.",
+      "Help with federal student loans is free at StudentAid.gov and from your loan servicer."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-quiz",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/debt-payoff-plan/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-links",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Make a Plan to Pay Off Debt",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "How To Get Out of Debt",
+       "u": "https://consumer.ftc.gov/articles/how-get-out-debt",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to choose a credit counselor, how debt management plans work, and the risks of debt settlement."
+      },
+      {
+       "t": "Find a nonprofit credit counselor",
+       "u": "https://www.nfcc.org/",
+       "org": "National Foundation for Credit Counseling (NFCC)",
+       "d": "A national network of nonprofit credit counseling agencies. Help is offered by phone, online, and in Spanish."
+      },
+      {
+       "t": "Spotting student loan scams",
+       "u": "https://consumer.ftc.gov/consumer-alerts/2025/05/spotting-student-loan-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Why you should never pay an upfront fee or share your FSA ID, and how to manage loans for free."
+      },
+      {
+       "t": "Cómo salir de las deudas",
+       "u": "https://consumidor.ftc.gov/articulos/como-salir-de-las-deudas",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The same guide in Spanish: credit counseling, repayment plans, and the risks of debt settlement."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-intro",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "intro",
+   "title": "Dealing with Debt Collectors and Collection Lawsuits",
+   "body": [
+    {
+     "p": "Your rights with debt collectors, a sample dispute letter, old debts, what to do with court papers, and new medical bill rules in DC, Maryland, and Virginia."
+    },
+    {
+     "p": "(About 18 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Explain what debt collectors can and cannot do under federal law.",
+      "Dispute a debt or ask for proof in writing within the 30-day window.",
+      "Recognize old (time-barred) debts and fake collectors before you pay.",
+      "Respond to court papers, and handle medical bills by asking for an itemized bill and financial assistance."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers what happens when a debt goes to collection and how medical debt is different. This lesson adds a sample letter, a way to check if a collector is real, what to do with court papers, and the current DC, Maryland, and Virginia rules."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-words",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Debt collector",
+       "A company or person that collects debts owed to someone else, or that buys old debts and tries to collect them."
+      ],
+      [
+       "Validation notice",
+       "A letter a debt collector must send that names the creditor, shows what you owe, and explains how and by when to dispute the debt."
+      ],
+      [
+       "Statute of limitations",
+       "The time limit for suing you over a debt. After it passes, the debt is called time-barred."
+      ],
+      [
+       "Default judgment",
+       "A court decision against you because you did not respond to a lawsuit or did not come to court."
+      ],
+      [
+       "Wage garnishment",
+       "A court order that makes your employer send part of your pay to a creditor."
+      ],
+      [
+       "Financial assistance (charity care)",
+       "A hospital program that gives free or lower-cost care to patients who qualify, usually based on income."
+      ],
+      [
+       "Itemized bill",
+       "A bill that lists each service or item you received and the price of each one."
+      ],
+      [
+       "Federal poverty level",
+       "An income amount the federal government sets each year, based on family size. Many programs use it to decide who qualifies for help."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s1",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "text",
+   "title": "Your rights when a collector contacts you",
+   "body": [
+    {
+     "p": "A debt collector is a company that collects debts for someone else, or that buys old debts. A federal law, the Fair Debt Collection Practices Act, sets rules for how collectors act. DC and Maryland have their own debt collection laws too."
+    },
+    {
+     "h3": "In general, a collector may not:"
+    },
+    {
+     "ul": [
+      "Call you before 8 a.m. or after 9 p.m.",
+      "Call you about one debt more than 7 times in 7 days, or within 7 days after talking with you by phone about it.",
+      "Call you at work if they know your employer does not allow it.",
+      "Say you will be arrested, or say they will sue you when that is not true.",
+      "Pretend to be a lawyer or a government worker.",
+      "Talk about your debt with your relatives, neighbors, or boss. They may talk about it only with you, your spouse, or your lawyer. They may contact other people only to find you.",
+      "Post about your debt on social media where others can see it.",
+      "Say you owe a different amount than you really owe."
+     ]
+    },
+    {
+     "p": "You can tell a collector how and when to contact you, for example \"no calls at work\" or \"by mail only.\" If you want them to stop contacting you, send a letter. After that, they may contact you only to say they will stop or to tell you about a specific step, such as a lawsuit. Stopping contact does not erase the debt."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s2",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "text",
+   "title": "Ask for proof and dispute in writing",
+   "body": [
+    {
+     "p": "A collector must send you a **validation notice** in its first contact or within 5 days after it. The notice names the creditor, shows what you owe with interest and fees, and gives an end date for a 30-day dispute period."
+    },
+    {
+     "ol": [
+      "On the first call, do not pay or agree to anything. Ask for the collector's name, company, mailing address, and phone number.",
+      "Wait for the validation notice, or ask them to send it.",
+      "Compare it with your records. Is the debt yours? Is the amount right? Did you already pay it?",
+      "If anything is wrong or unclear, send a dispute letter before the end date in the notice. Use certified mail with a return receipt, and keep a copy.",
+      "After you dispute in writing within the 30 days, the collector must stop collecting the disputed amount until it answers you.",
+      "Keep a log of every call: the date, the time, the person's name, and what was said."
+     ]
+    },
+    {
+     "h3": "Sample dispute letter"
+    },
+    {
+     "quote": "[Your name] [Your address] [Date] [Collector's name] [Collector's address] About: account number [number from the notice] I am writing about your letter dated [date]. I dispute this debt. [Choose one: I do not owe this debt. / The amount is wrong. / I need more information.] Please send me the name of the original creditor, a copy of the last statement from that creditor, and how you got the amount you say I owe. Please contact me only by mail. This letter does not say that I owe this debt. [Your signature]"
+    },
+    {
+     "p": "Do not put your bank account number or Social Security number in the letter."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s3",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "text",
+   "title": "Is the collector real? Is the debt too old?",
+   "body": [
+    {
+     "h3": "Check that the collector is real"
+    },
+    {
+     "ul": [
+      "Do not trust the name on caller ID. Scammers can fake it.",
+      "Look up the company yourself. Call the original creditor and ask who owns the debt now.",
+      "In Maryland, collection agencies must have a state license. You can check it with the Office of Financial Regulation.",
+      "Never pay with a gift card, wire transfer, crypto, or payment app because a caller is rushing you. A real collector must send you a written notice.",
+      "Look for the debt on your free credit reports at [AnnualCreditReport.com](https://www.annualcreditreport.com/)."
+     ]
+    },
+    {
+     "h3": "Old debts have time limits"
+    },
+    {
+     "p": "The **statute of limitations** is the time limit for suing you over a debt. In most states it is 3 to 6 years, and some are longer. After it passes, the debt is time-barred. A collector may still ask you to pay, but it may not sue you or threaten to sue you."
+    },
+    {
+     "ul": [
+      "**DC:** 3 years for most consumer debts. A payment made after the time limit has passed does not restart it.",
+      "**Maryland:** 3 years for most consumer debts. A payment made after the time limit has passed does not restart it.",
+      "**Virginia:** 3 years for a debt without a written contract, or 5 years for a signed written contract. It can be hard to tell which one applies. A signed, written promise to pay can restart the time limit."
+     ]
+    },
+    {
+     "p": "The time limit for suing is not the same as the credit report limit. Most negative information, including most collections, can stay on your credit report for 7 years. Before you pay anything on a very old debt, talk to legal aid."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s4",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "example",
+   "title": "Mateo and an old phone bill",
+   "body": [
+    {
+     "p": "Mateo lives in Laurel, Maryland. In 2020, he stopped paying a $900 phone bill when he lost his job. In 2026, a collector calls. It says he now owes $1,350 and asks for a \"good faith\" payment of $50 today."
+    },
+    {
+     "table": {
+      "caption": "Mateo's old debt in Maryland",
+      "head": [
+       "What happened",
+       "Year"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Mateo stopped paying the $900 bill",
+        "2020"
+       ],
+       [
+        "The 3-year time limit to sue ended",
+        "2023"
+       ],
+       [
+        "The collector calls and asks for $1,350",
+        "2026"
+       ],
+       [
+        "Can the collector sue him in 2026?",
+        "No"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "2020 + 3 years = 2023, so in 2026 the debt is time-barred in Maryland"
+    },
+    {
+     "p": "The collector may still ask Mateo to pay, but it may not sue or threaten to sue. In Maryland, a $50 payment now would not restart the time limit. Mateo can ask for the validation notice to see how $900 became $1,350, and he can call legal aid before he decides what to do."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "debt-collectors-s5",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "warning",
+   "title": "Court papers: never ignore them",
+   "body": [
+    {
+     "p": "If a creditor or collector sues you, you will get court papers. They may be called a summons, a complaint, or a warrant in debt. The papers give a deadline to respond or a date to come to court. If you do nothing, the court can give a **default judgment** against you for the amount they ask for, plus fees. Then they may be able to garnish your wages, freeze your bank account, or put a lien on your property. A lien is a legal claim on your property, such as a house or car, for money you owe. You usually cannot sell the property or borrow against it until the debt is paid."
+    },
+    {
+     "ol": [
+      "Read the papers the day you get them. Write down every deadline and court date.",
+      "Check: Is the debt yours? Is the amount right? Is it too old to sue on? The collector must prove its case.",
+      "Call free legal help right away. You can also ask the court's self-help center how to respond.",
+      "Respond by the deadline and go to every court date. If you need an interpreter, ask the court early.",
+      "Bring your papers, letters, receipts, and call log."
+     ]
+    },
+    {
+     "p": "Some money is protected. Social Security, SSI, and veterans benefits generally cannot be taken by most creditors, even after a judgment."
+    },
+    {
+     "ul": [
+      "**DC:** Legal Aid DC, [(202) 628-1161](tel:+12026281161), and the DC Bar Pro Bono Center",
+      "**Maryland:** Maryland Legal Aid, [888-465-2468](tel:+18884652468), and the free Maryland Court Help Center, [410-260-1392](tel:+14102601392)",
+      "**Virginia:** Legal Services of Northern Virginia, [703-778-6800](tel:+17037786800)"
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "debt-collectors-s6",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "text",
+   "title": "Medical bills: check, ask for help, then pay",
+   "body": [
+    {
+     "p": "Medical bills often have mistakes, and many can be lowered. Before you pay a large medical bill, or a collector for one, follow these steps."
+    },
+    {
+     "ol": [
+      "Ask for an itemized bill that lists each service and its price.",
+      "Compare it with the statement from your health insurance. Call your insurer about any claim that was denied.",
+      "Ask the hospital for its financial assistance policy and application. Nonprofit hospitals must have a written policy and make it easy to find.",
+      "Ask for a payment plan with no interest that fits your budget.",
+      "Get every agreement in writing."
+     ]
+    },
+    {
+     "h3": "DC-area rules (September 2026)"
+    },
+    {
+     "ul": [
+      "**Maryland:** Since October 1, 2025, medical debt may not be reported to the credit bureaus. Hospitals may not sue a patient who owes $500 or less. Patients have 240 days from the first bill to apply for financial assistance, and hospitals may not sue during that time. Maryland hospitals must give free medically necessary care to patients with family income at or below 200% of the federal poverty level.",
+      "**Virginia:** Since July 1, 2024, health care providers and collectors may not report medical debt to the credit bureaus. Since July 1, 2026, a hospital or debt collector must wait at least 120 days after the final bill is due, and send a written notice about financial help, before it sues a patient or sells the debt. The patient then has at least 30 days to ask for proof of the debt or apply for help.",
+      "**DC:** In 2026, DC passed a new medical debt law. Its main rules, including a ban on reporting medical debt to the credit bureaus, start only six months after the DC budget pays for the law. Ask legal aid which rules apply to your bill.",
+      "**Everywhere:** The three national credit bureaus leave off paid medical collections and medical collections under $500. They wait one year before adding an unpaid medical collection. A federal rule to remove all medical debt from credit reports was struck down by a court in July 2025. In October 2025, the CFPB said it believes federal law overrides state credit reporting rules like the ones above, so courts may decide how far they reach."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s7",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "tip",
+   "title": "Where to report a problem",
+   "body": [
+    {
+     "p": "If a collector breaks the rules, write down what happened and keep any letters or messages. You can file a complaint with the CFPB at [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) or [(855) 411-2372](tel:+18554112372). You can also contact the DC Office of the Attorney General, [202-442-9828](tel:+12024429828), the Maryland Office of Financial Regulation, [410-230-6077](tel:+14102306077), or the Virginia Attorney General's Consumer Protection Section, [804-786-2042](tel:+18047862042). If you are being sued, call legal aid first."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "debt-collectors-takeaways",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Collectors may not threaten arrest, lie about what you owe, or call before 8 a.m. or after 9 p.m.",
+      "You have 30 days after the validation notice to dispute a debt in writing. Keep copies of everything.",
+      "In DC and Maryland, most consumer debts cannot be taken to court after 3 years. A payment made after that time does not restart the time limit.",
+      "Never ignore court papers. Respond by the deadline and call free legal help right away.",
+      "For a medical bill, ask for an itemized bill and the hospital's financial assistance application before you pay."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-quiz",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/debt-collectors/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-links",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Dealing with Debt Collectors and Collection Lawsuits",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Debt collection",
+       "u": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Your rights with debt collectors, validation notices, sample letters, and what to do if you are sued."
+      },
+      {
+       "t": "Debt Collection FAQs",
+       "u": "https://consumer.ftc.gov/articles/debt-collection-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "What collectors can and cannot do, how to stop contact, and which income is protected from garnishment."
+      },
+      {
+       "t": "Maryland Court Help Centers",
+       "u": "https://www.mdcourts.gov/helpcenter",
+       "org": "Maryland Judiciary",
+       "d": "Free legal help by phone, chat, or in person for people without a lawyer in civil cases, such as a debt lawsuit."
+      },
+      {
+       "t": "Preguntas frecuentes sobre la cobranza de deudas",
+       "u": "https://consumidor.ftc.gov/articulos/preguntas-frecuentes-sobre-la-cobranza-de-deudas",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The same guide in Spanish: your rights when a debt collector contacts you."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

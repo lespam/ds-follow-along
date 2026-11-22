@@ -227,6 +227,412 @@
    "text": [
     "Esto se calcula con los meses que llenaste. El ingreso base es el del mes con menos ingresos."
    ]
+  },
+  {
+   "id": "emergency-fund-intro",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "intro",
+   "title": "Iniciar un Fondo de Emergencia desde Cero",
+   "body": [
+    {
+     "p": "Formas prácticas de ahorrar tus primeros $500, dónde guardarlo de forma segura y cómo rellenarlo después de usarlo."
+    },
+    {
+     "p": "(Aproximadamente 14 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Compara lo que cuesta una emergencia cuando pagas con ahorros, con tarjeta de crédito o con un préstamo de alto costo.",
+      "Establece una meta inicial de ahorro y calcula una cantidad semanal para alcanzarla.",
+      "Elige un lugar seguro y seguro para ahorrar en emergencias y configura el ahorro automático.",
+      "Decide qué cuenta como emergencia y haz un plan para rellenar el fondo después de usarlo."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre por qué un fondo de emergencia es importante y dónde guardar los ahorros. Esta lección convierte eso en un plan semanal con números reales, y muestra cómo proteger tu fondo y rellenarlo después de usarlo."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-words",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Fondo de emergencia (Emergency fund)",
+       "El dinero que solo guardas para costos inesperados que tienes que pagar, como una reparación de auto que necesitas para ir al trabajo o una factura médica urgente."
+      ],
+      [
+       "APR (tasa anual porcentual) (APR (annual percentage rate))",
+       "El costo anual de pedir dinero prestado, incluyendo intereses y la mayoría de las comisiones, se muestra en porcentaje."
+      ],
+      [
+       "Vuelco (Rollover)",
+       "Pagar una tarifa para mover la fecha de vencimiento de un préstamo a corto plazo después. Aún debes el monto total, y cada renovación agrega una nueva tarifa."
+      ],
+      [
+       "Seguro de depósitos (Deposit insurance)",
+       "Protección gubernamental que devuelva tu dinero, hasta cierto límite, si un banco o cooperativa de crédito asegurada quiebra. La FDIC asegura a los bancos, y la NCUA asegura a las cooperativas de crédito."
+      ],
+      [
+       "Depósito directo (Direct deposit)",
+       "Cuando tu empleador o una agencia gubernamental envía dinero directamente a tu cuenta bancaria o cooperativa de crédito en lugar de darte un cheque."
+      ],
+      [
+       "Cuenta ABLE (ABLE account)",
+       "Una cuenta de ahorro especial para algunas personas con discapacidad que comenzó antes de los 46 años. El dinero en ella no se cuenta para el SSI, hasta cierto límite."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s1",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "example",
+   "title": "Una reparación de $400, tres formas de pagar",
+   "body": [
+    {
+     "p": "Amina vive en Alexandria, Virginia, y trabaja como asistente de salud a domicilio. Ella maneja hasta las casas de sus clientes. Una mañana su auto necesita una reparación de $400. Sin el auto, no puede trabajar. Esto es lo que cuesta la misma reparación de $400, dependiendo de cómo pague."
+    },
+    {
+     "table": {
+      "caption": "Lo que realmente cuesta una reparación de $400",
+      "head": [
+       "Cómo paga Amina",
+       "Costo extra",
+       "Total que paga"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "De su fondo de emergencia",
+        "$0",
+        "$400"
+       ],
+       [
+        "Tarjeta de crédito con 24% de APR, pagando $25 al mes (alrededor de 20 meses)",
+        "alrededor de $87",
+        "alrededor de $487"
+       ],
+       [
+        "Préstamo de día de pago en línea con una comisión de $15 por cada $100, pagado en 2 semanas",
+        "$60",
+        "$460"
+       ],
+       [
+        "El mismo préstamo, renovado 4 veces antes de que pueda pagarlo (10 semanas)",
+        "$300",
+        "$700"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 días × 100 = aproximadamente 391% de APR"
+    },
+    {
+     "p": "**Una APR** (tasa anual porcentual) es el costo anual del préstamo, incluyendo intereses y la mayoría de las comisiones. Una APR del 24% en una tarjeta de crédito es aproximadamente el 2% del saldo mensual. Una comisión de préstamo de día de pago de $15 por cada $100 durante dos semanas equivale a una APR de aproximadamente 391%. Cuando un préstamo a corto plazo se renueva o **se renova**, pagas una nueva comisión pero aún debes los $400 completos. Así es como $400 se convierten en $700. Las leyes en DC, Maryland y Virginia limitan el costo de estos préstamos, pero algunos prestamistas en línea no las siguen. Consulta [la lección sobre préstamos de alto costo](https://dollarscholars.org/es-mx/resources/lessons/high-cost-loans/)."
+    },
+    {
+     "p": "Con $400 en un fondo de emergencia, la reparación cuesta $400 y nada más. Esa es la razón para empezar a ahorrar, aunque sea en pequeñas cantidades."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "emergency-fund-s2",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "text",
+   "title": "Establece una meta inicial",
+   "body": [
+    {
+     "p": "Un **fondo de emergencia** es dinero que solo guardas para costos inesperados que debes pagar. Muchas emergencias cuestan unos cientos de dólares, así que comienza con una meta de $500. Cuando lo alcances, establece una segunda meta: un mes de tus necesidades y obligaciones. Con el tiempo, algunos expertos sugieren ahorrar varios meses en gastos de vida. Cada paso te hace más seguro."
+    },
+    {
+     "p": "Para encontrar tu cantidad semanal, divide tu meta entre el número de semanas que quieres tomar."
+    },
+    {
+     "formula": "$500 ÷ 26 semanas (aproximadamente 6 meses) = $19.23, o alrededor de $20 por semana"
+    },
+    {
+     "table": {
+      "caption": "¿Cuánto tiempo se tarda en ahorrar $500",
+      "head": [
+       "Guarda cada semana",
+       "Semanas para llegar a $500",
+       "Más o menos cuánto tiempo"
+      ],
+      "num": [
+       0,
+       1
+      ],
+      "rows": [
+       [
+        "$10",
+        "50",
+        "11 meses y medio"
+       ],
+       [
+        "$20",
+        "25",
+        "Casi 6 meses"
+       ],
+       [
+        "$25",
+        "20",
+        "4 meses y medio"
+       ],
+       [
+        "$50",
+        "10",
+        "Un poco más de 2 meses"
+       ]
+      ],
+      "total": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s3",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "text",
+   "title": "Encuentra el dinero para ahorrar",
+   "body": [
+    {
+     "p": "Ahorrar $20 a la semana puede parecer difícil cuando el dinero ya está bajo. Busca pequeñas cantidades en varios lugares:"
+    },
+    {
+     "ul": [
+      "**Recortes pequeños.** Mira tu plan de gastos. Salir a comer una vez menos cada semana o dejar un servicio de streaming puede darte parte o la totalidad de tus $20.",
+      "**Tu reembolso de impuestos.** Cuando presentas, puedes pedirle al IRS que divida tu reembolso en hasta tres cuentas a tu nombre (o a nombre de tu cónyuge, si presentan juntos). El software de impuestos usualmente pregunta sobre esto. En una declaración en papel, usas el Formulario 8888. Envía parte del reembolso directamente a ahorros. Desde finales de septiembre de 2025, el IRS generalmente ha dejado de enviar cheques de reembolso en papel, así que una cuenta bancaria o cooperativa de crédito también facilita recibir tu reembolso. Para ayuda gratuita, consulta [la lección sobre cómo presentar tus impuestos gratis](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/).",
+      "**Aumentos y cheques extras.** Cuando recibas un aumento, ahorra parte antes de empezar a gastarlo. Si te pagan cada dos semanas, la mayoría de los años tienen dos meses con un tercer cheque. Ahorra parte o todo.",
+      "**Dinero sorpresa.** Un bono, un regalo o una semana con grandes propinas pueden ir directamente al fondo.",
+      "**Pagos terminados.** Cuando pagas una deuda, sigue pagando el mismo, pero a tus ahorros."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s4",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "text",
+   "title": "Dónde guardarla",
+   "body": [
+    {
+     "p": "Mantén tu fondo de emergencia en una cuenta de ahorros en un banco asegurado por la FDIC o en una cooperativa de crédito asegurada por la NCUA. **El seguro de depósitos** cubre hasta $250,000 por depositante, por banco o cooperativa de crédito asegurada, para cada categoría de propietario de cuenta. Si el banco o cooperativa de crédito fracasa, recuperas tu dinero asegurado."
+    },
+    {
+     "p": "El mejor lugar es fácil de alcanzar, pero no demasiado. Una cuenta de ahorros separada en tu propio banco o cooperativa de crédito te permite mover dinero rápido cuando lo necesites, pero no lo gastarás por accidente en la tienda. Algunas personas eligen no vincular una tarjeta de débito a su cuenta de ahorros."
+    },
+    {
+     "p": "El efectivo en casa puede perderse, robarse o quemarse en un incendio, y no está asegurado. Algunos bancos y cooperativas de crédito abren cuentas para personas sin número de Seguro Social. Consulta [la lección sobre cómo abrir una cuenta bancaria](https://dollarscholars.org/es-mx/resources/lessons/open-an-account/)."
+    },
+    {
+     "h3": "Si obtienes beneficios públicos"
+    },
+    {
+     "p": "Algunos beneficios cuentan tus ahorros. En 2026, para obtener Ingreso de Seguridad Suplementaria (SSI), tus recursos contabilizables, incluyendo la mayoría de los ahorros, deben ser $2,000 o menos para una persona, o $3,000 para una pareja, según la Administración del Seguro Social. Desde el 1 de enero de 2026, las personas cuya discapacidad comenzó antes de los 46 años pueden poder abrir una **cuenta ABLE**. El dinero en una cuenta ABLE no se cuenta para SSI, hasta un límite. Otros programas tienen reglas diferentes, así que pregunta a tu trabajador social o a un consejero de beneficios antes de ahorrar una cantidad grande."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s5",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "tip",
+   "title": "Hacer que el ahorro ocurra por sí solo",
+   "body": [
+    {
+     "ol": [
+      "Pregunta a tu empleador si puedes dividir tu **depósito directo**, para que parte de tu pago vaya a ahorros. A menudo puedes enviar una cantidad fija, como $20, a ahorros y el resto a cheques.",
+      "Si no puedes dividir tu pago, configura una transferencia automática en tu app bancaria para el día siguiente al día siguiente.",
+      "Si te pagan en efectivo o propinas, elige un día a la semana para depositar tus ahorros antes de gastar.",
+      "Empieza con una cantidad que puedas seguir ahorrando. $10 cada semana es mejor que $50 una vez."
+     ]
+    },
+    {
+     "p": "Ahorrar primero, antes de gastar, funciona mejor que guardar lo que quede al final del mes."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "emergency-fund-s6",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "text",
+   "title": "¿Es una emergencia? Haz tres preguntas",
+   "body": [
+    {
+     "p": "Antes de usar tu fondo, revisa:"
+    },
+    {
+     "ul": [
+      "**¿Es inesperado?** Los regalos navideños y los útiles escolares llegan cada año. Mejor prepáralos en tu plan de gastos.",
+      "**¿Es necesario?** ¿No pagarlo afectaría tu salud, tu seguridad, tu hogar o tu trabajo?",
+      "**¿Es urgente?** ¿Debe pagarse ahora o puede esperar mientras ahorras?"
+     ]
+    },
+    {
+     "p": "Si la respuesta a las tres es sí, usa el fondo. Para eso es. Ejemplos: una reparación de auto que necesitas ir al trabajo, una factura médica o dental urgente, o renta en un mes en que te redujeron tus horas. Una venta, un teléfono nuevo o un viaje no es una emergencia."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s7",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "warning",
+   "title": "Emergencias falsas y personas que quieren tus ahorros",
+   "body": [
+    {
+     "p": "Los estafadores saben que la gente guarda dinero de emergencia e inventan emergencias para conseguirlo."
+    },
+    {
+     "ul": [
+      "**Un familiar en problemas.** Una llamada o mensaje suena como tu nieto, hijo o primo. Necesitan dinero ahora mismo y te piden que lo mantengas en secreto. Los estafadores incluso pueden copiar la voz de una persona con herramientas de computadora. Cuelga la llamada. Luego llama a tu familiar, o a otro familiar, a un número que ya conozcas.",
+      "**Una \"cuenta segura\".** Alguien dice que es de tu banco o de una agencia gubernamental y te dice que muevas tus ahorros para protegerlos. La Comisión Federal de Comercio (FTC) dice que nunca te dirá que muevas tu dinero para protegerlo. Cuelga la llamada y llama a tu banco al número que aparece en tu tarjeta o estado de cuenta.",
+      "**Formas extrañas de pagar.** Alguien te pide que arregles una emergencia con tarjetas de regalo, criptomonedas, una transferencia bancaria o una app de pagos. Ninguna empresa real o agencia gubernamental te dirá que compres una tarjeta de regalo para pagarles."
+     ]
+    },
+    {
+     "p": "No te apresures. Habla con alguien en quien confíes antes de enviar dinero. Reporta las estafas en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/). [Aprende más en la lección sobre cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "emergency-fund-s8",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "text",
+   "title": "Recarga el fondo después de usarlo",
+   "body": [
+    {
+     "p": "Usar tu fondo no es un fracaso. El fondo hizo lo que fue creado para hacer. Ahora haz un plan para rellenarlo."
+    },
+    {
+     "p": "La primavera pasada, Amina tenía $500 ahorrados. Necesitaba $350 por un diente roto que dolía y necesitaba atención inmediata. Le quedaban $150."
+    },
+    {
+     "formula": "$350 para rellenar ÷ $25 a la semana = 14 semanas"
+    },
+    {
+     "ol": [
+      "Anota cuánto usaste y cuánto queda.",
+      "Regresa a tu cantidad semanal. Agrega un poco más si puedes, por ejemplo $25 en lugar de $20.",
+      "Envía tu próximo dinero sorpresa, como un reembolso de impuestos, un bono o un tercer cheque de pago, al fondo.",
+      "Piensa en qué causó la emergencia. ¿Puedes planearlo para la próxima vez? Si tu auto necesita reparaciones cada año, agrega una línea de reparación a tu presupuesto."
+     ]
+    },
+    {
+     "p": "Cuando el fondo llegue de nuevo a $500, sigue avanzando hacia tu siguiente meta: un mes de tus necesidades y obligaciones."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-takeaways",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Una emergencia de $400 pagada con ahorros cuesta $400. Si se paga con un préstamo de alto costo que se renueva, puede costar $700.",
+      "Empieza con una meta de $500. Ahorrar $20 a la semana te lleva ahí en unos seis meses.",
+      "Mantén el fondo en una cuenta de ahorro asegurada por la FDIC o la NCUA, separada de tus gastos diarios.",
+      "Ahorra automáticamente: divide tu depósito directo o programa una transferencia para el día después del día de pago.",
+      "Usar el fondo no es un fracaso. Después de usarlo, haz un plan para rellenarlo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-quiz",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-links",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Iniciar un Fondo de Emergencia desde Cero",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Ahorrar para lo inesperado y para el futuro",
+       "u": "https://www.fdic.gov/consumer-resource-center/2025-01/ahorrar-para-lo-inesperado-y-para-el-futuro",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "La misma guía en español: encontrar dinero para ahorrar, configurar transferencias automáticas y mantener los ahorros en una cuenta asegurada."
+      },
+      {
+       "t": "Una guía esencial para construir un fondo de emergencia",
+       "u": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Pasos prácticos para ahorrar algo: establece un hábito, automatiza transferencias, divide tu depósito directo y ahorra parte de tu reembolso de impuestos."
+      },
+      {
+       "t": "Ahorrando para lo inesperado y tu futuro",
+       "u": "https://www.fdic.gov/consumer-resource-center/2025-01/saving-unexpected-and-your-future",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "Ideas para encontrar dinero para ahorrar, configurar transferencias automáticas y mantener los ahorros en una cuenta asegurada."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "lessons": [
+  {
+   "slug": "emergency-fund",
+   "title": "Iniciar un Fondo de Emergencia desde Cero",
+   "summary": "Formas prácticas de ahorrar tus primeros $500, dónde guardarlo de forma segura y cómo rellenarlo después de usarlo.",
+   "meta": "(Aproximadamente 14 min, 6 preguntas de cuestionario)",
+   "n": 2
   }
  ]
 }

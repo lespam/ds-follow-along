@@ -1,0 +1,1087 @@
+{
+ "id": "tema-05",
+ "title": "Topic 5: Borrowing Wisely and Avoiding Predatory Loans",
+ "summary": "See the real price of a loan, recognize payday, title, rent-to-own, and other high-cost products, find safer options, and get a fair deal when you finance a car.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "high-cost-loans",
+   "title": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "summary": "Turn loan fees into an APR, see what payday, title, rent-to-own, and 'buy now, pay later' deals really cost, learn the rules in DC, Maryland, and Virginia, and find cheaper options.",
+   "meta": "(About 18 min, 6 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "car-loans",
+   "title": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "summary": "Budget for the full cost of a car, get pre-approved for a loan, recognize dealer traps such as long loans, add-ons, and yo-yo financing, and think carefully before you cosign.",
+   "meta": "(About 18 min, 5 quiz questions)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "high-cost-loans-intro",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "intro",
+   "title": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "body": [
+    {
+     "p": "Turn loan fees into an APR, see what payday, title, rent-to-own, and 'buy now, pay later' deals really cost, learn the rules in DC, Maryland, and Virginia, and find cheaper options."
+    },
+    {
+     "p": "(About 18 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Convert a loan fee into an APR so you can compare offers.",
+      "Recognize payday, car title, online installment, rent-to-own, and pay-over-time products, and what they really cost.",
+      "Explain how DC, Maryland, and Virginia limit loan costs, and check a lender's license.",
+      "Choose a lower-cost option, such as a payment plan or a credit union small loan."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers how to compare loans with the Truth in Lending disclosure and why high-cost debt is risky. This lesson adds the math to turn any fee into an APR, the loan rules in DC, Maryland, and Virginia, and a list of cheaper options to try first."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-words",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "APR (annual percentage rate)",
+       "The yearly cost of a loan, including interest and most fees, shown as a percent. It lets you compare loans of different sizes and lengths."
+      ],
+      [
+       "Finance charge",
+       "The total dollar cost of borrowing, including interest and fees."
+      ],
+      [
+       "Rollover",
+       "Paying a new fee on a short-term loan to move the due date later. You pay a fee each time and still owe the full amount."
+      ],
+      [
+       "Car title loan",
+       "A short, high-cost loan where you give the lender the title to your car. If you do not repay, the lender can take the car."
+      ],
+      [
+       "Rent-to-own",
+       "A deal where you rent an item by the week or month and own it only after the last payment. The total is often much higher than the store price."
+      ],
+      [
+       "Payday Alternative Loan (PAL)",
+       "A small loan from a federal credit union, with limits on the interest rate and fees, made to replace payday loans."
+      ],
+      [
+       "Buy now, pay later (BNPL)",
+       "A plan that splits the cost of something you buy into a few payments, often four payments over six weeks."
+      ],
+      [
+       "Pay advance app",
+       "A phone app that gives you a small amount of money before payday, then takes it back from your bank account when you are paid. Many charge fees or ask for tips."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s1",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "text",
+   "title": "How to see the real price of a loan",
+   "body": [
+    {
+     "p": "Lenders like to talk about the fee or the payment: \"Only $15!\" or \"Just $50 a week!\" But the fee alone does not tell you if a loan is cheap. You need two numbers. The **APR** (annual percentage rate) is the yearly cost of a loan, including interest and most fees, shown as a percent. It lets you compare a two-week loan and a one-year loan in the same way. The **total of payments** tells you how many dollars you will pay in all."
+    },
+    {
+     "h3": "Turn a fee into an APR"
+    },
+    {
+     "ol": [
+      "Divide the fee by the amount you borrow.",
+      "Multiply by 365, then divide by the number of days in the loan.",
+      "Multiply by 100 to get a percent."
+     ]
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 days × 100 = about 391% APR"
+    },
+    {
+     "p": "A fee of $15 for each $100 is common for payday loans, the Consumer Financial Protection Bureau (CFPB) says. That APR is more than 15 times the APR of a credit card that charges 25%."
+    },
+    {
+     "h3": "If you have borrowed in another country"
+    },
+    {
+     "p": "Other countries have their own name for the yearly cost of a loan. If you know one of these, it is close to the APR. In some countries, the rate on the loan papers leaves out fees. Then it looks lower than the APR for the same loan, so add the fees before you compare."
+    },
+    {
+     "table": {
+      "caption": "What the yearly cost of a loan is called in other countries",
+      "head": [
+       "Country",
+       "Name on loan papers",
+       "Includes fees?"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Brazil",
+        "CET (Custo Efetivo Total)",
+        "Yes"
+       ],
+       [
+        "Canada",
+        "APR; in French, TAC (taux annuel du coût d'emprunt)",
+        "Most fees"
+       ],
+       [
+        "China",
+        "年化利率",
+        "Yes"
+       ],
+       [
+        "Colombia",
+        "E.A. (tasa efectiva anual)",
+        "Yes"
+       ],
+       [
+        "Dominican Republic",
+        "TAE (Tasa Anual Efectiva)",
+        "Yes"
+       ],
+       [
+        "El Salvador",
+        "tasa de interés efectiva",
+        "Yes"
+       ],
+       [
+        "France",
+        "TAEG (taux annuel effectif global)",
+        "Yes"
+       ],
+       [
+        "Germany",
+        "effektiver Jahreszins",
+        "Yes"
+       ],
+       [
+        "India",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Indonesia",
+        "suku bunga efektif",
+        "No, fees are listed separately"
+       ],
+       [
+        "Israel",
+        "שיעור העלות הממשית של האשראי",
+        "Yes"
+       ],
+       [
+        "Italy",
+        "TAEG (tasso annuo effettivo globale)",
+        "Yes"
+       ],
+       [
+        "Japan",
+        "実質年率",
+        "Most fees"
+       ],
+       [
+        "Kenya",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Mexico",
+        "CAT (Costo Anual Total)",
+        "Yes"
+       ],
+       [
+        "Nigeria",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Paraguay",
+        "CTC (Costo Total de Crédito)",
+        "Yes"
+       ],
+       [
+        "Peru",
+        "TCEA (Tasa de Costo Efectivo Anual)",
+        "Yes"
+       ],
+       [
+        "Philippines",
+        "EIR",
+        "Yes"
+       ],
+       [
+        "Poland",
+        "RRSO (rzeczywista roczna stopa oprocentowania)",
+        "Yes"
+       ],
+       [
+        "Portugal",
+        "TAEG (taxa anual de encargos efetiva global)",
+        "Yes"
+       ],
+       [
+        "Russia",
+        "ПСК (полная стоимость кредита)",
+        "Yes"
+       ],
+       [
+        "Saudi Arabia",
+        "APR (معدل النسبة السنوي)",
+        "Yes"
+       ],
+       [
+        "Spain",
+        "TAE (tasa anual equivalente)",
+        "Yes"
+       ],
+       [
+        "Sri Lanka",
+        "AER",
+        "No, fees are listed separately"
+       ],
+       [
+        "Turkey",
+        "efektif yıllık faiz oranı",
+        "Yes"
+       ],
+       [
+        "Ukraine",
+        "РРПС (реальна річна процентна ставка)",
+        "Yes"
+       ],
+       [
+        "United Kingdom",
+        "APR",
+        "Yes"
+       ],
+       [
+        "Uruguay",
+        "tasa de interés implícita",
+        "Yes"
+       ],
+       [
+        "Vietnam",
+        "lãi suất quy đổi theo năm",
+        "No, fees are listed separately"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "We checked these names against each country's lending rules in November 2026. Rules change, so ask the lender what its rate includes. In the US, the APR also leaves out a few fees, such as some closing costs on a home loan."
+    },
+    {
+     "h3": "High-cost products to know"
+    },
+    {
+     "ul": [
+      "**Payday loan:** a small loan due on your next payday. Fees often run from $10 to $30 for each $100, depending on state law.",
+      "**Car title loan:** a short loan, often 15 or 30 days, where you give the lender your car title. The title is the official paper that shows who owns the car, so the lender can take the car if you do not pay. The Federal Trade Commission (FTC) says monthly fees can be as high as 25%, about 300% APR. If you cannot pay, you can lose the car.",
+      "**Online installment loan:** small monthly payments, but the APR can be 100% or more.",
+      "**Rent-to-own, buy now, pay later, and pay advance apps:** see the section below."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s2",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "example",
+   "title": "Five ways to cover a $400 car repair",
+   "body": [
+    {
+     "p": "Teresa lives in Takoma Park. Her car needs a $400 repair so she can get to work. Here is what five choices would cost her. The payday and car title loan prices below are far over Maryland's legal limits, but some online lenders still offer loans like these."
+    },
+    {
+     "table": {
+      "caption": "Cost of borrowing $400 five different ways",
+      "head": [
+       "Choice",
+       "Cost to borrow",
+       "Total she pays"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Payment plan with the repair shop: two payments of $200",
+        "$0",
+        "$400"
+       ],
+       [
+        "Credit union PAL: 3 months at 28% interest, plus a $20 application fee",
+        "$39",
+        "$439"
+       ],
+       [
+        "Payday loan repaid in 2 weeks: $15 for each $100",
+        "$60",
+        "$460"
+       ],
+       [
+        "Payday loan renewed 3 times, repaid after 8 weeks",
+        "$240",
+        "$640"
+       ],
+       [
+        "Car title loan at 25% a month, repaid after 3 months",
+        "$300",
+        "$700"
+       ],
+       [
+        "Most expensive choice minus cheapest choice",
+        "$300",
+        "$300"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Many payday borrowers cannot repay the full $460 two weeks later. So they pay another $60 fee to move the due date. This is called a **rollover**. If Teresa renews the loan three times and repays it at week 8, she pays $240 in fees in all, more than half the cost of the repair. The credit union loan lasts longer, but it costs far less. Always compare the dollar cost."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "high-cost-loans-s3",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "example",
+   "title": "Read the Truth in Lending box",
+   "body": [
+    {
+     "p": "Federal law requires a lender to show you key numbers before you sign. They are often in boxes at the top of the contract. Hector lives in Hyattsville, Maryland. An online lender offers him $1,000 today, and he will pay $135 a month for 12 months. The box shows:"
+    },
+    {
+     "dl": [
+      [
+       "Amount financed: $1,000",
+       "The money Hector actually gets."
+      ],
+      [
+       "Finance charge: $620",
+       "The dollar cost of borrowing: all the interest and fees."
+      ],
+      [
+       "Total of payments: $1,620",
+       "What he pays if he makes all 12 payments: 12 × $135."
+      ],
+      [
+       "APR: about 100%",
+       "The yearly cost as a percent."
+      ]
+     ]
+    },
+    {
+     "table": {
+      "caption": "Borrowing $1,000 for 12 months at three APRs",
+      "head": [
+       "APR",
+       "Monthly payment",
+       "Total of payments"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "24%",
+        "$94.56",
+        "$1,134.72"
+       ],
+       [
+        "33%",
+        "$98.97",
+        "$1,187.64"
+       ],
+       [
+        "About 100% (the online offer)",
+        "$135.00",
+        "$1,620.00"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "p": "Under Maryland's consumer loan law, the highest interest rate a licensed lender can charge on a $1,000 loan is 33% a year. Hector's offer costs about $430 more than that. Before he signs, he should check whether the lender has a Maryland license."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "high-cost-loans-s4",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "text",
+   "title": "Loan rules in DC, Maryland, and Virginia",
+   "body": [
+    {
+     "p": "Each place in our area limits what lenders can charge on most consumer loans. Some products, such as credit cards, follow other rules."
+    },
+    {
+     "ul": [
+      "**DC:** The law generally limits interest to 24% a year, and payday loans are illegal in DC, according to the DC Office of the Attorney General. The Attorney General has sued online lenders that charged DC residents more.",
+      "**Maryland:** For loans of $2,000 or less, licensed lenders can charge up to 2.75% a month on the first $1,000. That is 33% a year. Most consumer lenders must have a Maryland license.",
+      "**Virginia:** Since the Fairness in Lending Act took effect on January 1, 2021, short-term loans can be up to $2,500 and usually last 4 to 24 months. The lender can charge up to 36% interest plus a monthly fee of 8% of the loan or $25, whichever is less. You can have only one of these loans at a time, and online lenders need a Virginia license too."
+     ]
+    },
+    {
+     "p": "Some online lenders ignore these limits. They may say they follow the laws of another state, a tribe, or a partner bank. In Virginia, a short-term loan made without a license is void, which means the lender has no right to collect it. If you already have a loan like this, talk to legal aid before you stop paying."
+    },
+    {
+     "h3": "Check a lender's license before you borrow"
+    },
+    {
+     "ol": [
+      "Find the lender's full legal name in the loan agreement or at the bottom of its website.",
+      "Maryland: search at [NMLS Consumer Access](https://www.nmlsconsumeraccess.org/), or call the Office of Financial Regulation at [410-230-6077](tel:+14102306077).",
+      "Virginia: use the State Corporation Commission's [Verify a License](https://www.scc.virginia.gov/consumers/banks-consumer-lenders/regulated-financial-institutions/) page, or call [804-371-9657](tel:+18043719657).",
+      "DC: ask the [Department of Insurance, Securities and Banking (DISB)](https://disb.dc.gov/) at [202-727-8000](tel:+12027278000), or call the Attorney General's Consumer and Tenant Response team at [202-442-9828](tel:+12024429828).",
+      "If you cannot find a license, do not borrow. Report the offer."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s5",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "text",
+   "title": "Rent-to-own, pay-over-time plans, and pay advance apps",
+   "body": [
+    {
+     "p": "**Rent-to-own.** Ana sees a $600 TV at a rent-to-own store for \"$20 a week.\" To own it, she must pay for 78 weeks."
+    },
+    {
+     "formula": "$20 × 78 weeks = $1,560, which is 2.6 times the $600 store price"
+    },
+    {
+     "p": "Rent-to-own is set up as a rental, not a loan, so you often will not see an APR. If you miss a payment, the store can take the item back, and you can lose what you paid. If Ana saves $20 a week instead, she will have the $600 in 30 weeks."
+    },
+    {
+     "p": "**Buy now, pay later (BNPL).** These plans split a purchase into a few payments, often four over six weeks. A plan can be free if you pay on time. The danger is using several plans at once. Payments taken on the same days can empty your account and cause overdraft fees. Some BNPL companies report payments to credit bureaus, so a missed payment can hurt your credit. Return and dispute rules can be different from a credit card, so read the terms first."
+    },
+    {
+     "p": "**Pay advance apps.** Mei, in Columbia Heights, can get $100 from an app before payday. It is free if she waits a few days, or $4.99 to get it now. She repays it from her paycheck one week later."
+    },
+    {
+     "formula": "$4.99 ÷ $100 × 365 ÷ 7 days × 100 = about 260% APR"
+    },
+    {
+     "p": "A \"tip\" is also a cost of borrowing, even if the app calls it optional. In 2024, the DC Attorney General sued one pay advance app. The lawsuit said that, with its fast-delivery fees, the app's instant advances cost more than 300% APR on average. Using an app every payday also makes each paycheck smaller, so you may need another advance."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s6",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "warning",
+   "title": "Warning signs and your rights",
+   "body": [
+    {
+     "ul": [
+      "The lender says \"no credit check\" and does not ask if you can afford the payments.",
+      "It asks for your online banking username and password.",
+      "It wants a fee for \"insurance\" or \"processing\" before you get the money. The FTC warns that this is a sign of a scam. See [how to spot a scam](https://dollarscholars.org/resources/lessons/spot-scams/).",
+      "It pushes you to renew instead of paying off the loan.",
+      "It threatens arrest or deportation, or rushes you to sign."
+     ]
+    },
+    {
+     "p": "You cannot be arrested just for not paying a payday loan, and a lender needs a court order to take money from your wages. If a lender sues you, do not ignore the court papers. Get legal help."
+    },
+    {
+     "p": "To stop a lender from taking money from your account, tell the lender in writing that you are taking away your permission. Then tell your bank at least three business days before the next payment. The bank may charge a fee. You still owe the loan, so ask for a payment plan. If a debt collector calls, see [your rights with debt collectors](https://dollarscholars.org/resources/lessons/debt-collectors/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "high-cost-loans-s7",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "text",
+   "title": "Safer options to try first",
+   "body": [
+    {
+     "ul": [
+      "**Ask for a payment plan.** Many utility companies, hospitals, landlords, and repair shops will split a bill if you ask before the due date.",
+      "**Ask your employer.** Some employers give a pay advance at no cost.",
+      "**Ask a credit union for a small loan.** Many let you join if you live or work in a certain area.",
+      "**Use your emergency fund**, then refill it. See [Start an emergency fund](https://dollarscholars.org/resources/lessons/emergency-fund/).",
+      "**Call 211** in DC, Maryland, or Virginia for free help finding local aid with rent, utility bills, and food."
+     ]
+    },
+    {
+     "h3": "Credit union Payday Alternative Loans"
+    },
+    {
+     "p": "According to the National Credit Union Administration (NCUA), in 2026 federal credit unions can offer Payday Alternative Loans (PALs) that:"
+    },
+    {
+     "ul": [
+      "Charge an interest rate of up to 28%, plus an application fee of no more than $20.",
+      "Lend $200 to $1,000 for 1 to 6 months to people who have been members for at least one month, or up to $2,000 for 1 to 12 months with no required waiting period.",
+      "Cannot be rolled over. One person can get no more than three in six months."
+     ]
+    },
+    {
+     "p": "Not every credit union offers PALs, so ask. Some credit unions accept an ITIN (Individual Taxpayer Identification Number) instead of a Social Security number."
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-s8",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "tip",
+   "title": "Free help near you",
+   "body": [
+    {
+     "p": "Already have a high-cost loan you cannot repay? Free legal help may be available from Legal Aid DC, Maryland Legal Aid, and Legal Services of Northern Virginia. A nonprofit credit counselor can help you make a plan for several debts. See [Make a debt payoff plan](https://dollarscholars.org/resources/lessons/debt-payoff-plan/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "high-cost-loans-takeaways",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Compare loans by APR and total of payments, not by the fee or the payment size.",
+      "A $15 fee on a $100 loan for two weeks is about 391% APR.",
+      "DC and Maryland set low limits on most loan interest rates, and Virginia requires short-term lenders, including online lenders, to have a license.",
+      "Rent-to-own deals, pay-over-time plans, and pay advance apps can cost much more than they seem to.",
+      "Before a high-cost loan, try a payment plan, a credit union small loan, or free local help."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-quiz",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/high-cost-loans/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "high-cost-loans-links",
+   "type": "lesson",
+   "lesson": "high-cost-loans",
+   "lessonTitle": "The Real Price of a Loan: High-Cost Traps and Safer Options",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "What To Know About Payday and Car Title Loans",
+       "u": "https://consumer.ftc.gov/articles/what-know-about-payday-and-car-title-loans",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How payday and car title loans work, what they cost, and other options to try first."
+      },
+      {
+       "t": "Payday Alternative Loans",
+       "u": "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+       "org": "National Credit Union Administration (MyCreditUnion.gov)",
+       "d": "The rules for credit union PALs, including the amounts, terms, and fee limits."
+      },
+      {
+       "t": "Payday loans",
+       "u": "https://www.consumerfinance.gov/consumer-tools/payday-loans/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Your rights with payday lenders, including how to stop them from taking money from your bank account."
+      },
+      {
+       "t": "Qué saber sobre los préstamos de día de pago y con título de propiedad de un carro",
+       "u": "https://consumidor.ftc.gov/articulos/que-saber-sobre-los-prestamos-de-dia-de-pago-y-con-titulo-de-propiedad-de-un-carro",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The same FTC advice on payday and car title loans, in Spanish."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-intro",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "intro",
+   "title": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "body": [
+    {
+     "p": "Budget for the full cost of a car, get pre-approved for a loan, recognize dealer traps such as long loans, add-ons, and yo-yo financing, and think carefully before you cosign."
+    },
+    {
+     "p": "(About 18 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Estimate the full monthly cost of a car, including insurance, gas, parking, taxes, and repairs.",
+      "Get pre-approved for a loan and compare offers by APR and total cost.",
+      "Recognize dealer traps, such as long loan terms, add-ons, yo-yo financing, and buy-here-pay-here lots.",
+      "Decide whether to cosign a car loan for someone else."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers cars as assets, how much car you can afford, and the risks of cosigning. This lesson adds DC-area costs, a worked loan comparison, a checklist for the dealer visit, and what to do if a dealer tries to change the deal after you drive home."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-words",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Pre-approval",
+       "A lender's offer, before you shop, to lend you up to a set amount at a set rate if you meet its conditions."
+      ],
+      [
+       "Loan term",
+       "How long you have to repay a loan, such as 48 or 72 months."
+      ],
+      [
+       "Add-on",
+       "An extra product sold with a car or a loan, such as a service contract or GAP insurance. Add-ons are optional."
+      ],
+      [
+       "Negative equity",
+       "When you owe more on your car loan than the car is worth."
+      ],
+      [
+       "Yo-yo financing",
+       "When a dealer lets you take a car home, then says the loan was not approved and asks you to sign a new, more costly deal. Also called spot delivery."
+      ],
+      [
+       "Cosigner",
+       "A person who signs a loan with the borrower and promises to pay the debt if the borrower does not."
+      ],
+      [
+       "Buy-here-pay-here dealer",
+       "A car dealer that lends you the money for the car itself, instead of arranging a loan from a bank or credit union."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s1",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "text",
+   "title": "Count the full cost, not just the payment",
+   "body": [
+    {
+     "p": "The loan payment is only part of what a car costs. Before you shop, add up everything you will pay each month. Then check that the total fits in your [spending plan](https://dollarscholars.org/resources/lessons/spending-plan/) after rent, food, and savings."
+    },
+    {
+     "ul": [
+      "**Insurance.** DC, Maryland, and Virginia all require car insurance. Since July 1, 2024, Virginia no longer lets drivers pay a fee instead of buying insurance. Get insurance quotes before you choose a car. The price can change a lot by car model and ZIP code.",
+      "**Taxes and fees.** You pay a tax when you title the car. In 2026, Maryland's titling tax is 6.5% of the price for most vehicles. In Northern Virginia, counties and cities such as Fairfax County also charge a car tax every year.",
+      "**Gas or charging, tolls, and parking.** Think about your commute, a parking permit or garage, and toll lanes.",
+      "**Maintenance and repairs.** Oil changes, tires, brakes, and inspections. Older cars often need more repairs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s2",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "example",
+   "title": "Same car, two loan terms",
+   "body": [
+    {
+     "p": "Dev lives in Silver Spring. He wants to borrow $20,000 for a car. His credit union offers him 9% APR. See what the loan term does."
+    },
+    {
+     "table": {
+      "caption": "Borrowing $20,000 at 9% APR",
+      "head": [
+       "Loan term",
+       "Monthly payment",
+       "Total paid",
+       "Interest"
+      ],
+      "num": [
+       1,
+       2,
+       3
+      ],
+      "rows": [
+       [
+        "48 months",
+        "$497.70",
+        "$23,890",
+        "$3,890"
+       ],
+       [
+        "60 months",
+        "$415.17",
+        "$24,910",
+        "$4,910"
+       ],
+       [
+        "72 months",
+        "$360.51",
+        "$25,957",
+        "$5,957"
+       ],
+       [
+        "Difference: 72 months minus 48 months",
+        "$137.19 lower",
+        "$2,067 higher",
+        "$2,067 higher"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$25,957 − $23,890 = $2,067 more for the 72-month loan"
+    },
+    {
+     "p": "The 72-month loan lowers the payment by about $137 a month. But Dev pays about $2,067 more in interest. A long loan also means he may owe more than the car is worth for a longer time. This is called **negative equity**. If the car is wrecked or he needs to sell it, he could still owe money on a car he no longer has."
+    },
+    {
+     "table": {
+      "caption": "Dev's full monthly car cost with the 48-month loan (sample numbers)",
+      "head": [
+       "Cost",
+       "Each month"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Loan payment",
+        "$498"
+       ],
+       [
+        "Insurance",
+        "$180"
+       ],
+       [
+        "Gas",
+        "$140"
+       ],
+       [
+        "Parking and tolls",
+        "$40"
+       ],
+       [
+        "Maintenance and repairs",
+        "$80"
+       ],
+       [
+        "Registration and other yearly fees, saved monthly",
+        "$15"
+       ],
+       [
+        "Full monthly cost",
+        "$953"
+       ]
+      ],
+      "total": [
+       6
+      ]
+     }
+    },
+    {
+     "p": "The real cost is almost twice the loan payment. Use your own quotes, because your numbers will be different."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "car-loans-s3",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "text",
+   "title": "Get pre-approved before you shop",
+   "body": [
+    {
+     "p": "With a **pre-approval**, a bank or credit union reviews your application and tells you how much it will lend and at what rate, before you choose a car. Then you know your budget, and you can tell if the dealer's loan offer is better or worse."
+    },
+    {
+     "ol": [
+      "Check your credit reports for free and dispute any errors. See [Read your credit report](https://dollarscholars.org/resources/lessons/read-your-credit-report/).",
+      "Apply at two or three lenders, such as your bank and a credit union. The CFPB says to keep these credit checks within 14 to 45 days of each other, so they count as one inquiry.",
+      "Compare the offers by APR, loan term, and total of payments, not just the monthly payment.",
+      "Decide the highest total price you will pay, and write it down.",
+      "Bring your best written offer to the dealer, and ask the dealer to offer a lower rate."
+     ]
+    },
+    {
+     "p": "When a dealer arranges your loan, the rate is often the lender's rate plus extra interest that pays the dealer, the CFPB explains. You can ask whether there were other offers with lower rates."
+    },
+    {
+     "p": "No Social Security number? Ask banks and credit unions if they accept an ITIN for car loans. Some do. Be careful if a dealer tells you that no one else will lend to you. Check for yourself first."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s4",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "text",
+   "title": "At the dealer: one decision at a time",
+   "body": [
+    {
+     "p": "Some dealers mix the car price, your trade-in, and the loan together, and talk only about the monthly payment. This makes it hard to see what you are paying. Agree on each part separately, in this order:"
+    },
+    {
+     "ol": [
+      "The price of the car, including all dealer fees.",
+      "The value of your trade-in, if you have one.",
+      "The loan: APR, term, and total of payments."
+     ]
+    },
+    {
+     "p": "You can negotiate the price, the trade-in value, the APR, add-ons, and dealer fees such as document fees. You cannot negotiate taxes, title, and registration fees set by the government."
+    },
+    {
+     "h3": "Dealer visit checklist"
+    },
+    {
+     "ul": [
+      "I have my pre-approval and my highest price in writing.",
+      "For a used car, I read the Buyers Guide sticker on the window. It says if the car is sold \"as is,\" with no dealer warranty, or with a warranty.",
+      "A mechanic I trust inspected the car before I agreed to buy it.",
+      "I said no to add-ons I do not want, such as a service contract, window etching, or GAP insurance, which pays what you still owe beyond the car's value if the car is stolen or destroyed.",
+      "If I owe more on my old car than it is worth, I checked that this amount is not hidden in the new loan.",
+      "Every blank space in the contract is filled in, and the numbers match what we agreed.",
+      "The loan is final, and I have signed copies of everything before I drive away."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s5",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "warning",
+   "title": "Yo-yo financing and buy-here-pay-here lots",
+   "body": [
+    {
+     "p": "**Yo-yo financing.** Fatima buys a car in Woodbridge and drives it home the same day. A week later the dealer calls: \"Your loan was not approved. Come back and sign a new contract with a higher rate.\" This is called yo-yo financing, or spot delivery."
+    },
+    {
+     "p": "You do not have to accept a new deal. If you do not want it, you can return the car, and the dealer should give back your down payment, the CFPB says. Depending on your contract, you may even have the right to keep the car on the first terms. Ask for your trade-in back too. The best protection is to make sure the loan is final before you take the car home."
+    },
+    {
+     "quote": "I bought the car on [date] and signed a contract with an APR of [rate]. I will not sign a new contract today. Please send me, in writing, the reason you say the loan was not approved. If the sale is canceled, I want my down payment of [amount] and my trade-in back. I am asking the Attorney General's consumer protection office for advice."
+    },
+    {
+     "p": "**Buy-here-pay-here lots.** These dealers lend you the money themselves, often to people with low or no credit. The APR can be very high, and the cars are often older. Some lenders put a device in the car that tracks it or stops it from starting if you miss a payment. In many states, a lender can take back the car as soon as you default, for example by missing a payment, without warning. After the car is sold, you may still owe the difference. Compare a credit union loan first."
+    },
+    {
+     "p": "Need help? In DC, call the Attorney General's Consumer and Tenant Response team at [202-442-9828](tel:+12024429828). In Maryland or Virginia, contact your state Attorney General's consumer protection office, Maryland Legal Aid, or Legal Services of Northern Virginia."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "car-loans-s6",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "text",
+   "title": "Before you cosign a car loan",
+   "body": [
+    {
+     "p": "In many families, a relative with good credit is asked to cosign. A **cosigner** is not just a reference. You promise to pay the loan if the borrower does not."
+    },
+    {
+     "ul": [
+      "You may have to pay the full amount, plus late fees and collection costs.",
+      "In many states, the lender can collect from you without first trying to collect from the borrower.",
+      "The loan shows on your credit report. Late payments can hurt your credit, and the debt can make it harder for you to borrow.",
+      "The lender must give you a paper called the Notice to Cosigner that explains these risks. Read it."
+     ]
+    },
+    {
+     "h3": "Cosigning checklist"
+    },
+    {
+     "ul": [
+      "I could pay the whole loan myself if I had to, without hurting my own family's budget.",
+      "I have seen the borrower's budget, and the payment fits.",
+      "I have copies of the contract, the Truth in Lending disclosure (the box of key loan numbers: the amount financed, the finance charge, the total of payments, and the APR), and the Notice to Cosigner.",
+      "The lender agreed to tell me in writing if a payment is missed.",
+      "I will check my credit reports often."
+     ]
+    },
+    {
+     "p": "You can say no. You can still help in other ways, such as helping the person find a credit union loan or a less expensive car."
+    },
+    {
+     "quote": "I care about you, and I want you to get a car. But I cannot cosign. If something goes wrong, I would owe the whole loan, and my family depends on my credit. I can help you look for a credit union loan or a less expensive car."
+    }
+   ]
+  },
+  {
+   "id": "car-loans-s7",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "tip",
+   "title": "A new tax rule for some new-car loans",
+   "body": [
+    {
+     "p": "For tax years 2025 through 2028, the IRS says some buyers can deduct up to $10,000 a year of interest on a loan for a **new** car for personal use. The car's final assembly must be in the United States, and the loan must have started after December 31, 2024. Used cars and leases do not qualify. The deduction gets smaller for incomes over $100,000 ($200,000 for married couples filing together). A deduction lowers your taxable income, not your loan payment, so it is not a reason to borrow more. A free VITA tax site may be able to help you check if it applies to you. See [File your taxes for free](https://dollarscholars.org/resources/lessons/file-for-free/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "car-loans-takeaways",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Budget for the full cost of the car, not just the monthly payment.",
+      "A longer loan lowers the payment but raises the total cost: on $20,000 at 9% APR, a 72-month loan costs about $2,067 more than a 48-month loan.",
+      "Get pre-approved before you shop, and agree on the price, the trade-in, and the loan one at a time.",
+      "Add-ons are optional, and you should never sign a contract with blank spaces.",
+      "If you cosign, you may have to pay the full debt if the borrower does not."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-loans-quiz",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/car-loans/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "car-loans-links",
+   "type": "lesson",
+   "lesson": "car-loans",
+   "lessonTitle": "Buying a Car: Get a Fair Loan and Avoid Dealer Traps",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Auto loans",
+       "u": "https://www.consumerfinance.gov/consumer-tools/auto-loans/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Step-by-step help to shop for a car loan, compare offers, and check the contract before you sign."
+      },
+      {
+       "t": "Buying a Used Car From a Dealer",
+       "u": "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to read the Buyers Guide sticker, get an inspection, and avoid costly add-ons and long loans."
+      },
+      {
+       "t": "Cosigning a Loan FAQs",
+       "u": "https://consumer.ftc.gov/articles/cosigning-loan-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "What you promise when you cosign, and questions to ask before you agree."
+      },
+      {
+       "t": "Cómo comprar un carro usado a un concesionario",
+       "u": "https://consumidor.ftc.gov/articulos/como-comprar-un-carro-usado-un-concesionario",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The same FTC advice on buying a used car from a dealer, in Spanish."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1276 @@
+{
+ "id": "tema-04",
+ "title": "Topic 4: Credit Reports and Credit Scores",
+ "summary": "Read your credit report and fix mistakes, build credit from nothing (including as a newcomer or ITIN holder), and learn what really moves your score.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "read-your-credit-report",
+   "title": "Read Your Credit Report and Fix Mistakes",
+   "summary": "Get your free reports, read each part with a sample report, send a dispute with a fill-in letter, and know what to do if a mistake is not fixed.",
+   "meta": "(About 18 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "build-credit",
+   "title": "Build Credit from Zero",
+   "summary": "A month-by-month plan to earn a first credit score, with costs compared, for newcomers, young adults, ITIN holders and anyone without a credit history.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "credit-score-factors",
+   "title": "What Moves Your Credit Score (and What Does Not)",
+   "summary": "See how payments and card balances change a score with worked examples, sort myths from facts, check the 2026 medical debt rules, and avoid credit repair scams.",
+   "meta": "(About 17 min, 6 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "read-your-credit-report-intro",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "intro",
+   "title": "Read Your Credit Report and Fix Mistakes",
+   "body": [
+    {
+     "p": "Get your free reports, read each part with a sample report, send a dispute with a fill-in letter, and know what to do if a mistake is not fixed."
+    },
+    {
+     "p": "(About 18 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Get your free credit reports from AnnualCreditReport.com, the official site for free reports.",
+      "Read each section of a credit report and spot common errors.",
+      "Send a dispute to a credit bureau and to the company that reported the error.",
+      "Follow up on a dispute and file a complaint if a mistake is not fixed."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers what a credit report contains and your right to dispute errors. This lesson walks you through a sample report, a fill-in dispute letter and a record log, and shows the next steps if a credit bureau does not fix a mistake."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-words",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Credit report",
+       "A record of how you use credit, such as loans and credit cards, how much you owe, and whether you paid on time."
+      ],
+      [
+       "Credit bureau",
+       "A company that collects credit information and sells credit reports. The three nationwide credit bureaus are Equifax, Experian and TransUnion."
+      ],
+      [
+       "Dispute",
+       "A formal request that asks a credit bureau or a company to check information you believe is wrong and correct it."
+      ],
+      [
+       "Furnisher",
+       "The company that sends information about you to a credit bureau, such as a bank, card company, lender or debt collector."
+      ],
+      [
+       "Hard inquiry",
+       "A record that a lender checked your credit because you applied for credit. It can lower your score a little."
+      ],
+      [
+       "Collection account",
+       "A debt that the first company sent or sold to a debt collector because it was not paid."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s1",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "text",
+   "title": "Get your free reports the safe way",
+   "body": [
+    {
+     "p": "Your **credit report** is a record of how you use credit. It lists your loans and credit cards, how much you owe, and whether you paid on time. Lenders, landlords, insurance companies and some employers may look at it. A mistake on your report can cost you a loan, an apartment or a lower interest rate."
+    },
+    {
+     "p": "Three nationwide **credit bureaus** keep reports: Equifax, Experian and TransUnion. Each one keeps its own report about you, and the three reports do not always match. That is why you should check all three."
+    },
+    {
+     "p": "You can get all three reports free every week at [AnnualCreditReport.com](https://www.annualcreditreport.com/). The bureaus have made weekly free reports permanent. This is the official site for free credit reports. Type the address yourself instead of clicking an ad or a link in a message. You do not need to buy anything to get your free reports there."
+    },
+    {
+     "ol": [
+      "Go to AnnualCreditReport.com on your own phone or computer. Or call 1-877-322-8228 to get your reports by mail.",
+      "Enter your name, address, date of birth and Social Security number. Then answer security questions about your past accounts.",
+      "Choose all three credit bureaus.",
+      "Save or print each report. Write down the confirmation number if the report has one. You will need it if you dispute something."
+     ]
+    },
+    {
+     "p": "**No Social Security number?** You can still have a credit report. You usually cannot get it online, but you can ask each bureau by mail. Include copies of a government ID that shows your current address and a recent bill or bank statement. Call the bureau first to ask what it needs: Equifax (866) 349-5191, Experian (888) 397-3742, TransUnion (800) 916-8800."
+    },
+    {
+     "p": "If a company turns you down because of your report, it must send you a notice. You can then get an extra free report from the credit bureau named in the notice. Ask within 60 days."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s2",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "example",
+   "title": "A sample report: Elena's TransUnion report",
+   "body": [
+    {
+     "p": "Elena lives in Hyattsville, Maryland. She lived in Washington, DC, from 2019 to 2023. She has never lived in Richmond, Virginia. She pays her car loan by automatic payment, and her bank statements show that every payment went out on time. She printed her TransUnion report in August 2026. Here is a short version."
+    },
+    {
+     "table": {
+      "caption": "Elena's sample credit report (short version)",
+      "head": [
+       "Section",
+       "What the report shows",
+       "What to check"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Personal information",
+        "Elena M. Mendez. Addresses: Hyattsville, MD; Washington, DC; Richmond, VA.",
+        "Is every name, address and birth date yours?"
+       ],
+       [
+        "Account: credit union car loan",
+        "Opened June 2023. Payment $310 a month. Marked 30 days late in January 2026.",
+        "Are the balance, the dates and the payment status for each month correct?"
+       ],
+       [
+        "Account: store credit card",
+        "Limit $500. Balance $120. Paid on time every month.",
+        "Do the limit and balance match your statement?"
+       ],
+       [
+        "Account: bank credit card",
+        "Opened March 2026 with the Richmond, VA address. Balance $1,900. 60 days late.",
+        "Did you open this account yourself?"
+       ],
+       [
+        "Collections",
+        "Phone company, $240, unpaid. First late payment in 2017.",
+        "Is the debt yours? Is the amount right? Is it too old to report?"
+       ],
+       [
+        "Public records",
+        "None.",
+        "If a bankruptcy is listed, is it yours and less than 10 years old?"
+       ],
+       [
+        "Hard inquiries",
+        "Bank card company, March 2026.",
+        "Did you apply for credit with each company listed?"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "A real report is longer. Your own copy also shows soft inquiries, such as when you check your own report. Only you see those, and they do not affect your score."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "read-your-credit-report-s3",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "text",
+   "title": "Common mistakes to look for",
+   "body": [
+    {
+     "p": "Use this checklist on each of your three reports. Elena's sample report above has three problems. Can you find them?"
+    },
+    {
+     "ul": [
+      "**Information that is not yours.** A name, address, birth date or Social Security number you do not know. This can mean your file is mixed with another person's file, often someone with a similar name.",
+      "**Accounts or hard inquiries you did not make.** These can be signs of identity theft.",
+      "**Wrong late payments.** A payment marked late when you paid on time. Find your bank statement or receipt.",
+      "**The same debt listed twice**, for example by the first company and by a debt collector, both with a balance.",
+      "**Wrong status or amounts**, such as an account you closed that shows as open, or the wrong balance or limit.",
+      "**Old negative information.** Most negative information can stay on your report for seven years. A bankruptcy can stay for up to 10 years. Older items should be gone.",
+      "**Medical collections that should not be there.** The three bureaus say they do not include medical collections that are paid, or that started under $500."
+     ]
+    },
+    {
+     "p": "If you find an account you never opened, treat it as possible identity theft. You can place a credit freeze for free. Follow the steps in the [identity theft lesson](https://dollarscholars.org/resources/lessons/identity-theft/)."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s4",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "text",
+   "title": "How to dispute, step by step",
+   "body": [
+    {
+     "p": "Disputes are free. You can dispute online, by phone or by mail. Online is often fastest. Certified mail with a return receipt is slower, but it proves what you sent and when it arrived. Either way, keep a copy or a screenshot of what you sent."
+    },
+    {
+     "ol": [
+      "Circle or highlight each error on a copy of your report.",
+      "Gather proof, such as bank statements, receipts, letters from the lender, or an identity theft report. Send copies and keep the originals.",
+      "Send a dispute to each credit bureau that shows the error. Say what is wrong, why it is wrong, and what you want: remove it or correct it.",
+      "Send a dispute to the **furnisher** too. This is the company that reported the information, such as the lender or the debt collector. Its address is often on your report.",
+      "Write each step in a log: the date, who you contacted, what you sent, and any tracking number.",
+      "Wait for the results. The credit bureau generally has 30 days to investigate. It sends your dispute and your proof to the furnisher, and then it must tell you the results.",
+      "Get new copies of your reports. Make sure the fix shows on every report that had the error."
+     ]
+    },
+    {
+     "p": "The Federal Trade Commission (FTC) lists these dispute addresses. Check the bureau's website before you mail, in case an address has changed:"
+    },
+    {
+     "ul": [
+      "Equifax, P.O. Box 740256, Atlanta, GA 30348",
+      "Experian, P.O. Box 4500, Allen, TX 75013",
+      "TransUnion, P.O. Box 2000, Chester, PA 19016"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s5",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "example",
+   "title": "Fill-in dispute letter and record log",
+   "body": [
+    {
+     "p": "Here is a letter Elena could send about her car loan. Change the words in square brackets to fit your case. Send one letter to the credit bureau and a similar letter to the company that reported the error."
+    },
+    {
+     "quote": "[Your full name] [Street address] [City, state, ZIP code] [Phone number] [Date] [Name of credit bureau or company] [Dispute address] Subject: Dispute of information in my credit report. Confirmation number: [number from your report, if any] I am writing to dispute information in my credit report that is not correct. I have circled the item on the attached copy of my report. Company: [company name]. Account number: [last four digits only]. What the report says: [for example, 30 days late in January 2026]. Why it is wrong: [for example, I paid on time. My bank statement shows the payment on January 5, 2026.] Please investigate and [correct / remove] this item. Please send me the results in writing. I have attached: a copy of my report with the item circled; [list your proof]; a copy of my ID. Sincerely, [Your signature] [Your printed name]"
+    },
+    {
+     "p": "Keep a simple log like this one. It is useful proof if you later file a complaint or get legal help."
+    },
+    {
+     "table": {
+      "caption": "Elena's dispute log",
+      "head": [
+       "Date",
+       "Who",
+       "What happened and next step"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "August 10, 2026",
+        "TransUnion",
+        "Mailed dispute letter by certified mail. Wrote down the tracking number. Next: look for results about 30 days after the letter arrives."
+       ],
+       [
+        "August 10, 2026",
+        "Credit union",
+        "Mailed a similar letter to the dispute address on the report. Next: call if there is no answer in 30 days."
+       ],
+       [
+        "September 4, 2026",
+        "TransUnion",
+        "Results letter: the late payment was removed. Next: get a new report to check."
+       ]
+      ],
+      "total": []
+     }
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "read-your-credit-report-s6",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "text",
+   "title": "If the mistake is not fixed",
+   "body": [
+    {
+     "p": "Sometimes the credit bureau says the company confirmed the information, so it stays. You still have options."
+    },
+    {
+     "ol": [
+      "**Dispute with the furnisher directly**, if you have not already. It generally must investigate and respond within 30 days after it gets your dispute.",
+      "**Send new proof.** If you find more documents, send a new dispute and include them.",
+      "**Add a statement.** Ask the credit bureau to put a short statement about the dispute in your file. It will appear with future reports. You can ask the bureau to send it to anyone who got your report recently. There may be a fee for that.",
+      "**File a complaint with the Consumer Financial Protection Bureau (CFPB)** at [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) or (855) 411-2372. The CFPB sends your complaint to the company. Most companies respond within 15 days.",
+      "**Get free legal help.** A lawyer can tell you if you have a claim under the Fair Credit Reporting Act, the federal law about credit reports."
+     ]
+    },
+    {
+     "p": "Free legal help in the DC area: **Legal Aid DC** (202) 628-1161, **Maryland Legal Aid** 888-465-2468, and **Legal Services of Northern Virginia** 703-778-6800. You can also file a complaint with the DC Attorney General's consumer protection office at 202-442-9828, the Maryland Office of Financial Regulation at 410-230-6077, or the Virginia Attorney General's consumer protection section at 804-786-2042."
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-s7",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "warning",
+   "title": "Look-alike websites and fake helpers",
+   "body": [
+    {
+     "p": "Some websites use names that look like AnnualCreditReport.com, or spell it a little differently. They may try to sell you something or collect your personal information. Always type AnnualCreditReport.com yourself."
+    },
+    {
+     "p": "If someone contacts you about a problem with your credit report and asks for your Social Security number, a password or a payment, stop. Get your reports yourself. Never pay a company to dispute errors before it does the work. Charging first is against the law. See [What Moves Your Credit Score](https://dollarscholars.org/resources/lessons/credit-score-factors/) and [how to spot a scam](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "read-your-credit-report-s8",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "tip",
+   "title": "Make it a habit",
+   "body": [
+    {
+     "p": "Set a reminder on your phone to check your reports every few months, and always before a big step, such as renting an apartment or applying for a car loan. Because the reports are free every week, you can check one bureau at a time during the year, or all three at once."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "read-your-credit-report-takeaways",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "You can get free reports from Equifax, Experian and TransUnion every week at AnnualCreditReport.com.",
+      "Check all three reports. A mistake can be on one report and not on the others.",
+      "Dispute in writing with the credit bureau and with the company that reported the error, and keep copies of everything.",
+      "The credit bureau generally has 30 days to investigate. If the mistake stays, add a statement and file a complaint with the CFPB.",
+      "Disputes are free. You never need to pay anyone to fix a real mistake."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-quiz",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/read-your-credit-report/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "read-your-credit-report-links",
+   "type": "lesson",
+   "lesson": "read-your-credit-report",
+   "lessonTitle": "Read Your Credit Report and Fix Mistakes",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Free Credit Reports",
+       "u": "https://consumer.ftc.gov/articles/free-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to get your free weekly reports online, by phone or by mail, and when you can get extra free reports."
+      },
+      {
+       "t": "Disputing Errors on Your Credit Reports",
+       "u": "https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Step-by-step dispute instructions with sample letters for the credit bureaus and for the business that reported the error."
+      },
+      {
+       "t": "Submit a complaint",
+       "u": "https://www.consumerfinance.gov/complaint/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "File a complaint about a credit bureau or a company that reported wrong information, online or by phone at (855) 411-2372."
+      },
+      {
+       "t": "Informes de crédito gratuitos",
+       "u": "https://consumidor.ftc.gov/articulos/informes-de-credito-gratuitos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The FTC guide in Spanish: how to get your free credit reports every week and avoid fake websites."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-intro",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "intro",
+   "title": "Build Credit from Zero",
+   "body": [
+    {
+     "p": "A month-by-month plan to earn a first credit score, with costs compared, for newcomers, young adults, ITIN holders and anyone without a credit history."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Explain what credit invisible means and why it matters for renting, jobs and loans.",
+      "Compare secured cards, credit-builder loans, authorized user accounts, lending circles and rent reporting.",
+      "Describe how to apply for credit with an ITIN at lenders that accept one.",
+      "Follow a month-by-month plan to earn a first credit score."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers how to build credit with tools like secured cards and alternative credit history. This lesson gives you a month-by-month plan, a cost comparison with real numbers, and steps for newcomers and ITIN holders."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-words",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Credit invisible",
+       "Having no credit history at any of the three nationwide credit bureaus."
+      ],
+      [
+       "Thin file",
+       "A credit report with very few accounts. It may be too small to produce a credit score."
+      ],
+      [
+       "Secured credit card",
+       "A credit card that needs a cash deposit. The deposit usually sets your credit limit."
+      ],
+      [
+       "Credit-builder loan",
+       "A small loan that is held in a locked savings account while you make payments. You get the money at the end."
+      ],
+      [
+       "Authorized user",
+       "A person who is allowed to use someone else's credit card. An authorized user is generally not responsible for paying the bill."
+      ],
+      [
+       "ITIN",
+       "Individual Taxpayer Identification Number. A 9-digit tax number from the IRS for people who cannot get a Social Security number."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s1",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "text",
+   "title": "No credit is not bad credit, but it can cost you",
+   "body": [
+    {
+     "p": "If none of the three nationwide credit bureaus has a file on you, you are **credit invisible**. If your file has only one or two new accounts, you may have a **thin file**, which can be too small to produce a score. A credit score is a number, usually from 300 to 850, that comes from your credit report. It helps lenders guess how likely you are to pay on time, and a higher score usually means lower costs to borrow. Many people are in this group: newcomers to the United States, young adults, and people who pay for everything in cash."
+    },
+    {
+     "p": "Having no score is not the same as having a bad score. But it can still cost you money:"
+    },
+    {
+     "ul": [
+      "**Loans and cards:** Lenders may turn you down or charge you a higher interest rate.",
+      "**Housing:** Landlords may check your credit before they rent to you.",
+      "**Jobs:** Some employers check credit. In DC, most employers may not ask for or use your credit information when they make job decisions, with some exceptions. You can report a violation to the DC Office of Human Rights."
+     ]
+    },
+    {
+     "p": "Some good habits you already have may not count. Rent, phone and utility payments usually do not appear on credit reports unless the company reports them. Debit cards and prepaid cards do not build credit, because you are not borrowing money. Payday loans do not help either, because the payments are not reported to the credit bureaus. Car dealers that lend their own money (sometimes called buy here, pay here) often report only late payments, not on-time payments."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s2",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "text",
+   "title": "Five ways to start, compared",
+   "body": [
+    {
+     "p": "You only need one or two of these tools. Pick one that fits your budget and that reports your payments to the credit bureaus."
+    },
+    {
+     "table": {
+      "caption": "Credit-building tools compared",
+      "head": [
+       "Tool",
+       "How it works",
+       "Watch for"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Secured credit card",
+        "You pay a cash deposit, for example $300. The deposit usually becomes your credit limit. You use the card and pay the bill. You get the deposit back when you close the account and owe nothing, or when you move to a regular card.",
+        "Yearly or monthly fees. Ask if it reports to all three bureaus and if you can later move to a regular card."
+       ],
+       [
+        "Credit-builder loan",
+        "Often from a credit union or nonprofit. The lender puts a small loan, often $300 to $1,000, in a locked savings account. You make payments for 6 to 24 months. Then you get the money.",
+        "Interest and fees. A missed payment hurts your credit instead of helping it."
+       ],
+       [
+        "Authorized user",
+        "A family member or friend adds you to their credit card account. You are generally not responsible for paying the bill.",
+        "Ask the card company if it reports authorized users to the credit bureaus. The owner's late payments or high balance can hurt your credit. Use it as a first step, not your only step."
+       ],
+       [
+        "Lending circle",
+        "A group of people each pay into a shared fund every month. Each month, one member gets the whole amount. Some nonprofits run lending circles and report every payment to the credit bureaus.",
+        "A family tanda or susu builds credit only if someone reports the payments to at least one credit bureau."
+       ],
+       [
+        "Rent reporting",
+        "Your landlord, or a service you sign up for, reports your rent payments to at least one credit bureau.",
+        "Ask which bureaus get the data, if there is a fee, and if late payments are reported too. Not every credit score counts rent payments."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "One example of a lending circle program: the nonprofit Mission Asset Fund runs Lending Circles with partner groups. It says its loans have no interest, it reports payments to the three major credit bureaus, and people with an ITIN can use it to build credit."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s3",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "example",
+   "title": "What it costs: a secured card or a credit-builder loan",
+   "body": [
+    {
+     "p": "Samuel works at a restaurant in Silver Spring and is paid partly in cash. He has $300 saved. He compares two offers from his credit union. These are example numbers. Always ask for the real costs in writing."
+    },
+    {
+     "table": {
+      "caption": "Samuel's first-year cost for two credit-building tools",
+      "head": [
+       "Item",
+       "Secured card",
+       "Credit-builder loan"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Money he puts in",
+        "$300 deposit",
+        "$636 in payments"
+       ],
+       [
+        "Money he gets back",
+        "$300",
+        "$600"
+       ],
+       [
+        "Yearly fee",
+        "$0",
+        "$0"
+       ],
+       [
+        "Interest",
+        "$0",
+        "$36"
+       ],
+       [
+        "Cost for the year",
+        "$0",
+        "$36"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "$53 × 12 months = $636 paid; $636 − $600 returned = $36 cost"
+    },
+    {
+     "p": "The secured card costs nothing if Samuel picks a card with no yearly fee and pays the full balance every month. He gets his deposit back when he closes the card and owes nothing, or when he moves to a regular card. The loan costs $36, but it works like a savings plan: at the end he has $600. Both build credit if they are reported to the bureaus. If Samuel did not have $300 for a deposit, the loan could be the easier way to start."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "build-credit-s4",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "text",
+   "title": "Newcomers and ITIN holders",
+   "body": [
+    {
+     "p": "An **ITIN** is a tax number from the IRS for people who cannot get a Social Security number. You can build a U.S. credit history with an ITIN. Some card companies and other lenders accept an ITIN on credit applications. Not all do, and the rules are different at each lender. Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN. Some may ask for more documents or say no, so ask before you apply. Take this list of questions with you:"
+    },
+    {
+     "ul": [
+      "Do you accept an ITIN for this card or loan?",
+      "Do you report payments to Equifax, Experian and TransUnion?",
+      "What are all the fees, each month and each year?",
+      "For a secured card: what is the smallest deposit, and when can I move to a regular card?",
+      "Which documents do I need, such as a passport, a consular ID or proof of address?"
+     ]
+    },
+    {
+     "p": "Use the same spelling of your name, the same birth date and your current address on every application. This helps the credit bureaus keep all your accounts in one file."
+    },
+    {
+     "p": "**Credit from another country:** Your credit history from another country does not appear on U.S. credit reports. A few U.S. lenders work with companies that can look at credit history from some other countries. Ask the lender if it can do this. If it cannot, start with one of the tools above."
+    }
+   ]
+  },
+  {
+   "id": "build-credit-s5",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "example",
+   "title": "Month-by-month plan: Aisha's first score",
+   "body": [
+    {
+     "p": "Aisha moved to Takoma Park and works at a hotel. She has an ITIN and no U.S. credit history. Here is her plan. You can follow the same steps."
+    },
+    {
+     "ol": [
+      "**Before you start:** Get your reports from each bureau to see if you already have a file. Without a Social Security number, ask by mail. Save money for a deposit if you need one.",
+      "**Month 1:** Open one account that reports to all three bureaus. Aisha opens a secured card with a $300 limit. She sets up automatic payment from her checking account for the full balance on each statement.",
+      "**Months 1 to 6:** Use the card for one small, regular bill, like a $30 phone bill. Keep the balance under 30% of the limit. On a $300 card, that means less than $90. Credit scores look at how much of your limit you are using, called credit utilization, and using only a small part of it helps your score. Pay the full balance by the due date every month.",
+      "**Month 6:** Check your reports from all three bureaus. Make sure the new account is there and correct. A FICO score needs at least one account that has been open six months or more, and at least one account reported in the last six months. So around now, you may get your first score.",
+      "**Months 7 to 12:** Keep using the card for small amounts and paying on time. Ask if you can move to a regular card and get your deposit back. Do not apply for many new accounts at once.",
+      "**After month 12:** If you need it, add a second, different kind of credit, such as a credit-builder loan. Keep your oldest account open."
+     ]
+    },
+    {
+     "formula": "$300 limit × 30% = $90, so keep the balance under $90"
+    },
+    {
+     "p": "Where can Aisha see her score? Many credit card companies give their customers a free credit score. HUD-approved housing counselors and nonprofit credit counselors can often give you a free credit report and score, too."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "build-credit-s6",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "warning",
+   "title": "Traps to avoid",
+   "body": [
+    {
+     "ul": [
+      "**High fees.** Some cards and credit builder products charge monthly fees, setup fees or yearly fees. Add up all the fees for one year and compare them with a secured card that has no yearly fee.",
+      "**Promises of a fast score.** Building credit takes months. No one can give you a good score in a few days.",
+      "**A new credit identity.** Some sellers offer a new number to use instead of your own Social Security number or ITIN. Using a number that is not yours to apply for credit is illegal. You could face fines or prison.",
+      "**Too much credit too fast.** Opening several new accounts in a short time can lower your score and make lenders worry."
+     ]
+    },
+    {
+     "p": "Scammers often target people who are new to the country. See [scams that target newcomers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "build-credit-s7",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "tip",
+   "title": "Free help near you",
+   "body": [
+    {
+     "p": "In DC, the Department of Insurance, Securities and Banking offers financial education programs through its [Office of Financial Empowerment and Education](https://disb.dc.gov/service/office-financial-empowerment-and-education-ofee). In Maryland, the [CASH Campaign of Maryland](https://cashmd.org/) offers free financial coaching. Anywhere in the region, you can [find a HUD-approved housing counselor](https://www.hud.gov/findacounselor) who can review your credit for little or no cost. Need a bank or credit union account first? See [how to open an account](https://dollarscholars.org/resources/lessons/open-an-account/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "build-credit-takeaways",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Having no credit history is not the same as having bad credit, but it can still cost you money.",
+      "Start with one product that reports to all three credit bureaus. Use it for small amounts and pay on time every month.",
+      "Some lenders accept an ITIN. Ask before you apply.",
+      "A first FICO score usually takes about six months of reported history.",
+      "Stay away from high fees, promises of a fast score, and anyone selling a new credit identity."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build-credit-quiz",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/build-credit/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "build-credit-links",
+   "type": "lesson",
+   "lesson": "build-credit",
+   "lessonTitle": "Build Credit from Zero",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "What are some ways to start or rebuild a good credit history?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/what-are-some-ways-to-start-or-rebuild-a-good-credit-history-en-2155/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Explains secured cards, credit-builder loans and store cards, and which products do not help build credit."
+      },
+      {
+       "t": "Credit",
+       "u": "https://consumer.gov/credit",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Plain-language pages on how to build, check and improve your credit, written for adults learning English."
+      },
+      {
+       "t": "Crédito",
+       "u": "https://consumidor.gov/credito",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Plain-language Spanish pages on how to build, improve, and check your credit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-intro",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "intro",
+   "title": "What Moves Your Credit Score (and What Does Not)",
+   "body": [
+    {
+     "p": "See how payments and card balances change a score with worked examples, sort myths from facts, check the 2026 medical debt rules, and avoid credit repair scams."
+    },
+    {
+     "p": "(About 17 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Name the main factors in a credit score and how much each one matters.",
+      "Calculate credit utilization and plan how to lower it.",
+      "Tell credit score myths apart from facts.",
+      "Recognize credit repair scams and know what you can do yourself for free."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers the basics of credit scoring and how to spot credit repair scams. This lesson adds worked examples of credit utilization and late payments, a myth-or-fact review, and the current rules on medical debt."
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-words",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Credit score",
+       "A number, usually from 300 to 850, that predicts how likely you are to repay credit on time. It is based on your credit report."
+      ],
+      [
+       "Scoring model",
+       "The formula a company uses to turn the information in your credit report into a score. FICO and VantageScore are two examples."
+      ],
+      [
+       "Payment history",
+       "The record of whether you paid your credit accounts on time."
+      ],
+      [
+       "Credit utilization",
+       "The share of your credit card limits that you are using, shown as a percent."
+      ],
+      [
+       "Soft inquiry",
+       "A credit check that does not affect your score, such as when you check your own credit."
+      ],
+      [
+       "Credit repair company",
+       "A business that says it can improve your credit for a fee. Federal law limits what it can charge and promise."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s1",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "text",
+   "title": "What goes into your score",
+   "body": [
+    {
+     "p": "A **credit score** is a number that predicts how likely you are to repay credit on time. It comes from the information in your credit report. You have many scores, not just one, because companies use different formulas, called **scoring models**. Most scores go from 300 to 850. A higher score usually means you pay less to borrow."
+    },
+    {
+     "p": "FICO scores are widely used. FICO says its scores look at five groups of information:"
+    },
+    {
+     "table": {
+      "caption": "What goes into a FICO score",
+      "head": [
+       "Factor",
+       "What it looks at",
+       "Share"
+      ],
+      "num": [
+       2
+      ],
+      "rows": [
+       [
+        "Payment history",
+        "Whether you paid on time, and any late payments, collections or bankruptcy",
+        "35%"
+       ],
+       [
+        "Amounts owed",
+        "How much you owe, including how much of your card limits you use",
+        "30%"
+       ],
+       [
+        "Length of credit history",
+        "How long your accounts have been open",
+        "15%"
+       ],
+       [
+        "New credit",
+        "How many accounts you opened or applied for recently",
+        "10%"
+       ],
+       [
+        "Credit mix",
+        "The kinds of credit you have, such as cards and loans",
+        "10%"
+       ],
+       [
+        "Total",
+        "",
+        "100%"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Other scoring models, such as VantageScore, weigh things a little differently. The same habits help with all of them: pay on time, keep balances low, and apply only for credit you need."
+    },
+    {
+     "p": "Your score uses only what is in your credit report. Your income is not part of it. A lender may still ask about your income and your job when you apply."
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s2",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "example",
+   "title": "Credit utilization: Marcus's card",
+   "body": [
+    {
+     "p": "**Credit utilization** is the share of your credit card limits that you are using. Scoring models look at how close you are to your limits. Many experts, including the CFPB, suggest using no more than 30% of your total limits."
+    },
+    {
+     "p": "Marcus lives in Anacostia. His only card has a $1,000 limit."
+    },
+    {
+     "table": {
+      "caption": "Marcus's utilization at different balances",
+      "head": [
+       "Balance",
+       "Limit",
+       "Utilization"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "$800",
+        "$1,000",
+        "80%"
+       ],
+       [
+        "$300",
+        "$1,000",
+        "30%"
+       ],
+       [
+        "$100",
+        "$1,000",
+        "10%"
+       ],
+       [
+        "Goal: $300 or less",
+        "$1,000",
+        "30% or less"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "Balance ÷ limit × 100 = utilization: $800 ÷ $1,000 × 100 = 80%"
+    },
+    {
+     "p": "To get from 80% down to 30%, Marcus needs to pay off $500, because $800 − $300 = $500. If he stops using the card and pays $125 a month, it takes about four months, or a little longer because of interest."
+    },
+    {
+     "formula": "$500 ÷ $125 a month = 4 months, plus interest"
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "credit-score-factors-s3",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "example",
+   "title": "Closing an old card: before and after",
+   "body": [
+    {
+     "p": "Joy lives in Alexandria. She has two cards. Card A has a $500 limit and a $400 balance. Card B has a $1,500 limit and a $0 balance. She never uses Card B and wants to close it. Look at what happens to her utilization."
+    },
+    {
+     "table": {
+      "caption": "Joy's utilization before and after closing Card B",
+      "head": [
+       "Item",
+       "Both cards open",
+       "After closing Card B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Total limit",
+        "$2,000",
+        "$500"
+       ],
+       [
+        "Total balance",
+        "$400",
+        "$400"
+       ],
+       [
+        "Utilization",
+        "20%",
+        "80%"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "formula": "Before: $400 ÷ $2,000 = 20%. After: $400 ÷ $500 = 80%"
+    },
+    {
+     "p": "Closing Card B does not lower her debt. It only removes $1,500 of available credit, so her utilization rises sharply. If Card B has no yearly fee, keeping it open and unused may be better for her score. If a card has a high fee or makes it hard for you to avoid spending, closing it can still be the right choice."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "credit-score-factors-s4",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "text",
+   "title": "Late payments: why 30 days matters",
+   "body": [
+    {
+     "p": "**Payment history** matters most. Lenders usually do not report a missed payment to the credit bureaus until it is at least 30 days past the due date. Some wait until 60 days. But a late fee can be charged soon after the due date. Once a late payment is reported, it can stay on your report for seven years."
+    },
+    {
+     "p": "For example, Denise in Bowie has a car payment due on the 15th. If she pays in full on the 22nd, she may owe a late fee, but the lender usually will not report the payment as late. If she pays 35 days after the due date, her report may show a 30-day late payment for seven years."
+    },
+    {
+     "h3": "About to miss a payment? Do this"
+    },
+    {
+     "ol": [
+      "Call the lender before the due date. Ask about moving your due date, a short break from payments, or a hardship plan. Write down who you spoke to and what they said.",
+      "Pay what you can as soon as you can. Paying the full amount due before it is 30 days late often keeps the late payment off your report.",
+      "Set up automatic payments for at least the minimum on every card and loan.",
+      "If you cannot keep up with several bills, talk to a nonprofit credit counselor. See [make a debt payoff plan](https://dollarscholars.org/resources/lessons/debt-payoff-plan/) and [when your income drops](https://dollarscholars.org/resources/lessons/income-shock/)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s5",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "text",
+   "title": "Myth or fact?",
+   "body": [
+    {
+     "dl": [
+      [
+       "Myth: Checking my own credit score lowers it.",
+       "Fact: When you check your own report or score, it is a soft inquiry. It does not affect your score. A hard inquiry happens when you apply for credit, and it can lower your score a little. When you shop for a car loan, mortgage or student loan, scoring models usually count several checks in a short time, often 14 to 45 days, as one."
+      ],
+      [
+       "Myth: A bigger income means a higher score.",
+       "Fact: Your income is not in your credit report, so it is not part of your score."
+      ],
+      [
+       "Myth: I should close old cards I do not use.",
+       "Fact: Closing a card can raise your utilization, as Joy's example shows. Keeping a card you have had for many years open usually helps, especially if it has no yearly fee."
+      ],
+      [
+       "Myth: I must carry a balance and pay interest to build credit.",
+       "Fact: Paying your full balance every month builds credit, may help your score, and costs you no interest."
+      ],
+      [
+       "Myth: Paying off a collection removes it from my report.",
+       "Fact: A paid collection can stay on your report for up to seven years, but it should show as paid. Paid medical collections are different: the credit bureaus say they do not include them."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s6",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "text",
+   "title": "Medical debt on credit reports: what applies in 2026",
+   "body": [
+    {
+     "p": "The rules about medical bills changed several times. In January 2025, the CFPB finished a rule to keep most medical bills off credit reports. In July 2025, a federal court canceled that rule. So there is no federal ban today."
+    },
+    {
+     "p": "The three credit bureaus still follow their own policy:"
+    },
+    {
+     "ul": [
+      "Paid medical collections are not included on credit reports.",
+      "Medical collections that started under $500 are not included.",
+      "An unpaid medical collection is not included until at least one year has passed."
+     ]
+    },
+    {
+     "p": "Local laws add more protection. Maryland laws in effect since October 1, 2025 say medical providers and debt collectors may not report medical debt, and credit bureaus may not include it. A 2024 Virginia law says health care providers, and anyone collecting a medical debt, may not report it. DC passed a medical debt law in 2026 that will stop health care providers and debt collectors from reporting medical debt. It starts to apply only six months after the DC budget pays for it, so ask legal aid if it applies to you yet. In October 2025, the CFPB said it believes federal law overrides state rules like these, so courts may decide how far they reach."
+    },
+    {
+     "ul": [
+      "Look for medical collections on all three of your reports.",
+      "Dispute any medical collection that is paid, that started under $500, or that is less than one year old.",
+      "In Maryland, if a credit bureau does not remove medical debt that the law bans, you can complain to the Office of Financial Regulation at 410-230-6077.",
+      "Ask the hospital or clinic about financial help before you pay a large bill. In Maryland, hospital patients have 240 days from the first bill to apply."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-s7",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "warning",
+   "title": "Credit repair scams",
+   "body": [
+    {
+     "p": "Some companies promise to erase bad credit or add 100 points fast, for a fee. The truth is that no one can legally remove accurate, up-to-date negative information from your report. Only time and good habits make it better."
+    },
+    {
+     "p": "A federal law, the Credit Repair Organizations Act, protects you. A credit repair company may not charge you before it has done the work it promised. It must give you a written contract that lists the services, the total cost and how long it will take. You have three days to cancel without paying anything."
+    },
+    {
+     "p": "Warning signs of a credit repair scam:"
+    },
+    {
+     "ul": [
+      "It wants payment before it does any work.",
+      "It tells you not to contact the credit bureaus yourself.",
+      "It tells you to dispute information you know is correct.",
+      "It tells you to lie on a credit application or to file a false identity theft report.",
+      "It offers a new credit identity or a different number to use instead of your own. That is illegal."
+     ]
+    },
+    {
+     "p": "Report credit repair scams at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (in Spanish at [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)) and to your state or DC attorney general."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "credit-score-factors-s8",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "tip",
+   "title": "Do it yourself for free",
+   "body": [
+    {
+     "p": "Anything a credit repair company can legally do, you can do yourself for free: get your reports, dispute errors, pay on time, and lower your balances. For free guidance, talk to a HUD-approved housing counselor or a nonprofit credit counselor. Start with [Read Your Credit Report and Fix Mistakes](https://dollarscholars.org/resources/lessons/read-your-credit-report/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "credit-score-factors-takeaways",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "Paying on time matters most. A payment is usually not reported late until it is 30 days past due, but a late fee can come sooner.",
+      "Keep card balances low compared to your limits. Many experts suggest using no more than 30%.",
+      "Checking your own report or score does not lower your score, and your income is not part of your score.",
+      "Closing an unused card can raise your utilization, so think before you close one.",
+      "No one can legally remove accurate negative information, and credit repair companies cannot charge before they do the work."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-quiz",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/credit-score-factors/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "credit-score-factors-links",
+   "type": "lesson",
+   "lesson": "credit-score-factors",
+   "lessonTitle": "What Moves Your Credit Score (and What Does Not)",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "How do I get and keep a good credit score?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Habits that help your score: paying on time, keeping card use at or below 30% of your limits, and applying only for credit you need."
+      },
+      {
+       "t": "Fixing Your Credit FAQs",
+       "u": "https://consumer.ftc.gov/articles/fixing-your-credit-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "How to spot credit repair scams, your rights under the Credit Repair Organizations Act, and what you can do yourself for free."
+      },
+      {
+       "t": "Preguntas frecuentes acerca de cómo reparar su crédito",
+       "u": "https://consumidor.ftc.gov/articulos/preguntas-frecuentes-acerca-de-como-reparar-su-credito",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The FTC guide in Spanish: how to spot credit repair scams and what you can do yourself for free."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

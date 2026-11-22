@@ -1,1 +1,100 @@
-{"topics": [{"id": "tema-01", "title": "Tema 1: Planear ingresos y gastos"}]}
+{
+ "topics": [
+  {
+   "id": "tema-01",
+   "title": "Tema 1: Planear ingresos y gastos",
+   "summary": "Elabora un plan de gastos que funcione para hogares reales del área de DC, incluyendo ingresos desiguales y dinero enviado a la familia, y crea un fondo de emergencia desde cero.",
+   "lessons": [
+    "spending-plan",
+    "emergency-fund"
+   ]
+  },
+  {
+   "id": "tema-02",
+   "title": "Tema 2: Conceptos Básicos de Banca: Cuentas que Funcionan para Ti",
+   "summary": "Cómo abrir una cuenta (incluso sin SSN), comparar bancos, cooperativas de crédito, aplicaciones y cobradores de cheques, y enviar dinero al extranjero de manera segura y económica.",
+   "lessons": [
+    "open-an-account",
+    "where-to-bank",
+    "sending-money-abroad"
+   ]
+  },
+  {
+   "id": "tema-03",
+   "title": "Tema 3: Cheques de nómina e impuestos sobre la renta personal",
+   "summary": "Entiende tu recibo de nómina y retención, maneja impuestos sobre ingresos por trabajo y efectivo, y presenta la declaración gratis mientras reclamas cada crédito que ganaste. Money Smart no tiene módulo de impuestos, así que este tema es principalmente una extensión de Dollar Scholars.",
+   "lessons": [
+    "pay-stub-and-w4",
+    "gig-income-taxes",
+    "file-for-free"
+   ]
+  },
+  {
+   "id": "tema-04",
+   "title": "Tema 4: Reportes de crédito y puntajes crediticios",
+   "summary": "Lee tu reporte de crédito y corrige errores, construye crédito desde cero (incluso siendo nuevo o titular de ITIN) y aprende qué es lo que realmente mueve tu puntaje.",
+   "lessons": [
+    "read-your-credit-report",
+    "build-credit",
+    "credit-score-factors"
+   ]
+  },
+  {
+   "id": "tema-05",
+   "title": "Tema 5: Pidiendo prestado sabiamente y evitando préstamos depredadores",
+   "summary": "Consulta el precio real de un préstamo, reconoce productos de día de pago, título, renta con opción a compra y otros productos de alto costo, encuentra opciones más seguras y obtén un trato justo cuando financies un auto.",
+   "lessons": [
+    "high-cost-loans",
+    "car-loans"
+   ]
+  },
+  {
+   "id": "tema-06",
+   "title": "Tema 6: Tarjetas de crédito y manejo de deudas",
+   "summary": "Usa una tarjeta de crédito sin pagar intereses, construye un plan de liquidación que funcione y trata con cobradores, documentos judiciales y facturas médicas con confianza.",
+   "lessons": [
+    "credit-cards",
+    "debt-payoff-plan",
+    "debt-collectors"
+   ]
+  },
+  {
+   "id": "tema-07",
+   "title": "Tema 7: Conciencia sobre estafas y protección de identidad",
+   "summary": "Reconoce las estafas actuales, especialmente las dirigidas a inmigrantes, inquilinos y buscadores de empleo. Protege tu identidad gratis y recupera si te la roban.",
+   "lessons": [
+    "spot-scams",
+    "scams-targeting-newcomers",
+    "identity-theft"
+   ]
+  },
+  {
+   "id": "tema-08",
+   "title": "Tema 8: Opciones de renta y vivienda",
+   "summary": "Renta con confianza en el área de DC y compara los costos reales de rentar y comprar antes de comenzar el camino hacia ser dueño de una casa.",
+   "lessons": [
+    "renters-rights",
+    "rent-or-buy"
+   ]
+  },
+  {
+   "id": "tema-09",
+   "title": "Tema 9: Comprar una casa y obtener una hipoteca",
+   "summary": "Prepárate durante 12 meses, usa ayuda local para el enganche, compara ofertas de préstamos, cierra con seguridad y sabe a dónde acudir si te atrasas.",
+   "lessons": [
+    "mortgage-ready",
+    "down-payment-help",
+    "closing-day"
+   ]
+  },
+  {
+   "id": "tema-10",
+   "title": "Tema 10: Preparándose y recuperándose de choques financieros",
+   "summary": "Qué hacer en los primeros 30 días después de que se acabe el ingreso, y un plan de emergencia familiar ante desastres, enfermedades y cambios repentinos.",
+   "lessons": [
+    "income-shock",
+    "emergency-plan"
+   ]
+  }
+ ]
+}

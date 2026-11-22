@@ -1,0 +1,1298 @@
+{
+ "id": "tema-09",
+ "title": "Tema 9: Comprar una casa y obtener una hipoteca",
+ "summary": "Prepárate durante 12 meses, usa ayuda local para el enganche, compara ofertas de préstamos, cierra con seguridad y sabe a dónde acudir si te atrasas.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "mortgage-ready",
+   "title": "Prepárate para la hipoteca: un plan a 12 meses",
+   "summary": "Un plan mes a mes para fortalecer tu crédito, ahorros y papeleo antes de solicitar una hipoteca, con un ejemplo de relación deuda-ingresos trabajada.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "down-payment-help",
+   "title": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "summary": "Compara los tipos de préstamos más comunes, encuentra ayuda con el enganche y los costos de cierre en DC, Maryland y Virginia, entiende el seguro hipotecario y calcula tu efectivo para cerrar.",
+   "meta": "(Aproximadamente 18 min, 6 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "closing-day",
+   "title": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "summary": "Compara ofertas de préstamos línea por línea, entiende los bloqueos de tasas y la Declaración de Cierre, protege tu dinero de cierre contra fraudes electrónicos y busca ayuda temprano si te atrasas.",
+   "meta": "(Aproximadamente 18 min, 6 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "mortgage-ready-intro",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "intro",
+   "title": "Prepárate para la hipoteca: un plan a 12 meses",
+   "body": [
+    {
+     "p": "Un plan mes a mes para fortalecer tu crédito, ahorros y papeleo antes de solicitar una hipoteca, con un ejemplo de relación deuda-ingresos trabajada."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Calcula tu relación deuda-ingreso y observa cómo el pago de una deuda la cambia.",
+      "Sigue un plan a 12 meses para fortalecer tu crédito, ahorros y papeleo antes de postularte.",
+      "Reúne los documentos que los prestamistas solicitan, incluyendo documentos adicionales para trabajadores independientes y prestatarios ITIN.",
+      "Diferencia la pre-calificación de la preaprobación y busca un consejero de vivienda aprobado por HUD."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre los pasos para comprar una casa y cómo calcular una relación deuda-ingreso. Esta lección convierte esos pasos en un plan de 12 meses, con números trabajados y listas de documentos para diferentes tipos de trabajadores."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-words",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Relación deuda-ingreso (DTI) (Debt-to-income ratio (DTI))",
+       "Tus pagos mensuales totales de deuda divididos por tus ingresos brutos mensuales, mostrados como porcentaje. Los prestamistas lo usan para juzgar si puedes pagar un nuevo pago."
+      ],
+      [
+       "Ingreso bruto mensual (Gross monthly income)",
+       "Lo que ganas en un mes antes de que se descuentan impuestos y otras deducciones."
+      ],
+      [
+       "Enganche (Down payment)",
+       "La parte del precio de la casa la pagas con tu propio dinero o con la ayuda de un programa. La hipoteca paga el resto."
+      ],
+      [
+       "Preclasificación (Pre-qualification)",
+       "La estimación temprana de un prestamista sobre cuánto podrías pedir prestado. A menudo se basa en información que das sin pruebas."
+      ],
+      [
+       "Preaprobación (Pre-approval)",
+       "Una carta diciendo que un prestamista está dispuesto a prestarte hasta cierta cantidad, usualmente después de revisar tu crédito y algunos documentos. No es una oferta final de préstamo."
+      ],
+      [
+       "Consejero de vivienda aprobado por HUD (HUD-approved housing counselor)",
+       "Un consejero capacitado en una agencia aprobada por el Departamento de Vivienda y Desarrollo Urbano de EE. UU. (HUD). Ofrecen asesoría gratuita o de bajo costo sobre compra, renta y prevención de ejecuciones hipotecarias."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s1",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "text",
+   "title": "Lo que revisan los prestamistas",
+   "body": [
+    {
+     "p": "Antes de que un prestamista te dé una **hipoteca** (un préstamo para comprar una casa), quiere saber que puedes hacer los pagos durante muchos años. Los prestamistas consideran cuatro cosas principales:"
+    },
+    {
+     "ul": [
+      "**Crédito:** tus reportes y puntajes de crédito muestran cómo has pagado facturas y préstamos en el pasado.",
+      "**Ingresos:** cuánto ganas y si puedes probarlo.",
+      "**Deudas:** lo que ya pagas cada mes, en comparación con tus ingresos.",
+      "**Ahorros:** dinero para el enganche, los costos de cierre y emergencias después de mudarte. El cierre, a menudo llamado liquidación en el área de DC, es la reunión al final de la compra de una casa donde firmas los papeles del préstamo, pagas tu efectivo para cerrar y obtienes las llaves."
+     ]
+    },
+    {
+     "p": "No puedes cambiar esto en un mes. Pero en un año, puedes avanzar de verdad. Esta lección te da un plan."
+    },
+    {
+     "p": "Para deudas, el número clave es tu **relación deuda-ingreso (DTI).** Son todos tus pagos mensuales de deuda, incluyendo el pago de la nueva casa, divididos por tu **ingreso bruto mensual** (tus ingresos antes de impuestos). Cada programa de préstamos y prestamista establece su propio límite de DTI. Por ejemplo, en septiembre de 2026 el programa DC Open Doors estableció un DTI máximo del 50%, o 45% para algunos préstamos FHA. Un préstamo FHA es una hipoteca respaldada por la Administración Federal de Vivienda. Permite a los compradores poner tan solo 3.5% y puede ser más fácil de obtener con menos crédito. Un DTI más bajo deja más espacio en tu presupuesto para alimentos, transporte y sorpresas."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s2",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "example",
+   "title": "Ejemplo trabajado: DTI antes y después de pagar un préstamo de auto",
+   "body": [
+    {
+     "p": "Marisol y Luis rentan un departamento en Hyattsville, Maryland. Juntos ganan $6,500 al mes antes de impuestos. Un prestamista estima que una casa adosada que les guste costaría $2,100 al mes para el préstamo, impuestos prediales y seguro. Su préstamo para auto tiene 12 pagos restantes."
+    },
+    {
+     "table": {
+      "caption": "Marisol y Luis: deudas mensuales si aplican ahora o en 12 meses",
+      "head": [
+       "Pago mensual",
+       "Aplica ahora",
+       "Aplica en 12 meses"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Pago de nueva casa (estimación)",
+        "$2,100",
+        "$2,100"
+       ],
+       [
+        "Préstamo para auto",
+        "$450",
+        "$0"
+       ],
+       [
+        "Pagos mínimos con tarjeta de crédito",
+        "$150",
+        "$150"
+       ],
+       [
+        "Préstamo estudiantil",
+        "$200",
+        "$200"
+       ],
+       [
+        "Deudas mensuales totales",
+        "$2,900",
+        "$2,450"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "formula": "Ahora: $2,900 ÷ $6,500 = 0.446, o alrededor del 45% del DTI"
+    },
+    {
+     "formula": "Después de que termina el préstamo del auto: $2,450 ÷ $6,500 = 0.377, o aproximadamente 38% de DTI"
+    },
+    {
+     "p": "Al esperar a que se pague el préstamo del auto, su DTI cae alrededor de 7 puntos porcentuales. Eso puede ayudarles a calificar para un préstamo. Después de comprar, también les quedan $450 más cada mes en su presupuesto para los costos de tener una casa, como reparaciones. Nota que su renta no está en la tabla. La renta se detiene cuando compran, y el pago de la nueva casa la reemplaza."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "mortgage-ready-s3",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "text",
+   "title": "Meses 12 a 6: arregla tu crédito y construye ahorros",
+   "body": [
+    {
+     "h3": "Meses 12 a 9: revisa y limpia tu crédito"
+    },
+    {
+     "ul": [
+      "Obtén tus reportes de crédito gratuitos de las tres agencias de crédito [en AnnualCreditReport.com](https://www.annualcreditreport.com/). Puedes revisarlos gratis cada semana.",
+      "Busca errores, como cuentas que no son tuyas o pagos atrasados que no hiciste. Disputa errores por escrito. Nuestra lección sobre [cómo leer tu reporte de crédito](https://dollarscholars.org/es-mx/resources/lessons/read-your-credit-report/) muestra cómo.",
+      "Paga cada factura a tiempo. Configura pagos automáticos o recordatorios.",
+      "Reduce los saldos de tus tarjetas de crédito. Usar menos límites de crédito puede mejorar tu puntaje. [Observa qué afecta tu puntaje crediticio](https://dollarscholars.org/es-mx/resources/lessons/credit-score-factors/).",
+      "¿Aún no tienes historial crediticio? Comienza ahora con nuestra lección sobre [cómo construir crédito](https://dollarscholars.org/es-mx/resources/lessons/build-credit/). Algunos programas de préstamos, como los préstamos FHA, tienen reglas que permiten al prestamista revisar otros registros, como la renta y los pagos de servicios."
+     ]
+    },
+    {
+     "p": "El puntaje que use un prestamista hipotecario puede no coincidir con el puntaje gratuito de tu aplicación bancaria. A partir de septiembre de 2026, los prestamistas que vendan préstamos a Fannie Mae y Freddie Mac pueden usar un puntaje FICO clásico o VantageScore 4.0, basado en reportes de las tres oficinas. Así que revisa los tres reportes."
+    },
+    {
+     "h3": "Meses 9 a 6: ahorra para tres cosas"
+    },
+    {
+     "ul": [
+      "**Enganche:** algunos préstamos requieren tan solo 3% o 3.5% del precio. Los programas en DC, Maryland y Virginia pueden ayudar.",
+      "**Costos de cierre:** comisiones por el préstamo, título, impuestos y artículos prepagados. Tu prestamista los listará en una Estimación de Préstamo.",
+      "**Ahorros de emergencia:** dinero que aún tienes después de mudarte, para reparaciones y sorpresas."
+     ]
+    },
+    {
+     "p": "Guarda tus ahorros en una cuenta bancaria o cooperativa de crédito. Los prestamistas usualmente piden estados de cuenta bancarios recientes y pueden preguntar de dónde provienen los depósitos grandes. El efectivo guardado en casa es difícil de contar para un prestamista, porque no puede ver de dónde vino el dinero. Depóyelo temprano y lleva registros. Si un familiar te da dinero, pregunta al prestamista qué papeles necesita, como una carta de donación firmada."
+    },
+    {
+     "p": "Este también es el momento para buscar ayuda con tu enganche. [Consulta Ayuda para el Enganche y Tipos de Préstamos en DC, Maryland y Virginia](https://dollarscholars.org/es-mx/resources/lessons/down-payment-help/)."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s4",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "text",
+   "title": "Meses 6 a 3: reúne tus papeles",
+   "body": [
+    {
+     "p": "Los prestamistas deben verificar que tus ingresos sean reales y que probablemente continúen. Inicia una carpeta, en papel o en tu teléfono, y agrega los papeles conforme los recibas."
+    },
+    {
+     "h3": "Papeles que la mayoría de los prestamistas piden"
+    },
+    {
+     "ul": [
+      "Identificación con foto, como licencia de conducir o pasaporte",
+      "Tu número de Seguro Social o ITIN",
+      "Recibos de nómina de los últimos 30 días",
+      "Formularios W-2 de los últimos dos años",
+      "Declaraciones federales de impuestos de los últimos dos años",
+      "Extractos bancarios de los últimos dos meses, con cada página",
+      "Prueba de que pagas la renta a tiempo, como registros bancarios o la información de contacto de tu arrendador",
+      "Una lista de tus deudas y pagos mensuales"
+     ]
+    },
+    {
+     "h3": "Trabajadores independientes, de trabajos por trabajo directo y en efectivo"
+    },
+    {
+     "p": "Si manejas para una aplicación, limpias casas, diriges un pequeño negocio o haces trabajos por contrato, necesitas más pruebas. Fannie Mae, que compra muchas hipotecas en Estados Unidos, generalmente busca dos años de ingresos por cuenta propia en tus declaraciones de impuestos. Muchos prestamistas solicitan:"
+    },
+    {
+     "ul": [
+      "Declaraciones de impuestos federales personales de los últimos dos años, con todos los anexos",
+      "Declaraciones de impuestos empresariales, si tu negocio presenta las suyas propias",
+      "Formularios 1099 de las empresas que te pagaron",
+      "Un estado de pérdidas y ganancias para este año hasta ahora",
+      "Estados de cuenta bancarios empresariales, si tienes una cuenta separada"
+     ]
+    },
+    {
+     "p": "Importante: para los trabajadores independientes, los prestamistas **usualmente** cuentan los ingresos en tus declaraciones de impuestos después de los gastos del negocio, no el total de tus ventas. Si ganas efectivo y no lo reportas, un prestamista no puede usarlo para ayudarte a calificar. Consulta nuestra lección sobre [impuestos para trabajadores de trabajo temporal y independientes](https://dollarscholars.org/es-mx/resources/lessons/gig-income-taxes/)."
+    },
+    {
+     "h3": "Prestatarios con un ITIN"
+    },
+    {
+     "p": "Un ITIN (Número de Identificación de Contribuyente Individual) es un número fiscal del IRS para personas que no pueden obtener un número de Seguro Social. Algunos bancos, cooperativas de crédito y prestamistas comunitarios otorgan hipotecas a prestatarios ITIN. Estos préstamos pueden requerir un enganche mayor o costar más, así que compara cuidadosamente las ofertas. Los prestamistas suelen pedir:"
+    },
+    {
+     "ul": [
+      "Tu carta ITIN del IRS",
+      "Pasaporte u otra identificación gubernamental con foto",
+      "Declaraciones de impuestos federales presentadas con tu ITIN, a menudo por dos años",
+      "Comprobante de trabajo e ingresos estables, como registros de pago o estados de cuenta bancarios",
+      "Registros de rentas puntuales y pagos de servicios públicos"
+     ]
+    },
+    {
+     "p": "Asegúrate de que tu ITIN siga activo. El IRS dice que un ITIN expira si no se usa en una declaración de impuestos federal durante tres años fiscales consecutivos. También debes saber que desde el 25 de mayo de 2025, los préstamos FHA ya no están abiertos para residentes no permanentes, como personas con visas de trabajo. Los ciudadanos estadounidenses y residentes permanentes legales (titulares de green card) aún pueden solicitar."
+    },
+    {
+     "p": "Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN. También han dicho que los prestamistas hipotecarios pueden revisar tu estatus migratorio cuando decidan si puedes pagar un préstamo. Algunos pueden pedir más documentos o decir que no, así que pregunta antes de solicitar. Un consejero de vivienda puede ayudarte a encontrar prestamistas que aún concedan préstamos ITIN."
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s5",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "text",
+   "title": "Meses 3 a 0: clase, preaprobación y tu límite de precio",
+   "body": [
+    {
+     "h3": "Toma una clase de educación para compradores de vivienda"
+    },
+    {
+     "p": "Muchos programas requieren una clase. Por ejemplo, los préstamos del Programa Hipotecario de Maryland y muchos préstamos hipotecarios de Virginia requieren una clase aprobada antes de cerrar. Fannie Mae requiere educación sobre propiedad de vivienda para algunos préstamos con bajo enganche cuando todos los compradores son compradores primerizos. Las agencias de asesoría de vivienda aprobadas por HUD imparten estas clases, a menudo gratis o por una pequeña tarifa. Virginia Housing ofrece una clase gratuita, en línea o presencialmente."
+    },
+    {
+     "h3": "Pre-calificación y preaprobación"
+    },
+    {
+     "p": "Los prestamistas usan estas palabras de diferentes maneras. Una **pre-calificación** suele ser una estimación rápida basada en lo que le dices al prestamista. Una **preaprobación** usualmente significa que el prestamista ha revisado tu crédito y algunos documentos. Ninguno de los dos es un préstamo garantizado. Los vendedores y agentes inmobiliarios a menudo piden ver una carta de preaprobación con tu oferta."
+    },
+    {
+     "h3": "Pon tu propio límite de precio"
+    },
+    {
+     "p": "Un prestamista puede aprobarte más de lo que puedes pagar cómodamente. Cuenta el costo mensual total de propiedad: el pago del préstamo, impuestos prediales, seguro de propietario, cuotas de condominios o asociaciones de propietarios (HOA), servicios públicos y dinero para reparaciones."
+    },
+    {
+     "ol": [
+      "Usa tu [plan de gastos](https://dollarscholars.org/es-mx/resources/lessons/spending-plan/) para encontrar lo máximo que puedas pagar por vivienda cada mes.",
+      "Pregunta a tu prestamista o consejero de vivienda qué precio de casa iguala ese pago, incluyendo impuestos, seguros y comisiones.",
+      "Mira solo casas a ese precio o por debajo de ella, incluso si tu preaprobación es más alta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s6",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "text",
+   "title": "Ayuda gratuita de consejeros de vivienda aprobados por HUD",
+   "body": [
+    {
+     "p": "Un consejero de vivienda aprobado por HUD puede revisar tu crédito y presupuesto, hacer un plan contigo, explicarte ofertas de préstamos y informarte sobre programas locales de enganche. Pueden darte asesoría independiente sobre si un préstamo es adecuado para ti. La ayuda suele ser gratuita o de bajo costo."
+    },
+    {
+     "ul": [
+      "Llama a HUD al 800-569-4287 para encontrar una agencia cerca de ti.",
+      "Busca por código postal con la [búsqueda de consejero de vivienda CFPB](https://www.consumerfinance.gov/find-a-housing-counselor/).",
+      "Pide un consejero que hable tu idioma y pregunta si se ven por teléfono o en línea."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-s7",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "warning",
+   "title": "Trampas que pueden detener tu hipoteca",
+   "body": [
+    {
+     "ul": [
+      "**Deuda nueva antes del cierre.** No compres un auto ni muebles a crédito, y no abras nuevas tarjetas hasta después de cerrar. Un nuevo pago aumenta tu DTI, y el prestamista puede revisar tu crédito nuevamente antes del cierre.",
+      "**Ingresos que no están en tus declaraciones de impuestos.** Los prestamistas usualmente no pueden contarlos.",
+      "**Empresas de reparación de crédito que cobran primero.** Es ilegal que te cobren antes de hacer el trabajo. Nadie puede eliminar legalmente la información correcta negativa de tu reporte. Puedes disputar errores tú mismo sin problema."
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "mortgage-ready-s8",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "tip",
+   "title": "Empieza una carpeta de casas hoy mismo",
+   "body": [
+    {
+     "p": "Cada mes, guarda tus recibos de nómina, estados de cuenta bancarios y recibos de renta en una sola carpeta. Cuando un prestamista te pida documentos, puedes enviarlos en un día en lugar de un mes."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "mortgage-ready-takeaways",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Los prestamistas dividen todos tus pagos mensuales de deuda, incluyendo el pago de la nueva casa, entre tus ingresos antes de impuestos. Pagar una deuda antes de aplicar puede reducir mucho esta cifra.",
+      "Empieza aproximadamente con un año de anticipación: revisa primero tus reportes de crédito, luego construye ahorros y después reúne tus papeles.",
+      "Los prestamistas usualmente solo pueden contar los ingresos que puedas probar, como los ingresos en tus declaraciones de impuestos.",
+      "Una carta de preaprobación no es un préstamo garantizado. No tomes nuevas deudas antes del cierre.",
+      "Los consejeros de vivienda aprobados por HUD ofrecen ayuda gratuita o de bajo costo. Llama al 800-569-4287 para encontrar uno."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-quiz",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/mortgage-ready/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "mortgage-ready-links",
+   "type": "lesson",
+   "lesson": "mortgage-ready",
+   "lessonTitle": "Prepárate para la hipoteca: un plan a 12 meses",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Informes de crédito gratuitos",
+       "u": "https://consumidor.ftc.gov/articulos/informes-de-credito-gratuitos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La versión en español de la guía de la FTC para obtener tus reportes de crédito gratuitos."
+      },
+      {
+       "t": "Comprar una casa: herramientas y recursos para compradores",
+       "u": "https://www.consumerfinance.gov/owning-a-home/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Una guía paso a paso para la compra de una casa con listas de verificación y explicaciones para la Estimación de Préstamos y la Divulgación de Cierre."
+      },
+      {
+       "t": "Busca un consejero de vivienda",
+       "u": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Busca por código postal agencias de consejería de vivienda aprobadas por HUD cerca de ti."
+      },
+      {
+       "t": "Reportes de crédito gratuitos",
+       "u": "https://consumer.ftc.gov/articles/free-credit-reports",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo obtener tus reportes de crédito gratuitos de las tres oficinas, en línea, por teléfono o por correo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-intro",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "intro",
+   "title": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "body": [
+    {
+     "p": "Compara los tipos de préstamos más comunes, encuentra ayuda con el enganche y los costos de cierre en DC, Maryland y Virginia, entiende el seguro hipotecario y calcula tu efectivo para cerrar."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Compara préstamos convencionales, FHA, VA y USDA y sus pagos iniciales mínimos.",
+      "Encuentra ayuda con el enganche y los costos de cierre en DC, Maryland y Virginia, y revisa las reglas de cada programa.",
+      "Explica el seguro hipotecario y cuándo se puede eliminar el seguro hipotecario privado.",
+      "Calcula el efectivo que necesitas al momento del cierre, con y sin ayuda."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre los tipos de hipotecas y cómo funcionan. Esta lección incluye los programas locales que pueden ayudar a los compradores del área de DC con el enganche, las reglas para verificar y un ejemplo de efectivo para cerrar."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-words",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Préstamo convencional (Conventional loan)",
+       "Una hipoteca que no está asegurada ni garantizada por una agencia gubernamental. Muchas se venden a Fannie Mae o Freddie Mac."
+      ],
+      [
+       "Préstamo FHA (FHA loan)",
+       "Una hipoteca asegurada por la Administración Federal de Vivienda, que forma parte del HUD. Permite un enganche bajo pero cobra seguro hipotecario."
+      ],
+      [
+       "Seguro hipotecario privado (PMI) (Private mortgage insurance (PMI))",
+       "Seguro que protege al prestamista, no a ti, si dejas de pagar un préstamo convencional. Por lo general, es obligatorio cuando pones menos del 20%."
+      ],
+      [
+       "Asistencia para el enganche (Down payment assistance)",
+       "Dinero de un programa que ayuda a pagar el enganche o los gastos de cierre. Puede ser una beca, que no pagas, o un préstamo."
+      ],
+      [
+       "Préstamo diferido (Deferred loan)",
+       "Un préstamo sin pagos mensuales por un periodo de tiempo. Lo pagas después, usualmente cuando vendes, refinancias o dejas de vivir en la casa."
+      ],
+      [
+       "Efectivo para cerrar (Cash to close)",
+       "El monto total que debes llevar al cierre: tu enganche y costos de cierre, menos cualquier crédito o ayuda."
+      ],
+      [
+       "Comprador de casa por primera vez (First-time homebuyer)",
+       "Para muchos programas, una persona que no ha sido dueña de una casa en los últimos tres años. Cada programa establece su propia regla."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s1",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "text",
+   "title": "Tipos de préstamos en resumen",
+   "body": [
+    {
+     "p": "La mayoría de los compradores usan uno de cuatro tipos de hipoteca. Las mayores diferencias son cuánto debes aportar, quién puede calificar y qué tipo de seguro hipotecario pagas."
+    },
+    {
+     "table": {
+      "caption": "Tipos de préstamos comunes y sus pagos iniciales mínimos (a septiembre de 2026)",
+      "head": [
+       "Tipo de préstamo",
+       "Enganche",
+       "Bueno saberlo"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Convencional",
+        "Tan bajo como 3% para algunos préstamos",
+        "Con menos del 20% de enganche, usualmente pagas el PMI. Puedes eliminar el PMI después."
+       ],
+       [
+        "FHA",
+        "Tan bajo como 3.5%",
+        "Cuenta con seguro hipotecario, a menudo por toda la vida del préstamo. Desde el 25 de mayo de 2025, los residentes no permanentes, como las personas con visa de trabajo, no pueden obtener préstamos FHA."
+       ],
+       [
+        "VA",
+        "No hay pago inicial para compradores elegibles si el precio no es mayor que el valor tasado (una estimación profesional del valor de la casa, ordenada por el prestamista)",
+        "Para miembros elegibles del servicio, veteranos y algunos cónyuges sobrevivientes. No hay seguro hipotecario mensual, pero puedes pagar una cuota de financiamiento única."
+       ],
+       [
+        "USDA",
+        "No hay enganche para compradores elegibles",
+        "Para compradores de ingresos bajos y moderados en áreas rurales elegibles. Las casas en ciudades como DC no califican. Puedes verificar una dirección en el sitio web de elegibilidad del USDA."
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Si no eres ciudadano estadounidense ni titular de green card, pregunta a cada prestamista qué préstamos puedes obtener. Las reglas para préstamos convencionales son diferentes a las reglas de la FHA, y algunos prestamistas locales ofrecen sus propios préstamos para prestatarios ITIN. Un consejero de vivienda puede ayudarte a encontrarlos. Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN. Algunos pueden pedir más documentos o decir que no, así que pregunta antes de solicitar."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s2",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "text",
+   "title": "Ayuda en DC: HPAP y DC abren puertas",
+   "body": [
+    {
+     "h3": "Programa de Asistencia para la Compra de Vivienda (HPAP)"
+    },
+    {
+     "p": "El Departamento de Vivienda y Desarrollo Comunitario de DC (DHCD) administra HPAP, y la Agencia de Financiamiento de Vivienda de DC (DCHFA) ayuda a administrarlo. HPAP otorga préstamos sin intereses para ayudar a compradores primerizos de ingresos bajos y moderados a comprar una casa en DC."
+    },
+    {
+     "ul": [
+      "**Quién:** compradores primerizos. Para HPAP, eso significa que no has sido dueño de ninguna casa u otra propiedad residencial en los últimos tres años. Los residentes de DC son lo primero. Algunas personas que han trabajado en DC por al menos un año también pueden aplicar.",
+      "**Dónde:** la casa debe estar en DC, y debe ser tu residencia principal.",
+      "**Cuánto:** depende de tus ingresos y tamaño del hogar. DHCD actualiza su tabla cada año.",
+      "**Pago:** los compradores de ingresos bajos no hacen pagos mensuales. Los compradores de ingresos moderados comienzan a hacer pagos en el sexto año. El préstamo completo vence si vendes, refinancias (con algunas excepciones) o dejas de vivir en la casa. Refinanciar significa sacar una nueva hipoteca para pagar la anterior, a menudo para obtener una tasa más baja.",
+      "**Cómo aplicar:** a través de una organización comunitaria, como Housing Counseling Services, el Centro de Desarrollo Económico Latino (LEDC) o MANNA."
+     ]
+    },
+    {
+     "p": "El dinero de HPAP es limitado. Para el año fiscal 2026, DHCD dijo que ayudaría a los solicitantes por orden de llegada. El financiamiento y las reglas pueden cambiar cada año fiscal. El año fiscal de DC comienza el 1 de octubre, así que pregunta con anticipación a un consejero sobre el momento."
+    },
+    {
+     "h3": "Puertas Abiertas de DC"
+    },
+    {
+     "p": "DC Open Doors, de DCHFA, ofrece préstamos hipotecarios con ayuda con el enganche de viviendas en DC. Hasta septiembre de 2026, su sitio web decía:"
+    },
+    {
+     "ul": [
+      "Los compradores primerizos y recurrentes pueden usarlo, y ya no necesitas vivir en DC.",
+      "Hay un límite de ingresos, y el puntaje mínimo de crédito es 640.",
+      "Un préstamo de asistencia para el enganche puede cubrir todo tu pago inicial mínimo.",
+      "Ese préstamo tiene 0% de interés y no tiene pagos mensuales. Vence después de 30 años, o antes si vendes, refinancias o dejas de vivir en la casa."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s3",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "text",
+   "title": "Ayuda en Maryland y Virginia",
+   "body": [
+    {
+     "h3": "Programa Hipotecario de Maryland (MMP)"
+    },
+    {
+     "ul": [
+      "Los préstamos **Ventaja de Primera Vez** son para compradores primerizos. Esto incluye a personas que no han tenido una casa principal en los últimos tres años. Algunos veteranos y algunos compradores en ciertas áreas específicas también pueden calificar.",
+      "**Los préstamos flexibles** son para compradores primerizos o recurrentes.",
+      "La mayoría de los préstamos MMP incluyen ayuda con el enganche como préstamo diferido del 0%. En 2026, las opciones incluían un monto fijo de $6,000, o un monto igual a 3%, 4% o 5% de la primera hipoteca. Lo pagas cuando termina la primera hipoteca, por ejemplo cuando vendes o refinancias.",
+      "Si un socio aprobado, como algunos empleadores, te brinda ayuda, el MMP puede igualarlo con hasta $2,500 más en algunos préstamos.",
+      "Todo prestatario debe tomar una clase aprobada de educación para compradores de vivienda.",
+      "Existen préstamos especiales para compradores en los condados de Montgomery y Prince George's.",
+      "Solicitas a través de un prestamista aprobado por el MMP."
+     ]
+    },
+    {
+     "h3": "Vivienda en Virginia"
+    },
+    {
+     "ul": [
+      "Virginia Housing otorga préstamos hipotecarios a través de prestamistas aprobados, con límites de ingresos y precios.",
+      "**Su Subvención de Asistencia para el Pago Inicial** es una verdadera subvención, así que nunca la pagas. Es para compradores primerizos y para compradores recurrentes en ciertas áreas, que usan un préstamo hipotecario elegible en Virginia.",
+      "**Una Subvención de Asistencia para Costos de Cierre** puede ayudar a compradores que obtienen un préstamo VA o USDA a través de Virginia Housing. Tampoco se paga nunca.",
+      "Muchos préstamos hipotecarios en Virginia requieren su clase gratuita para compradores de vivienda. Puedes tomarla en persona o en línea. El curso en línea dura aproximadamente ocho horas."
+     ]
+    },
+    {
+     "p": "Algunos condados y ciudades de la región también tienen sus propios programas. Un consejero de vivienda aprobado por HUD puede decirte cuáles se adaptan a ti."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s4",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "text",
+   "title": "Reglas para revisar antes de contar con ayuda",
+   "body": [
+    {
+     "p": "Cada programa tiene sus propias reglas. Haz estas preguntas antes de hacer una oferta por una casa:"
+    },
+    {
+     "ul": [
+      "¿Cuál es el límite de ingresos para el tamaño de mi hogar?",
+      "¿Hay un límite en el precio de la casa?",
+      "¿Cómo define el programa a un comprador primerizo?",
+      "¿Debo vivir en la casa como mi hogar principal? ¿Por cuánto tiempo?",
+      "¿Se requiere una clase para compradores de vivienda? ¿Qué clases cuentan?",
+      "¿Qué puntaje mínimo de crédito y qué DTI máximo necesito?",
+      "¿Cuánto de mi propio dinero debo invertir?",
+      "¿Es una beca o un préstamo? Si es un préstamo, ¿cuándo debo pagarlo: cuando venda, refinancie, me mude o después de un número determinado de años?",
+      "¿Puedo combinarlo con otros programas?",
+      "¿Acepta compradores con mi estatus migratorio o con un ITIN?",
+      "¿Hay dinero disponible ahora y cuánto tarda la aprobación?",
+      "¿Qué prestamistas están aprobados para usar este programa?"
+     ]
+    },
+    {
+     "p": "Obtén las respuestas por escrito. Las reglas del programa y los montos cambian, a menudo al inicio de un nuevo año fiscal."
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s5",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "text",
+   "title": "Seguro hipotecario: primas PMI y FHA",
+   "body": [
+    {
+     "p": "Cuando pones una pequeña entrada, el prestamista asume más riesgos. El seguro hipotecario protege al prestamista si dejas de pagar. No te protege a ti, pero es lo que hace posible un enganche bajo."
+    },
+    {
+     "h3": "PMI en préstamos convencionales"
+    },
+    {
+     "p": "Con menos del 20% de enganche en un préstamo convencional, usualmente pagas un seguro hipotecario privado (PMI) como parte de tu pago mensual. La ley federal te ofrece dos formas principales de terminarlo:"
+    },
+    {
+     "ul": [
+      "Puedes pedirle a tu administrador por escrito que cancele el PMI cuando el saldo de tu préstamo esté programado para alcanzar el 80% del valor original de la casa. Necesitas un buen historial de pagos y debes cumplir con otras condiciones, como demostrar que la casa no ha perdido valor.",
+      "Tu administrador debe terminar el PMI automáticamente cuando tu saldo esté programado para alcanzar el 78% del valor original, si estás al corriente con tus pagos."
+     ]
+    },
+    {
+     "h3": "Seguro hipotecario FHA"
+    },
+    {
+     "p": "Los préstamos FHA cobran dos primes. A partir de septiembre de 2026, la prima inicial es del 1.75% del monto del préstamo, y puede agregarse al préstamo. También hay una prima anual, que se paga como parte de tu pago mensual. Para la mayoría de los compradores que ponen el 3.5%, la prima anual es del 0.55% del préstamo y dura durante toda la vida del préstamo. Si pones un 10% o más, termina después de 11 años. Algunos propietarios después refinancian a un préstamo convencional para dejar de pagarlo."
+    },
+    {
+     "formula": "$350,000 casa − $12,250 de enganche = $337,750 de préstamo; $337,750 × 0.55% ÷ 12 = aproximadamente $155 al mes al inicio"
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-s6",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "example",
+   "title": "Ejemplo trabajado: efectivo para cerrar una casa de $350,000",
+   "body": [
+    {
+     "p": "Mekdes trabaja en un hospital en DC. Está comprando un departamento de $350,000 en DC con un préstamo FHA y un enganche del 3.5%. Su estimación de préstamo muestra $10,500 en costos de cierre, incluyendo impuestos prepagados y seguro. (Los costos de cierre varían mucho. Esta cifra es solo un ejemplo.)"
+    },
+    {
+     "formula": "$350,000 × 3.5% = $12,250 de enganche"
+    },
+    {
+     "table": {
+      "caption": "Efectivo para cerrar en una casa de $350,000, con y sin ayuda (ejemplo)",
+      "head": [
+       "Ítem",
+       "Sin ayuda",
+       "Con un préstamo de asistencia para el enganche"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Pago inicial (3.5%)",
+        "$12,250",
+        "$12,250"
+       ],
+       [
+        "Costos de cierre y artículos prepagados",
+        "$10,500",
+        "$10,500"
+       ],
+       [
+        "Préstamo de asistencia para el pago inicial",
+        "$0",
+        "−$12,250"
+       ],
+       [
+        "Dinero que Mekdes debe traer",
+        "$22,750",
+        "$10,500"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "El préstamo de asistencia reduce su efectivo para cerrar más de la mitad. Pero no es dinero gratis. Con un programa como DC Open Doors, debe pagar los $12,250 cuando venda, refinancie o se mude, o después de 30 años. Si el vendedor acepta pagar parte de sus costos de cierre, necesitará aún menos efectivo. También debería planear guardar ahorros de emergencia después del cierre, en lugar de gastar cada dólar que tiene."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "down-payment-help-s7",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "warning",
+   "title": "No pagues por listas de dinero gratis",
+   "body": [
+    {
+     "p": "Algunos sitios web y personas que llaman prometen dinero gratis del gobierno para tu enganche si pagas una cuota primero. Otros piden tu número de Seguro Social o acceso bancario para verificar si calificas. Los programas reales en esta lección están listados gratis en sitios oficiales, y los consejeros aprobados por HUD pueden ayudarte a aplicar por poco o ningún costo. Nunca pagues por una lista de becas y nunca entregues tu usuario bancario a nadie."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "down-payment-help-s8",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "tip",
+   "title": "Haz la pregunta correcta a los prestamistas",
+   "body": [
+    {
+     "p": "Antes de elegir un prestamista, pregunta: \"¿Estás aprobado para otorgar préstamos con [nombre del programa]? ¿Cuántos de estos préstamos cerraste este año?\" Un prestamista que use el programa con frecuencia puede ayudarte a evitar retrasos."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "down-payment-help-takeaways",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Algunos préstamos requieren tan solo 3% o 3.5% de enganche, y los préstamos VA y USDA pueden no requerir enganche para compradores elegibles.",
+      "DC, Maryland y Virginia tienen programas que ayudan con el enganche o los costos de cierre. Muchos son préstamos que pagas cuando vendes, refinancias o te mudas.",
+      "Antes de elegir una casa, revisa el límite de ingresos de cada programa, la regla para compradores primerizos, el requisito de clase y las reglas de pago.",
+      "Con un préstamo convencional, puedes pedir cancelar el PMI cuando tu saldo esté programado para alcanzar el 80% del valor original de la casa.",
+      "El efectivo para cerrar es tu enganche más los costos de cierre, menos cualquier ayuda. Guarda también ahorros de emergencia después del cierre."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-quiz",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/down-payment-help/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "down-payment-help-links",
+   "type": "lesson",
+   "lesson": "down-payment-help",
+   "lessonTitle": "Ayuda con el pago inicial y tipos de préstamos en DC, Maryland y Virginia",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Programa de Asistencia para la Compra de Vivienda (HPAP)",
+       "u": "https://dhcd.dc.gov/service/home-purchase-assistance-program",
+       "org": "DC Department of Housing and Community Development (DHCD)",
+       "d": "Los préstamos sin intereses de DC para compradores primerizos de ingresos bajos y moderados, con tablas actuales de ingresos y asistencia."
+      },
+      {
+       "t": "Puertas Abiertas de DC",
+       "u": "https://www.dchfa.org/homeownership/dc-open-doors/",
+       "org": "DC Housing Finance Agency (DCHFA)",
+       "d": "Ayuda con préstamos hipotecarios con enganche para compradores primerizos y recurrentes que compran en DC."
+      },
+      {
+       "t": "Programa Hipotecario de Maryland",
+       "u": "https://mmp.maryland.gov/",
+       "org": "Maryland Department of Housing and Community Development",
+       "d": "Los préstamos hipotecarios de Maryland con ayuda con el enganche y los costos de cierre, además de herramientas para ingresos y límites de precio."
+      },
+      {
+       "t": "Vivienda en Virginia: compradores de vivienda",
+       "u": "https://www.virginiahousing.com/homebuyers",
+       "org": "Virginia Housing",
+       "d": "Los préstamos para compradores de vivienda por primera vez en Virginia, subsidios para el enganche y costos de cierre, y clases gratuitas para compradores de vivienda."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-intro",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "intro",
+   "title": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "body": [
+    {
+     "p": "Compara ofertas de préstamos línea por línea, entiende los bloqueos de tasas y la Declaración de Cierre, protege tu dinero de cierre contra fraudes electrónicos y busca ayuda temprano si te atrasas."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Compara dos estimaciones de préstamos línea por línea, incluyendo tasa, puntos, APR y costos de cierre.",
+      "Explica los bloqueos de tasa y la Declaración de Cierre que debes recibir tres días hábiles antes del cierre.",
+      "Protege tu dinero de cierre contra fraudes electrónicos.",
+      "Da los primeros pasos correctos si te atrasas con tu hipoteca y evita estafas de rescate en ejecuciones hipotecarias."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase practica la comparación de estimaciones de préstamos y cubre los pasos hasta el cierre. Esta lección agrega un ejemplo lado a lado con puntos, una lista de verificación para la semana de cierre, protección contra fraudes electrónicos y ayuda local si alguna vez te atrasas en los pagos."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-words",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Estimación de préstamo (Loan Estimate)",
+       "Un formulario de tres páginas que un prestamista debe entregarte dentro de los tres días hábiles posteriores a la solicitud. Muestra la tasa estimada, el pago mensual y los costos de cierre."
+      ],
+      [
+       "Divulgación de cierre (Closing Disclosure)",
+       "Un formulario de cinco páginas con los términos y costos finales de tu préstamo. Debes recibirlo al menos tres días hábiles antes del cierre."
+      ],
+      [
+       "Puntos de descuento (Discount points)",
+       "Una comisión inicial que pagas para obtener una tasa de interés más baja. Un punto cuesta el 1% del monto del préstamo."
+      ],
+      [
+       "APR (tasa anual porcentual) (APR (annual percentage rate))",
+       "El costo anual de un préstamo, incluyendo la tasa de interés más ciertas comisiones y puntos. Te ayuda a comparar ofertas."
+      ],
+      [
+       "Bloqueo de tasa (Rate lock)",
+       "La promesa del prestamista de retener tu tasa de interés por un tiempo determinado, como 30, 45 o 60 días, mientras terminas de comprar la casa."
+      ],
+      [
+       "Administrador hipotecario (Mortgage servicer)",
+       "La empresa que cobra tus pagos mensuales y maneja tu préstamo después del cierre. Puede que no sea el prestamista quien otorgó el préstamo."
+      ],
+      [
+       "Mitigación de pérdidas (Loss mitigation)",
+       "Opciones que un administrador puede ofrecer para ayudarte a evitar la ejecución hipotecaria, como un plan de pagos, una tolerancia o una modificación del préstamo."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s1",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "example",
+   "title": "Ejemplo trabajado: dos estimaciones de préstamo lado a lado",
+   "body": [
+    {
+     "p": "Binh y Thao están comprando una casa adosada en Falls Church, Virginia. Pedirán prestados $300,000 con un préstamo de tasa fija a 30 años. Un préstamo de tasa fija mantiene la misma tasa de interés para todo el préstamo. Un préstamo de tasa ajustable (ARM) puede cambiar su tasa después de un tiempo determinado, por lo que el pago puede aumentar. Dos prestamistas les enviaron estimaciones de préstamo. (Estas tasas son solo ejemplos, no las de hoy.)"
+    },
+    {
+     "table": {
+      "caption": "Dos estimaciones de préstamo para un préstamo de tasa fija a 300 años de $300,000 (ejemplo)",
+      "head": [
+       "Ítem",
+       "Oferta A",
+       "Oferta B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Tasa de interés",
+        "6.50%",
+        "6.25%"
+       ],
+       [
+        "Puntos de descuento",
+        "0 ($0)",
+        "1 ($3,000)"
+       ],
+       [
+        "Otras comisiones del prestamista",
+        "$1,200",
+        "$1,200"
+       ],
+       [
+        "APR (con estas tarifas)",
+        "alrededor del 6.54%",
+        "aproximadamente 6.38%"
+       ],
+       [
+        "Principal mensual e intereses",
+        "$1,896",
+        "$1,847"
+       ],
+       [
+        "Pagado en los primeros 5 años (pagos, puntos y cuotas)",
+        "$114,972",
+        "$115,029"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "formula": "$3,000 por el punto ÷ $49 ahorrados cada mes = aproximadamente 61 meses, o aproximadamente 5 años"
+    },
+    {
+     "p": "La Oferta B cuesta $3,000 más al cierre pero ahorra $49 al mes. Toma alrededor de cinco años recuperar el costo del punto. Después de cinco años, las dos ofertas han costado más o menos lo mismo. Si Binh y Thao planean mantener este préstamo por más tiempo, la Oferta B ahorra dinero. Si pueden vender o refinanciar antes, la Oferta A es la mejor opción y les deja más efectivo para emergencias."
+    },
+    {
+     "p": "También compara la APR. Incluye puntos y comisiones, así que te ayuda a comparar ofertas que tienen diferentes costos. La página 3 de cada Estimación de Préstamo también muestra cuánto habrás pagado en los primeros cinco años."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "closing-day-s2",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "text",
+   "title": "Compara al menos tres ofertas",
+   "body": [
+    {
+     "ol": [
+      "Pide al menos a tres prestamistas una Estimación de Préstamo, por ejemplo un banco, una cooperativa de crédito y una compañía hipotecaria. El prestamista debe enviarla dentro de los tres días hábiles posteriores a la solicitud.",
+      "Solicita en un corto plazo, como dos semanas. Los puntajes crediticios cuentan con varias verificaciones de crédito de prestamistas hipotecarios hechas juntas como una sola consulta. Dependiendo del puntaje, esa ventana es de 14 a 45 días.",
+      "Asegúrate de que cada estimación sea para el mismo tipo de préstamo, monto y pago inicial, para que puedas comparar de manera justa.",
+      "Compara la tasa de interés, puntos, APR, pagos mensuales, costos de cierre y efectivo para cerrar.",
+      "Pide a cada prestamista que explique cualquier comisión que no entiendas. Puedes preguntar: \"¿Puedes bajar esta comisión o igualar esta otra oferta?\"",
+      "En la página 1, revisa si hay **una penalización por pago anticipado** (una comisión por pagar el préstamo anticipadamente) o un **pago global** (un pago muy grande al final). La mayoría de los compradores deberían evitar ambos."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s3",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "text",
+   "title": "Bloqueos de tasa: qué aún puede cambiar",
+   "body": [
+    {
+     "p": "Las tasas hipotecarias cambian todos los días. Un bloqueo de tasa mantiene tu tasa por un tiempo determinado, a menudo 30, 45 o 60 días, siempre y cuando cierres a tiempo y nada cambie en tu solicitud. Pide el bloqueo por escrito."
+    },
+    {
+     "p": "Incluso con un bloqueo, tu tarifa o costos pueden cambiar si:"
+    },
+    {
+     "ul": [
+      "Cambias el tipo de préstamo o el monto de tu enganche,",
+      "La tasación (una estimación profesional del valor de la casa) es mayor o menor de lo esperado,",
+      "tu puntaje crediticio cambia, o",
+      "El prestamista no puede documentar parte de tus ingresos, como horas extra o bonos."
+     ]
+    },
+    {
+     "p": "Pregunta a tu prestamista: \"¿Cuánto dura mi candado? ¿Cuánto costará extenderlo si el cierre se retrasa?\" Las extensiones pueden ser caras."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s4",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "text",
+   "title": "La Divulgación de Cierre: Revísalo tres días antes del cierre",
+   "body": [
+    {
+     "p": "El prestamista debe entregarte la Divulgación de Cierre al menos tres días hábiles antes del cierre. (En el área de DC, el cierre a menudo se llama liquidación.) Usa esos días para compararlo con tu Estimación de Préstamo más reciente, línea por línea."
+    },
+    {
+     "h3": "Qué costos pueden cambiar"
+    },
+    {
+     "ul": [
+      "**No puede subir** (a menos que algo en tu solicitud o préstamo haya cambiado, o tu tasa aún no esté bloqueada): las comisiones pagadas al prestamista o corredor hipotecario, como puntos y comisiones de originación, tarifas por servicios requeridos que no te permitieron comprar, e impuestos de transferencia.",
+      "**Puede aumentar, pero no más del 10% en total:** comisiones de registro y comisiones por servicios requeridos cuando eliges un proveedor de la lista del prestamista.",
+      "**Puede variar en cualquier cantidad:** intereses prepagados, seguro de propietario, depósitos en garantía y servicios que el prestamista no requiere."
+     ]
+    },
+    {
+     "p": "Una cuenta de depósito en garantía es el dinero que tu administrador cobra con cada pago mensual para pagar tus impuestos a la propiedad y el seguro de tu hogar. Al cerrar normalmente pones algo de dinero para iniciarla."
+    },
+    {
+     "p": "Si una comisión sube más de lo que permiten las reglas y no cambia nada, tienes derecho a un reembolso del monto extra. Algunos cambios también te dan un nuevo periodo de espera de tres días: la APR de un préstamo a tasa fija aumenta más de 1/8 de punto porcentual, se añade una penalización por pago anticipado, o el tipo de préstamo cambia, por ejemplo, de fijo a ajustable."
+    },
+    {
+     "h3": "Lista de verificación para la semana de cierre"
+    },
+    {
+     "ul": [
+      "Compara la Declaración de Cierre con tu Estimación de Préstamo: monto del préstamo, tasa, pago mensual, puntos, comisiones y efectivo para cerrar.",
+      "Pregunta al prestamista sobre cada diferencia antes del día del cierre.",
+      "Contrata un seguro para propietarios de vivienda. Los prestamistas lo requieren.",
+      "Confirma cómo pagar tu efectivo para cerrar llamando a un número telefónico en el que ya confíes.",
+      "Haz un recorrido final: visita la casa para verificar que esté en las condiciones que acordaste.",
+      "Lleva una identificación con foto. Si necesitas un intérprete, consigue uno con anticipación o lleva a alguien de confianza.",
+      "No firmes nada que no entiendas, y nunca firmes páginas en blanco. Guarda copias de todo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s5",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "warning",
+   "title": "Fraude electrónico: revisa antes de enviar",
+   "body": [
+    {
+     "p": "Una compañía de títulos o un abogado de liquidación se encarga del cierre. Verifica que el vendedor realmente sea dueño de la casa, cobra tu efectivo para cerrar y paga a todos. Por eso los estafadores fingen ser ellos."
+    },
+    {
+     "p": "Los estafadores entran o copian cuentas de correo electrónico. Unos días antes del cierre, envían un mensaje que parece ser de tu compañía de títulos, abogado de liquidación o agente. Dice que las instrucciones de transferencia han cambiado. Si envías dinero al estafador, puede ser muy difícil recuperarlo."
+    },
+    {
+     "ol": [
+      "Al principio del proceso, anota los nombres y números telefónicos de tu agente de liquidación y del oficial de préstamos. Obtén los números de tu contrato o de una reunión, no de un correo electrónico.",
+      "Antes de enviar dinero, llama a la compañía de títulos o al abogado de liquidación en ese número. Confirma el número de cuenta y el monto en voz alta.",
+      "Trata cualquier mensaje sobre nuevas instrucciones de pago como una señal de advertencia, aunque parezca real. No uses números telefónicos ni enlaces en ese mensaje.",
+      "Si ya enviaste dinero, llama a tu banco de inmediato y pídele que detenga o retire la transferencia. Luego repórtalo al FBI en [ic3.gov](https://www.ic3.gov/)."
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "closing-day-s6",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "text",
+   "title": "Si te atrasas con los pagos",
+   "body": [
+    {
+     "p": "Menos horas de trabajo, un despido o una factura médica pueden dificultar el pago. El paso más importante es actuar con anticipación. La ejecución hipotecaria es el proceso legal que un prestamista utiliza para tomar y vender tu casa cuando dejas de pagar la hipoteca. Generalmente, el proceso de ejecución hipotecaria no puede comenzar hasta que lleves más de 120 días de retraso. Aprovecha ese tiempo."
+    },
+    {
+     "ol": [
+      "Llama a tu administrador tan pronto como sepas que podrías atrasar un pago. El número de teléfono está en tu estado de cuenta mensual.",
+      "Pregunta sobre opciones **de mitigación de pérdidas** , como un plan de pago, una tolerancia (una pausa corta o pagos más bajos) o una modificación del préstamo (un cambio duradero en los términos de tu préstamo).",
+      "Envía una solicitud completa rápidamente. Si tu administrador la recibe antes de que comience la ejecución hipotecaria, generalmente debe revisarla antes de que pueda iniciar la ejecución.",
+      "Llama a un consejero de vivienda aprobado por HUD al 800-569-4287. Ellos pueden ayudarte con la solicitud, a menudo de forma gratuita.",
+      "Abre todas las cartas de tu administrador y del tribunal. Si pierdes una fecha límite, puedes perder algunas opciones."
+     ]
+    },
+    {
+     "quote": "Hola, mi nombre es [tu nombre]. Mi número de préstamo es [número de préstamo]. Mis ingresos cayeron en [fecha] por [razón]. Quiero conservar mi casa, pero puede que no pueda pagar mi pago en [fecha de vencimiento]. ¿Qué opciones de mitigación de pérdidas tengo? Por favor envíame una solicitud y dime todos los documentos que necesitas y la fecha límite. ¿Me puedes dar tu nombre y un número de referencia para esta llamada?"
+    },
+    {
+     "h3": "Ayuda local"
+    },
+    {
+     "ul": [
+      "**DC:** llama a la Línea Directa de Prevención de Ejecuciones Hipotecarias al (202) 265-2255. Después de recibir un aviso de incumplimiento, puedes usar el Programa de Mediación de Ejecuciones Hipotecarias en DC, donde tú y tu prestamista se reúnen con un mediador neutral. Legal Aid DC DC y el Centro Pro Bono del Colegio de Abogados de DC ofrecen ayuda legal gratuita a personas que califican.",
+      "**Maryland:** llama a la línea de asistencia para propietarios al 1-877-462-7555. Maryland también cuenta con mediación de ejecuciones hipotecarias para las personas que viven en la casa. Debes solicitarla al tribunal dentro de los 25 días posteriores a recibir los documentos judiciales que inician la ejecución, y hay una tarifa. Maryland Legal Aid ayuda a las personas que califican.",
+      "**Virginia:** llama temprano a un consejero aprobado por HUD. Servicios Legales del Norte de Virginia ayudan a las personas que califican."
+     ]
+    },
+    {
+     "p": "Para más pasos cuando los ingresos disminuyen, consulta [Cuando se detienen los ingresos: Tus primeros 30 días](https://dollarscholars.org/es-mx/resources/lessons/income-shock/)."
+    }
+   ]
+  },
+  {
+   "id": "closing-day-s7",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "warning",
+   "title": "Estafas de rescate en ejecuciones hipotecarias",
+   "body": [
+    {
+     "p": "Las personas que se atrasan a menudo reciben llamadas, cartas y visitas de empresas que prometen salvar su hogar. Algunos dicen que trabajan con el gobierno o con tu prestamista. Presta atención a estas señales de advertencia:"
+    },
+    {
+     "ul": [
+      "Piden una tarifa antes de hacer cualquier cosa. Bajo las reglas federales, una empresa generalmente no puede cobrarte hasta que tengas una oferta por escrito de tu prestamista y la aceptes.",
+      "Te dicen que dejes de hablar con tu administrador, o que les envíes los pagos de la hipoteca.",
+      "Te piden que firmes la escritura (el papel que muestra quién es el dueño de la casa). Si lo haces, puedes perder tu casa y aún debes la hipoteca.",
+      "Quieren pago por transferencia bancaria, cheque de caja o una aplicación de pago."
+     ]
+    },
+    {
+     "p": "La ayuda de tu administrador y de consejeros aprobados por HUD es gratuita o de bajo costo. Reporta las estafas a la FTC [en ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) o al fiscal general de tu estado. Consulta también nuestra lección sobre [cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "closing-day-s8",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "tip",
+   "title": "Mantén un archivo en casa",
+   "body": [
+    {
+     "p": "Mantén tu estimación de préstamo, divulgación de cierre, escritura y póliza de seguro juntos. Cada año, lee tu estado de cuenta en garantía. Tu cuenta de depósito en garantía es el dinero que tu administrador cobra cada mes para pagar impuestos prediales y seguros. Si los impuestos o el seguro aumentan, tu pago mensual también puede aumentar."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "closing-day-takeaways",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Obtén estimaciones de préstamos de al menos tres prestamistas en aproximadamente dos semanas. Los puntajes crediticios cuentan las verificaciones de crédito hipotecarias hechas juntas como una sola consulta.",
+      "Los puntos reducen tu tarifa pero cuestan en efectivo ahora. Divide el costo entre el ahorro mensual para ver cuánto tiempo tarda en recuperarlo.",
+      "Debes obtener la Declaración de Cierre al menos tres días hábiles antes del cierre. Compárala con tu Estimación de Préstamo.",
+      "Antes de enviar el dinero del cierre, llama a tu compañía de títulos o a tu abogado de liquidación a un número telefónico que ya conozcas.",
+      "Si puedes atrasarte un pago, llama a tu administrador y a un consejero aprobado por HUD de inmediato. Nunca pagues tarifas anticipadas para salvar tu casa."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "closing-day-quiz",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/closing-day/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "closing-day-links",
+   "type": "lesson",
+   "lesson": "closing-day",
+   "lessonTitle": "Desde la estimación del préstamo hasta el día del cierre (y conservar tu casa)",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Estafas de alivio para deudores hipotecarios",
+       "u": "https://consumidor.ftc.gov/articulos/estafas-de-alivio-para-deudores-hipotecarios",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La versión en español de la guía de la FTC sobre estafas de alivio hipotecario."
+      },
+      {
+       "t": "Explicación de estimación de préstamo",
+       "u": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Un ejemplo de Estimación de Préstamo en la que puedes hacer clic para ver qué significa cada línea y qué debes revisar."
+      },
+      {
+       "t": "Estafas de alivio hipotecario",
+       "u": "https://consumer.ftc.gov/articles/mortgage-relief-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Señales de advertencia de estafas de rescate en ejecuciones hipotecarias, la regla contra cargos por adelantado y dónde obtener ayuda gratuita."
+      },
+      {
+       "t": "Prevención de ejecuciones hipotecarias",
+       "u": "https://disb.dc.gov/service/foreclosure-prevention",
+       "org": "DC Department of Insurance, Securities and Banking (DISB)",
+       "d": "La línea directa de prevención de ejecuciones hipotecarias de DC, el Programa de Mediación de Ejecuciones Hipotecarias y otra ayuda para propietarios de viviendas en DC."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

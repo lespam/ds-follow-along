@@ -1,0 +1,1217 @@
+{
+ "id": "tema-02",
+ "title": "Tema 2: Conceptos Básicos de Banca: Cuentas que Funcionan para Ti",
+ "summary": "Cómo abrir una cuenta (incluso sin SSN), comparar bancos, cooperativas de crédito, aplicaciones y cobradores de cheques, y enviar dinero al extranjero de manera segura y económica.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "open-an-account",
+   "title": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "summary": "Qué llevar, qué cuentas pedir y qué hacer si te han rechazado antes.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "where-to-bank",
+   "title": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "summary": "Cómo saber si tu dinero realmente está asegurado y cuánto cuestan los servicios monetarios cotidianos durante un año.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "sending-money-abroad",
+   "title": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "summary": "Cómo encontrar el costo real de una transferencia internacional, tus derechos federales y cómo detectar estafas que te piden enviar dinero al extranjero.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "open-an-account-intro",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "intro",
+   "title": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "body": [
+    {
+     "p": "Qué llevar, qué cuentas pedir y qué hacer si te han rechazado antes."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Enumera los tipos de identificación que los bancos y cooperativas de crédito pueden aceptar, como pasaporte, identificación consular o ITIN.",
+      "Encuentra cuentas de bajo costo, como cuentas certificadas Bank On.",
+      "Explica qué hacer si un banco te rechaza por tu historial bancario.",
+      "Prepara preguntas para hacer antes de abrir una cuenta."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre qué suelen pedir los bancos y cómo funcionan los reportes de historial bancario. Esta lección te da una lista de verificación de documentos, te muestra cómo encontrar cuentas Bank On de bajo costo y te guía para obtener y disputar tu reporte de ChexSystems."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-words",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "ITIN",
+       "Número de identificación de contribuyente individual. Un número fiscal de 9 dígitos del IRS para personas que lo necesitan pero no pueden obtener un número de Seguro Social."
+      ],
+      [
+       "Identificación Consular (Consular ID)",
+       "Una tarjeta de identificación que la embajada o consulado de tu país de origen entrega a sus ciudadanos que viven en otro país, como la matrícula consular mexicana."
+      ],
+      [
+       "Reporte de historial bancario (Banking history report)",
+       "Un informe sobre cómo usaste cuentas bancarias y de cooperativas de crédito en el pasado. Los bancos lo usan para decidir si abren una cuenta para ti. ChexSystems es la empresa más conocida que hace estos reportes."
+      ],
+      [
+       "Aviso de acción adversa (Adverse action notice)",
+       "Un aviso que un banco debe darte cuando te rechaza por un reporte. Nombra a la empresa que hizo el reporte."
+      ],
+      [
+       "Banco en cuenta certificada (Bank On certified account)",
+       "Una cuenta de bajo costo en un banco o cooperativa de crédito que cumpla con los estándares nacionales establecidos por el programa Bank On sin fines de lucro, como que no haya comisiones por sobregiro."
+      ],
+      [
+       "Cuenta de segunda oportunidad (Second chance account)",
+       "Una cuenta para personas que tuvieron problemas con una cuenta bancaria en el pasado. Puede tener menos funciones o una pequeña cuota mensual."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s1",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "text",
+   "title": "Por qué una cuenta te ahorra dinero",
+   "body": [
+    {
+     "p": "Conozcan a Rosa. Limpia oficinas en el centro de DC y recibe un cheque en papel cada dos semanas. Cobra cada cheque en una tienda cerca de su departamento en Columbia Heights, y la tienda se queda con parte de cada cheque como una tarifa. Luego compra giros postales para pagar su renta y recibo telefónico, y paga una tarifa por cada giro postal."
+    },
+    {
+     "p": "Una cuenta de cheques puede eliminar la mayoría de estos costos. Con una cuenta en un banco o cooperativa de crédito, puedes:"
+    },
+    {
+     "ul": [
+      "Recibe tu pago por depósito directo. El dinero llega el día de pago, y no pagas nada para cobrar un cheque.",
+      "Paga tus cuentas en línea o con tarjeta de débito en lugar de comprar giros postales.",
+      "Mantén tu dinero más seguro. El efectivo en casa puede perderse o ser robado. El dinero en un banco o cooperativa de crédito asegurada está protegido hasta el límite del seguro, incluso si el banco o cooperativa de crédito quiebran.",
+      "Construye un historial con un banco. Esto puede ayudar más adelante cuando necesites un préstamo, una tarjeta de crédito o una casa."
+     ]
+    },
+    {
+     "p": "Para ver cuánto puede costar el cobro de cheques en un año, lee [Bancos, Cooperativas de Crédito, Apps y Cobradores de Cheques](https://dollarscholars.org/es-mx/resources/lessons/where-to-bank/)."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s2",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "text",
+   "title": "Qué llevar",
+   "body": [
+    {
+     "p": "Las reglas federales dicen que un banco o cooperativa de crédito debe recopilar tu nombre, fecha de nacimiento, dirección y número de identificación, y debe verificar quién eres. Cada banco decide qué documentos acepta, así que las reglas no son las mismas en todas partes. Llama primero y pregunta."
+    },
+    {
+     "h3": "Un número de identificación"
+    },
+    {
+     "ul": [
+      "Un número de Seguro Social (SSN), si tienes uno.",
+      "Un ITIN del IRS, si no puedes obtener un SSN. Lleva la carta del IRS que muestre tu ITIN.",
+      "Si no tienes ninguno, algunos bancos aceptan el número en tu pasaporte u otra identificación gubernamental."
+     ]
+    },
+    {
+     "p": "Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN. Algunos pueden pedir más documentos o decir que no, así que pregunta antes de solicitar."
+    },
+    {
+     "h3": "Una identificación con foto"
+    },
+    {
+     "ul": [
+      "Una licencia de conducir de EE. UU. o una tarjeta de identificación estatal",
+      "Un pasaporte de cualquier país",
+      "Una tarjeta de identificación consular de la embajada o consulado de tu país",
+      "Una tarjeta de residente permanente de EE. UU. (green card) o un permiso de trabajo"
+     ]
+    },
+    {
+     "p": "DC, Maryland y Virginia ofrecen cada uno una licencia de conducir o tarjeta de identificación para algunos residentes que no pueden demostrar estatus migratorio legal. Estas tarjetas no pueden usarse para fines federales, como abordar un avión. Algunos bancos las aceptan como identificación. Pregunta antes de irte."
+    },
+    {
+     "h3": "Comprobante de dirección"
+    },
+    {
+     "p": "Muchos bancos también piden comprobante de dónde vives, como un contrato de arrendamiento, una factura de servicios o una carta de una oficina gubernamental. Si no hay facturas a tu nombre, pregunta qué más acepta el banco."
+    },
+    {
+     "h3": "Dinero para el primer depósito"
+    },
+    {
+     "p": "Algunas cuentas necesitan $25 o menos para abrirse. Otras necesitan más. Pregunta cuánto antes de irte."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s3",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "text",
+   "title": "Busca una cuenta certificada bancaria",
+   "body": [
+    {
+     "p": "Bank On es un programa nacional operado por una organización sin fines de lucro, el Fondo de Ciudades para el Empoderamiento Financiero. Certifica cuentas de bajo costo en bancos y cooperativas de crédito. Bajo los Estándares de Bank On National Account para 2025–2026, una cuenta certificada debe tener:"
+    },
+    {
+     "ul": [
+      "Un depósito inicial de $25 o menos",
+      "Una cuota mensual de $5 o menos, o hasta $10 si hay al menos dos formas fáciles de evitarlo, como el depósito directo",
+      "No hay comisiones por sobregiro ni comisiones por pagos devueltos porque no había suficiente dinero. Un sobregiro ocurre cuando gastas más de lo que tienes en tu cuenta y el banco lo paga de todos modos. Muchos bancos luego cobran una comisión cada vez.",
+      "No hay comisiones por saldo bajo o por no usar la cuenta",
+      "Una tarjeta de débito gratuita, depósito directo gratuito y depósitos gratuitos en efectivo y cheques"
+     ]
+    },
+    {
+     "p": "Los estándares también fomentan fuertemente que los bancos acepten un ITIN y documentos como una identificación consular, y que rechacen a las personas solo por fraude pasado, no por sobregiros antiguos. No todas las cuentas certificadas hacen esto, así que pregunta. Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN."
+    },
+    {
+     "p": "Busca cuentas certificadas por estado en [joinbankon.org](https://joinbankon.org/accounts/). En DC, el Departamento de Seguros, Valores y Banca (DISB) administra Bank On DC con bancos locales y organizaciones sin fines de lucro. Visita [bankondc.org](https://bankondc.org/) o llama al (202) 727-8000. En Maryland, la organización sin fines de lucro CASH Campaign of Maryland lidera Bank On Maryland."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s4",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "text",
+   "title": "Si un banco te rechaza",
+   "body": [
+    {
+     "p": "La mayoría de los bancos revisan un reporte de historial bancario antes de abrir una cuenta. Las dos principales empresas que hacen estos reportes son ChexSystems y Early Warning Services. Un reporte puede mostrar una cuenta antigua que se cerró con dinero adeudado, como un sobregiro impago. También puede mostrar sospecha de fraude."
+    },
+    {
+     "p": "Si un banco te rechaza por un reporte, debe darte un aviso, llamado aviso de acción adversa, que nombre a la empresa. Luego sigue estos pasos:"
+    },
+    {
+     "ol": [
+      "**Obtén tu reporte gratis.** Puedes recibir un reporte gratuito cada 12 meses de cada empresa. También puedes obtener un reporte gratuito dentro de los 60 días después de que un banco te rechace la oferta. Para contactar a ChexSystems, ve a chexsystems.com o llama al 800-428-9623.",
+      "**Lee cada línea.** Busca cuentas que no sean tuyas, montos incorrectos y deudas que ya pagaste.",
+      "**Disputa errores por escrito.** Envía tu disputa a la empresa del informe. También envía una copia al banco que dio la información incorrecta. Incluye copias, no originales, de recibos o cartas que prueben el error. Guarda una copia de todo lo que envíes.",
+      "**Espera la respuesta.** Bajo la ley federal, la empresa generalmente tiene 30 días para investigar y debe corregir la información incorrecta.",
+      "**Si la deuda es real,** contacta al banco que debes. Pregunta si puedes pagarla o haz un plan de pagos. Pide al banco que reporte la deuda como pagada cuando termines. Consigue el acuerdo por escrito."
+     ]
+    },
+    {
+     "h3": "Ejemplo de carta de disputa"
+    },
+    {
+     "quote": "[Fecha] Chex Systems, Inc., Atención: Relaciones con el Consumidor, P.O. Box 583399, Minneapolis, MN 55458 Mi nombre es [tu nombre completo]. Mi fecha de nacimiento es [fecha]. Mi dirección es [tu dirección]. [Agrega aquí tu número de seguro social o ITIN si tienes uno.] Estoy disputando este elemento en mi reporte: [nombre del banco], número de cuenta [número], reportado en [fecha]. Esta información es incorrecta porque [explica por qué]. He incluido copias de [recibos, cartas o estados de cuenta]. Por favor, investiga, corrija o elimina este artículo, y envíame una copia actualizada de mi reporte. Atentamente, [tu nombre]"
+    },
+    {
+     "h3": "Si el informe es correcto"
+    },
+    {
+     "p": "Aún tienes opciones. Muchos bancos y cooperativas de crédito ofrecen cuentas de segunda oportunidad para personas con problemas pasados. Estas cuentas pueden tener una pequeña comisión mensual o menos funciones, pero te permiten empezar de nuevo. Después de un año de uso cuidadoso, pregunta si puedes cambiar a una cuenta regular. Los problemas antiguos también importan menos con el tiempo. Algunas compañías de reportes no usan información que tenga más de cinco años."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s5",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "example",
+   "title": "Compara el costo anual de dos cuentas",
+   "body": [
+    {
+     "p": "Rosa compara dos cuentas. Espera quedarse con unos $400 en su nueva cuenta y sobregirarlo unas dos veces al año. Estas comisiones son ejemplos. Las comisiones reales varían según el banco."
+    },
+    {
+     "ul": [
+      "**Cuenta A:** una cuota mensual de $12 a menos que mantengas al menos $1,500 en la cuenta, y $35 por cada sobregiro.",
+      "**Cuenta B (certificada por Bank On):** una cuota mensual de $5 y sin cargos por sobregiro. Si Rosa no tiene suficiente dinero, su compra con tarjeta de débito es rechazada."
+     ]
+    },
+    {
+     "table": {
+      "caption": "Un año de cuotas para Rosa (ejemplo de cuotas)",
+      "head": [
+       "Costo",
+       "Cuenta A",
+       "Cuenta B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Cuotas mensuales por 12 meses",
+        "$144",
+        "$60"
+       ],
+       [
+        "Comisiones por 2 sobregiros",
+        "$70",
+        "$0"
+       ],
+       [
+        "Total del año",
+        "$214",
+        "$60"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "formula": "$214 − $60 = $154 ahorrados en un año con la Cuenta B"
+    },
+    {
+     "p": "La cuenta A se ve normal, pero Rosa no podrá mantener $1,500, así que pagaría la comisión cada mes. Siempre compara las comisiones según cómo usas realmente tu cuenta."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "open-an-account-s6",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "text",
+   "title": "Preguntas para hacer antes de firmar",
+   "body": [
+    {
+     "p": "Lleva esta lista contigo. Pide la lista de tarifas por escrito y léela en casa antes de decidir."
+    },
+    {
+     "ul": [
+      "¿Hay una cuota mensual? ¿Cómo puedo evitarlo?",
+      "¿Hay un saldo mínimo? ¿Qué pasa si bajo?",
+      "¿Cuánto dinero necesito para abrir la cuenta?",
+      "¿Cobras comisiones por sobregiro? ¿Tienes una cuenta sin comisiones por sobregiro?",
+      "¿Dónde están tus cajeros automáticos gratuitos? ¿Cuánto cuesta usar el cajero automático de otro banco?",
+      "¿Cuándo puedo usar el dinero de un cheque que deposito?",
+      "¿Puedo depositar efectivo? ¿Dónde?",
+      "¿Existe alguna app móvil? ¿Puedo recibir una alerta por mensaje de texto cuando mi saldo esté bajo?",
+      "¿Tienes personal, formularios o una app en mi idioma?",
+      "¿Esta cuenta está asegurada por la FDIC o por la NCUA?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s7",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "warning",
+   "title": "Nunca dejes que alguien más use tu cuenta",
+   "body": [
+    {
+     "p": "Un desconocido, un nuevo amigo en línea o un empleador falso pueden ofrecerte dinero para depositar un cheque en tu cuenta y enviarte parte de regreso. O pueden pedirte tu tarjeta de débito y PIN, o tu contraseña de banca en línea. Di que no."
+    },
+    {
+     "p": "Si el cheque es falso, el banco recuperará el dinero de tu cuenta, muchas veces semanas después. Deberás cualquier dinero que ya hayas gastado o enviado. El banco puede cerrar tu cuenta y reportarte a ChexSystems. Eso puede dificultar abrir una cuenta en cualquier lugar durante años."
+    },
+    {
+     "p": "Si esto te pasó, llama a tu banco ahora y repórtalo en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/). Aprende más en nuestra lección sobre [cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "open-an-account-s8",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "tip",
+   "title": "Llama a la sucursal antes de irte",
+   "body": [
+    {
+     "p": "Puedes decir: \"Tengo una carta ITIN y un pasaporte de Guatemala. ¿Puedo abrir una cuenta de cheques con esto? ¿Tienes una cuenta bancaria en onda?\" Anota el nombre de la persona con la que hablaste. Lleva documentos originales, no copias."
+    },
+    {
+     "p": "¿Quieres ayuda gratis? En DC, la Oficina de Empoderamiento y Educación Financiera del DISB ofrece educación financiera gratuita. Llama al (202) 727-8000. En Maryland, la Campaña CASH de Maryland ofrece asesoría financiera gratuita."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "open-an-account-takeaways",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "No siempre necesitas un número de Seguro Social. Muchos bancos aceptan un ITIN, un pasaporte o una identificación consular, pero las reglas varían, así que llama primero.",
+      "Las cuentas certificadas bancarias no tienen comisiones por sobregiro, un depósito inicial bajo y bajas o nulas comisiones mensuales.",
+      "Si un banco te rechaza, averigua qué empresa hizo el reporte, obtén tu copia gratuita y disputa cualquier error.",
+      "Compara las comisiones según cómo usas realmente una cuenta y pide la lista de comisiones por escrito.",
+      "Nunca dejes que nadie más use tu cuenta. Puede costarte dinero y a tu cuenta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-quiz",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/open-an-account/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-links",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Abrir una cuenta bancaria, incluso sin un número de seguro social",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "¡Abra una cuenta de banco!",
+       "u": "https://www.fdic.gov/espanol/getbanked-esp",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "La versión en español de la guía de la FDIC para abrir una cuenta bancaria."
+      },
+      {
+       "t": "Haz bancarrota",
+       "u": "https://www.fdic.gov/getbanked",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "Qué llevar para abrir una cuenta, incluyendo opciones de identificación para personas sin número de Seguro Social y opciones de cuentas de bajo costo."
+      },
+      {
+       "t": "Encuentra un banco en cuenta certificada",
+       "u": "https://joinbankon.org/accounts/",
+       "org": "Cities for Financial Empowerment Fund (nonprofit)",
+       "d": "Busca por estado cuentas bancarias y cooperativas de crédito de bajo costo que cumplan con los estándares nacionales del banco."
+      },
+      {
+       "t": "¿Por qué me negaron una cuenta de cheques?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/why-was-i-denied-a-checking-account-en-1113/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Tus derechos después de una negación, cómo obtener tu reporte gratuito de historial bancario y opciones como cuentas de segunda oportunidad."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-intro",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "intro",
+   "title": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "body": [
+    {
+     "p": "Cómo saber si tu dinero realmente está asegurado y cuánto cuestan los servicios monetarios cotidianos durante un año."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Marca la diferencia entre bancos asegurados por FDIC, cooperativas de crédito aseguradas por NCUA y aplicaciones que no son bancos.",
+      "Verifica si tu dinero está asegurado y explica qué puede pasar si la empresa intermediaria de una app falla.",
+      "Calcula el costo anual del cobro de cheques y las comisiones de tarjetas prepagadas y compáralo con una cuenta de bajo costo.",
+      "Usa pasos sencillos para evitar comisiones por sobregiro y otras comisiones comunes en la cuenta."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase compara bancos, cooperativas de crédito y otros proveedores, y explica qué es el seguro de depósitos. Esta lección te muestra cómo verificar que tu propio dinero esté asegurado, suma cuánto cuestan el cobro de cheques y las tarjetas prepagadas en un año, y te da una lista para evitar comisiones."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-words",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Seguro de depósitos (Deposit insurance)",
+       "Protección gubernamental que devuelva tu dinero, hasta cierto límite, si un banco o cooperativa de crédito asegurada falla."
+      ],
+      [
+       "FDIC",
+       "Corporación Federal de Seguro de Depósitos. La agencia estadounidense que asegura los depósitos en los bancos."
+      ],
+      [
+       "NCUA",
+       "Administración Nacional de Cooperativas de Crédito. La agencia estadounidense que asegura los depósitos en cooperativas de crédito aseguradas federalmente."
+      ],
+      [
+       "Empresa fintech (Fintech company)",
+       "Una empresa tecnológica que ofrece servicios de dinero a través de una aplicación o sitio web. Muchos no son bancos y guardan tu dinero en un banco asociado."
+      ],
+      [
+       "Sobregiro (Overdraft)",
+       "Cuando gastas más dinero del que tienes en tu cuenta y el banco lo paga de todos modos. Los bancos suelen cobrar una comisión por esto."
+      ],
+      [
+       "Tarjeta prepago (Prepaid card)",
+       "Una tarjeta que cargas con dinero antes de usarla. Solo gastas el dinero que tienes en la tarjeta."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s1",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "text",
+   "title": "¿Quién protege tu dinero",
+   "body": [
+    {
+     "p": "Cuando guardas dinero en un banco o cooperativa de crédito asegurada, el seguro de depósitos lo protege. Si el banco o cooperativa de crédito quiebra, el gobierno te paga, hasta el límite. Dos agencias estadounidenses hacen esto:"
+    },
+    {
+     "ul": [
+      "**La FDIC** (Corporación Federal de Seguro de Depósitos) asegura los depósitos en los bancos.",
+      "**La NCUA** (Administración Nacional de Cooperativas de Crédito) asegura los depósitos en las cooperativas de crédito aseguradas federalmente."
+     ]
+    },
+    {
+     "p": "Ambos cubren hasta $250,000 por persona, por banco asegurado o cooperativa de crédito, para cada tipo de propiedad de cuenta. Por ejemplo, una cuenta solo a tu nombre y una cuenta conjunta con tu cónyuge son dos tipos de propiedad diferentes. Desde que la FDIC comenzó en 1933, ningún depositante ha perdido dinero asegurado por la FDIC."
+    },
+    {
+     "p": "El seguro cubre cuentas de cheques, cuentas de ahorro, cuentas de depósito del mercado monetario y certificados de depósito (CDs). **No** cubre acciones, bonos, fondos mutuos, anualidades, seguros de vida, criptomonedas ni lo que guardes en una caja de seguridad, incluso si los compraste en un banco."
+    },
+    {
+     "p": "Los cobradores de cheques, casas de empeño y prestamistas de día de pago no son bancos y no ofrecen seguro de depósitos. El efectivo en casa tampoco está asegurado."
+    },
+    {
+     "p": "Para revisar un banco, usa [FDIC BankFind](https://banks.data.fdic.gov/bankfind-suite/bankfind). Para revisar una cooperativa de crédito, usa el [Localizador de Cooperativas de Crédito de la NCUA](https://mapping.ncua.gov/)."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s2",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "text",
+   "title": "Muchas apps no son bancos",
+   "body": [
+    {
+     "p": "Muchas personas usan aplicaciones para recibir pagos, ahorrar o enviar dinero. Algunas de estas aplicaciones parecen bancos. Pero muchas son operadas por empresas tecnológicas, a menudo llamadas fintech. La FDIC no asegura a las empresas que no son bancos."
+    },
+    {
+     "p": "Muchas apps mantienen tu dinero en un banco asociado. Tu dinero puede estar asegurado si realmente está en un banco asegurado por la FDIC y los registros muestran cuánto te pertenece. Esto se llama seguro de paso. Pero el seguro solo paga si el banco socio quiebra. No te protege si la empresa de apps, o una empresa intermediaria entre la app y el banco, falla."
+    },
+    {
+     "p": "Esto realmente sucedió. En abril de 2024, una empresa intermediaria llamada Synapse se declaró en bancarrota. Sus registros no coincidían con los registros de sus bancos socios. Miles de personas que usaban aplicaciones conectadas a Synapse no pudieron acceder a su dinero durante semanas o meses."
+    },
+    {
+     "h3": "Cómo revisar una app"
+    },
+    {
+     "ol": [
+      "Lee los términos de la aplicación o la letra pequeña al final de su sitio web. Encuentra el nombre del banco socio. Puedes ver palabras como \"Servicios bancarios proporcionados por [nombre del banco], miembro FDIC.\"",
+      "Busca ese banco en FDIC BankFind para asegurarte de que está asegurado.",
+      "Pregunta a la app: ¿Qué pasa con mi dinero si tu empresa quiebra? ¿Cuánto tiempo tomaría recuperarlo?",
+      "Si no estás seguro, llama a la FDIC al 1-877-ASK-FDIC (1-877-275-3342).",
+      "Guarda solo lo que necesitas para gastos diarios en una app. Guarda tus ahorros directamente en una cuenta en un banco asegurado o cooperativa de crédito."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s3",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "example",
+   "title": "¿Qué cuesta cobrar cheques en un año?",
+   "body": [
+    {
+     "p": "Marcus trabaja en un restaurante en Hyattsville, Maryland. Recibe un cheque de pago en papel de $1,000 dos veces al mes. Lo cobra en una tienda de cambio de cheques que cobra el 2% de cada cheque. También compra tres giros postales al mes para pagar renta, electricidad y su recibo telefónico. Las tarifas varían según la tienda y el estado. Estas son tarifas de ejemplo."
+    },
+    {
+     "table": {
+      "caption": "Un año de costos: cheque Casher comparado con una cuenta de bajo costo (ejemplo de comisiones)",
+      "head": [
+       "Costo",
+       "Revisa Casher",
+       "Cuenta de bajo costo"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Cobrar 24 cheques de pago ($20 cada uno)",
+        "$480",
+        "$0 (depósito directo)"
+       ],
+       [
+        "36 giros postales ($1.50 cada uno)",
+        "$54",
+        "$0 (pago gratuito de cuentas en línea)"
+       ],
+       [
+        "Cuota mensual de cuenta ($5 × 12)",
+        "$0",
+        "$60"
+       ],
+       [
+        "Total del año",
+        "$534",
+        "$60"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$534 − $60 = $474 más cada año en la caja de cheques"
+    },
+    {
+     "p": "Revisa las cuentas: 2% de $1,000 son $20. Dos cheques al mes durante 12 meses son 24 cheques, y 24 × $20 = $480."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "where-to-bank-s4",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "text",
+   "title": "Tarjetas prepagadas y de nómina",
+   "body": [
+    {
+     "p": "Una tarjeta prepago puede ayudar si no puedes abrir una cuenta bancaria en este momento. Solo gastas lo que cargas en ella, así que es difícil gastar más de lo que tienes. Pero las comisiones pueden acumularse."
+    },
+    {
+     "p": "Antes de comprar una, lee la caja de cuotas cortas en el paquete o sitio web. Una regla federal dice que debe listar las principales comisiones de la misma manera para cada tarjeta: la cuota mensual, la cuota por cada compra, las comisiones del cajero, la comisión para agregar efectivo, las comisiones de servicio al cliente y la comisión por no usar la tarjeta. El CFPB explica cómo leerlo en [Entiende tu declaración de tarjeta prepaga](https://www.consumerfinance.gov/consumer-tools/prepaid-cards/understand-fees/)."
+    },
+    {
+     "p": "Aquí hay un ejemplo. Digamos que una tarjeta cobra una cuota mensual de $5, $3.95 cada vez que agregas efectivo y $2.50 por cada retiro de cajero. Agregas efectivo 4 veces y usas un cajero automático 2 veces al mes:"
+    },
+    {
+     "formula": "$5 de cuota mensual + (4 cargas de efectivo × $3.95) + (2 retiros de cajero automático × $2.50) = $25.80 al mes"
+    },
+    {
+     "p": "Con estas comisiones de ejemplo, la tarjeta cuesta $309.60 al año. Una cuenta bancaria con una cuota mensual de $5 cuesta $60 al año."
+    },
+    {
+     "h3": "Tus derechos"
+    },
+    {
+     "ul": [
+      "**Registra tu tarjeta.** Las tarjetas registradas tienen protecciones si la tarjeta se pierde o es robada, siempre y cuando reportes el problema rápidamente.",
+      "**Las tarjetas de nómina son una opción.** Tu empleador no puede obligarte a recibir tu pago en una tarjeta de nómina. Pregunta de qué otra forma te pueden pagar, como por depósito directo a una cuenta que elijas.",
+      "**Verifica quién tiene el dinero.** Busca el nombre del banco que emitió la tarjeta y revísalo en FDIC BankFind."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s5",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "text",
+   "title": "Sobregiro: cómo sucede y cómo evitarlo",
+   "body": [
+    {
+     "p": "Un sobregiro ocurre cuando gastas más dinero del que tienes en tu cuenta y el banco lo paga de todos modos. Muchos bancos luego cobran una comisión por cada sobregiro. Unas cuantas compras pequeñas en un mal día pueden generar varias comisiones."
+    },
+    {
+     "p": "Tienes un derecho importante. Para retiros en cajeros automáticos y compras únicas con tarjeta de débito, un banco o cooperativa de crédito no puede cobrarte una comisión por sobregiro a menos que hayas acordado primero. Esto se llama optar por participar. Si no optas por participar, el banco usualmente rechazará la compra y no pagas ninguna comisión por sobregiro. Puedes cambiar tu elección en cualquier momento."
+    },
+    {
+     "p": "Esta regla no cubre cheques, pagos automáticos de facturas ni cargos repetidos con tarjeta como una suscripción mensual. Esto aún puede generar cargos por sobregiro o cargos por pagos devueltos."
+    },
+    {
+     "ol": [
+      "Pregunta a tu banco si estás autorizado a participar. Si lo estás y no quieres, opta por no participar.",
+      "Activa alertas de saldo bajo por mensaje de texto o correo electrónico, por ejemplo, cuando tu saldo baje de $100.",
+      "Revisa tu saldo en la app o en un cajero automático antes de comprar.",
+      "Anota los días en que se pagan tus facturas automáticas. Mantén suficiente dinero en la cuenta esos días.",
+      "Si te cobran una comisión, llama al banco y pídele amablemente que la eliminen. A veces el banco acepta."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s6",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "warning",
+   "title": "Tarifas que sorprenden a la gente",
+   "body": [
+    {
+     "ul": [
+      "Cuentas \"gratuitas\" que cobran una cuota mensual cuando tu saldo baja de un mínimo.",
+      "Usando el cajero automático de otro banco. Puedes pagar una comisión a tu banco y otra al dueño del cajero.",
+      "Comisiones por \"transferencia instantánea\" en las aplicaciones de pago. Una transferencia estándar suele ser gratuita pero tarda más.",
+      "Pagar a una tienda para cobrar un cheque de reembolso de impuestos o un cheque del gobierno, cuando el depósito directo es gratis.",
+      "Aplicaciones que dicen \"FDIC-asegurado\" en letras grandes pero que retienen tu dinero a través de una empresa intermediaria."
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "where-to-bank-s7",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "text",
+   "title": "Lista de verificación: elige el lugar adecuado para tu dinero",
+   "body": [
+    {
+     "ul": [
+      "Es un banco asegurado por la FDIC o una cooperativa de crédito asegurada por la NCUA. Revisé en BankFind o en el localizador de la NCUA.",
+      "Si es una app, sé el nombre de su banco socio.",
+      "Sé cuál es la cuota mensual y cómo evitarla.",
+      "La cuenta no tiene cargos por sobregiro, o no he optado por sobregirar para uso de tarjetas de débito y cajeros automáticos.",
+      "Hay cajeros automáticos gratuitos cerca de mi casa o del trabajo.",
+      "Puedo recibir mi pago por depósito directo y pagar cuentas en línea gratis.",
+      "Puedo recibir ayuda en mi idioma."
+     ]
+    },
+    {
+     "p": "¿Listo para abrir una cuenta? Lee [Cómo abrir una cuenta bancaria, incluso sin SSN](https://dollarscholars.org/es-mx/resources/lessons/open-an-account/)."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s8",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "tip",
+   "title": "Revisa también las cooperativas de crédito",
+   "body": [
+    {
+     "p": "Las cooperativas de crédito son propiedad de sus miembros y a menudo tienen tarifas más bajas. Muchas cooperativas de crédito en el área de DC te permiten unirte si vives, trabajas, adoras o estudias en cierta zona, o si tu empleador es socio. Pregunta a una cooperativa de crédito cerca de ti cómo hacerte miembro."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "where-to-bank-takeaways",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "El seguro de la FDIC cubre depósitos bancarios y el seguro de la NCUA cubre depósitos de cooperativas de crédito, hasta $250,000 por persona por institución, para cada tipo de propiedad.",
+      "Muchas apps de dinero no son bancos. Busca el nombre del banco socio y revísalo en FDIC BankFind.",
+      "El seguro de depósitos no te protege si la empresa de aplicaciones o una empresa intermediaria falla.",
+      "Pequeñas tarifas se acumulan. Cobrar cheques de pago en una tienda puede costar cientos de dólares al año.",
+      "Un banco no puede cobrar comisiones por sobregiro en retiros de cajeros automáticos o compras únicas con tarjeta de débito a menos que tú te inscribas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-quiz",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/where-to-bank/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-links",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Bancos, cooperativas de crédito, aplicaciones y cobradores de cheques: qué está protegido y cuánto cuesta",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Transacciones bancarias con aplicaciones de terceros",
+       "u": "https://www.fdic.gov/resources/consumers/consumer-news/esp/2024-06.html",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "La versión en español de la guía de la FDIC sobre banca con aplicaciones."
+      },
+      {
+       "t": "Entendiendo el seguro de depósitos",
+       "u": "https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "Lo que cubre el seguro de la FDIC, el límite de $250,000, tipos de propiedad y productos que no están asegurados."
+      },
+      {
+       "t": "Banca con aplicaciones de terceros",
+       "u": "https://www.fdic.gov/consumer-resource-center/2024-06/banking-third-party-apps",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "Cómo funciona el seguro cuando una app retiene tu dinero en un banco asociado, y cómo revisar el banco."
+      },
+      {
+       "t": "Compartir Cobertura de Seguro",
+       "u": "https://ncua.gov/consumers/share-insurance-coverage",
+       "org": "National Credit Union Administration (NCUA)",
+       "d": "Cómo se protegen los depósitos en las cooperativas de crédito aseguradas federalmente y cómo revisar una cooperativa de crédito."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-intro",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "intro",
+   "title": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "body": [
+    {
+     "p": "Cómo encontrar el costo real de una transferencia internacional, tus derechos federales y cómo detectar estafas que te piden enviar dinero al extranjero."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Calcula el costo total de una transferencia, incluyendo comisiones, impuestos y el margen de cambio en el tipo de cambio.",
+      "Compara opciones de transferencia como bancos, cooperativas de crédito, compañías de transferencia de dinero y aplicaciones.",
+      "Explica tus derechos federales para cancelar una transferencia y corregir errores, así como el impuesto federal de 2026 sobre transferencias pagadas en efectivo.",
+      "Detecta estafas que te pidan enviar o enviar dinero al extranjero."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** El Módulo Money Smart 2 cubre aplicaciones de pago y otros proveedores de servicios monetarios, pero no entra en detalles sobre cómo enviar dinero a otro país. Esta extensión de Dollar Scholars te muestra cómo comparar transferencias, explica tus derechos federales y el impuesto de 2026 sobre transferencias pagadas en efectivo, y te ayuda a detectar estafas de transferencias de dinero."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-words",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Transferencia de remesas (Remittance transfer)",
+       "Dinero enviado electrónicamente desde una persona en Estados Unidos a una persona o empresa en otro país, usualmente a través de un banco o una empresa de transferencia de dinero."
+      ],
+      [
+       "Tipo de cambio (Exchange rate)",
+       "¿Cuánto dinero de otro país recibes por un dólar estadounidense?"
+      ],
+      [
+       "Margen de cambio (Exchange-rate markup)",
+       "La diferencia entre el tipo de cambio de mercado y la tasa más baja que te da una empresa. Es un costo oculto."
+      ],
+      [
+       "Divulgación (Disclosure)",
+       "Un papel o pantalla que muestre los costos y términos antes de que pagues."
+      ],
+      [
+       "Impuesto de transferencia por remesas (Remittance transfer tax)",
+       "Un impuesto federal del 1%, a partir de 2026, sobre transferencias a otros países que se paguen en efectivo, giro postal o cheque de caja."
+      ],
+      [
+       "Mula de dinero (Money mule)",
+       "Una persona que recibe dinero y lo manda para otra persona. El dinero a menudo es robado, y la mula puede meterse en problemas legales."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s1",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "text",
+   "title": "Lo que realmente cuesta una transferencia",
+   "body": [
+    {
+     "p": "Muchas familias en el área de DC envían dinero a familiares en El Salvador, Guatemala, Honduras, Etiopía, Nigeria y muchos otros países. Las empresas compiten por este negocio, y algunas anuncian \"sin comisiones\". Pero la tarifa es solo una parte del costo."
+    },
+    {
+     "p": "El dinero enviado a otro país se llama transferencia por remesa. Su costo tiene tres partes:"
+    },
+    {
+     "ul": [
+      "**La tarifa de transferencia** que la empresa te cobra.",
+      "**El margen de cambio en el tipo de cambio.** Muchas empresas te dan un tipo de cambio más bajo que el de mercado y mantienen la diferencia. No lo ves como una comisión, pero tu familia recibe menos.",
+      "**Impuestos y otras comisiones,** como el impuesto federal del 1% sobre transferencias pagadas en efectivo, o comisiones cobradas por un banco en el otro país."
+     ]
+    },
+    {
+     "p": "La mejor manera de comparar es sencilla. Por la misma cantidad de dólares, ¿qué empresa entrega más dinero a tu familia después de todos los gastos?"
+    },
+    {
+     "p": "Si el otro país usa el dólar estadounidense, como hacen El Salvador y Ecuador, no hay tipo de cambio. Entonces solo necesitas comparar las comisiones."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s2",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "example",
+   "title": "Enviando $300 a Guatemala",
+   "body": [
+    {
+     "p": "Ana vive en Riverdale, Maryland. Quiere enviar $300 a su madre en Guatemala. Supongamos que la tarifa de mercado hoy es 7.70 quetzales por $1. Estas tasas son ejemplos. Las tasas reales cambian todos los días. Ella pagará desde su cuenta bancaria, así que el impuesto del 1% sobre transferencias pagadas en efectivo no aplica. Ella compara dos ofertas:"
+    },
+    {
+     "table": {
+      "caption": "Dos ofertas para enviar $300 (tarifas de ejemplo)",
+      "head": [
+       "Ítem",
+       "Empresa A: sin cuota",
+       "Empresa B: $5 de tarifa"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Tarifa de transferencia",
+        "$0",
+        "$5"
+       ],
+       [
+        "Tipo de cambio ofrecido",
+        "7.50",
+        "7.68"
+       ],
+       [
+        "Total que paga Ana",
+        "$300",
+        "$305"
+       ],
+       [
+        "Su madre recibe",
+        "2,250 quetzales",
+        "2,304 quetzales"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "Compañía A: $300 × 7.50 = 2,250 quetzales"
+    },
+    {
+     "formula": "Compañía B: $300 × 7.68 = 2,304 quetzales"
+    },
+    {
+     "p": "La empresa B cobra una tarifa de $5, pero la mamá de Ana recibe 54 quetzales más. Al precio de mercado, 54 quetzales valen alrededor de $7. Así que la empresa \"sin comisiones\" realmente le cuesta a Ana unos $2 más."
+    },
+    {
+     "h3": "Encuentra el costo oculto"
+    },
+    {
+     "formula": "Sobrecargo de la Compañía A: $300 × (7.70 − 7.50) = 60 quetzales, aproximadamente $7.79"
+    },
+    {
+     "formula": "Margen de la empresa B: $300 × (7.70 − 7.68) = 6 quetzales, aproximadamente $0.78. Con la tarifa de $5, alrededor de $5.78 en total"
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "sending-money-abroad-s3",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "text",
+   "title": "Lee la declaración antes de pagar",
+   "body": [
+    {
+     "p": "Una regla federal, la Regla de Transferencia de Remesas, protege a las personas que envían dinero de Estados Unidos a otros países. Cubre la mayoría de las transferencias de más de $15. Las empresas que hacen 500 o menos transferencias al año no están obligadas a seguirla, así que usa un proveedor reconocido."
+    },
+    {
+     "p": "Antes de que pagues, la empresa debe darte una divulgación, en papel o en pantalla. Debe mostrar:"
+    },
+    {
+     "ul": [
+      "La cantidad que estás enviando",
+      "Las tarifas e impuestos que la empresa cobra de ti",
+      "El tipo de cambio",
+      "La cantidad que recibirá tu familia",
+      "Una nota si otras tarifas o impuestos en el otro país podrían reducir esa cantidad"
+     ]
+    },
+    {
+     "p": "Si la empresa anuncia sus transferencias en tu idioma en ese lugar, pide la divulgación en tu idioma. Debe dártela en ese idioma."
+    },
+    {
+     "p": "Después de pagar, te dan un recibo. Muestra la fecha en que el dinero estará disponible, tus derechos y cómo presentar una queja. Guárdalo hasta que tu familia tenga el dinero. Guárdalo por más tiempo si hay algún problema."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s4",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "text",
+   "title": "Tus derechos: cancelar y corregir errores",
+   "body": [
+    {
+     "ol": [
+      "**Cancela dentro de los 30 minutos.** Después de pagar, normalmente tienes hasta 30 minutos para cancelar gratis, siempre y cuando el dinero no haya sido recogido o depositado. Recibes tu dinero de vuelta, incluyendo las comisiones.",
+      "**Reporta errores dentro de los 180 días.** Contacta a la empresa si tu familia recibió menos de lo prometido, el dinero nunca llegó o llegó tarde. Tienes 180 días desde la fecha en que el recibo indicó que el dinero estaría disponible.",
+      "**La empresa debe investigar.** Tiene 90 días para investigar el problema y debe decirte qué encontró. Si cometió un error, puede que tenga que reembolsarte el dinero o enviar la transferencia de nuevo sin costo para ti.",
+      "**Presenta una queja si es necesario.** Si la empresa no soluciona el problema, presenta una queja ante la Oficina de Protección Financiera del Consumidor (CFPB) al [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) o por teléfono al (855) 411-2372."
+     ]
+    },
+    {
+     "h3": "Qué decir cuando reportas un error"
+    },
+    {
+     "quote": "Hola. Mi nombre es [tu nombre]. Envié una transferencia en [fecha]. El número de confirmación es [número]. El recibo dice que [monto] estará disponible para [nombre de la persona que lo recibe] en [país] para [fecha]. [El dinero no ha llegado.] o [Mi familia recibió menos de lo que dice el recibo.] Quiero reportar un error. Por favor investiga y envíame el resultado por escrito. ¿Cuál es mi número de caso?"
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s5",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "text",
+   "title": "El impuesto federal de 2026 sobre transferencias pagadas en efectivo",
+   "body": [
+    {
+     "p": "Una ley federal aprobada en 2025 creó un nuevo impuesto del 1% sobre algunas transferencias a otros países. Aplica para transferencias hechas a partir del 1 de enero de 2026. Pagas el impuesto cuando entregas efectivo a la empresa de transferencia, un giro postal, un cheque de caja o una forma similar de pago en papel. La empresa te cobra el impuesto cuando envías el dinero."
+    },
+    {
+     "formula": "$300 pagados en efectivo × 1% = $3 de impuestos"
+    },
+    {
+     "formula": "$3 × 12 meses = $36 al año, si envías $300 en efectivo cada mes"
+    },
+    {
+     "p": "El impuesto **no** aplica cuando el dinero proviene de una cuenta en un banco o cooperativa de crédito estadounidense, o cuando pagas con una tarjeta de débito o tarjeta de crédito emitida en Estados Unidos. Si tienes una cuenta, enviar desde ella evita el impuesto."
+    },
+    {
+     "p": "Ten cuidado con las tarjetas de crédito. Algunas compañías de tarjetas tratan una transferencia de dinero como un adelanto de efectivo. Los adelantos en efectivo suelen tener una tarifa extra, y los intereses suelen comenzar el primer día."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s6",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "warning",
+   "title": "Estafas que usan transferencias de dinero",
+   "body": [
+    {
+     "p": "Una vez que el dinero se recoge en otro país, es muy difícil recuperarlo. Los estafadores saben esto. Detente si ves alguna de estas señales:"
+    },
+    {
+     "ul": [
+      "Una llamada o mensaje dice que un familiar está en la cárcel, en el hospital o secuestrado, y que debes enviar dinero ahora. Cuelga la llamada. Luego llama a tu familiar u otro familiar a un número que ya conozcas.",
+      "Alguien que conociste en línea, pero nunca en persona, te pide dinero para un boleto, una visa o cuentas médicas.",
+      "Una persona que llama dice que es del IRS, inmigración o policía y exige el pago por transferencia de dinero. Las agencias gubernamentales no te piden que pagues de esta manera.",
+      "Ganaste un premio o una lotería, pero primero debes pagar una cuota.",
+      "Una oferta de trabajo o un amigo en línea te pide que recibas dinero en tu cuenta y se lo envíes a otra persona. Esto te convierte en un mula de dinero. El dinero a menudo es robado. Podrías perder tu cuenta bancaria o tener que devolver el dinero. La policía también puede investigarte, y las personas que mueven dinero robado pueden enfrentar cargos penales."
+     ]
+    },
+    {
+     "p": "Si enviaste dinero a un estafador, contacta inmediatamente a la empresa de transferencia. Pídele que detenga o revierta la transferencia. Luego reporta la estafa en [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (en español: [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)). Aprende más en nuestra lección sobre [estafas que apuntan a recién llegados](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "sending-money-abroad-s7",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "text",
+   "title": "Compara tus opciones",
+   "body": [
+    {
+     "p": "Existen tres formas comunes de enviar dinero a otro país:"
+    },
+    {
+     "ul": [
+      "**Bancos y cooperativas de crédito.** Útil si tú y tu familia tienen cuentas. Los precios varían mucho, así que pide la comisión y el tipo de cambio.",
+      "**Empresas de transferencia de dinero con tiendas.** Tu familia a menudo puede recoger efectivo. Hay muchas sucursales en los vecindarios del área de DC. Si pagas en efectivo, aplica el impuesto del 1%.",
+      "**Aplicaciones y sitios web.** Estos suelen costar menos. Normalmente pagas desde una cuenta bancaria o tarjeta de débito, lo que evita el impuesto del 1%."
+     ]
+    },
+    {
+     "p": "Antes de enviar, revisa esta lista de verificación:"
+    },
+    {
+     "ul": [
+      "Comparé al menos dos compañías el mismo día, por la misma cantidad.",
+      "Comparé la cantidad que recibirá mi familia, no solo la tarifa.",
+      "Sé si el impuesto del 1% aplica a la forma en que pago.",
+      "Sé qué tan rápido llegará el dinero y cómo lo recibirá mi familia.",
+      "Revisé el nombre, número de teléfono y número de cuenta de la persona que recibió el dinero.",
+      "Guardé el recibo y el número de confirmación."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s8",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "tip",
+   "title": "Plan para el apoyo familiar",
+   "body": [
+    {
+     "p": "Pon apoyo familiar en tu plan mensual de gastos, igual que planeas la renta. Elige el monto y el día con anticipación. Si tu empresa cobra una tarifa por cada transferencia, una transferencia más grande al mes usualmente cuesta menos que varias pequeñas. Habla con tu familia sobre lo que necesitan y cuándo, para que estés listo. [Lee cómo hacer un plan de gastos](https://dollarscholars.org/es-mx/resources/lessons/spending-plan/)."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "sending-money-abroad-takeaways",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "El costo real es la comisión más el margen de cambio. Compara cuánto recibirá tu familia.",
+      "Antes de pagar, debes obtener una declaración que muestre las comisiones, impuestos, el tipo de cambio y la cantidad que recibirá tu familia.",
+      "Por lo general, puedes cancelar gratis en un plazo de 30 minutos, y tienes 180 días para reportar un error.",
+      "Desde el 1 de enero de 2026, un impuesto federal del 1% aplica a transferencias pagadas en efectivo, giro postal o cheque de caja. Pagar desde una cuenta bancaria estadounidense o con tarjeta de débito o crédito estadounidense lo evita.",
+      "Nunca envíes dinero a alguien que solo conozcas en línea, y nunca aceptes recibir dinero para enviarlo a un desconocido o a un trabajo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-quiz",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/sending-money-abroad/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-links",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Enviar dinero a casa: Compara costos y conoce tus derechos",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Lo que hay que saber antes de hacer una transferencia de dinero",
+       "u": "https://consumidor.ftc.gov/articulos/lo-que-hay-que-saber-antes-de-hacer-una-transferencia-de-dinero",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La versión en español de la guía de la FTC sobre fraudes de transferencias bancarias."
+      },
+      {
+       "t": "¿Qué es una transferencia por remesas y cuáles son mis derechos?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Tus derechos federales cuando envías dinero a otro país: divulgaciones, cancelación dentro de los 30 minutos y errores de corrección."
+      },
+      {
+       "t": "Transferencias de dinero",
+       "u": "https://www.consumerfinance.gov/consumer-tools/money-transfers/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Respuestas sobre cómo enviar dinero al extranjero, incluyendo cómo reportar un problema y cómo evitar estafas de transferencias de dinero."
+      },
+      {
+       "t": "Qué debes saber antes de transferir dinero",
+       "u": "https://consumer.ftc.gov/articles/what-know-you-wire-money",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Estafas comunes que te piden transferir dinero y qué hacer si ya enviaste dinero a un estafador."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

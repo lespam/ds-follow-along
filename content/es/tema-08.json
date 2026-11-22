@@ -1,0 +1,991 @@
+{
+ "id": "tema-08",
+ "title": "Tema 8: Opciones de renta y vivienda",
+ "summary": "Renta con confianza en el área de DC y compara los costos reales de rentar y comprar antes de comenzar el camino hacia ser dueño de una casa.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "renters-rights",
+   "title": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "summary": "Una lista de verificación del contrato de arrendamiento, las reglas de depósito y cuotas en DC, Maryland y Virginia, una rutina de fotos para la mudanza, y dónde obtener ayuda gratuita con reparaciones, aumentos de renta o desalojos.",
+   "meta": "(Aproximadamente 18 min, 6 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "rent-or-buy",
+   "title": "¿Rentar o comprar? Compara los costos reales",
+   "summary": "Un ejemplo trabajado en el área de DC que compara rentar a $2,000 al mes con comprar un condominio de $320,000, incluyendo los costos que los compradores primerizos suelen pasar por alto y por qué importa el número de años que te quedas.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 2
+  }
+ ],
+ "blocks": [
+  {
+   "id": "renters-rights-intro",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "intro",
+   "title": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "body": [
+    {
+     "p": "Una lista de verificación del contrato de arrendamiento, las reglas de depósito y cuotas en DC, Maryland y Virginia, una rutina de fotos para la mudanza, y dónde obtener ayuda gratuita con reparaciones, aumentos de renta o desalojos."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 6 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Revisa un contrato de arrendamiento y encuentra los términos clave: renta, tarifas, duración, renovación, reparaciones y cómo terminarlo.",
+      "Compara las reglas de depósito de seguridad, comisiones y avisos en DC, Maryland y Virginia.",
+      "Registra el estado de una unidad en la entrada y salida para proteger tu depósito.",
+      "Encuentra ayuda local gratuita para reparaciones, aumentos de renta, cierres patronales o avisos de desalojo."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase explica los pasos para rentar, leer un contrato de arrendamiento, el seguro de inquilino y tus derechos básicos como inquilino. Esta lección añade las reglas reales en DC, Maryland y Virginia, una lista de verificación del contrato de arrendamiento, una rutina de fotos que protege tu depósito y lugares locales para obtener ayuda gratuita."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-words",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Arrendamiento (Lease)",
+       "Un contrato escrito entre tú y el arrendador. Incluye la renta, cuánto tiempo puedes vivir ahí, las tarifas y las reglas para ambos."
+      ],
+      [
+       "Depósito de seguridad (Security deposit)",
+       "Dinero que le pagas al arrendador antes de mudarte. El arrendador puede usarlo para renta impagada o daños que causaste. El resto debe regresar a ti después de que te mudes."
+      ],
+      [
+       "Desgaste normal (Normal wear and tear)",
+       "Pequeños cambios que ocurren cuando las personas viven en una casa de la manera habitual, como pintura desvaída o alfombra desgastada por caminar. Un arrendador no puede quedarse con tu depósito para eso."
+      ],
+      [
+       "Seguro para inquilinos (Renter's insurance)",
+       "Seguro para inquilinos. Ayuda a pagar para reemplazar tus pertenencias después de un incendio o robo, y te protege si alguien resulta herido en tu casa."
+      ],
+      [
+       "Deducible (Deductible)",
+       "La parte de una pérdida que te pagas antes de que pague el seguro. Con un deducible de $500 y una pérdida de $1,200, el seguro paga $700."
+      ],
+      [
+       "Control de rentas (Rent control)",
+       "Reglas que limitan cuánto puede aumentar la renta un arrendador cada año. En DC, muchos edificios de renta antiguos están cubiertos. DC también llama a esto estabilización de rentas."
+      ],
+      [
+       "Desalojo (Eviction)",
+       "El proceso legal que usa un arrendador para hacer que un inquilino abandone una casa. En DC, Maryland y Virginia, solo un tribunal puede ordenarlo."
+      ],
+      [
+       "Subarrendamiento (Sublet)",
+       "Rentar total o parcialmente tu casa a otra persona mientras tu nombre permanece en el contrato. Muchos contratos requieren primero el permiso por escrito del arrendador."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s1",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "text",
+   "title": "Antes de aplicar: tarifas y evaluación",
+   "body": [
+    {
+     "p": "La mayoría de los arrendadores revisan tus ingresos, historial de renta y crédito. Muchos cobran una tarifa de solicitud por esto. Pregunta qué exige el arrendador antes de pagar y aplica solo donde probablemente te acepten. La ley limita estas tarifas:"
+    },
+    {
+     "ul": [
+      "**DC:** Para 2026, el límite es de $54.",
+      "**Maryland:** Un arrendador con cinco o más unidades solo puede quedarse con $25, a menos que los costos reales de revisión sean más altos, y debe reembolsar el resto.",
+      "**Virginia:** No más de $50, más el costo real de una verificación de antecedentes externa."
+     ]
+    },
+    {
+     "p": "¿No tienes número de Seguro Social ni historial crediticio? Pregunta qué más acepta el arrendador, como un ITIN, recibos de nómina, estados de cuenta bancarios o una carta de un arrendador anterior. Consulta nuestra lección sobre [crédito para construcción](https://dollarscholars.org/es-mx/resources/lessons/build-credit/)."
+    },
+    {
+     "p": "Las leyes de vivienda justa hacen ilegal negarse a rentarte por tu raza, color, origen nacional, religión, sexo, discapacidad o hijos. Las leyes de DC, Maryland y Virginia también protegen tu fuente de ingresos, como un vale de vivienda, en la mayoría de los casos."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s2",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "warning",
+   "title": "Anuncios falsos de renta",
+   "body": [
+    {
+     "p": "Los estafadores copian los anuncios reales, bajan el precio y piden un depósito o una tarifa antes de que veas la casa. Señales de advertencia:"
+    },
+    {
+     "ul": [
+      "La renta es mucho más baja que la de casas similares cercanas.",
+      "El \"dueño\" está ausente y no puede mostrarte la casa.",
+      "Hoy te presionan para que pagues.",
+      "Quieren una transferencia bancaria, tarjeta de regalo, criptomoneda o aplicación de pago."
+     ]
+    },
+    {
+     "p": "Visita la casa en persona. Busca en la dirección en línea la misma casa a un precio diferente o bajo otro nombre. Busca al propietario en los registros de impuestos prediales. Nunca envíes dinero antes de ver la casa y firmar un contrato de arrendamiento. Descubre [también cómo detectar estafas](https://dollarscholars.org/es-mx/resources/lessons/spot-scams/) y [estafas que afectan a los recién llegados](https://dollarscholars.org/es-mx/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "renters-rights-s3",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "text",
+   "title": "Tu lista de verificación del contrato de arrendamiento",
+   "body": [
+    {
+     "p": "Un contrato de arrendamiento es un contrato legal. Léelo todo antes de firmar. Si el inglés te resulta difícil, pide a alguien de confianza o a un asistente legal gratuito que lo lea contigo. Revisa:"
+    },
+    {
+     "ul": [
+      "Monto de la renta, fecha de vencimiento y formas de pago",
+      "Multa por retraso: cuánto y después de cuántos días",
+      "Duración del contrato de arrendamiento y si se renueva por sí solo",
+      "Cuánto aviso por escrito debes dar antes de mudarte",
+      "Cuáles facturas pagas: electricidad, gas, agua, basura, internet",
+      "Cómo pedir reparaciones y a quién llamar en caso de emergencia",
+      "Reglas para invitados, compañeros de cuarto, mascotas y subarrendamiento",
+      "¿Qué pasa si tienes que terminar el contrato de arrendamiento antes de tiempo?",
+      "Cada cargo extra, y si se requiere seguro para inquilinos"
+     ]
+    },
+    {
+     "h3": "Cláusulas para cuestionar antes de firmar"
+    },
+    {
+     "ul": [
+      "Una cláusula que dice que renuncias a tus derechos legales o a tu derecho a un juicio con jurado, o que \"confiesas sentencia\". Confesar sentencia significa que aceptas de antemano dejar que el arrendador gane un caso en la corte. Los arrendamientos de Maryland pueden no incluir estas cláusulas. Los arrendamientos de Virginia pueden no incluir una confesión de sentencia ni hacer que renuncies a tus derechos bajo la ley estatal de renta.",
+      "Tarifas por reparaciones o servicios básicos. Los arrendadores en Virginia no pueden cobrar tarifas por mantenimiento o reparaciones que no causaste. Desde el 14 de agosto de 2026, los arrendadores en DC no pueden cobrar tarifas separadas por servicios necesarios para mantener una casa habitable, como el servicio de basura o cerraduras.",
+      "Una multa por retraso por encima del límite local (ver la siguiente sección).",
+      "Espacios en blanco. Nunca firmes un contrato de arrendamiento con espacios en blanco."
+     ]
+    },
+    {
+     "p": "Guarda una copia completa del contrato firmado. En Maryland, la Carta de Derechos de los Inquilinos de Maryland debe estar adjunta a ella. En Virginia, debes obtener la [Declaración de Derechos y Responsabilidades del Inquilino](https://www.dhcd.virginia.gov/landlord-tenant-resources) del estado junto con un contrato por escrito."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s4",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "example",
+   "title": "Reglas de DC, Maryland y Virginia, con números reales",
+   "body": [
+    {
+     "p": "Las reglas dependen de dónde esté el hogar. Algunos condados y ciudades agregan más protecciones."
+    },
+    {
+     "table": {
+      "caption": "Reglas clave para inquilinos a partir de septiembre de 2026",
+      "head": [
+       "Gobierno",
+       "DC",
+       "Maryland",
+       "Virginia"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Depósito de garantía más grande",
+        "Un mes de renta",
+        "Un mes de renta para la mayoría de los contratos firmados a partir del 1 de octubre de 2024",
+        "Dos meses de renta"
+       ],
+       [
+        "Fecha límite después de que te mudes",
+        "45 días para devolverlo con intereses o decir por escrito qué se conservará",
+        "45 días para devolver el resto con intereses y una lista de cargos",
+        "45 días para devolverlo con una lista de deducciones"
+       ],
+       [
+        "La mayor multa por retraso",
+        "5% de la renta adeudada, solo después de que la renta se retrase 5 días",
+        "5% de la renta atrasada",
+        "10% de la renta mensual o del saldo no pagado, lo que sea menor"
+       ],
+       [
+        "Aviso por escrito ante un caso de desalojo por renta impagada",
+        "10 días, y solo si debes $600 o más",
+        "10 días",
+        "14 días"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "p": "Ahora usa los números. Rosa quiere un departamento de una recámara en Columbia Heights por $1,800 al mes. Este es el máximo efectivo que podría necesitar el día de la mudanza:"
+    },
+    {
+     "table": {
+      "caption": "El dinero de la mudanza de Rosa para un departamento de $1,800 en DC",
+      "head": [
+       "Costo",
+       "Monto"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Cuota de solicitud (límite de DC para 2026)",
+        "$54"
+       ],
+       [
+        "Depósito de seguridad (un mes de renta como máximo)",
+        "$1,800"
+       ],
+       [
+        "Primer mes de renta",
+        "$1,800"
+       ],
+       [
+        "Seguro de inquilino, primer mes",
+        "$15"
+       ],
+       [
+        "Camión de mudanzas y suministros",
+        "$200"
+       ],
+       [
+        "Total",
+        "$3,869"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "En Virginia, el arrendador podría pedir un depósito de hasta $3,600 por la misma renta. En Maryland, no se te puede exigir pagar más que el primer mes de renta más el depósito antes de mudarte."
+    },
+    {
+     "formula": "Límite de pago tardío por DC o Maryland: $1,800 × 5% = $90"
+    },
+    {
+     "formula": "Límite de pago por retraso en Virginia: $1,800 × 10% = $180"
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "renters-rights-s5",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "text",
+   "title": "Protege tu depósito con fotos",
+   "body": [
+    {
+     "p": "Muchos argumentos sobre el depósito giran en torno a una sola pregunta: ¿el daño estaba ahí antes de que te mudaras? Fotos fechadas y una lista escrita lo responden."
+    },
+    {
+     "ol": [
+      "Antes de mover tus cosas, toma fotos anticuadas y un video lento de cada habitación: paredes, pisos, ventanas, puertas, electrodomésticos, el baño y cualquier daño. Envía los archivos por correo electrónico el mismo día.",
+      "Haz una lista de todos los problemas, como \"manchas en la alfombra del dormitorio.\" Prueba las luces, llaves, calefacción, aire acondicionado y alarma de humo.",
+      "Envía la lista y algunas fotos al arrendador por escrito, y guarda una copia. En Maryland, puedes solicitar una inspección de entrada por correo certificado dentro de los 15 días posteriores a tu mudanza. En Virginia, el arrendador debe entregarte un informe de entrada dentro de 5 días, y tú tienes 5 días para objetar por escrito.",
+      "Cuando te mudes, limpia y luego toma nuevas fotos y videos de los mismos lugares.",
+      "Devuelve todas las llaves y dale tu nueva dirección al arrendador por escrito. En Maryland, para estar presente en la inspección de mudanza, envía una carta certificada al menos 15 días antes de irte. En Virginia, tienes derecho a estar presente si se lo pides al arrendador por escrito."
+     ]
+    },
+    {
+     "p": "Un arrendador no puede quedarse con tu depósito por el desgaste normal. En DC, desde agosto de 2026, un arrendador que diga que debes dinero debe enviar fotos u otra prueba, y tienes 30 días para disputarlo."
+    },
+    {
+     "h3": "Carta de ejemplo: pidiendo tu depósito"
+    },
+    {
+     "quote": "Estimado [nombre del arrendador], Me mudé de [dirección y número de unidad] en [fecha] y devolví todas las llaves. Dejé la unidad limpia y en las mismas condiciones que cuando me mudé, excepto por el desgaste normal. Mis fotos están adjuntas. Por favor, envía mi depósito de seguridad de $[monto], más cualquier interés que la ley requiera, a [nueva dirección]. Si planeas conservar alguna parte, por favor mándame una lista detallada de los cargos y tu comprobante. Gracias, [Tu nombre], [número de teléfono], [fecha]"
+    },
+    {
+     "p": "Guarda una copia y comprobante de la fecha en que lo enviaste."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-s6",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "tip",
+   "title": "Seguro para inquilinos: qué cubre, con un costo de muestra",
+   "body": [
+    {
+     "p": "El seguro de tu arrendador cubre el edificio, no tus cosas. El seguro de inquilino puede pagar la reposición de tus pertenencias después de un incendio, una tubería rota o un robo. También te protege si algún huésped resulta herido en tu casa, y muchas pólizas cubren un hotel mientras tu casa está en reparación. Algunos contratos de arrendamiento lo requieren."
+    },
+    {
+     "p": "Por ejemplo, Rosa recibe una cotización de $15 al mes, o $180 al año, por $20,000 de cobertura por sus pertenencias, con un deducible de $500. Después, alguien entra y roba su laptop de $1,200."
+    },
+    {
+     "formula": "$1,200 pérdida − $500 deducible = $700 pagados por el seguro"
+    },
+    {
+     "p": "Los precios dependen de la compañía, tu código postal, la cobertura y el deducible, así que compara dos o tres cotizaciones. El seguro estándar para inquilinos usualmente no cubre inundaciones."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "renters-rights-s7",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "warning",
+   "title": "Un cierre patronal no es un desalojo legal",
+   "body": [
+    {
+     "p": "En DC, Maryland y Virginia, solo un tribunal puede ordenar un desalojo. Un arrendador no puede cambiar las cerraduras, quitar tus cosas ni apagar tu calefacción, agua o electricidad para obligarte a salir. Después de una orden judicial, el Servicio de Alguaciles de EE. UU. realiza desalojos en DC, y el sheriff lo hace en Maryland y Virginia."
+    },
+    {
+     "p": "Si te quedan fuera, llama a la policía y ayuda legal gratuita de inmediato. En DC, también llama a la Oficina del Defensor del Inquilino."
+    },
+    {
+     "p": "Si recibes documentos judiciales, acude a tu fecha de corte. Podrías detener un desalojo por renta impagada pagando lo que el tribunal diga que debes antes de la fecha de desalojo. Busca ayuda legal rápido."
+    },
+    {
+     "p": "Un arrendador tampoco puede castigarte por pedir reparaciones o reportar problemas con el código, como subir tu renta. En Maryland, es un delito exigir dinero o cualquier cosa de valor amenazando con reportar el estatus migratorio de alguien."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "renters-rights-s8",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "text",
+   "title": "Reparaciones, aumentos de renta y ayuda gratuita",
+   "body": [
+    {
+     "h3": "Reparaciones"
+    },
+    {
+     "p": "Pide reparaciones por escrito, como por correo electrónico o mensaje de texto, y guarda una copia. En DC, puedes solicitar al Departamento de Edificios una inspección de vivienda en línea o al [(202) 671-3500](tel:+12026713500). En Maryland y Virginia, llama a tu oficina local de cumplimiento de códigos. No dejes simplemente de pagar la renta. Maryland y Virginia tienen procesos judiciales donde pagas la renta al tribunal hasta que se realicen las reparaciones. Primero obtén asesoría legal."
+    },
+    {
+     "h3": "Aumentos en la renta"
+    },
+    {
+     "ul": [
+      "**DC:** Muchos edificios antiguos tienen control de rentas. Del 1 de mayo de 2026 al 30 de abril de 2027, la renta de una unidad con renta controlada puede aumentar como máximo un 4.1%, o 2.1% para inquilinos mayores que califican y con discapacidad. Pregunta a la Oficina del Defensor del Inquilino si tu unidad está cubierta.",
+      "**Maryland:** La renta solo puede aumentar cuando el contrato se renueve, en la mayoría de los casos con un aviso por escrito de 90 días. No hay un límite estatal, pero algunos gobiernos locales sí lo tienen.",
+      "**Virginia:** Un arrendador que posea más de cuatro unidades en renta debe notificar por escrito un aumento de renta al menos 60 días antes de que termine el contrato que pueda renovarse. A partir del 1 de julio de 2027, este periodo de aviso pasa a ser de 90 días."
+     ]
+    },
+    {
+     "h3": "Ayuda gratuita"
+    },
+    {
+     "ul": [
+      "**DC:** Oficina del Defensor del Inquilino, [(202) 719-6560](tel:+12027196560), 899 North Capitol Street NE ([información en español](https://ota.dc.gov/page/spanish-espa%C3%B1ol-4a)). Legal Aid DC, [(202) 628-1161](tel:+12026281161).",
+      "**Maryland:** Oficina de Asuntos de Inquilinos y Arrendadores, [855-511-3423](tel:+18555113423). Para un abogado gratuito en un caso de desalojo, llama al 211 o visita legalhelpmd.org para ver si calificas.",
+      "**Virginia:** Asistencia legal de Virginia, [(866) 534-5243](tel:+18665345243). En el norte de Virginia, Servicios Legales del Norte de Virginia, [(703) 778-6800](tel:+17037786800).",
+      "**En cualquier lugar:** Un [consejero de vivienda aprobado por HUD](https://www.consumerfinance.gov/find-a-housing-counselor/) puede ayudar con problemas de renta y presupuesto, a menudo con poco o ningún costo."
+     ]
+    },
+    {
+     "p": "Si una pérdida de empleo o una emergencia dificulta el pago de la renta, habla con tu arrendador antes de que la renta se retrase y escucha nuestra lección sobre [qué hacer cuando tus ingresos bajan](https://dollarscholars.org/es-mx/resources/lessons/income-shock/)."
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-takeaways",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Nunca pagues un depósito o una cuota por una casa que no hayas visto, y nunca pagues con tarjeta de regalo, transferencia bancaria o criptomoneda.",
+      "Lee todo el contrato antes de firmar. Pregunta por cada tarifa y guarda una copia firmada.",
+      "DC y Maryland limitan la mayoría de los depósitos de garantía a un mes de renta. Virginia permite hasta dos meses. Los tres le dan a los arrendadores 45 días después de que te mudas para devolver la renta o explicar por escrito qué van a conservar.",
+      "Toma fotos y videos con fecha cuando te mudes y cuando te mudes, y envía tu lista de problemas al arrendador por escrito.",
+      "Solo un tribunal puede ordenar un desalojo. Si obtienes documentos judiciales, ve a tu fecha de audiencia y llama a ayuda legal gratuita de inmediato."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-quiz",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/renters-rights/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "renters-rights-links",
+   "type": "lesson",
+   "lesson": "renters-rights",
+   "lessonTitle": "Rentar en el área de DC: Arrendamientos, Depósitos y Tus Derechos",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Estafas de listados de propiedades en alquiler",
+       "u": "https://consumidor.ftc.gov/articulos/estafas-de-listados-de-propiedades-en-alquiler",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "El consejo de la FTC sobre anuncios falsos de renta, en español."
+      },
+      {
+       "t": "Oficina del Defensor del Inquilino (OTA)",
+       "u": "https://ota.dc.gov/",
+       "org": "DC government",
+       "d": "Ayuda gratuita para inquilinos en DC: asesoría legal y representación, ayuda de emergencia en vivienda, información sobre control de rentas y el límite actual de cuotas de solicitud."
+      },
+      {
+       "t": "Carta de Derechos de los Inquilinos de Maryland",
+       "u": "https://dhcd.maryland.gov/housing/renter-landlord-resources/tenants-bill-rights",
+       "org": "Maryland Department of Housing and Community Development",
+       "d": "El resumen anual del estado sobre los derechos de los inquilinos en Maryland, con traducciones al español y muchos otros idiomas."
+      },
+      {
+       "t": "Recursos para inquilinos y arrendadores",
+       "u": "https://www.dhcd.virginia.gov/landlord-tenant-resources",
+       "org": "Virginia Department of Housing and Community Development",
+       "d": "Declaración de Derechos y Responsabilidades de los Inquilinos de Virginia, actualizada el 1 de julio de 2026, en inglés, español, árabe, chino, coreano y tagalo."
+      },
+      {
+       "t": "Estafas en anuncios de renta",
+       "u": "https://consumer.ftc.gov/articles/rental-listing-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Señales de advertencia de anuncios falsos de renta y cómo revisar un anuncio antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-intro",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "intro",
+   "title": "¿Rentar o comprar? Compara los costos reales",
+   "body": [
+    {
+     "p": "Un ejemplo trabajado en el área de DC que compara rentar a $2,000 al mes con comprar un condominio de $320,000, incluyendo los costos que los compradores primerizos suelen pasar por alto y por qué importa el número de años que te quedas."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Haz una lista de los costos mensuales y únicos de tener una casa y compáralos con la renta.",
+      "Usa un ejemplo práctico para comparar el costo total de rentar y comprar durante varios años.",
+      "Explica por qué el número de años que planeas quedarte cambia la respuesta.",
+      "Usa una lista de verificación de preparación para decidir si empiezas a prepararte para comprar."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre las necesidades y deseos de vivienda, la elección entre rentar y comprar, y lo que puedes pagar. Esta lección añade un ejemplo trabajado en el área de DC durante cinco años, los costos que los compradores primerizos a menudo pasan por alto, una tabla de punto de equilibrio y una lista de verificación de preparación."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-words",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Principal e intereses (Principal and interest)",
+       "Las dos partes de un pago hipotecario. El principal reduce la cantidad que pediste prestado. Los intereses son lo que el prestamista te cobra por prestarte."
+      ],
+      [
+       "Cuota de condominio o asociación de vecinos (Condo or HOA fee)",
+       "Una cuota mensual que los miembros de la asociación de condominios o de propietarios pagan por costos compartidos, como reparaciones del edificio, áreas comunes y, a veces, agua o basura."
+      ],
+      [
+       "Seguro hipotecario privado (PMI) (Private mortgage insurance (PMI))",
+       "Seguro que podrías tener que pagar cuando das menos del 20% de enganche en un préstamo convencional. Protege al prestamista, no a ti."
+      ],
+      [
+       "Costos de cierre (Closing costs)",
+       "Tarifas que pagas para completar la compra de una casa, como las tarifas del prestamista, la tasación, el seguro de título, los impuestos gubernamentales y el pago anticipado de impuestos y seguros prediales."
+      ],
+      [
+       "Equidad (Equity)",
+       "La parte de tu casa que posees. Es el valor de la casa menos lo que aún debes en la hipoteca."
+      ],
+      [
+       "Punto de equilibrio (Break-even point)",
+       "El momento en que el costo total de compra se vuelve menor que el costo total de rentar."
+      ],
+      [
+       "Enganche (Down payment)",
+       "La parte del precio de la casa que pagas en efectivo al principio. El resto pides prestado con una hipoteca."
+      ],
+      [
+       "Enumerar (Itemize)",
+       "Para listar ciertos costos, como intereses hipotecarios e impuestos prediales, en tu declaración federal de impuestos para reducir los ingresos sobre los que pagas impuestos. Haz esto en lugar de tomar la deducción estándar."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s1",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "text",
+   "title": "El costo total de ser dueño de una casa",
+   "body": [
+    {
+     "p": "Muchas personas comparan su renta con un pago hipotecario. Esa no es una comparación justa. Un propietario paga muchos costos que un inquilino no paga:"
+    },
+    {
+     "ul": [
+      "**Capital e intereses:** el pago del préstamo en sí.",
+      "**Impuesto predial:** en DC, la mayoría de las casas se gravan a $0.85 por cada $100 de valor tasado cada año. El valor tasado es lo que la ciudad o condado dice que vale tu casa para efectos fiscales. La deducción por vivienda en DC reduce el impuesto para los propietarios que viven en la casa. En Maryland y Virginia, la tasa depende del condado o ciudad donde esté la casa.",
+      "**Seguro para propietarios de vivienda o condominio:** cubre tu casa y pertenencias.",
+      "**Cuota de condominio o HOA:** esto puede aumentar con el tiempo. Una asociación de condominios también puede cobrar una \"cuota especial\" única por una reparación grande, como un techo nuevo.",
+      "**Seguro hipotecario privado (PMI):** a menudo requerido si pones menos del 20% de enganche en un préstamo convencional. Un préstamo convencional es una hipoteca regular que el gobierno no respalda. Un préstamo FHA está respaldado por la Administración Federal de Vivienda y te permite dar una entrada tan baja como el 3.5%, pero pagas seguro hipotecario.",
+      "**Reparaciones y mantenimiento:** cuando el calentador de agua se descompone, no hay dueño a quien llamar. Guarda esto cada mes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s2",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "example",
+   "title": "Costo mensual: rentar vs. comprar un condominio en DC",
+   "body": [
+    {
+     "p": "Kwame y Ama rentan un departamento de una recámara en Brookland, en el noreste de DC, por $2,000 al mes. Están viendo un departamento de una recámara cerca por $320,000. Pondrían un 5% de enganche y pedirían prestado $304,000 por 30 años a una tasa fija del 7%. Con una tasa fija, la tasa de interés y el pago del préstamo se mantienen igual para todo el préstamo. Con una tasa ajustable, pueden cambiar después. Esa es cerca de la tasa promedio de 30 años en la encuesta semanal de Freddie Mac a finales de septiembre de 2026, que era de 7.03% el 24 de septiembre. Tu tasa puede ser más alta o más baja."
+    },
+    {
+     "table": {
+      "caption": "Costo mensual del primer año de renta y de compra de un condominio de $320,000",
+      "head": [
+       "Costo mensual",
+       "Renta",
+       "Comprar"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Renta",
+        "$2,000",
+        "$0"
+       ],
+       [
+        "Seguro para inquilinos",
+        "$15",
+        "$0"
+       ],
+       [
+        "Capital e intereses (7%, 30 años)",
+        "$0",
+        "$2,023"
+       ],
+       [
+        "Impuesto predial ($0.85 por cada $100, antes de cualquier deducción por vivienda principal)",
+        "$0",
+        "$227"
+       ],
+       [
+        "Cuota de condominio",
+        "$0",
+        "$450"
+       ],
+       [
+        "Seguro para propietarios de condominio",
+        "$0",
+        "$30"
+       ],
+       [
+        "PMI",
+        "$0",
+        "$125"
+       ],
+       [
+        "Ahorro para reparaciones",
+        "$0",
+        "$100"
+       ],
+       [
+        "Total cada mes",
+        "$2,015",
+        "$2,955"
+       ]
+      ],
+      "total": [
+       8
+      ]
+     }
+    },
+    {
+     "formula": "$320,000 × $0.85 ÷ $100 = $2,720 al año, o aproximadamente $227 al mes"
+    },
+    {
+     "p": "En el primer año, ser dueño cuesta aproximadamente $940 más cada mes que rentar. La cuota del condominio, el seguro, el PMI y los números de reparación son ejemplos. Pide la cuota real del condominio y obtén cotizaciones de seguro para cualquier casa que consideres."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "rent-or-buy-s3",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "text",
+   "title": "El efectivo que necesitas antes de conseguir las llaves",
+   "body": [
+    {
+     "p": "Comprar también requiere mucho dinero al principio. En el ejemplo, Kwame y Ama necesitan:"
+    },
+    {
+     "ul": [
+      "**Enganche:** 5% de $320,000 son $16,000.",
+      "**Costos de cierre:** alrededor de $9,000 en este ejemplo. Tu prestamista debe darte una estimación de préstamo dentro de los tres días hábiles posteriores a la solicitud. Muestra tus costos reales de cierre.",
+      "**Mudances y reparaciones tempranas de muebles:** alrededor de $2,000."
+     ]
+    },
+    {
+     "formula": "$16,000 + $9,000 + $2,000 = $27,000 antes del día de la mudanza"
+    },
+    {
+     "p": "También deberían mantener un [fondo de emergencia](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/) después de pagar todo esto. Los programas en DC, Maryland y Virginia pueden ayudar a compradores primerizos con el enganche y los costos de cierre. Consulta nuestra lección sobre [ayuda con el enganche](https://dollarscholars.org/es-mx/resources/lessons/down-payment-help/)."
+    },
+    {
+     "p": "Por ley, puedes pedirle por escrito a tu administrador de préstamos que cancele el PMI cuando el saldo de tu préstamo esté programado para alcanzar el 80% del valor original de la casa, si cumples ciertas condiciones, como un buen historial de pagos. En este ejemplo, eso toma casi 11 años."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s4",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "example",
+   "title": "Cinco años después: ¿cuánto costaba cada elección?",
+   "body": [
+    {
+     "p": "Ahora imagina que Kwame y Ama deben mudarse después de cinco años. Asumimos que la renta sube un 3% al año, los costos del propietario aparte del pago del préstamo y el PMI suben un 3% al año, el valor del condominio sube un 3% al año y los costos de venta son el 6% del precio de venta."
+    },
+    {
+     "formula": "Renta: $127,419 de renta + $900 de seguro de inquilino = $128,319"
+    },
+    {
+     "table": {
+      "caption": "Comprar el condominio y venderlo después de cinco años",
+      "head": [
+       "Ítem",
+       "Monto"
+      ],
+      "num": [
+       1
+      ],
+      "rows": [
+       [
+        "Efectivo al inicio",
+        "$27,000"
+       ],
+       [
+        "Costos mensuales por 60 meses",
+        "$180,265"
+       ],
+       [
+        "Total pagado",
+        "$207,265"
+       ],
+       [
+        "Precio de venta después de cinco años",
+        "$370,968"
+       ],
+       [
+        "Menos los costos de venta (6%)",
+        "−$22,258"
+       ],
+       [
+        "Menos saldo del préstamo pagado en la venta",
+        "−$286,160"
+       ],
+       [
+        "Reembolso en efectivo en la venta",
+        "$62,550"
+       ],
+       [
+        "Costo neto de compra ($207,265 − $62,550)",
+        "$144,715"
+       ]
+      ],
+      "total": [
+       7
+      ]
+     }
+    },
+    {
+     "p": "Durante cinco años, rentar costó $16,396 menos. ¿Por qué? En los primeros cinco años, Kwame y Ama pagaron $121,351 en principal e intereses, pero $103,511 de eso son intereses. Solo $17,840 pagan el préstamo."
+    },
+    {
+     "p": "Si el valor del condominio no sube en absoluto, el reembolso en efectivo a la venta es solo de $14,640, y el costo neto de compra sube a $192,625. Los precios de las casas pueden mantenerse estables o incluso bajar. Además, los inquilinos conservaron sus $27,000 y gastaron menos cada mes. Si ahorran ese dinero, rentar se ve aún mejor en este ejemplo."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "rent-or-buy-s5",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "text",
+   "title": "Punto de equilibrio: por qué importa el número de años",
+   "body": [
+    {
+     "p": "Los costos únicos de comprar y vender se distribuyen a lo largo de los años que permaneces. Mientras más tiempo te quedes, menores serán estos costos para cada año. También pagas una mayor parte del préstamo cada año. Aquí está el mismo ejemplo en diferentes periodos de tiempo, si el valor del condominio sube un 3% al año."
+    },
+    {
+     "table": {
+      "caption": "Costo total de renta vs. costo neto de compra, por años de permanecencia",
+      "head": [
+       "Años",
+       "Renta",
+       "Compra",
+       "¿Cuál costó menos?"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "3",
+        "$74,722",
+        "$99,601",
+        "Rentando, por $24,879"
+       ],
+       [
+        "5",
+        "$128,319",
+        "$144,715",
+        "Rentando, por $16,396"
+       ],
+       [
+        "7",
+        "$185,159",
+        "$188,737",
+        "Rentando, por $3,578"
+       ],
+       [
+        "8",
+        "$214,856",
+        "$210,285",
+        "Comprando, por $4,571"
+       ],
+       [
+        "10",
+        "$276,933",
+        "$252,338",
+        "Comprando, por $24,595"
+       ]
+      ],
+      "total": [
+       4
+      ]
+     }
+    },
+    {
+     "p": "En este ejemplo, el punto de equilibrio llega en el año 8. Con diferentes precios, tasas o comisiones, podría llegar más temprano o mucho después. Si el valor de la casa se mantiene estable, comprar cuesta más que rentar los diez años."
+    },
+    {
+     "p": "Algunos propietarios pueden deducir los intereses hipotecarios y el impuesto predial en su declaración federal de impuestos, pero solo si detallan las deducciones. Muchas personas eligen la deducción estándar en su lugar, así que no obtienen ahorros fiscales adicionales. Un [voluntario gratuito de impuestos de VITA](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/) puede decirte qué aplica para ti."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s6",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "warning",
+   "title": "Trampas comunes en el camino a la compra",
+   "body": [
+    {
+     "ul": [
+      "**\"Pagar renta es un desperdicio de dinero.\"** La renta paga un lugar para vivir y la libertad de mudarse. En los primeros años, la mayor parte del pago de la hipoteca es intereses, que tampoco se recuperan.",
+      "**Contratos de renta con opción a compra o \"arrendamiento-compra\".** Puedes pagar extra cada mes para comprar la casa después. Si atrasas un pago o no puedes obtener una hipoteca a tiempo, podrías perder todo ese dinero extra. Algunos de estos contratos también te obligan a pagar por reparaciones. Haz que un consejero de vivienda o un abogado revise cualquier contrato antes de firmar. En DC, puedes reportar acuerdos injustos a la Oficina del Fiscal General.",
+      "**Comprar la casa más cara que apruebe un prestamista.** La aprobación del prestamista no es un presupuesto. Asegúrate de que el costo mensual completo aún te permita ahorrar cada mes.",
+      "**Saltarse los papeles del condominio.** Antes de comprar un condominio, pide el presupuesto de la asociación, sus ahorros para reparaciones y cualquier evaluación especial planeada."
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "rent-or-buy-s7",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "text",
+   "title": "Más allá del dinero y una lista de verificación de preparación",
+   "body": [
+    {
+     "p": "El dinero no es la única pregunta. Piensa en:"
+    },
+    {
+     "ul": [
+      "**Flexibilidad:** los inquilinos pueden mudarse más fácilmente por un nuevo trabajo o necesidades familiares.",
+      "**Estabilidad:** los propietarios que mantienen la hipoteca controlan su casa y no se les puede decir que se vayan cuando termina el contrato de arrendamiento.",
+      "**Traslado:** una casa más barata lejos del trabajo o del Metro puede costar más en tiempo, gasolina y tarifas.",
+      "**Escuelas:** en DC y condados cercanos, tu dirección usualmente decide la escuela pública asignada.",
+      "**Tiempo y trabajo:** los dueños se encargan o pagan cada reparación."
+     ]
+    },
+    {
+     "p": "Marca cada casilla que sea cierta para ti:"
+    },
+    {
+     "ul": [
+      "Planeamos quedarnos en la zona por muchos años. En nuestro ejemplo, comprar empezó a costar menos solo en octavo año.",
+      "Tenemos efectivo para el enganche, los costos de cierre y la mudanza, y aún tendremos un fondo de emergencia después de comprar.",
+      "Nuestros ingresos son estables. Los prestamistas suelen revisar los últimos dos años de historial laboral. Si somos trabajadores independientes o recibimos pagos en efectivo, nuestras declaraciones de impuestos muestran ese ingreso.",
+      "Revisamos nuestros reportes de crédito de las tres agencias de crédito gratis en AnnualCreditReport.com y corregimos cualquier error.",
+      "Podemos pagar el costo mensual completo de ser propietario, no solo la hipoteca, y aún así ahorrar cada mes.",
+      "Nuestros otros pagos mensuales de deuda son bajos. Consulta nuestra lección sobre [cómo prepararte para la hipoteca](https://dollarscholars.org/es-mx/resources/lessons/mortgage-ready/) y aprende cómo los prestamistas miden esto.",
+      "Nos reunimos con un consejero de vivienda aprobado por HUD o tomamos una clase de educación para compradores de vivienda."
+     ]
+    },
+    {
+     "p": "¿No tienes número de seguro social? La mayoría de los programas hipotecarios estándar, incluidos los préstamos FHA, lo requieren. Desde mayo de 2025, los préstamos FHA también son solo para ciudadanos estadounidenses, residentes permanentes legales (titulares de green card) y algunos otros grupos pequeños. Algunos bancos, cooperativas de crédito y prestamistas comunitarios ofrecen hipotecas a prestatarios con un ITIN. Un consejero de vivienda puede ayudarte a encontrarlas."
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-s8",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "tip",
+   "title": "Empieza con un consejero de vivienda, no con un vendedor",
+   "body": [
+    {
+     "p": "Un consejero de vivienda aprobado por HUD trabaja para una organización sin fines de lucro o agencia pública, no para un prestamista o vendedor. Un consejero puede revisar tu presupuesto, crédito y ahorros, y puede informarte sobre programas para compradores primerizos en DC, Maryland o Virginia. Muchos programas de ayuda con el enganche requieren una clase de educación para compradores de vivienda, y los consejeros suelen impartir una. Busca por código postal con el [buscador de consejeros de vivienda](https://www.consumerfinance.gov/find-a-housing-counselor/) del CFPB."
+    },
+    {
+     "p": "Si te faltan algunas casillas en la lista, eso es normal. Usa tus años de renta para ahorrar, construir tu crédito y pagar deudas. Luego revisa la lista de nuevo el próximo año."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "rent-or-buy-takeaways",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "El pago de la hipoteca es solo una parte del costo. Agrega el impuesto predial, seguro, cuotas de condominio o asociación de vecinos, seguro hipotecario y reparaciones.",
+      "Comprar tiene grandes costos únicos, y vender una casa también cuesta dinero. Por eso una estancia corta generalmente favorece rentar.",
+      "En nuestro ejemplo, rentar costaba menos durante cada uno de los primeros siete años. Comprar costaba menos solo después de eso, y solo porque el valor de la casa subió.",
+      "En los primeros años de una hipoteca, la mayor parte de cada pago se destina a intereses, así que construyes patrimonio poco a poco.",
+      "Antes de decidir, reúnete con un consejero de vivienda aprobado por HUD. La ayuda suele ser gratuita o de bajo costo."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-quiz",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/rent-or-buy/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "rent-or-buy-links",
+   "type": "lesson",
+   "lesson": "rent-or-buy",
+   "lessonTitle": "¿Rentar o comprar? Compara los costos reales",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Comprar una casa: herramientas y recursos para compradores",
+       "u": "https://www.consumerfinance.gov/owning-a-home/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Guías paso a paso para prepararte para comprar, comparar ofertas de préstamos y entender tu Estimación de Préstamo y los papeles de cierre."
+      },
+      {
+       "t": "Encuentra un consejero de vivienda",
+       "u": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Busca por código postal consejeros de vivienda aprobados por HUD que ayuden con compras, rentas y crédito, a menudo con poco o ningún costo."
+      },
+      {
+       "t": "Tasas del Impuesto sobre la Propiedad Inmobiliaria",
+       "u": "https://otr.cfo.dc.gov/page/real-property-tax-rates",
+       "org": "DC Office of Tax and Revenue",
+       "d": "Las tasas actuales del impuesto predial en DC, así que puedes estimar el impuesto sobre una casa que estás pensando en comprar."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

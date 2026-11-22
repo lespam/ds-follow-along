@@ -7,3 +7,4 @@
 - Accesible: teclado, foco en título al cambiar de bloque, contraste, lenguaje claro.
 - Orden: (1) despliegue+update+progreso, (2) Tema 1 + presupuesto de Carlos, (3) traducciones, (4) temas 2-10.
 - Prototipo origen: rama ld/lessons-app-leccion-1 (copia en /mnt/project-files/lessons-app/).
+- Temas 2-10 y la lección emergency-fund (Tema 1) se importan del sitio público con `python3 tools/import-lessons.py`. No editar a mano esos JSON: se sobrescriben. Tema 1 (plan de Carlos) es manual.

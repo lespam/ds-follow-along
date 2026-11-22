@@ -227,6 +227,412 @@
    "text": [
     "This is calculated from the months you filled in. Base income is the month with the lowest income."
    ]
+  },
+  {
+   "id": "emergency-fund-intro",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "intro",
+   "title": "Start an Emergency Fund from Zero",
+   "body": [
+    {
+     "p": "Practical ways to save your first $500, where to keep it safely, and how to refill it after you use it."
+    },
+    {
+     "p": "(About 14 min, 6 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Compare what one emergency costs when you pay from savings, with a credit card, or with a high-cost loan.",
+      "Set a starter savings goal and work out a weekly amount to reach it.",
+      "Choose a safe, insured place for emergency savings and set up automatic saving.",
+      "Decide what counts as an emergency, and make a plan to refill the fund after you use it."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers why an emergency fund matters and where to keep savings. This lesson turns that into a week-by-week plan with real numbers, and shows how to protect your fund and refill it after you use it."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-words",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Emergency fund",
+       "Money you keep only for unexpected costs that you must pay, such as a car repair you need to get to work or an urgent medical bill."
+      ],
+      [
+       "APR (annual percentage rate)",
+       "The yearly cost of borrowing money, including interest and most fees, shown as a percent."
+      ],
+      [
+       "Rollover",
+       "Paying a fee to move the due date of a short-term loan later. You still owe the full amount, and each rollover adds a new fee."
+      ],
+      [
+       "Deposit insurance",
+       "Government protection that pays back your money, up to a limit, if an insured bank or credit union fails. The FDIC insures banks, and the NCUA insures credit unions."
+      ],
+      [
+       "Direct deposit",
+       "When your employer or a government agency sends money straight into your bank or credit union account instead of giving you a check."
+      ],
+      [
+       "ABLE account",
+       "A special savings account for some people with a disability that began before age 46. Money in it is not counted for SSI, up to a limit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s1",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "example",
+   "title": "One $400 repair, three ways to pay",
+   "body": [
+    {
+     "p": "Amina lives in Alexandria, Virginia, and works as a home health aide. She drives to her clients' homes. One morning her car needs a $400 repair. Without the car, she cannot work. Here is what the same $400 repair costs, depending on how she pays."
+    },
+    {
+     "table": {
+      "caption": "What a $400 car repair really costs",
+      "head": [
+       "How Amina pays",
+       "Extra cost",
+       "Total she pays"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "From her emergency fund",
+        "$0",
+        "$400"
+       ],
+       [
+        "Credit card at 24% APR, paying $25 a month (about 20 months)",
+        "about $87",
+        "about $487"
+       ],
+       [
+        "Online payday loan with a $15 fee for every $100, repaid in 2 weeks",
+        "$60",
+        "$460"
+       ],
+       [
+        "The same loan, rolled over 4 times before she can repay it (10 weeks)",
+        "$300",
+        "$700"
+       ]
+      ],
+      "total": []
+     }
+    },
+    {
+     "formula": "$15 ÷ $100 × 365 ÷ 14 days × 100 = about 391% APR"
+    },
+    {
+     "p": "An **APR** (annual percentage rate) is the yearly cost of borrowing, including interest and most fees. A 24% APR on a credit card is about 2% of the balance each month. A payday loan fee of $15 for every $100 for two weeks is equal to an APR of about 391%. When a short-term loan is renewed, or **rolled over**, you pay a new fee but still owe the full $400. That is how $400 becomes $700. Laws in DC, Maryland, and Virginia limit the cost of these loans, but some online lenders do not follow those laws. See [the lesson on high-cost loans](https://dollarscholars.org/resources/lessons/high-cost-loans/)."
+    },
+    {
+     "p": "With $400 in an emergency fund, the repair costs $400 and nothing more. That is the reason to start saving, even in small amounts."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "emergency-fund-s2",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "text",
+   "title": "Set a starter goal",
+   "body": [
+    {
+     "p": "An **emergency fund** is money you keep only for unexpected costs that you must pay. Many emergencies cost a few hundred dollars, so start with a goal of $500. When you reach it, set a second goal: one month of your needs and obligations. Over time, some experts suggest saving several months of living expenses. Each step makes you safer."
+    },
+    {
+     "p": "To find your weekly amount, divide your goal by the number of weeks you want to take."
+    },
+    {
+     "formula": "$500 ÷ 26 weeks (about 6 months) = $19.23, or about $20 a week"
+    },
+    {
+     "table": {
+      "caption": "How long it takes to save $500",
+      "head": [
+       "Save each week",
+       "Weeks to reach $500",
+       "About how long"
+      ],
+      "num": [
+       0,
+       1
+      ],
+      "rows": [
+       [
+        "$10",
+        "50",
+        "11 and a half months"
+       ],
+       [
+        "$20",
+        "25",
+        "almost 6 months"
+       ],
+       [
+        "$25",
+        "20",
+        "4 and a half months"
+       ],
+       [
+        "$50",
+        "10",
+        "a little over 2 months"
+       ]
+      ],
+      "total": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s3",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "text",
+   "title": "Find the money to save",
+   "body": [
+    {
+     "p": "Saving $20 a week can feel hard when money is already low. Look for small amounts in several places:"
+    },
+    {
+     "ul": [
+      "**Small cuts.** Look at your spending plan. Eating out one less time each week or dropping one streaming service may give you part or all of your $20.",
+      "**Your tax refund.** When you file, you can ask the IRS to split your refund into up to three accounts in your name (or your spouse's name, if you file together). Tax software usually asks about this. On a paper return, you use Form 8888. Send part of the refund straight to savings. Since the end of September 2025, the IRS has generally stopped mailing paper refund checks, so a bank or credit union account also makes getting your refund easier. For free help, see [the lesson on filing your taxes for free](https://dollarscholars.org/resources/lessons/file-for-free/).",
+      "**Raises and extra paychecks.** When you get a raise, save part of it before you start spending it. If you are paid every two weeks, most years have two months with a third paycheck. Save part or all of it.",
+      "**Surprise money.** A bonus, a gift, or a week with big tips can go straight into the fund.",
+      "**Finished payments.** When you pay off a debt, keep making the same payment, but to your savings."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s4",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "text",
+   "title": "Where to keep it",
+   "body": [
+    {
+     "p": "Keep your emergency fund in a savings account at a bank insured by the FDIC or a credit union insured by the NCUA. **Deposit insurance** covers up to $250,000 per depositor, per insured bank or credit union, for each account ownership category. If the bank or credit union fails, you get your insured money back."
+    },
+    {
+     "p": "The best place is easy to reach, but not too easy. A separate savings account at your own bank or credit union lets you move money quickly when you need it, but you will not spend it by accident at the store. Some people choose not to link a debit card to their savings account."
+    },
+    {
+     "p": "Cash at home can be lost, stolen, or burned in a fire, and it is not insured. Some banks and credit unions open accounts for people without a Social Security number. See [the lesson on opening a bank account](https://dollarscholars.org/resources/lessons/open-an-account/)."
+    },
+    {
+     "h3": "If you get public benefits"
+    },
+    {
+     "p": "Some benefits count your savings. In 2026, to get Supplemental Security Income (SSI), your countable resources, including most savings, must be $2,000 or less for one person, or $3,000 for a couple, according to the Social Security Administration. Since January 1, 2026, people whose disability began before age 46 may be able to open an **ABLE account**. Money in an ABLE account is not counted for SSI, up to a limit. Other programs have different rules, so ask your caseworker or a benefits counselor before you save a large amount."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s5",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "tip",
+   "title": "Make saving happen by itself",
+   "body": [
+    {
+     "ol": [
+      "Ask your employer if you can split your **direct deposit**, so part of your pay goes to savings. You can often send a set amount, such as $20, to savings and the rest to checking.",
+      "If you cannot split your pay, set up an automatic transfer in your banking app for the day after payday.",
+      "If you are paid in cash or tips, pick one day each week to deposit your savings amount before you spend.",
+      "Start with an amount you can keep saving. $10 every week is better than $50 one time."
+     ]
+    },
+    {
+     "p": "Saving first, before you spend, works better than saving whatever is left at the end of the month."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "emergency-fund-s6",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "text",
+   "title": "Is it an emergency? Ask three questions",
+   "body": [
+    {
+     "p": "Before you use your fund, check:"
+    },
+    {
+     "ul": [
+      "**Is it unexpected?** Holiday gifts and school supplies come every year. Plan for them in your spending plan instead.",
+      "**Is it necessary?** Would not paying it hurt your health, your safety, your home, or your job?",
+      "**Is it urgent?** Must it be paid now, or can it wait while you save for it?"
+     ]
+    },
+    {
+     "p": "If the answer to all three is yes, use the fund. That is what it is for. Examples: a car repair you need to get to work, an urgent medical or dental bill, or rent in a month when your hours were cut. A sale, a new phone, or a trip is not an emergency."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-s7",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "warning",
+   "title": "Fake emergencies and people who want your savings",
+   "body": [
+    {
+     "p": "Scammers know that people keep emergency money, and they invent emergencies to get it."
+    },
+    {
+     "ul": [
+      "**A family member in trouble.** A call or message sounds like your grandchild, child, or cousin. They need money right now and ask you to keep it secret. Scammers can even copy a person's voice with computer tools. End the call. Then call your family member, or another relative, at a number you already know.",
+      "**A \"safe account\".** Someone says they are from your bank or a government agency and tells you to move your savings to protect it. The Federal Trade Commission (FTC) says it will never tell you to move your money to protect it. End the call and phone your bank at the number on your card or statement.",
+      "**Strange ways to pay.** Someone asks you to fix an emergency with gift cards, cryptocurrency, a wire transfer, or a payment app. No real business or government agency will tell you to buy a gift card to pay them."
+     ]
+    },
+    {
+     "p": "Do not rush. Talk to someone you trust before you send money. Report scams at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/). Learn more in [the lesson on spotting scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "emergency-fund-s8",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "text",
+   "title": "Refill the fund after you use it",
+   "body": [
+    {
+     "p": "Using your fund is not a failure. The fund did what it was made to do. Now make a plan to refill it."
+    },
+    {
+     "p": "Last spring, Amina had $500 saved. She needed $350 for a broken tooth that hurt and needed care right away. She had $150 left."
+    },
+    {
+     "formula": "$350 to refill ÷ $25 a week = 14 weeks"
+    },
+    {
+     "ol": [
+      "Write down how much you used and how much is left.",
+      "Go back to your weekly amount. Add a little more if you can, for example $25 instead of $20.",
+      "Send your next surprise money, such as a tax refund, a bonus, or a third paycheck, to the fund.",
+      "Think about what caused the emergency. Can you plan for it next time? If your car needs repairs every year, add a car repair line to your spending plan."
+     ]
+    },
+    {
+     "p": "When the fund reaches $500 again, keep going toward your next goal: one month of your needs and obligations."
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-takeaways",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "A $400 emergency paid from savings costs $400. Paid with a high-cost loan that is renewed, it can cost $700.",
+      "Start with a $500 goal. Saving $20 a week gets you there in about six months.",
+      "Keep the fund in an FDIC- or NCUA-insured savings account, separate from your everyday spending.",
+      "Save automatically: split your direct deposit, or set a transfer for the day after payday.",
+      "Using the fund is not a failure. After you use it, make a plan to refill it."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-quiz",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/emergency-fund/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "emergency-fund-links",
+   "type": "lesson",
+   "lesson": "emergency-fund",
+   "lessonTitle": "Start an Emergency Fund from Zero",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "An essential guide to building an emergency fund",
+       "u": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Practical steps to build savings: set a habit, automate transfers, split your direct deposit, and save part of your tax refund."
+      },
+      {
+       "t": "Saving for the Unexpected and Your Future",
+       "u": "https://www.fdic.gov/consumer-resource-center/2025-01/saving-unexpected-and-your-future",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "Ideas for finding money to save, setting up automatic transfers, and keeping savings in an insured account."
+      },
+      {
+       "t": "Ahorrar para lo inesperado y para el futuro",
+       "u": "https://www.fdic.gov/consumer-resource-center/2025-01/ahorrar-para-lo-inesperado-y-para-el-futuro",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "The same guide in Spanish: finding money to save, setting up automatic transfers, and keeping savings in an insured account."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "lessons": [
+  {
+   "slug": "emergency-fund",
+   "title": "Start an Emergency Fund from Zero",
+   "summary": "Practical ways to save your first $500, where to keep it safely, and how to refill it after you use it.",
+   "meta": "(About 14 min, 6 quiz questions)",
+   "n": 2
   }
  ]
 }

@@ -1,0 +1,1217 @@
+{
+ "id": "tema-02",
+ "title": "Topic 2: Banking Basics: Accounts That Work for You",
+ "summary": "How to open an account (even without an SSN), compare banks, credit unions, apps, and check cashers, and send money abroad safely and cheaply.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "open-an-account",
+   "title": "Opening a Bank Account, Even Without an SSN",
+   "summary": "What to bring, which accounts to ask for, and what to do if you have been turned down before.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 1
+  },
+  {
+   "slug": "where-to-bank",
+   "title": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "summary": "How to tell whether your money is really insured, and what everyday money services cost over a year.",
+   "meta": "(About 15 min, 5 quiz questions)",
+   "n": 2
+  },
+  {
+   "slug": "sending-money-abroad",
+   "title": "Sending Money Home: Compare Costs and Know Your Rights",
+   "summary": "How to find the real cost of an international transfer, your federal rights, and how to spot scams that ask you to send money abroad.",
+   "meta": "(About 16 min, 5 quiz questions)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "open-an-account-intro",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "intro",
+   "title": "Opening a Bank Account, Even Without an SSN",
+   "body": [
+    {
+     "p": "What to bring, which accounts to ask for, and what to do if you have been turned down before."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "List the kinds of ID that banks and credit unions may accept, such as a passport, consular ID, or ITIN.",
+      "Find low-cost accounts, such as Bank On certified accounts.",
+      "Explain what to do if a bank turns you down because of your banking history report.",
+      "Prepare questions to ask before you open an account."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class covers what banks usually ask for and how banking history reports work. This lesson gives you a document checklist, shows you how to find low-cost Bank On accounts, and walks you through getting and disputing your ChexSystems report."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-words",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "ITIN",
+       "Individual Taxpayer Identification Number. A 9-digit tax number from the IRS for people who need one but cannot get a Social Security number."
+      ],
+      [
+       "Consular ID",
+       "An ID card that your home country's embassy or consulate gives to its citizens who live in another country, such as the Mexican matrícula consular."
+      ],
+      [
+       "Banking history report",
+       "A report on how you used bank and credit union accounts in the past. Banks use it to decide whether to open an account for you. ChexSystems is the best-known company that makes these reports."
+      ],
+      [
+       "Adverse action notice",
+       "A notice a bank must give you when it turns you down because of a report. It names the company that made the report."
+      ],
+      [
+       "Bank On certified account",
+       "A low-cost account at a bank or credit union that meets national standards set by the nonprofit Bank On program, such as no overdraft fees."
+      ],
+      [
+       "Second chance account",
+       "An account for people who had problems with a bank account in the past. It may have fewer features or a small monthly fee."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s1",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "text",
+   "title": "Why an account saves you money",
+   "body": [
+    {
+     "p": "Meet Rosa. She cleans offices in downtown DC and gets a paper paycheck every two weeks. She cashes each check at a store near her apartment in Columbia Heights, and the store keeps part of every check as a fee. Then she buys money orders to pay her rent and phone bill, and she pays a fee for each money order."
+    },
+    {
+     "p": "A checking account can end most of these costs. With an account at a bank or credit union, you can:"
+    },
+    {
+     "ul": [
+      "Get your pay by direct deposit. The money arrives on payday, and you pay nothing to cash a check.",
+      "Pay bills online or with a debit card instead of buying money orders.",
+      "Keep your money safer. Cash at home can be lost or stolen. Money in an insured bank or credit union is protected up to the insurance limit, even if the bank or credit union fails.",
+      "Build a record with a bank. This can help later when you want a loan, a credit card, or a home."
+     ]
+    },
+    {
+     "p": "To see how much check cashing can cost in one year, read [Banks, Credit Unions, Apps, and Check Cashers](https://dollarscholars.org/resources/lessons/where-to-bank/)."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s2",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "text",
+   "title": "What to bring",
+   "body": [
+    {
+     "p": "Federal rules say a bank or credit union must collect your name, date of birth, address, and an ID number, and it must check who you are. Each bank decides which documents it accepts, so the rules are not the same everywhere. Call first and ask."
+    },
+    {
+     "h3": "An ID number"
+    },
+    {
+     "ul": [
+      "A Social Security number (SSN), if you have one.",
+      "An ITIN from the IRS, if you cannot get an SSN. Bring the IRS letter that shows your ITIN.",
+      "If you have neither, some banks accept the number on your passport or another government ID."
+     ]
+    },
+    {
+     "p": "Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN. Some may ask for more documents or say no, so ask before you apply."
+    },
+    {
+     "h3": "A photo ID"
+    },
+    {
+     "ul": [
+      "A U.S. driver's license or state ID card",
+      "A passport from any country",
+      "A consular ID card from your country's embassy or consulate",
+      "A U.S. permanent resident card (green card) or work permit"
+     ]
+    },
+    {
+     "p": "DC, Maryland, and Virginia each offer a driver's license or ID card for some residents who cannot show lawful immigration status. These cards cannot be used for federal purposes, such as boarding a plane. Some banks accept them as ID. Ask before you go."
+    },
+    {
+     "h3": "Proof of address"
+    },
+    {
+     "p": "Many banks also ask for proof of where you live, such as a lease, a utility bill, or a letter from a government office. If no bills are in your name, ask what else the bank accepts."
+    },
+    {
+     "h3": "Money for the first deposit"
+    },
+    {
+     "p": "Some accounts need $25 or less to open. Others need more. Ask how much before you go."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s3",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "text",
+   "title": "Look for a Bank On certified account",
+   "body": [
+    {
+     "p": "Bank On is a national program run by a nonprofit, the Cities for Financial Empowerment Fund. It certifies low-cost accounts at banks and credit unions. Under the Bank On National Account Standards for 2025–2026, a certified account must have:"
+    },
+    {
+     "ul": [
+      "An opening deposit of $25 or less",
+      "A monthly fee of $5 or less, or up to $10 if there are at least two easy ways to avoid it, such as direct deposit",
+      "No overdraft fees and no fees for payments returned because there was not enough money. An overdraft happens when you spend more than you have in your account and the bank pays it anyway. Many banks then charge a fee each time.",
+      "No fees for a low balance or for not using the account",
+      "A free debit card, free direct deposit, and free cash and check deposits"
+     ]
+    },
+    {
+     "p": "The standards also strongly encourage banks to accept an ITIN and IDs such as a consular ID, and to turn people down only for past fraud, not for old overdrafts. Not every certified account does this, so ask. Since June 2026, federal regulators have asked banks to look more closely at customers who use an ITIN."
+    },
+    {
+     "p": "Search for certified accounts by state at [joinbankon.org](https://joinbankon.org/accounts/). In DC, the Department of Insurance, Securities and Banking (DISB) runs Bank On DC with local banks and nonprofits. Visit [bankondc.org](https://bankondc.org/) or call (202) 727-8000. In Maryland, the nonprofit CASH Campaign of Maryland leads Bank On Maryland."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s4",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "text",
+   "title": "If a bank turns you down",
+   "body": [
+    {
+     "p": "Most banks look at a banking history report before they open an account. The two main companies that make these reports are ChexSystems and Early Warning Services. A report may show an old account that was closed with money owed, such as an unpaid overdraft. It may also show suspected fraud."
+    },
+    {
+     "p": "If a bank turns you down because of a report, it must give you a notice, called an adverse action notice, that names the company. Then follow these steps:"
+    },
+    {
+     "ol": [
+      "**Get your free report.** You can get one free report every 12 months from each company. You can also get a free report within 60 days after a bank turns you down. To reach ChexSystems, go to chexsystems.com or call 800-428-9623.",
+      "**Read every line.** Look for accounts that are not yours, wrong amounts, and debts you already paid.",
+      "**Dispute mistakes in writing.** Send your dispute to the report company. Also send a copy to the bank that gave the wrong information. Include copies, not originals, of receipts or letters that prove the mistake. Keep a copy of everything you send.",
+      "**Wait for the answer.** Under federal law, the company generally has 30 days to investigate, and it must correct information that is wrong.",
+      "**If the debt is real,** contact the bank you owe. Ask if you can pay it or make a payment plan. Ask the bank to report the debt as paid when you finish. Get the agreement in writing."
+     ]
+    },
+    {
+     "h3": "Sample dispute letter"
+    },
+    {
+     "quote": "[Date] Chex Systems, Inc., Attn: Consumer Relations, P.O. Box 583399, Minneapolis, MN 55458 My name is [your full name]. My date of birth is [date]. My address is [your address]. [Add your SSN or ITIN here if you have one.] I am disputing this item on my report: [bank name], account number [number], reported on [date]. This information is wrong because [explain why]. I have included copies of [receipts, letters, or statements]. Please investigate, correct or remove this item, and send me an updated copy of my report. Sincerely, [your name]"
+    },
+    {
+     "h3": "If the report is correct"
+    },
+    {
+     "p": "You still have options. Many banks and credit unions offer second chance accounts for people with past problems. These accounts may have a small monthly fee or fewer features, but they let you start again. After a year of careful use, ask whether you can move to a regular account. Old problems also matter less over time. Some report companies do not use information that is more than five years old."
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s5",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "example",
+   "title": "Compare the yearly cost of two accounts",
+   "body": [
+    {
+     "p": "Rosa compares two accounts. She expects to keep about $400 in her new account and to overdraw it about twice a year. These fees are examples. Real fees vary by bank."
+    },
+    {
+     "ul": [
+      "**Account A:** a $12 monthly fee unless you keep at least $1,500 in the account, and $35 for each overdraft.",
+      "**Account B (Bank On certified):** a $5 monthly fee and no overdraft fees. If Rosa does not have enough money, her debit card purchase is declined."
+     ]
+    },
+    {
+     "table": {
+      "caption": "One year of fees for Rosa (example fees)",
+      "head": [
+       "Cost",
+       "Account A",
+       "Account B"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Monthly fees for 12 months",
+        "$144",
+        "$60"
+       ],
+       [
+        "Fees for 2 overdrafts",
+        "$70",
+        "$0"
+       ],
+       [
+        "Total for the year",
+        "$214",
+        "$60"
+       ]
+      ],
+      "total": [
+       2
+      ]
+     }
+    },
+    {
+     "formula": "$214 − $60 = $154 saved in one year with Account B"
+    },
+    {
+     "p": "Account A looks normal, but Rosa will not be able to keep $1,500 in it, so she would pay the fee every month. Always compare fees based on how you really use your account."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "open-an-account-s6",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "text",
+   "title": "Questions to ask before you sign",
+   "body": [
+    {
+     "p": "Bring this list with you. Ask for the fee list in writing, and read it at home before you decide."
+    },
+    {
+     "ul": [
+      "Is there a monthly fee? How can I avoid it?",
+      "Is there a minimum balance? What happens if I go below it?",
+      "How much money do I need to open the account?",
+      "Do you charge overdraft fees? Do you have an account with no overdraft fees?",
+      "Where are your free ATMs? What does it cost to use another bank's ATM?",
+      "When can I use money from a check I deposit?",
+      "Can I deposit cash? Where?",
+      "Is there a mobile app? Can I get a text alert when my balance is low?",
+      "Do you have staff, forms, or an app in my language?",
+      "Is this account insured by the FDIC or the NCUA?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-s7",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "warning",
+   "title": "Never let someone else use your account",
+   "body": [
+    {
+     "p": "A stranger, a new online friend, or a fake employer may offer you money to deposit a check into your account and send part of it back. Or they may ask for your debit card and PIN, or your online banking password. Say no."
+    },
+    {
+     "p": "If the check is fake, the bank will take the money back from your account, often weeks later. You will owe any money you already spent or sent. The bank may close your account and report you to ChexSystems. That can make it hard to open an account anywhere for years."
+    },
+    {
+     "p": "If this happened to you, call your bank now, and report it at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/). Learn more in our lesson on [how to spot scams](https://dollarscholars.org/resources/lessons/spot-scams/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "open-an-account-s8",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "tip",
+   "title": "Call the branch before you go",
+   "body": [
+    {
+     "p": "You can say: “I have an ITIN letter and a passport from Guatemala. Can I open a checking account with these? Do you have a Bank On account?” Write down the name of the person you talked to. Bring original documents, not copies."
+    },
+    {
+     "p": "Want free help? In DC, the DISB Office of Financial Empowerment and Education offers free financial education. Call (202) 727-8000. In Maryland, the CASH Campaign of Maryland offers free financial coaching."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "open-an-account-takeaways",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "You do not always need a Social Security number. Many banks accept an ITIN, a passport, or a consular ID, but rules vary, so call first.",
+      "Bank On certified accounts have no overdraft fees, a low opening deposit, and low or no monthly fees.",
+      "If a bank turns you down, find out which company made the report, get your free copy, and dispute any mistakes.",
+      "Compare fees based on how you really use an account, and ask for the fee list in writing.",
+      "Never let anyone else use your account. It can cost you money and your account."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-quiz",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/open-an-account/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "open-an-account-links",
+   "type": "lesson",
+   "lesson": "open-an-account",
+   "lessonTitle": "Opening a Bank Account, Even Without an SSN",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Get Banked",
+       "u": "https://www.fdic.gov/getbanked",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "What to bring to open an account, including ID options for people without a Social Security number, and low-cost account choices."
+      },
+      {
+       "t": "Find a Bank On certified account",
+       "u": "https://joinbankon.org/accounts/",
+       "org": "Cities for Financial Empowerment Fund (nonprofit)",
+       "d": "Search by state for low-cost bank and credit union accounts that meet the Bank On national standards."
+      },
+      {
+       "t": "Why was I denied a checking account?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/why-was-i-denied-a-checking-account-en-1113/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Your rights after a denial, how to get your free banking history report, and options such as second chance accounts."
+      },
+      {
+       "t": "¡Abra una cuenta de banco!",
+       "u": "https://www.fdic.gov/espanol/getbanked-esp",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "The Spanish-language version of the FDIC guide to opening a bank account."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-intro",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "intro",
+   "title": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "body": [
+    {
+     "p": "How to tell whether your money is really insured, and what everyday money services cost over a year."
+    },
+    {
+     "p": "(About 15 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Tell the difference between FDIC-insured banks, NCUA-insured credit unions, and apps that are not banks.",
+      "Check whether your money is insured, and explain what can happen if an app's middleman company fails.",
+      "Calculate the yearly cost of check cashing and prepaid card fees and compare it with a low-cost account.",
+      "Use simple steps to avoid overdraft fees and other common account fees."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Our class compares banks, credit unions, and other providers, and explains what deposit insurance is. This lesson shows you how to check that your own money is insured, adds up what check cashing and prepaid cards cost in a year, and gives you a checklist for avoiding fees."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-words",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Deposit insurance",
+       "Government protection that pays back your money, up to a limit, if an insured bank or credit union fails."
+      ],
+      [
+       "FDIC",
+       "Federal Deposit Insurance Corporation. The U.S. agency that insures deposits at banks."
+      ],
+      [
+       "NCUA",
+       "National Credit Union Administration. The U.S. agency that insures deposits at federally insured credit unions."
+      ],
+      [
+       "Fintech company",
+       "A technology company that offers money services through an app or website. Many are not banks and keep your money at a partner bank."
+      ],
+      [
+       "Overdraft",
+       "When you spend more money than you have in your account and the bank pays it anyway. Banks often charge a fee for this."
+      ],
+      [
+       "Prepaid card",
+       "A card you load with money before you use it. You spend only the money on the card."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s1",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "text",
+   "title": "Who protects your money",
+   "body": [
+    {
+     "p": "When you keep money in an insured bank or credit union, deposit insurance protects it. If the bank or credit union fails, the government pays you back, up to the limit. Two U.S. agencies do this:"
+    },
+    {
+     "ul": [
+      "**The FDIC** (Federal Deposit Insurance Corporation) insures deposits at banks.",
+      "**The NCUA** (National Credit Union Administration) insures deposits at federally insured credit unions."
+     ]
+    },
+    {
+     "p": "Both cover up to $250,000 per person, per insured bank or credit union, for each type of account ownership. For example, an account in your name only and a joint account with your spouse are two different ownership types. Since the FDIC started in 1933, no depositor has lost any FDIC-insured money."
+    },
+    {
+     "p": "Insurance covers checking accounts, savings accounts, money market deposit accounts, and certificates of deposit (CDs). It does **not** cover stocks, bonds, mutual funds, annuities, life insurance, crypto, or what you keep in a safe deposit box, even if you bought them at a bank."
+    },
+    {
+     "p": "Check cashers, pawn shops, and payday lenders are not banks, and they do not offer deposit insurance. Cash at home is not insured either."
+    },
+    {
+     "p": "To check a bank, use [FDIC BankFind](https://banks.data.fdic.gov/bankfind-suite/bankfind). To check a credit union, use the [NCUA Credit Union Locator](https://mapping.ncua.gov/)."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s2",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "text",
+   "title": "Many apps are not banks",
+   "body": [
+    {
+     "p": "Many people use apps to get paid, save, or send money. Some of these apps look like banks. But many are run by technology companies, often called fintech companies. The FDIC does not insure companies that are not banks."
+    },
+    {
+     "p": "Many apps keep your money at a partner bank. Your money may be insured if it really sits at an FDIC-insured bank and the records show how much belongs to you. This is called pass-through insurance. But the insurance pays only if the partner bank fails. It does not protect you if the app company, or a middleman company between the app and the bank, fails."
+    },
+    {
+     "p": "This really happened. In April 2024, a middleman company named Synapse went bankrupt. Its records did not match the records at its partner banks. Many thousands of people who used apps connected to Synapse could not get to their money for weeks or months."
+    },
+    {
+     "h3": "How to check an app"
+    },
+    {
+     "ol": [
+      "Read the app's terms or the small print at the bottom of its website. Find the name of the partner bank. You may see words like “Banking services provided by [bank name], Member FDIC.”",
+      "Look up that bank on FDIC BankFind to make sure it is insured.",
+      "Ask the app: What happens to my money if your company fails? How long would it take to get it back?",
+      "If you are not sure, call the FDIC at 1-877-ASK-FDIC (1-877-275-3342).",
+      "Keep only what you need for everyday spending in an app. Keep your savings in an account directly at an insured bank or credit union."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s3",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "example",
+   "title": "What check cashing costs in a year",
+   "body": [
+    {
+     "p": "Marcus works at a restaurant in Hyattsville, Maryland. He gets a paper paycheck of $1,000 twice a month. He cashes it at a check cashing store that charges 2% of each check. He also buys three money orders a month to pay rent, electricity, and his phone bill. Fees vary by store and by state. These are example fees."
+    },
+    {
+     "table": {
+      "caption": "One year of costs: check casher compared with a low-cost account (example fees)",
+      "head": [
+       "Cost",
+       "Check casher",
+       "Low-cost account"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Cashing 24 paychecks ($20 each)",
+        "$480",
+        "$0 (direct deposit)"
+       ],
+       [
+        "36 money orders ($1.50 each)",
+        "$54",
+        "$0 (free online bill pay)"
+       ],
+       [
+        "Monthly account fee ($5 × 12)",
+        "$0",
+        "$60"
+       ],
+       [
+        "Total for the year",
+        "$534",
+        "$60"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$534 − $60 = $474 more each year at the check casher"
+    },
+    {
+     "p": "Check the math: 2% of $1,000 is $20. Two checks a month for 12 months is 24 checks, and 24 × $20 = $480."
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "where-to-bank-s4",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "text",
+   "title": "Prepaid and payroll cards",
+   "body": [
+    {
+     "p": "A prepaid card can help if you cannot open a bank account right now. You spend only what you load onto it, so it is hard to spend more than you have. But the fees can add up."
+    },
+    {
+     "p": "Before you buy one, read the short fee box on the package or website. A federal rule says it must list the main fees in the same way for every card: the monthly fee, the fee for each purchase, ATM fees, the fee to add cash, customer service fees, and the fee for not using the card. The CFPB explains how to read it in [Understand your prepaid card disclosure](https://www.consumerfinance.gov/consumer-tools/prepaid-cards/understand-fees/)."
+    },
+    {
+     "p": "Here is an example. Say a card charges a $5 monthly fee, $3.95 each time you add cash, and $2.50 for each ATM withdrawal. You add cash 4 times and use an ATM 2 times a month:"
+    },
+    {
+     "formula": "$5 monthly fee + (4 cash loads × $3.95) + (2 ATM withdrawals × $2.50) = $25.80 a month"
+    },
+    {
+     "p": "With these example fees, the card costs $309.60 a year. A Bank On account with a $5 monthly fee costs $60 a year."
+    },
+    {
+     "h3": "Your rights"
+    },
+    {
+     "ul": [
+      "**Register your card.** Registered cards have protections if the card is lost or stolen, as long as you report the problem quickly.",
+      "**Payroll cards are a choice.** Your employer cannot force you to get your pay on a payroll card. Ask how else you can be paid, such as direct deposit to an account you choose.",
+      "**Check who holds the money.** Find the name of the bank that issues the card, and check it on FDIC BankFind."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s5",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "text",
+   "title": "Overdraft: how it happens and how to avoid it",
+   "body": [
+    {
+     "p": "An overdraft happens when you spend more money than you have in your account and the bank pays it anyway. Many banks then charge a fee for each overdraft. A few small purchases on one bad day can lead to several fees."
+    },
+    {
+     "p": "You have an important right. For ATM withdrawals and one-time debit card purchases, a bank or credit union cannot charge you an overdraft fee unless you agreed first. This is called opting in. If you do not opt in, the bank will usually decline the purchase, and you pay no overdraft fee. You can change your choice at any time."
+    },
+    {
+     "p": "This rule does not cover checks, automatic bill payments, or repeating card charges such as a monthly subscription. Those can still lead to overdraft fees or fees for returned payments."
+    },
+    {
+     "ol": [
+      "Ask your bank whether you are opted in. If you are and you do not want it, opt out.",
+      "Turn on low-balance alerts by text or email, for example when your balance drops below $100.",
+      "Check your balance in the app or at an ATM before you shop.",
+      "Write down the days your automatic bills are paid. Keep enough money in the account on those days.",
+      "If you are charged a fee, call the bank and politely ask it to remove the fee. Sometimes the bank will agree."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s6",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "warning",
+   "title": "Fees that surprise people",
+   "body": [
+    {
+     "ul": [
+      "“Free” accounts that charge a monthly fee when your balance drops below a minimum.",
+      "Using another bank's ATM. You may pay a fee to your bank and another fee to the ATM owner.",
+      "“Instant transfer” fees in payment apps. A standard transfer is often free but takes longer.",
+      "Paying a store to cash a tax refund check or a government check, when direct deposit is free.",
+      "Apps that say “FDIC-insured” in big letters but hold your money through a middleman company."
+     ]
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "where-to-bank-s7",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "text",
+   "title": "Checklist: choose the right place for your money",
+   "body": [
+    {
+     "ul": [
+      "It is an FDIC-insured bank or an NCUA-insured credit union. I checked on BankFind or the NCUA locator.",
+      "If it is an app, I know the name of its partner bank.",
+      "I know the monthly fee and how to avoid it.",
+      "The account has no overdraft fees, or I have not opted in to overdraft for debit card and ATM use.",
+      "There are free ATMs near my home or work.",
+      "I can get my pay by direct deposit and pay bills online for free.",
+      "I can get help in my language."
+     ]
+    },
+    {
+     "p": "Ready to open an account? Read [Opening a Bank Account, Even Without an SSN](https://dollarscholars.org/resources/lessons/open-an-account/)."
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-s8",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "tip",
+   "title": "Look at credit unions too",
+   "body": [
+    {
+     "p": "Credit unions are owned by their members and often have lower fees. Many credit unions in the DC area let you join if you live, work, worship, or go to school in a certain area, or if your employer is a partner. Ask a credit union near you how to become a member."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "where-to-bank-takeaways",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "FDIC insurance covers bank deposits and NCUA insurance covers credit union deposits, up to $250,000 per person, per institution, for each ownership type.",
+      "Many money apps are not banks. Find the name of the partner bank and check it on FDIC BankFind.",
+      "Deposit insurance does not protect you if the app company or a middleman company fails.",
+      "Small fees add up. Cashing paychecks at a store can cost hundreds of dollars a year.",
+      "A bank cannot charge overdraft fees on ATM withdrawals or one-time debit card purchases unless you opt in."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-quiz",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/where-to-bank/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "where-to-bank-links",
+   "type": "lesson",
+   "lesson": "where-to-bank",
+   "lessonTitle": "Banks, Credit Unions, Apps, and Check Cashers: What Is Protected and What It Costs",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "Understanding Deposit Insurance",
+       "u": "https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "What FDIC insurance covers, the $250,000 limit, ownership types, and products that are not insured."
+      },
+      {
+       "t": "Banking With Third-Party Apps",
+       "u": "https://www.fdic.gov/consumer-resource-center/2024-06/banking-third-party-apps",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "How insurance works when an app holds your money at a partner bank, and how to check the bank."
+      },
+      {
+       "t": "Share Insurance Coverage",
+       "u": "https://ncua.gov/consumers/share-insurance-coverage",
+       "org": "National Credit Union Administration (NCUA)",
+       "d": "How deposits at federally insured credit unions are protected, and how to check a credit union."
+      },
+      {
+       "t": "Transacciones bancarias con aplicaciones de terceros",
+       "u": "https://www.fdic.gov/resources/consumers/consumer-news/esp/2024-06.html",
+       "org": "Federal Deposit Insurance Corporation (FDIC)",
+       "d": "The Spanish-language version of the FDIC guide to banking with apps."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-intro",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "intro",
+   "title": "Sending Money Home: Compare Costs and Know Your Rights",
+   "body": [
+    {
+     "p": "How to find the real cost of an international transfer, your federal rights, and how to spot scams that ask you to send money abroad."
+    },
+    {
+     "p": "(About 16 min, 5 quiz questions)"
+    },
+    {
+     "h3": "What you will learn"
+    },
+    {
+     "ul": [
+      "Calculate the total cost of a transfer, including fees, taxes, and the exchange-rate markup.",
+      "Compare transfer options such as banks, credit unions, money transfer companies, and apps.",
+      "Explain your federal rights to cancel a transfer and fix errors, and the 2026 federal tax on transfers paid with cash.",
+      "Spot scams that ask you to send or forward money abroad."
+     ]
+    },
+    {
+     "p": "**How this connects to our classes:** Money Smart Module 2 covers payment apps and other money service providers, but it does not go into detail on sending money to another country. This Dollar Scholars extension shows you how to compare transfers, explains your federal rights and the 2026 tax on transfers paid with cash, and helps you spot money transfer scams."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-words",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "words",
+   "title": "Words to know",
+   "body": [
+    {
+     "dl": [
+      [
+       "Remittance transfer",
+       "Money sent electronically from a person in the United States to a person or business in another country, usually through a bank or a money transfer company."
+      ],
+      [
+       "Exchange rate",
+       "How much of another country's money you get for one U.S. dollar."
+      ],
+      [
+       "Exchange-rate markup",
+       "The difference between the market exchange rate and the lower rate a company gives you. It is a hidden cost."
+      ],
+      [
+       "Disclosure",
+       "A paper or screen that shows the costs and terms before you pay."
+      ],
+      [
+       "Remittance transfer tax",
+       "A 1% federal tax, starting in 2026, on transfers to other countries that are paid with cash, a money order, or a cashier's check."
+      ],
+      [
+       "Money mule",
+       "A person who receives money and sends it on for someone else. The money is often stolen, and the mule can get in legal trouble."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s1",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "text",
+   "title": "What a transfer really costs",
+   "body": [
+    {
+     "p": "Many families in the DC area send money to relatives in El Salvador, Guatemala, Honduras, Ethiopia, Nigeria, and many other countries. Companies compete for this business, and some advertise “no fees.” But the fee is only one part of the cost."
+    },
+    {
+     "p": "Money sent to another country is called a remittance transfer. Its cost has three parts:"
+    },
+    {
+     "ul": [
+      "**The transfer fee** that the company charges you.",
+      "**The exchange-rate markup.** Many companies give you a lower exchange rate than the market rate and keep the difference. You do not see it as a fee, but your family gets less.",
+      "**Taxes and other fees,** such as the 1% federal tax on transfers paid with cash, or fees charged by a bank in the other country."
+     ]
+    },
+    {
+     "p": "The best way to compare is simple. For the same number of dollars, which company delivers the most money to your family after all costs?"
+    },
+    {
+     "p": "If the other country uses the U.S. dollar, as El Salvador and Ecuador do, there is no exchange rate. Then you only need to compare the fees."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s2",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "example",
+   "title": "Sending $300 to Guatemala",
+   "body": [
+    {
+     "p": "Ana lives in Riverdale, Maryland. She wants to send $300 to her mother in Guatemala. Say the market rate today is 7.70 quetzales for $1. These rates are examples. Real rates change every day. She will pay from her bank account, so the 1% tax on transfers paid with cash does not apply. She compares two offers:"
+    },
+    {
+     "table": {
+      "caption": "Two offers to send $300 (example rates)",
+      "head": [
+       "Item",
+       "Company A: no fee",
+       "Company B: $5 fee"
+      ],
+      "num": [
+       1,
+       2
+      ],
+      "rows": [
+       [
+        "Transfer fee",
+        "$0",
+        "$5"
+       ],
+       [
+        "Exchange rate offered",
+        "7.50",
+        "7.68"
+       ],
+       [
+        "Total Ana pays",
+        "$300",
+        "$305"
+       ],
+       [
+        "Her mother receives",
+        "2,250 quetzales",
+        "2,304 quetzales"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "Company A: $300 × 7.50 = 2,250 quetzales"
+    },
+    {
+     "formula": "Company B: $300 × 7.68 = 2,304 quetzales"
+    },
+    {
+     "p": "Company B charges a $5 fee, but Ana's mother gets 54 more quetzales. At the market rate, 54 quetzales is worth about $7. So the “no fee” company really costs Ana about $2 more."
+    },
+    {
+     "h3": "Find the hidden cost"
+    },
+    {
+     "formula": "Company A markup: $300 × (7.70 − 7.50) = 60 quetzales, about $7.79"
+    },
+    {
+     "formula": "Company B markup: $300 × (7.70 − 7.68) = 6 quetzales, about $0.78. With the $5 fee, about $5.78 in all"
+    }
+   ],
+   "label": "Example"
+  },
+  {
+   "id": "sending-money-abroad-s3",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "text",
+   "title": "Read the disclosure before you pay",
+   "body": [
+    {
+     "p": "A federal rule, the Remittance Transfer Rule, protects people who send money from the United States to other countries. It covers most transfers of more than $15. Companies that make 500 or fewer transfers a year do not have to follow it, so use a well-known provider."
+    },
+    {
+     "p": "Before you pay, the company must give you a disclosure, on paper or on a screen. It must show:"
+    },
+    {
+     "ul": [
+      "The amount you are sending",
+      "The fees and taxes the company collects from you",
+      "The exchange rate",
+      "The amount your family will receive",
+      "A note if other fees or taxes in the other country could lower that amount"
+     ]
+    },
+    {
+     "p": "If the company advertises its transfers in your language at that location, ask for the disclosure in your language. It must give it to you in that language."
+    },
+    {
+     "p": "After you pay, you get a receipt. It shows the date the money will be available, your rights, and how to complain. Keep it until your family has the money. Keep it longer if there is a problem."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s4",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "text",
+   "title": "Your rights: cancel and fix errors",
+   "body": [
+    {
+     "ol": [
+      "**Cancel within 30 minutes.** After you pay, you usually have up to 30 minutes to cancel for free, as long as the money has not been picked up or deposited. You get your money back, including the fees.",
+      "**Report errors within 180 days.** Contact the company if your family got less than the receipt promised, the money never arrived, or it arrived late. You have 180 days from the date the receipt said the money would be available.",
+      "**The company must investigate.** It has 90 days to look into the problem, and it must tell you what it found. If it made an error, it may have to refund your money or send the transfer again at no cost to you.",
+      "**Complain if needed.** If the company does not fix the problem, file a complaint with the Consumer Financial Protection Bureau (CFPB) at [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) or by phone at (855) 411-2372."
+     ]
+    },
+    {
+     "h3": "What to say when you report an error"
+    },
+    {
+     "quote": "Hello. My name is [your name]. I sent a transfer on [date]. The confirmation number is [number]. The receipt says [amount] would be available to [name of the person receiving it] in [country] by [date]. [The money has not arrived.] or [My family received less than the receipt says.] I want to report an error. Please investigate and send me the result in writing. What is my case number?"
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s5",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "text",
+   "title": "The 2026 federal tax on transfers paid with cash",
+   "body": [
+    {
+     "p": "A federal law passed in 2025 created a new 1% tax on some transfers to other countries. It applies to transfers made on or after January 1, 2026. You pay the tax when you give the transfer company cash, a money order, a cashier's check, or a similar paper form of payment. The company collects the tax from you when you send the money."
+    },
+    {
+     "formula": "$300 paid in cash × 1% = $3 tax"
+    },
+    {
+     "formula": "$3 × 12 months = $36 a year, if you send $300 in cash every month"
+    },
+    {
+     "p": "The tax does **not** apply when the money comes from an account at a U.S. bank or credit union, or when you pay with a debit card or credit card issued in the United States. If you have an account, sending from it avoids the tax."
+    },
+    {
+     "p": "Be careful with credit cards. Some card companies treat a money transfer as a cash advance. Cash advances often have an extra fee, and interest often starts on the first day."
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s6",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "warning",
+   "title": "Scams that use money transfers",
+   "body": [
+    {
+     "p": "Once money is picked up in another country, it is very hard to get back. Scammers know this. Stop if you see any of these signs:"
+    },
+    {
+     "ul": [
+      "A call or message says a relative is in jail, in the hospital, or kidnapped, and you must send money now. End the call. Then call your relative or another family member at a number you already know.",
+      "Someone you met online, but never in person, asks for money for a ticket, a visa, or medical bills.",
+      "A caller says they are from the IRS, immigration, or the police and demands payment by money transfer. Government agencies do not ask you to pay this way.",
+      "You won a prize or a lottery, but you must pay a fee first.",
+      "A job offer or an online friend asks you to receive money in your account and send it to someone else. This makes you a money mule. The money is often stolen. You could lose your bank account or have to pay the money back. Police may also investigate you, and people who move stolen money can face criminal charges."
+     ]
+    },
+    {
+     "p": "If you sent money to a scammer, contact the transfer company immediately. Ask it to stop or reverse the transfer. Then report the scam at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) (in Spanish: [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov/)). Learn more in our lesson on [scams that target newcomers](https://dollarscholars.org/resources/lessons/scams-targeting-newcomers/)."
+    }
+   ],
+   "label": "Watch out"
+  },
+  {
+   "id": "sending-money-abroad-s7",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "text",
+   "title": "Compare your options",
+   "body": [
+    {
+     "p": "There are three common ways to send money to another country:"
+    },
+    {
+     "ul": [
+      "**Banks and credit unions.** Useful if you and your family both have accounts. Prices vary a lot, so ask for the fee and the exchange rate.",
+      "**Money transfer companies with stores.** Your family can often pick up cash. There are many locations in DC-area neighborhoods. If you pay in cash, the 1% tax applies.",
+      "**Apps and websites.** These often cost less. You usually pay from a bank account or debit card, which avoids the 1% tax."
+     ]
+    },
+    {
+     "p": "Before you send, go through this checklist:"
+    },
+    {
+     "ul": [
+      "I compared at least two companies on the same day, for the same amount.",
+      "I compared the amount my family will receive, not only the fee.",
+      "I know whether the 1% tax applies to the way I am paying.",
+      "I know how fast the money will arrive and how my family will get it.",
+      "I checked the name, phone number, and account number of the person receiving the money.",
+      "I kept the receipt and the confirmation number."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-s8",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "tip",
+   "title": "Plan for family support",
+   "body": [
+    {
+     "p": "Put family support in your monthly spending plan, the same way you plan for rent. Choose the amount and the day ahead of time. If your company charges a fee for each transfer, one larger transfer a month usually costs less than several small ones. Talk with your family about what they need and when, so you are ready. Read [how to make a spending plan](https://dollarscholars.org/resources/lessons/spending-plan/)."
+    }
+   ],
+   "label": "Tip"
+  },
+  {
+   "id": "sending-money-abroad-takeaways",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "takeaways",
+   "title": "Key takeaways",
+   "body": [
+    {
+     "ul": [
+      "The real cost is the fee plus the exchange-rate markup. Compare how much your family will receive.",
+      "Before you pay, you must get a disclosure that shows fees, taxes, the exchange rate, and the amount your family will receive.",
+      "You can usually cancel within 30 minutes for free, and you have 180 days to report an error.",
+      "Since January 1, 2026, a 1% federal tax applies to transfers paid with cash, a money order, or a cashier's check. Paying from a U.S. bank account or with a U.S. debit or credit card avoids it.",
+      "Never send money to someone you know only online, and never agree to receive money and send it on for a stranger or a job."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-quiz",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "quiz",
+   "title": "Check your understanding",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/resources/lessons/sending-money-abroad/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "sending-money-abroad-links",
+   "type": "lesson",
+   "lesson": "sending-money-abroad",
+   "lessonTitle": "Sending Money Home: Compare Costs and Know Your Rights",
+   "kind": "links",
+   "title": "Go further",
+   "body": [
+    {
+     "p": "Trusted websites where you can learn more. These links go to other websites that Dollar Scholars does not run."
+    },
+    {
+     "links": [
+      {
+       "t": "What is a remittance transfer and what are my rights?",
+       "u": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Your federal rights when you send money to another country: disclosures, canceling within 30 minutes, and fixing errors."
+      },
+      {
+       "t": "Money transfers",
+       "u": "https://www.consumerfinance.gov/consumer-tools/money-transfers/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Answers about sending money abroad, including how to report a problem and how to avoid money transfer scams."
+      },
+      {
+       "t": "What To Know Before You Wire Money",
+       "u": "https://consumer.ftc.gov/articles/what-know-you-wire-money",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Common scams that ask you to wire money, and what to do if you already sent money to a scammer."
+      },
+      {
+       "t": "Lo que hay que saber antes de hacer una transferencia de dinero",
+       "u": "https://consumidor.ftc.gov/articulos/lo-que-hay-que-saber-antes-de-hacer-una-transferencia-de-dinero",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "The Spanish-language version of the FTC guide to wire transfer scams."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

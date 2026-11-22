@@ -1,0 +1,1235 @@
+{
+ "id": "tema-06",
+ "title": "Tema 6: Tarjetas de crédito y manejo de deudas",
+ "summary": "Usa una tarjeta de crédito sin pagar intereses, construye un plan de liquidación que funcione y trata con cobradores, documentos judiciales y facturas médicas con confianza.",
+ "imported": true,
+ "lessons": [
+  {
+   "slug": "credit-cards",
+   "title": "Usa una tarjeta de crédito sin pagar intereses",
+   "summary": "Cómo funciona el periodo de gracia, cómo leer tu estado de cuenta, por qué pagar solo lo mínimo cuesta tanto y qué características de la tarjeta evitar.",
+   "meta": "(Aproximadamente 15 min, 5 preguntas de cuestionario)",
+   "n": 1
+  },
+  {
+   "slug": "debt-payoff-plan",
+   "title": "Haz un plan para pagar deudas",
+   "summary": "Haz una lista de tus deudas, compara los métodos de avalancha y bola de nieve con números reales, llama a tus acreedores para pedir ayuda y encuentra ayuda de deuda en la que puedas confiar.",
+   "meta": "(Aproximadamente 16 min, 5 preguntas de cuestionario)",
+   "n": 2
+  },
+  {
+   "slug": "debt-collectors",
+   "title": "Tratando con cobradores de deudas y demandas de cobranza",
+   "summary": "Tus derechos con cobradores, una carta de disputa modelo, deudas antiguas, qué hacer con los documentos judiciales y nuevas reglas para facturas médicas en DC, Maryland y Virginia.",
+   "meta": "(Aproximadamente 18 min, 5 preguntas de cuestionario)",
+   "n": 3
+  }
+ ],
+ "blocks": [
+  {
+   "id": "credit-cards-intro",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "intro",
+   "title": "Usa una tarjeta de crédito sin pagar intereses",
+   "body": [
+    {
+     "p": "Cómo funciona el periodo de gracia, cómo leer tu estado de cuenta, por qué pagar solo lo mínimo cuesta tanto y qué características de la tarjeta evitar."
+    },
+    {
+     "p": "(Aproximadamente 15 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Explica el periodo de gracia y cómo pagar el saldo completo del estado de cuenta evita intereses.",
+      "Encuentra los números clave en un estado de cuenta de tarjeta de crédito, incluyendo la advertencia de pago mínimo.",
+      "Compara el costo de pagar solo el mínimo con pagar una cantidad fija cada mes.",
+      "Evita características costosas como adelantos de efectivo, ofertas de interés diferidos, cargos por retraso y tasas de interés penalizantes."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre cómo funcionan las tarjetas de crédito y qué contiene un estado de cuenta. Esta lección agrega los números de pago resueltos, las comisiones y trampas que debes evitar, tus derechos cuando algo sale mal y una lista de verificación para elegir y usar una primera tarjeta."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-words",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Periodo de gracia (Grace period)",
+       "El tiempo entre el final de un ciclo de facturación y la fecha de vencimiento. Si pagas el saldo total del estado de cuenta antes de la fecha de vencimiento, la mayoría de las tarjetas no cobran intereses por las compras."
+      ],
+      [
+       "Saldo del estado (Statement balance)",
+       "La cantidad que debías el último día del ciclo de facturación. Pagar esta cantidad completa antes de la fecha de vencimiento evita intereses en las compras."
+      ],
+      [
+       "Pago mínimo (Minimum payment)",
+       "La cantidad más pequeña la debes pagar antes de la fecha de vencimiento para evitar una multa por retraso. Aún pagas intereses sobre el resto del saldo."
+      ],
+      [
+       "APR (tasa anual porcentual) (APR (annual percentage rate))",
+       "El costo anual de pedir prestado, mostrado como porcentaje. Una tarjeta puede tener diferentes APRs para compras, adelantos en efectivo y transferencias de saldo."
+      ],
+      [
+       "Adelanto de efectivo (Cash advance)",
+       "Usar una tarjeta de crédito para obtener efectivo, por ejemplo, en un cajero automático. Normalmente tiene una comisión y un APR más alto, y los intereses comienzan de inmediato."
+      ],
+      [
+       "APR de penalización (Penalty APR)",
+       "Una tasa de interés más alta que una compañía de tarjetas puede cobrar si pagas tarde. Puede aplicarse a tu saldo actual si tienes más de 60 días de retraso."
+      ],
+      [
+       "Interés diferido (Deferred interest)",
+       "Un acuerdo de \"sin intereses si se paga en su totalidad\". Si queda algún saldo cuando termina el trato, la empresa puede agregar intereses desde el día de la compra."
+      ],
+      [
+       "Tarjeta de crédito asegurada (Secured credit card)",
+       "Una tarjeta de crédito que necesita un depósito. El límite de crédito suele ser el mismo que el depósito. Puede ayudar a personas sin historial crediticio a construir su crédito."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s1",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "text",
+   "title": "Tres números en tu estado de cuenta",
+   "body": [
+    {
+     "p": "Cada mes, la compañía de tu tarjeta envía un estado de cuenta. Muestra tus compras, pagos y cargos de un ciclo de facturación. Un ciclo de facturación suele ser de aproximadamente un mes. Tres números en el estado de cuenta son lo más importante."
+    },
+    {
+     "dl": [
+      [
+       "Saldo del estado",
+       "Lo que debías el último día del ciclo de facturación. Si pagas este monto total antes de la fecha de vencimiento, la mayoría de las tarjetas no cobran intereses por tus compras."
+      ],
+      [
+       "Saldo actual",
+       "Lo que debes hoy. Incluye las compras que hiciste después de que se hizo el estado de cuenta. No tienes que pagar esto aún para evitar intereses."
+      ],
+      [
+       "Pago mínimo",
+       "La cantidad más pequeña la debes pagar antes de la fecha límite para evitar una multa por retraso. Si solo pagas esta cantidad, pagas intereses por el resto."
+      ]
+     ]
+    },
+    {
+     "p": "El tiempo entre el final del ciclo de facturación y la fecha de vencimiento se llama **periodo de gracia**. Las compañías de tarjetas no están obligadas a darte uno, pero la mayoría sí lo hace para las compras. Deben enviarte o entregar tu factura al menos 21 días antes de que venzca el pago."
+    },
+    {
+     "p": "Si no pagas el saldo total del estado de cuenta, pierdes el periodo de gracia. Pagas intereses sobre el monto no pagado, y las nuevas compras empiezan a cobrar intereses de inmediato. Para usar una tarjeta sin pagar intereses, paga el saldo total del estado de cuenta cada mes."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s2",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "example",
+   "title": "Amara paga en su totalidad y no paga intereses",
+   "body": [
+    {
+     "p": "Amara trabaja en un hotel en el centro de DC. Usa su tarjeta de crédito solo para las compras y para agregar dinero a su tarjeta SmarTrip para Metro. Su ciclo de facturación termina el día 5 de cada mes. Su pago vence el día 30."
+    },
+    {
+     "table": {
+      "caption": "La tarjeta de Amara por un mes",
+      "head": [
+       "¿Qué pasó?",
+       "Monto"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Saldo del estado de cuenta (el ciclo de facturación terminó el día 5)",
+        "$420"
+       ],
+       [
+        "El pago mínimo aparece en el estado de cuenta",
+        "$25"
+       ],
+       [
+        "Nuevas compras del 6 al 29",
+        "$150"
+       ],
+       [
+        "Saldo actual el día 29",
+        "$570"
+       ],
+       [
+        "Monto que Amara paga el día 29 (el saldo completo del estado de cuenta)",
+        "$420"
+       ],
+       [
+        "Intereses que Amara paga en las compras",
+        "$0"
+       ]
+      ],
+      "total": [
+       5
+      ]
+     }
+    },
+    {
+     "p": "Amara pagó $420, no $570. Eso es suficiente, porque los $150 en nuevas compras estarán en su próximo estado de cuenta. Si solo hubiera pagado el mínimo de $25, pagaría intereses sobre los otros $395. Sus nuevas compras también empezarían a cobrar intereses de inmediato."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "credit-cards-s3",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "example",
+   "title": "Por qué el pago mínimo cuesta tanto",
+   "body": [
+    {
+     "p": "Luis maneja para una app de entrega en Silver Spring. Debe $2,000 en una tarjeta con un APR del 24%. Deja de usar la tarjeta y quiere pagarla. ¿Cuánto tiempo tomará?"
+    },
+    {
+     "formula": "24% TAE ÷ 12 meses = 2% al mes; $2,000 × 2% = $40 de interés en el primer mes"
+    },
+    {
+     "p": "En este ejemplo, el pago mínimo es el 1% del saldo más los intereses de ese mes, o $25, lo que sea mayor. Así que el primer pago mínimo de Luis es $20 + $40 = $60. Las compañías de tarjetas establecen mínimos de diferentes maneras, así que revisa tu propio acuerdo de tarjetas."
+    },
+    {
+     "table": {
+      "caption": "Pagando $2,000 con un APR del 24% sin nuevas compras",
+      "head": [
+       "Pago mensual",
+       "Hora de pagar",
+       "Interés total"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Solo mínimo (empieza en $60, luego se hace más pequeño)",
+        "Unos 12 años",
+        "$2,887"
+       ],
+       [
+        "$79 al mes (aproximadamente la cantidad de 3 años)",
+        "3 años",
+        "$816"
+       ],
+       [
+        "$100 al mes",
+        "26 meses",
+        "$580"
+       ],
+       [
+        "Ahorrado pagando $100 al mes en lugar del mínimo",
+        "casi 10 años",
+        "$2,307"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "El pago mínimo se reduce conforme baja el saldo, así que la deuda tarda años en terminar. Un pago que se mantiene igual cada mes termina la deuda mucho más rápido. Estos números son estimaciones. Las tarjetas reales agregan intereses diarios, así que tus números serán un poco diferentes."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "credit-cards-s4",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "text",
+   "title": "Usa la casilla de advertencia en tu declaración",
+   "body": [
+    {
+     "p": "En la mayoría de los casos, tu estado de cuenta debe incluir una casilla con las palabras \"Advertencia de Pago Mínimo.\" Muestra cuánto tiempo tomará pagar tu saldo si solo pagas el mínimo, y aproximadamente cuánto pagarás en total. Por lo general, también muestra cuánto pagar cada mes para pagar el saldo en 3 años. Estos números asumen que no haces nuevas compras. La caja también ofrece un número telefónico gratuito para información sobre asesoría crediticia."
+    },
+    {
+     "ol": [
+      "Encuentra la casilla de advertencia en tu documento o estado de cuenta en línea.",
+      "Lee la línea para pagar solo el mínimo. Nota el número de años y el costo total.",
+      "Lee la línea para pagar el saldo en 3 años. Anota el monto mensual.",
+      "Si tu plan de gastos lo permite, paga al menos la cantidad de 3 años cada mes.",
+      "Deja de agregar nuevos cargos a la tarjeta hasta que esté pagada."
+     ]
+    },
+    {
+     "p": "Pagar más que el mínimo también ayuda si una tarjeta tiene saldos diferentes, como compras y adelanto de efectivo. Por ley, cualquier cantidad que pagues por encima del mínimo generalmente se asigna primero al saldo con la tasa de interés más alta."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s5",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "warning",
+   "title": "Características costosas a evitar",
+   "body": [
+    {
+     "ul": [
+      "**Adelantos en efectivo.** Recibir efectivo de un cajero automático con tarjeta de crédito es un préstamo a corto plazo. Normalmente pagas una comisión, un APR más alto y tal vez también una comisión de cajero automático. Por lo general no hay periodo de gracia, así que los intereses comienzan el día que tomas el efectivo.",
+      "**Ofertas de \"sin intereses si se paga en su totalidad\".** Las tiendas y consultorios médicos suelen ofrecer estas ofertas. Se les llama interés diferido. Si aunque sea una pequeña parte del saldo queda cuando termina la oferta, la empresa puede agregar intereses desde el día de tu compra. Una oferta verdadera de 0% APR es diferente: solo pagas intereses sobre lo que queda después de que termina la oferta.",
+      "**Transferencias de saldo.** Mover un saldo a una nueva tarjeta usualmente cuesta una comisión. La tasa baja debe durar al menos 6 meses, a menos que llegues con más de 60 días de retraso. Cuando termina, la APR regular aplica a lo que quede."
+     ]
+    },
+    {
+     "p": "Antes de aceptar cualquier oferta, busca la palabra \"si\" y la fecha de finalización. Escribe la fecha de fin en tu calendario. Divide el saldo entre el número de meses de la oferta y paga al menos esa cantidad cada mes para que se pague en su totalidad a tiempo."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "credit-cards-s6",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "text",
+   "title": "Pagos atrasados y tus derechos",
+   "body": [
+    {
+     "p": "Pagar tarde cuesta dinero y perjudica tu crédito. Las reglas federales establecen algunos límites."
+    },
+    {
+     "ul": [
+      "Una multa por retraso nunca puede ser mayor que tu pago mínimo. La tarifa puede aumentar si llegas tarde de nuevo en los próximos seis ciclos de facturación.",
+      "Si tu pago se retrasa con más de 60 días, la compañía de la tarjeta puede cobrar un **APR de penalización** más alto sobre tu saldo actual. Si luego haces seis pagos mínimos seguidos a tiempo, debe bajar esa tasa nuevamente.",
+      "En el primer año, una compañía de tarjetas generalmente no puede aumentar la tasa en nuevas compras. Después de eso, debe darte un aviso de 45 días antes de un cambio importante, como una tasa más alta.",
+      "Si alguien usa tu tarjeta de crédito sin tu permiso, lo máximo que puedes deber son $50. Reporta una tarjeta perdida o robada de inmediato.",
+      "Si tu factura tiene un error, como un cargo que no hiciste, envía una carta a la dirección para preguntas sobre facturación. Debe llegar dentro de los 60 días posteriores a que te enviaron la primera factura con el error."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s7",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "text",
+   "title": "Elegir tu primera carta",
+   "body": [
+    {
+     "p": "Si eres nuevo en el mundo del crédito, una **tarjeta asegurada** puede ser la más fácil de conseguir. Pagas un depósito y tu límite de crédito suele ser el mismo que el depósito. Al demostrar que puedes pagar a tiempo, tu límite puede aumentar y podrías recuperar tu depósito. Una tarjeta sin garantía no necesita depósito, pero es más difícil obtenerla sin historial crediticio."
+    },
+    {
+     "ul": [
+      "¿Hay una cuota anual o mensual? Busca una tarjeta sin comisión, o una baja.",
+      "¿Cuál es la TAE para compras? ¿Cuál es la TAE para adelantos en efectivo?",
+      "¿Existe una comisión por transacciones extranjeras? Algunas tarjetas cobran entre 1% y 3% por compras en tiendas fuera de Estados Unidos. Esto importa si compras cosas en tu país de origen o viajas.",
+      "¿La tarjeta reporta a las tres agencias de crédito: Equifax, Experian y TransUnion?",
+      "¿Puedes configurar alertas y pagos automáticos?",
+      "¿Preguntaste primero a tu propio banco o cooperativa de crédito?"
+     ]
+    },
+    {
+     "p": "Si tienes un ITIN en lugar de un número de Seguro Social, algunas compañías de tarjetas lo aceptan en una solicitud. Desde junio de 2026, los reguladores federales han pedido a los bancos que revisen más de cerca a los clientes que usan un ITIN. Algunos pueden pedir más documentos o decir que no, así que pregunta antes de solicitar. Para otras formas de comenzar, consulta [Construir Crédito desde Cero](https://dollarscholars.org/es-mx/resources/lessons/build-credit/)."
+    },
+    {
+     "p": "Solicita una tarjeta a la vez. Cada solicitud puede agregar una consulta a tu reporte de crédito."
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-s8",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "tip",
+   "title": "Hábitos que mantienen una tarjeta útil",
+   "body": [
+    {
+     "ul": [
+      "Configura pagos automáticos al menos para el mínimo, para nunca llegar tarde. Asegúrate de que el dinero esté en tu cuenta bancaria ese día. Luego paga tú el resto del saldo del estado de cuenta antes de la fecha de vencimiento.",
+      "Activa alertas de texto o app para cada compra y para tu fecha de vencimiento.",
+      "Mantén tu saldo bajo en comparación con tu límite. Un saldo de $300 con un límite de $1,000 usa el 30% de tu crédito. Mientras más bajo, mejor para tu puntaje. Ve [qué mueve tu puntaje crediticio](https://dollarscholars.org/es-mx/resources/lessons/credit-score-factors/).",
+      "Usa la tarjeta solo para cosas que ya están en tu plan de gastos."
+     ]
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "credit-cards-takeaways",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Paga el saldo total del estado de cuenta antes de la fecha de vencimiento cada mes y no pagas intereses en las compras.",
+      "Pagar solo el mínimo en $2,000 con 24% de APR puede tomar alrededor de 12 años. Pagar $100 al mes toma alrededor de 2 años.",
+      "Los adelantos en efectivo usualmente no tienen periodo de gracia, por lo que los intereses comienzan el día que tomas el dinero.",
+      "Con una oferta de \"sin intereses si se paga en su totalidad\", paga todo el saldo antes de que termine la oferta.",
+      "Configura el pago automático al menos para el mínimo para que nunca llegues tarde."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-quiz",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/credit-cards/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "credit-cards-links",
+   "type": "lesson",
+   "lesson": "credit-cards",
+   "lessonTitle": "Usa una tarjeta de crédito sin pagar intereses",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Cómo usar las tarjetas de crédito y cómo disputar cargos",
+       "u": "https://consumidor.ftc.gov/articulos/como-usar-las-tarjetas-de-credito-y-como-disputar-cargos",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La misma guía en español: cómo usar una tarjeta de crédito y cómo disputar un cargo."
+      },
+      {
+       "t": "Tarjetas de crédito",
+       "u": "https://www.consumerfinance.gov/consumer-tools/credit-cards/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Respuestas sobre intereses, comisiones, cambios de tasa y tus derechos con las compañías de tarjetas de crédito."
+      },
+      {
+       "t": "Uso de tarjetas de crédito y disputa de cargos",
+       "u": "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo usar una tarjeta sabiamente y cómo disputar un error de facturación o un cargo que no hiciste."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-intro",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "intro",
+   "title": "Haz un plan para pagar deudas",
+   "body": [
+    {
+     "p": "Haz una lista de tus deudas, compara los métodos de avalancha y bola de nieve con números reales, llama a tus acreedores para pedir ayuda y encuentra ayuda de deuda en la que puedas confiar."
+    },
+    {
+     "p": "(Aproximadamente 16 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Enumera cada deuda con su saldo, tasa de interés y pago mínimo.",
+      "Compara los métodos de avalancha (la tasa más alta primero) y el método bola de nieve (balance más pequeño primero) usando números reales.",
+      "Pide a un acreedor un plan de dificultad, una tasa más baja o una nueva fecha de vencimiento.",
+      "Diferencia la asesoría crediticia para organizaciones sin fines de lucro de la negociación de deudas riesgosas y la ayuda con préstamos estudiantiles pagados."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre dos formas de reducir la deuda y dónde obtener ayuda. Esta lección funciona a través de ambos métodos con las mismas tres deudas. Agrega un guion para llamar a los acreedores, una lista de verificación para elegir ayuda para deudas y qué cambió para los préstamos estudiantiles federales."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-words",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Método de avalancha (Avalanche method)",
+       "Pagar extra en la deuda con la tasa de interés más alta primero, y el mínimo en las demás. Por lo general, cuesta menos interés."
+      ],
+      [
+       "Método bola de nieve (Snowball method)",
+       "Pagar extra primero en la deuda más pequeña y el mínimo en las demás. Terminas una deuda antes, lo que puede ayudarte a seguir adelante."
+      ],
+      [
+       "Plan de dificultades (Hardship plan)",
+       "Un acuerdo a corto plazo con un prestamista que puede reducir tu pago, tasa de interés o comisiones cuando tengas un problema económico, como pérdida de trabajo o enfermedad."
+      ],
+      [
+       "Asesoría crediticia (Credit counseling)",
+       "Ayuda de un consejero capacitado que revise tu presupuesto y deudas contigo. Muchas agencias sin fines de lucro lo ofrecen gratis o a bajo costo."
+      ],
+      [
+       "Plan de manejo de deuda (Debt management plan)",
+       "Un plan establecido por una agencia de asesoría crediticia. Haces un pago mensual a la agencia, y esta paga a tus acreedores, a menudo con tasas de interés más bajas."
+      ],
+      [
+       "Liquidación de deudas (Debt settlement)",
+       "Cuando una empresa intenta que tus acreedores acepten menos de lo que debes. Es riesgoso: puede agregar comisiones, dañar tu crédito y llevar a demandas."
+      ],
+      [
+       "Administrador de préstamos (Loan servicer)",
+       "La empresa que envía tus facturas de préstamos estudiantiles, toma tus pagos y te ayuda a cambiar tu plan de pagos. Su ayuda es gratuita."
+      ],
+      [
+       "FSA ID",
+       "El nombre de usuario y la contraseña que usas para iniciar sesión en StudentAid.gov. Nunca los compartas con nadie."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s1",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "text",
+   "title": "Paso 1: Haz tu lista de deudas",
+   "body": [
+    {
+     "p": "Necesitas ver todas tus deudas en un solo lugar antes de poder hacer un plan. Obtén tus estados de cuenta más recientes o inicia sesión en cada cuenta. Anota cuatro cosas para cada deuda."
+    },
+    {
+     "ol": [
+      "El nombre de la deuda, como \"tarjeta de tienda\" o \"préstamo para auto\".",
+      "El equilibrio: cuánto debes hoy.",
+      "La tasa de interés (APR).",
+      "El pago mínimo mensual y la fecha de vencimiento."
+     ]
+    },
+    {
+     "p": "Incluye todo: tarjetas de crédito, tarjetas de tienda, préstamos personales, planes de \"compra ahora, paga después\", cuentas médicas, préstamos de día de pago o de título de auto, y dinero que debes a la familia. Para cualquier factura vencida, escribe cuántos días de retraso está. Tu reporte de crédito puede mostrar deudas que olvidaste. Consulta [Lee tu reporte de crédito y corrige errores](https://dollarscholars.org/es-mx/resources/lessons/read-your-credit-report/)."
+    },
+    {
+     "p": "Después, revisa tu plan de gastos. Paga primero por necesidades como renta, comida y servicios. Luego elige una cantidad que puedas pagar para deudas cada mes. Pagar más que lo mínimo es lo que hace que un plan de pago funcione. [Ve Construye un plan de gastos que se ajuste a tu vida real](https://dollarscholars.org/es-mx/resources/lessons/spending-plan/)."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s2",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "example",
+   "title": "Las deudas de Tesfaye: $6,000 y $300 al mes",
+   "body": [
+    {
+     "p": "Tesfaye trabaja como asistente de salud domiciliaria en Alexandria. Después de la renta y otras necesidades, puede pagar $300 al mes para la deuda. Sus pagos mínimos suman $200."
+    },
+    {
+     "table": {
+      "caption": "La lista de deudas de Tesfaye",
+      "head": [
+       "Deuda",
+       "Balance",
+       "APR",
+       "Pago mínimo"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Tarjeta de tienda",
+        "$500",
+        "25%",
+        "$25"
+       ],
+       [
+        "Tarjeta de crédito",
+        "$3,500",
+        "27%",
+        "$105"
+       ],
+       [
+        "Préstamo para cooperativas de crédito",
+        "$2,000",
+        "11%",
+        "$70"
+       ],
+       [
+        "Total",
+        "$6,000",
+        "",
+        "$200"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "$300 al mes − $200 en pagos mínimos = $100 extra cada mes"
+    },
+    {
+     "p": "Tesfaye paga todos los mínimos a tiempo. Pone los $100 extra en una deuda \"objetivo\". Cuando una deuda se paga, suma su pago al siguiente objetivo. Deja de usar las tarjetas mientras las paga. Hay dos formas comunes de elegir el objetivo."
+    },
+    {
+     "ul": [
+      "**Avalancha:** primero la tasa de interés más alta. Su pedido es la tarjeta de crédito (27%), luego la tarjeta de tienda (25%), y después el préstamo (11%).",
+      "**Bola de nieve:** primero el saldo más pequeño. Su pedido es la tarjeta de la tienda ($500), luego el préstamo ($2,000), y después la tarjeta de crédito ($3,500)."
+     ]
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "debt-payoff-plan-s3",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "example",
+   "title": "Avalancha o bola de nieve: igual $300, dos resultados",
+   "body": [
+    {
+     "table": {
+      "caption": "Resultados de Tesfaye con cada método (estimaciones)",
+      "head": [
+       "Método",
+       "Primera deuda pagada",
+       "Todas las deudas pagadas",
+       "Interés total"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Solo pagos mínimos ($200 al mes)",
+        "Mes 27",
+        "Mes 63",
+        "$3,525"
+       ],
+       [
+        "Bola de nieve ($300 al mes)",
+        "Mes 5",
+        "Mes 26",
+        "$1,680"
+       ],
+       [
+        "Avalanche ($300 al mes)",
+        "Mes 22",
+        "Mes 25",
+        "$1,416"
+       ],
+       [
+        "Avalancha comparada con bola de nieve",
+        "",
+        "Un mes antes",
+        "$264 menos"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "p": "Ambos planes cuestan mucho menos que pagar solo lo mínimo. Le ahorran a Tesfaye más de $1,800 en intereses y más de 3 años. La avalancha ahorra más dinero. La bola de nieve paga la tarjeta de la tienda en el mes 5, y esa victoria temprana puede ayudarlo a seguir adelante. El mejor método es el que seguirás cada mes."
+    },
+    {
+     "p": "Estos números asumen que los pagos mínimos se mantienen iguales y que se agregan intereses una vez al mes. Tus números reales serán un poco diferentes."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "debt-payoff-plan-s4",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "text",
+   "title": "Llama a tus acreedores antes de que no pagues",
+   "body": [
+    {
+     "p": "Muchos prestamistas tienen programas de emergencia, pero puede que no los anuncien. Llama tan pronto como sepas que tendrás problemas para pagar. Es más fácil obtener ayuda antes de atrasarte un pago."
+    },
+    {
+     "ul": [
+      "Tu número de cuenta",
+      "Por qué tus ingresos bajaron o tus costos aumentaron, como menos horas o una enfermedad",
+      "Una cantidad que realmente puedes pagar cada mes, de tu plan de gastos",
+      "Papel y pluma para anotar nombres, fechas y lo que se acordó"
+     ]
+    },
+    {
+     "quote": "\"Hola, mi nombre es [tu nombre]. Mi número de cuenta es [número]. Mis ingresos bajaron por [razón]. Quiero seguir pagándote. ¿Puedo pagar [cantidad] al mes por [número] meses? ¿Tienes un programa de dificultades económicas? ¿Puedes bajar mi tasa de interés o eximir los cargos por retraso? ¿Puedes mover mi fecha de vencimiento a [fecha], después de que me paguen? ¿Este plan será reportado a las agencias de crédito? ¿Qué pasa con mi tarjeta durante el plan? Por favor, envíenme los términos por escrito. ¿Me pueden dar su nombre y un número de referencia para esta llamada?\""
+    },
+    {
+     "p": "No aceptes un pago que no puedas hacer. Algunos planes de dificultad cierran o congelan la tarjeta, así que pregunta antes de aceptar."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s5",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "text",
+   "title": "Planes de asesoría crediticia y manejo de deuda para organizaciones sin fines de lucro",
+   "body": [
+    {
+     "p": "Un asesor de crédito revisa tus ingresos, gastos y deudas, y te ayuda a hacer un plan. Muchas agencias sin fines de lucro ofrecen una primera sesión gratuita o por una tarifa baja, en persona, por teléfono o en línea. Algunas ofrecen ayuda en español y otros idiomas."
+    },
+    {
+     "p": "Si se adapta a tu situación, el consejero puede sugerir un **plan de manejo de deuda**. Envías un pago mensual a la agencia, y la agencia paga a tus acreedores. Los acreedores pueden aceptar bajar tus tasas de interés o eximir algunas comisiones. Estos planes suelen tardar cuatro años o más, y puede que necesites cerrar tus tarjetas de crédito."
+    },
+    {
+     "p": "Una organización sin fines de lucro no siempre es gratuita, ni siempre es honesta. Antes de inscribirte, revisa estas cosas."
+    },
+    {
+     "ul": [
+      "Pide cada tarifa por escrito.",
+      "Pregunta si los consejeros están certificados.",
+      "Revisa la licencia. En Maryland, las empresas de gestión de deuda deben tener una licencia de la Oficina de Regulación Financiera. En Virginia, las agencias de asesoría crediticia están autorizadas por la Oficina de Instituciones Financieras de la Comisión Estatal de Corporaciones.",
+      "Busca quejas con tu fiscal general. En DC, contacta a la Oficina del Fiscal General.",
+      "Asegúrate de que el plan se ajuste a tu presupuesto. Sigue pagando tus cuentas hasta que cada acreedor haya aceptado el plan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s6",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "warning",
+   "title": "Trampas de liquidación de deudas y \"alivio de deudas\"",
+   "body": [
+    {
+     "p": "Las empresas de liquidación de deudas prometen que tus acreedores acepten menos de lo que debes. Muchos te dicen que dejes de pagar a tus acreedores y pongas dinero en una cuenta especial en su lugar. Mientras esperas, las comisiones por retraso y los intereses aumentan, tu puntaje crediticio baja y los acreedores pueden demandarte. Muchas personas renuncian antes de que termine el programa."
+    },
+    {
+     "ul": [
+      "Es ilegal que las empresas de alivio de deudas que venden por teléfono te cobren antes de liquidar o reducir al menos una de tus deudas.",
+      "Ten cuidado con cualquier empresa que te diga que dejes de pagar o que dejes de hablar con tus acreedores.",
+      "Nadie puede prometer detener todas las demandas o borrar todas tus deudas.",
+      "Ten cuidado con las afirmaciones sobre un \"nuevo programa gubernamental\" para la deuda de tarjetas de crédito."
+     ]
+    },
+    {
+     "p": "Si un acreedor perdona parte de una deuda, el IRS generalmente cuenta el monto perdonado como ingreso. Puedes obtener un Formulario 1099-C. Algunas personas califican para una excepción, por ejemplo, si debían más de lo que poseían. Un sitio gratuito de impuestos VITA puede ayudar. [Consulta Presentar gratis y reclamar los créditos que ganaste](https://dollarscholars.org/es-mx/resources/lessons/file-for-free/)."
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "debt-payoff-plan-s7",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "text",
+   "title": "Préstamos estudiantiles federales: usa la ayuda oficial gratuita",
+   "body": [
+    {
+     "p": "Una ley federal aprobada en julio de 2025 cambió la forma en que se pagan los préstamos estudiantiles federales. Los cambios clave comenzaron el 1 de julio de 2026 y el plan de pago SAVE está terminando. Aún se están anunciando más reglas y fechas límite."
+    },
+    {
+     "p": "Nunca tienes que pagarle a nadie para que te ayude con préstamos estudiantiles federales. Inicia sesión en [StudentAid.gov](https://studentaid.gov/) o llama a tu administrador de préstamos. Ambos son gratis. Nunca compartas tu FSA ID, que es el usuario y contraseña de StudentAid.gov. Los estafadores lo usan para tomar control de tu cuenta."
+    },
+    {
+     "p": "Los préstamos estudiantiles privados son diferentes. Provienen de bancos y otros prestamistas. Llama a tu prestamista y pregunta qué opciones de dificultad tiene."
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-s8",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "tip",
+   "title": "Detener el crecimiento de la deuda",
+   "body": [
+    {
+     "p": "Mientras pagas deudas, trata de no agregar nuevas deudas. Mantén un pequeño fondo de emergencia, incluso unos cientos de dólares, para no tener que poner una factura sorpresa en una tarjeta. Consulta [Empezar un Fondo de Emergencia desde Cero](https://dollarscholars.org/es-mx/resources/lessons/emergency-fund/). Aléjate de préstamos de día de pago y títulos de auto; consulta [El Precio Real de un Préstamo](https://dollarscholars.org/es-mx/resources/lessons/high-cost-loans/). Anota tu fecha de pago en tu calendario y marca cada deuda que completes."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "debt-payoff-plan-takeaways",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Comienza con una lista completa de tus deudas y una cantidad mensual que puedes pagar para ellas.",
+      "La avalancha ahorra más intereses. Bola de nieve paga una primera deuda más rápido. El mejor método es el que tú seguirás.",
+      "Llama a los acreedores antes de atrasarte un pago y pregunta sobre programas de dificultad. Obtén todos los acuerdos por escrito.",
+      "Nunca pagues a una empresa de alivio de deudas antes de que salde una deuda, y nunca dejes de pagar porque una empresa te lo diga.",
+      "La ayuda con préstamos estudiantiles federales es gratuita en StudentAid.gov y de la mano de tu administrador de préstamos."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-quiz",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/debt-payoff-plan/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "debt-payoff-plan-links",
+   "type": "lesson",
+   "lesson": "debt-payoff-plan",
+   "lessonTitle": "Haz un plan para pagar deudas",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Cómo salir de las deudas",
+       "u": "https://consumidor.ftc.gov/articulos/como-salir-de-las-deudas",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La misma guía en español: asesoría crediticia, planes de pago y los riesgos de la liquidación de deudas."
+      },
+      {
+       "t": "Cómo salir de deudas",
+       "u": "https://consumer.ftc.gov/articles/how-get-out-debt",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Cómo elegir un consejero de crédito, cómo funcionan los planes de manejo de deudas y los riesgos de la liquidación de deudas."
+      },
+      {
+       "t": "Encuentra un consejero de crédito para organizaciones sin fines de lucro",
+       "u": "https://www.nfcc.org/",
+       "org": "National Foundation for Credit Counseling (NFCC)",
+       "d": "Una red nacional de agencias sin fines de lucro de asesoría crediticia. La ayuda se ofrece por teléfono, en línea y en español."
+      },
+      {
+       "t": "Detectando fraudes de préstamos estudiantiles",
+       "u": "https://consumer.ftc.gov/consumer-alerts/2025/05/spotting-student-loan-scams",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Por qué nunca deberías pagar una comisión por adelantado ni compartir tu FSA ID, y cómo administrar préstamos gratis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-intro",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "intro",
+   "title": "Tratando con cobradores de deudas y demandas de cobranza",
+   "body": [
+    {
+     "p": "Tus derechos con cobradores, una carta de disputa modelo, deudas antiguas, qué hacer con los documentos judiciales y nuevas reglas para facturas médicas en DC, Maryland y Virginia."
+    },
+    {
+     "p": "(Aproximadamente 18 min, 5 preguntas de cuestionario)"
+    },
+    {
+     "h3": "Lo que aprenderás"
+    },
+    {
+     "ul": [
+      "Explica qué pueden y no pueden hacer los cobradores de deudas bajo la ley federal.",
+      "Disputa una deuda o pide pruebas por escrito dentro del plazo de 30 días.",
+      "Reconoce deudas antiguas (con fecha de prescripción) y cobradores falsos antes de pagar.",
+      "Responde a los documentos judiciales y maneja las facturas médicas pidiendo una factura detallada y asistencia financiera."
+     ]
+    },
+    {
+     "p": "**Cómo se conecta esto con nuestras clases:** Nuestra clase cubre qué sucede cuando una deuda llega a cobranza y cómo la deuda médica es diferente. Esta lección agrega una carta de ejemplo, una forma de verificar si un cobrador es real, qué hacer con los documentos judiciales y las reglas actuales de DC, Maryland y Virginia."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-words",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "words",
+   "title": "Palabras que debes conocer",
+   "body": [
+    {
+     "dl": [
+      [
+       "Cobrador de deudas (Debt collector)",
+       "Una empresa o persona que cobra deudas que le deben a otra persona, o que compra deudas antiguas e intenta cobrarlas."
+      ],
+      [
+       "Aviso de validación (Validation notice)",
+       "Una carta que un cobrador debe enviar que nombre al acreedor, muestre lo que debes y explique cómo y cuándo disputar la deuda."
+      ],
+      [
+       "Plazo de prescripción (Statute of limitations)",
+       "El límite de tiempo para demandarte por una deuda. Después de que pasa, la deuda se llama prescrita."
+      ],
+      [
+       "Sentencia en rebeldía (Default judgment)",
+       "Una decisión judicial en tu contra porque no respondiste a una demanda o no fuiste a la corte."
+      ],
+      [
+       "Embargo salarial (Wage garnishment)",
+       "Una orden judicial que obliga a tu empleador a enviar parte de tu pago a un acreedor."
+      ],
+      [
+       "Asistencia financiera (atención benéfica) (Financial assistance (charity care))",
+       "Un programa hospitalario que ofrece atención gratuita o de menor costo a los pacientes que califican, usualmente basado en sus ingresos."
+      ],
+      [
+       "Factura detallada (Itemized bill)",
+       "Una factura que lista cada servicio o artículo que recibiste y el precio de cada uno."
+      ],
+      [
+       "Nivel federal de pobreza (Federal poverty level)",
+       "Una cantidad de ingresos que el gobierno federal establece cada año, basada en el tamaño de la familia. Muchos programas la usan para decidir quién califica para recibir ayuda."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s1",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "text",
+   "title": "Tus derechos cuando un cobrador te contacta",
+   "body": [
+    {
+     "p": "Un cobrador de deudas es una empresa que cobra deudas para otra persona, o que compra deudas antiguas. Una ley federal, la Ley de Prácticas Justas de Cobranza de Deudas, establece reglas sobre cómo actúan los cobradores. DC y Maryland también tienen sus propias leyes de cobranza."
+    },
+    {
+     "h3": "En general, un coleccionista no puede:"
+    },
+    {
+     "ul": [
+      "Te llamo antes de las 8 a.m. o después de las 9 p.m.",
+      "Te llamo por una deuda más de 7 veces en 7 días, o dentro de los 7 días después de hablar contigo por teléfono al respecto.",
+      "Te llaman al trabajo si saben que tu empleador no lo permite.",
+      "Di que te van a arrestar, o que te demandarán cuando eso no sea cierto.",
+      "Finge ser abogado o trabajador del gobierno.",
+      "Habla sobre tus deudas con tus familiares, vecinos o jefe. Pueden hablar de ello solo contigo, tu cónyuge o tu abogado. Pueden contactar a otras personas solo para encontrarte a ti.",
+      "Publica sobre tu deuda en redes sociales donde otros puedan verla.",
+      "Digamos que debes una cantidad diferente a la que realmente debes."
+     ]
+    },
+    {
+     "p": "Puedes decirle a un cobrador cómo y cuándo contactarte, por ejemplo \"no llamadas en el trabajo\" o \"solo por correo\". Si quieres que dejen de contactarte, envía una carta. Después de eso, puede que solo te contacten para decirte que pararán o para informarte sobre un paso específico, como una demanda. Dejar de contactar no borra la deuda."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s2",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "text",
+   "title": "Pide pruebas y disputa por escrito",
+   "body": [
+    {
+     "p": "Un cobrador debe enviarte un **aviso de validación** en su primer contacto o dentro de los 5 días posteriores. El aviso nombra al acreedor, muestra cuánto debes en intereses y comisiones, y da una fecha de finalización para un periodo de disputa de 30 días."
+    },
+    {
+     "ol": [
+      "En la primera llamada, no pagues ni aceptes nada. Pide el nombre del cobrador, la empresa, la dirección postal y el número telefónico.",
+      "Espera el aviso de validación, o pídeles que te lo envíen.",
+      "Compáralo con tus registros. ¿La deuda es tuya? ¿La cantidad es correcta? ¿Ya la pagaste?",
+      "Si algo está mal o no está claro, envía una carta de disputa antes de la fecha de finalización en el aviso. Usa correo certificado con acuse de recibo y guarda una copia.",
+      "Después de disputar por escrito dentro de los 30 días, el cobrador debe dejar de cobrar la cantidad disputada hasta que te responda.",
+      "Lleva un registro de cada llamada: la fecha, la hora, el nombre de la persona y lo que se dijo."
+     ]
+    },
+    {
+     "h3": "Ejemplo de carta de disputa"
+    },
+    {
+     "quote": "[Tu nombre] [Tu dirección] [Fecha] [Nombre del coleccionista] [Dirección del coleccionista] Acerca de: número de cuenta [número del aviso] Escribo sobre tu carta fechada [fecha]. Disputo esta deuda. [Elige una: no debo esta deuda. / La cantidad es incorrecta. / Necesito más información.] Por favor, mándame el nombre del acreedor original, una copia del último estado de cuenta de ese acreedor y cómo recibiste la cantidad que dices que debo. Por favor, contáctame solo por correo. Esta carta no dice que deba esa deuda. [Tu firma]"
+    },
+    {
+     "p": "No pongas tu número de cuenta bancaria ni de Seguro Social en la carta."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s3",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "text",
+   "title": "¿El cobrador es real? ¿La deuda es muy antigua?",
+   "body": [
+    {
+     "h3": "Verifica que el coleccionista sea real"
+    },
+    {
+     "ul": [
+      "No confíes en el nombre que aparece en el identificador de llamadas. Los estafadores pueden fingirlo.",
+      "Busca la empresa tú mismo. Llama al acreedor original y pregunta quién es el dueño de la deuda ahora.",
+      "En Maryland, las agencias de cobranza deben tener una licencia estatal. Puedes verificarlo con la Oficina de Regulación Financiera.",
+      "Nunca pagues con una tarjeta de regalo, transferencia bancaria, criptomonedas o aplicación de pago porque un llamante te está apresurando. Un verdadero cobrador debe enviarte un aviso por escrito.",
+      "Busca la deuda en tus reportes de crédito [gratuitos en AnnualCreditReport.com](https://www.annualcreditreport.com/)."
+     ]
+    },
+    {
+     "h3": "Las deudas antiguas tienen límites de tiempo"
+    },
+    {
+     "p": "El **plazo de prescripción** es el plazo para demandarte por una deuda. En la mayoría de los estados es de 3 a 6 años, y algunos son más largos. Después de que pasa, la deuda está prescrita. Un cobrador aún puede pedirte que pagues, pero puede no demandarte ni amenazar con demandarte."
+    },
+    {
+     "ul": [
+      "**DC:** 3 años para la mayoría de las deudas de consumo. Un pago realizado después de que ha pasado el límite de tiempo no lo reinicia.",
+      "**Maryland:** 3 años para la mayoría de las deudas de consumo. Un pago realizado después de que ha pasado el plazo no lo reinicia.",
+      "**Virginia:** 3 años por una deuda sin contrato escrito, o 5 años por un contrato escrito firmado. Puede ser difícil saber cuál aplica. Una promesa de pago firmada y por escrito puede reiniciar el límite de tiempo."
+     ]
+    },
+    {
+     "p": "El límite de tiempo para demandar no es el mismo que el límite del reporte de crédito. La mayoría de la información negativa, incluyendo la mayoría de las cobranzas, puede permanecer en tu reporte crediticio por 7 años. Antes de pagar cualquier cosa por una deuda muy antigua, habla con asistencia legal."
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s4",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "example",
+   "title": "Mateo y un viejo recibo telefónico",
+   "body": [
+    {
+     "p": "Mateo vive en Laurel, Maryland. En 2020, dejó de pagar una factura telefónica de $900 cuando perdió su trabajo. En 2026, un cobrador llama. Dice que ahora debe $1,350 y pide un pago de \"buena fe\" de $50 hoy."
+    },
+    {
+     "table": {
+      "caption": "La antigua deuda de Mateo en Maryland",
+      "head": [
+       "¿Qué pasó?",
+       "Año"
+      ],
+      "num": [],
+      "rows": [
+       [
+        "Mateo dejó de pagar la cuenta de $900",
+        "2020"
+       ],
+       [
+        "El plazo de 3 años para demandar terminó",
+        "2023"
+       ],
+       [
+        "El cobrador llama y pide $1,350",
+        "2026"
+       ],
+       [
+        "¿Puede el cobrador demandarlo en 2026?",
+        "No"
+       ]
+      ],
+      "total": [
+       3
+      ]
+     }
+    },
+    {
+     "formula": "2020 + 3 años = 2023, así que en 2026 la deuda está prescrita en Maryland"
+    },
+    {
+     "p": "El cobrador aún puede pedirle a Mateo que pague, pero no puede demandar ni amenazar con demandar. En Maryland, un pago de $50 ahora no reiniciaría el límite de tiempo. Mateo puede pedir el aviso de validación para ver cómo $900 se convirtieron en $1,350, y puede llamar a asistencia legal antes de decidir qué hacer."
+    }
+   ],
+   "label": "Ejemplo"
+  },
+  {
+   "id": "debt-collectors-s5",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "warning",
+   "title": "Documentos judiciales: nunca los ignores",
+   "body": [
+    {
+     "p": "Si un acreedor o cobrador te demanda, recibirás documentos judiciales. Pueden llamarse citatorio, demanda o orden de arresto por deuda. Los papeles establecen una fecha límite para responder o una fecha para acudir a la corte. Si no haces nada, el tribunal puede emitir un **fallo en rebeldía** en tu contra por la cantidad que piden, más honorarios. Entonces pueden embargar tu salario, congelar tu cuenta bancaria o poner un gravamen sobre tu propiedad. Un gravamen es un reclamo legal sobre tu propiedad, como una casa o un auto, por el dinero que debes. Por lo general, no puedes vender la propiedad ni pedir prestado contra ella hasta que la deuda esté pagada."
+    },
+    {
+     "ol": [
+      "Lee los papeles el día que los recibas. Anota cada fecha límite y fecha de corte.",
+      "Cheque: ¿La deuda es tuya? ¿La cantidad es correcta? ¿Es demasiado vieja para demandar? El cobrador debe probar su caso.",
+      "Llama a la ayuda legal gratuita de inmediato. También puedes preguntar al centro de autoayuda del tribunal cómo responder.",
+      "Responde antes de la fecha límite y acude a cada fecha de audiencia. Si necesitas un intérprete, pregunta al tribunal con anticipación.",
+      "Lleva tus papeles, cartas, recibos y registro de llamadas."
+     ]
+    },
+    {
+     "p": "Parte del dinero está protegido. El Seguro Social, el SSI y los beneficios para veteranos generalmente no pueden ser aceptados por la mayoría de los acreedores, incluso después de una sentencia."
+    },
+    {
+     "ul": [
+      "**DC:** Legal Aid DC, [(202) 628-1161](tel:+12026281161), y el Centro Pro Bono del Colegio de Abogados de DC",
+      "**Maryland:** Asistencia Legal de Maryland, [888-465-2468](tel:+18884652468), y el Centro de Ayuda Judicial gratuito de Maryland, [410-260-1392](tel:+14102601392)",
+      "**Virginia:** Servicios Legales del Norte de Virginia, [703-778-6800](tel:+17037786800)"
+     ]
+    }
+   ],
+   "label": "¡Cuidado"
+  },
+  {
+   "id": "debt-collectors-s6",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "text",
+   "title": "Cuentas médicas: cheque, pide ayuda y luego paga",
+   "body": [
+    {
+     "p": "Las facturas médicas a menudo tienen errores, y muchas pueden reducirse. Antes de pagar una factura médica grande, o un cobrador por una, sigue estos pasos."
+    },
+    {
+     "ol": [
+      "Pide una factura detallada que liste cada servicio y su precio.",
+      "Compáralo con el estado de cuenta de tu seguro de salud. Llama a tu aseguradora sobre cualquier reclamo que haya sido negado.",
+      "Pregunta al hospital por su política de asistencia financiera y su solicitud. Los hospitales sin fines de lucro deben tener una política por escrito y facilitarla de encontrar.",
+      "Pide un plan de pagos sin intereses que se ajuste a tu presupuesto.",
+      "Obtén todos los acuerdos por escrito."
+     ]
+    },
+    {
+     "h3": "Reglas del área de DC (septiembre 2026)"
+    },
+    {
+     "ul": [
+      "**Maryland:** Desde el 1 de octubre de 2025, la deuda médica no puede ser reportada a las agencias de crédito. Los hospitales no pueden demandar a un paciente que deba $500 o menos. Los pacientes tienen 240 días desde la primera factura para solicitar asistencia financiera, y los hospitales no pueden demandar durante ese tiempo. Los hospitales de Maryland deben brindar atención médica gratuita a pacientes con ingresos familiares iguales o inferiores al 200% del nivel federal de pobreza.",
+      "**Virginia:** Desde el 1 de julio de 2024, los proveedores de salud y cobradores no pueden reportar deudas médicas a las agencias de crédito. Desde el 1 de julio de 2026, un hospital o cobrador de deudas debe esperar al menos 120 días después de que vence la factura final y enviar un aviso por escrito sobre ayuda financiera antes de demandar a un paciente o vender la deuda. Luego, el paciente tiene al menos 30 días para solicitar prueba de la deuda o solicitar ayuda.",
+      "**DC:** En 2026, DC aprobó una nueva ley de deudas médicas. Sus reglas principales, incluyendo la prohibición de reportar deudas médicas a las agencias de crédito, comienzan solo seis meses después de que el presupuesto de DC pague la ley. Pregunta a asistencia legal qué reglas aplican a tu proyecto de ley.",
+      "**En todas partes:** Las tres agencias nacionales de crédito omiten las cobranzas médicas pagadas y las de menos de $500. Esperan un año antes de agregar una cobranza médica impagada. Una regla federal para eliminar toda deuda médica de los reportes de crédito fue anulada por un tribunal en julio de 2025. En octubre de 2025, la CFPB dijo que cree que la ley federal prevalece sobre las reglas estatales de reporte crediticio como las anteriores, por lo que los tribunales pueden decidir hasta dónde llegan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-s7",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "tip",
+   "title": "Dónde reportar un problema",
+   "body": [
+    {
+     "p": "Si un cobrador incumple las reglas, escribe lo que sucedió y guarda cualquier carta o mensaje. Puedes presentar una queja ante la CFPB al [consumerfinance.gov/complaint](https://www.consumerfinance.gov/complaint/) o [al (855) 411-2372](tel:+18554112372). También puedes contactar a la Oficina del Fiscal General de DC, [202-442-9828](tel:+12024429828), a la Oficina de Regulación Financiera de Maryland, [410-230-6077](tel:+14102306077), o a la Sección de Protección al Consumidor del Fiscal General de Virginia, [804-786-2042](tel:+18047862042). Si estás siendo demandado, llama primero a asistencia legal."
+    }
+   ],
+   "label": "Consejo"
+  },
+  {
+   "id": "debt-collectors-takeaways",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "takeaways",
+   "title": "Puntos clave",
+   "body": [
+    {
+     "ul": [
+      "Los cobradores no pueden amenazar con arrestar, mentir sobre lo que debes o llamar antes de las 8 a.m. o después de las 9 p.m.",
+      "Tienes 30 días después del aviso de validación para disputar una deuda por escrito. Guarda copias de todo.",
+      "En DC y Maryland, la mayoría de las deudas de consumo no pueden ser llevadas a los tribunales después de 3 años. Un pago realizado después de ese tiempo no reinicia el límite de tiempo.",
+      "Nunca ignores los documentos judiciales. Responde antes de la fecha límite y llama a ayuda legal gratuita de inmediato.",
+      "Para una factura médica, pide una factura detallada y la solicitud de asistencia financiera del hospital antes de pagar."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-quiz",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "quiz",
+   "title": "Revisa tu entendimiento",
+   "body": [
+    {
+     "quiz": "https://dollarscholars.org/es-mx/resources/lessons/debt-collectors/#quiz"
+    }
+   ]
+  },
+  {
+   "id": "debt-collectors-links",
+   "type": "lesson",
+   "lesson": "debt-collectors",
+   "lessonTitle": "Tratando con cobradores de deudas y demandas de cobranza",
+   "kind": "links",
+   "title": "Sigue más lejos",
+   "body": [
+    {
+     "p": "Sitios web confiables donde puedes aprender más. Estos enlaces llevan a otros sitios que Dollar Scholars no administra."
+    },
+    {
+     "links": [
+      {
+       "t": "Preguntas frecuentes sobre la cobranza de deudas",
+       "u": "https://consumidor.ftc.gov/articulos/preguntas-frecuentes-sobre-la-cobranza-de-deudas",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "La misma guía en español: tus derechos cuando un cobrador de deudas te contacta."
+      },
+      {
+       "t": "Cobranza de deudas",
+       "u": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+       "org": "Consumer Financial Protection Bureau (CFPB)",
+       "d": "Tus derechos con cobradores, avisos de validación, cartas modelo y qué hacer si te demandan."
+      },
+      {
+       "t": "Preguntas frecuentes sobre cobranza de deudas",
+       "u": "https://consumer.ftc.gov/articles/debt-collection-faqs",
+       "org": "Federal Trade Commission (FTC)",
+       "d": "Lo que los cobradores pueden y no pueden hacer, cómo detener el contacto y qué ingresos están protegidos contra embargos."
+      },
+      {
+       "t": "Centros de Ayuda de la Corte de Maryland",
+       "u": "https://www.mdcourts.gov/helpcenter",
+       "org": "Maryland Judiciary",
+       "d": "Ayuda legal gratuita por teléfono, chat o en persona para personas sin abogado en casos civiles, como demandas por deudas."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

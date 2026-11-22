@@ -1,1 +1,100 @@
-{"topics": [{"id": "tema-01", "title": "Topic 1: Plan income and expenses"}]}
+{
+ "topics": [
+  {
+   "id": "tema-01",
+   "title": "Topic 1: Plan income and expenses",
+   "summary": "Build a spending plan that works for real DC-area households, including uneven income and money sent to family, and start an emergency fund from zero.",
+   "lessons": [
+    "spending-plan",
+    "emergency-fund"
+   ]
+  },
+  {
+   "id": "tema-02",
+   "title": "Topic 2: Banking Basics: Accounts That Work for You",
+   "summary": "How to open an account (even without an SSN), compare banks, credit unions, apps, and check cashers, and send money abroad safely and cheaply.",
+   "lessons": [
+    "open-an-account",
+    "where-to-bank",
+    "sending-money-abroad"
+   ]
+  },
+  {
+   "id": "tema-03",
+   "title": "Topic 3: Paychecks and Personal Income Taxes",
+   "summary": "Understand your pay stub and withholding, handle taxes on gig and cash income, and file for free while claiming every credit you earned. Money Smart has no tax module, so this topic is mostly a Dollar Scholars extension.",
+   "lessons": [
+    "pay-stub-and-w4",
+    "gig-income-taxes",
+    "file-for-free"
+   ]
+  },
+  {
+   "id": "tema-04",
+   "title": "Topic 4: Credit Reports and Credit Scores",
+   "summary": "Read your credit report and fix mistakes, build credit from nothing (including as a newcomer or ITIN holder), and learn what really moves your score.",
+   "lessons": [
+    "read-your-credit-report",
+    "build-credit",
+    "credit-score-factors"
+   ]
+  },
+  {
+   "id": "tema-05",
+   "title": "Topic 5: Borrowing Wisely and Avoiding Predatory Loans",
+   "summary": "See the real price of a loan, recognize payday, title, rent-to-own, and other high-cost products, find safer options, and get a fair deal when you finance a car.",
+   "lessons": [
+    "high-cost-loans",
+    "car-loans"
+   ]
+  },
+  {
+   "id": "tema-06",
+   "title": "Topic 6: Credit Cards and Managing Debt",
+   "summary": "Use a credit card without paying interest, build a payoff plan that works, and deal with debt collectors, court papers, and medical bills with confidence.",
+   "lessons": [
+    "credit-cards",
+    "debt-payoff-plan",
+    "debt-collectors"
+   ]
+  },
+  {
+   "id": "tema-07",
+   "title": "Topic 7: Scam Awareness and Identity Protection",
+   "summary": "Recognize today's scams, especially those aimed at immigrants, renters, and job seekers. Protect your identity for free, and recover if it is stolen.",
+   "lessons": [
+    "spot-scams",
+    "scams-targeting-newcomers",
+    "identity-theft"
+   ]
+  },
+  {
+   "id": "tema-08",
+   "title": "Topic 8: Renting and Housing Choices",
+   "summary": "Rent with confidence in the DC area, and compare the real costs of renting and buying before you start the path to owning a home.",
+   "lessons": [
+    "renters-rights",
+    "rent-or-buy"
+   ]
+  },
+  {
+   "id": "tema-09",
+   "title": "Topic 9: Buying a Home and Getting a Mortgage",
+   "summary": "Prepare over 12 months, use local down payment help, compare loan offers, close safely, and know where to turn if you fall behind.",
+   "lessons": [
+    "mortgage-ready",
+    "down-payment-help",
+    "closing-day"
+   ]
+  },
+  {
+   "id": "tema-10",
+   "title": "Topic 10: Preparing for and Recovering from Financial Shocks",
+   "summary": "What to do in the first 30 days after income stops, and a family emergency plan for disasters, illness, and sudden changes.",
+   "lessons": [
+    "income-shock",
+    "emergency-plan"
+   ]
+  }
+ ]
+}
