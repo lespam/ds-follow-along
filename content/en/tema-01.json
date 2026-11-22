@@ -1,4 +1,232 @@
-{"id": "tema-01", "title": "Topic 1: Plan income and expenses", "blocks": [
-  {"id": "intro", "title": "Introduction", "text": ["Placeholder content. The full Topic 1 arrives in the next block."]},
-  {"id": "ingresos", "title": "Your income", "text": ["Write your monthly income."], "inputs": [{"id": "ingreso", "label": "Income for the month", "type": "number"}]}
-]}
+{
+ "id": "tema-01",
+ "title": "Topic 1: Plan income and expenses",
+ "template": {
+  "ingresos": [
+   "Paycheck (take-home)",
+   "Tips",
+   "Other income"
+  ],
+  "gastos": [
+   [
+    "need",
+    "Rent or mortgage"
+   ],
+   [
+    "need",
+    "Utilities and internet"
+   ],
+   [
+    "need",
+    "Food and household items"
+   ],
+   [
+    "need",
+    "Transportation"
+   ],
+   [
+    "need",
+    "Phone"
+   ],
+   [
+    "need",
+    "Clothes, medicine and personal care"
+   ],
+   [
+    "oblig",
+    "Money for family"
+   ],
+   [
+    "oblig",
+    "Credit card or debt payment"
+   ],
+   [
+    "oblig",
+    "Set aside for taxes"
+   ],
+   [
+    "save",
+    "Emergency fund"
+   ],
+   [
+    "save",
+    "Once-a-year expenses"
+   ],
+   [
+    "want",
+    "Eating out and fun"
+   ],
+   [
+    "want",
+    "Streaming"
+   ],
+   [
+    "extra",
+    "Extra for surprises"
+   ]
+  ]
+ },
+ "blocks": [
+  {
+   "id": "intro",
+   "title": "Introduction",
+   "text": [
+    "A monthly plan gives every dollar a place before you spend it.",
+    "You will see Carlos's example and then make your own, with your own numbers."
+   ]
+  },
+  {
+   "id": "estados",
+   "title": "Gather your account statements",
+   "text": [
+    "Ideally, review your statements from the last 4 months. That shows how much really comes in and goes out."
+   ],
+   "note": {
+    "title": "You do not need all of them today.",
+    "text": "Start with the month you remember best. You can add the other months later, and the plan will use them."
+   }
+  },
+  {
+   "id": "carlos",
+   "type": "carlos",
+   "title": "Carlos's example",
+   "text": [
+    "Carlos lives in Langley Park, Maryland, and shares a two-bedroom apartment with his cousin. He is a line cook at a restaurant in Columbia Heights, DC, and is paid every two weeks. He also gets tips, and some weekends he paints apartments. Every month he sends money to his mom in El Salvador.",
+    "Carlos uses a base month: the month with the lowest income. If the plan works in a low month, it works in the others."
+   ],
+   "cols": {
+    "item": "Income",
+    "amount": "Amount",
+    "type": "Type",
+    "what": "What it is for",
+    "baseIncome": "Base income"
+   },
+   "ingresos": {
+    "caption": "Carlos's income in a base month",
+    "rows": [
+     [
+      "Two restaurant paychecks (take-home)",
+      1800
+     ],
+     [
+      "Tips (lowest typical month)",
+      300
+     ],
+     [
+      "Cash painting work (lowest month)",
+      300
+     ]
+    ]
+   },
+   "gastos": {
+    "caption": "Carlos's monthly expense plan",
+    "rows": [
+     [
+      "need",
+      "Rent (his half)",
+      1050
+     ],
+     [
+      "need",
+      "Electricity and internet (his half)",
+      85
+     ],
+     [
+      "need",
+      "Food and household items",
+      380
+     ],
+     [
+      "need",
+      "Subway and bus",
+      110
+     ],
+     [
+      "need",
+      "Phone",
+      45
+     ],
+     [
+      "need",
+      "Clothes, haircuts and medicine",
+      70
+     ],
+     [
+      "oblig",
+      "Money for his mom, plus the transfer fee",
+      210
+     ],
+     [
+      "oblig",
+      "Credit card payment",
+      50
+     ],
+     [
+      "oblig",
+      "Set aside for taxes on cash work (20% of $300)",
+      60
+     ],
+     [
+      "save",
+      "Emergency fund",
+      100
+     ],
+     [
+      "save",
+      "Once-a-year expenses (renter's insurance, gifts)",
+      40
+     ],
+     [
+      "want",
+      "Eating out and fun with friends",
+      130
+     ],
+     [
+      "want",
+      "Streaming",
+      15
+     ],
+     [
+      "extra",
+      "Extra for surprises",
+      55
+     ]
+    ]
+   },
+   "after": [
+    "Every dollar has a place. Savings and the extra for surprises are part of the plan too."
+   ]
+  },
+  {
+   "id": "tipos",
+   "type": "tipos",
+   "title": "The five types of expense",
+   "text": [
+    "Every expense goes into one of five types."
+   ],
+   "types": {
+    "need": "What you need to live and work: rent, food, transportation, phone.",
+    "oblig": "What you already promised to pay: debts, money for your family, taxes.",
+    "save": "Money for emergencies and expenses that come once a year.",
+    "want": "What you enjoy but can cut back: eating out, streaming.",
+    "extra": "A small cushion for surprises during the month."
+   }
+  },
+  {
+   "id": "plan",
+   "type": "budget",
+   "title": "Your plan",
+   "text": [
+    "Fill in one month at a time with your numbers. Change the names, add or remove rows, and choose the type of each expense. Suggested goal: 4 months."
+   ]
+  },
+  {
+   "id": "resumen",
+   "type": "summary",
+   "title": "Your result",
+   "text": [
+    "This is calculated from the months you filled in. Base income is the month with the lowest income."
+   ]
+  }
+ ]
+}

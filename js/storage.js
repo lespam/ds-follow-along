@@ -1,13 +1,13 @@
 // Datos del usuario: solo en este dispositivo (localStorage). Versionados con migraciones.
-export const DATA_VERSION = 1;
+export const DATA_VERSION = 2;
 const KEY = "dsfa:data";
 
 // migrations[n] convierte datos de la versión n a la n+1. Nunca borres datos al migrar.
 const migrations = {
-  // 1: (d) => { d.nuevoCampo = d.nuevoCampo ?? ""; return d; },
+  1: (d) => { d.budget = d.budget ?? { months: [] }; return d; }, // v2: presupuesto del Tema 1
 };
 
-const blank = () => ({ v: DATA_VERSION, lang: null, last: null, answers: {}, done: {} });
+const blank = () => ({ v: DATA_VERSION, lang: null, last: null, answers: {}, done: {}, budget: { months: [] } });
 let memoryOnly = false;
 let data = load();
 
@@ -41,4 +41,6 @@ export const getAnswer = (topic, id) => data.answers[`${topic}.${id}`] ?? "";
 export const setAnswer = (topic, id, value) => { data.answers[`${topic}.${id}`] = value; persist(); };
 export const markDone = (topic, block) => { (data.done[topic] ||= {})[block] = true; persist(); };
 export const isDone = (topic, block) => !!data.done[topic]?.[block];
+export const getBudget = () => data.budget;
+export const saveBudget = persist;
 export const askPersistent = () => navigator.storage?.persist?.().catch(() => {});

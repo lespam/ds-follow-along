@@ -1,13 +1,11 @@
 import * as store from "./storage.js";
+import { h } from "./dom.js";
+import { renderBlockBody } from "./blocks.js";
 import { detectLang, setLanguage, getLanguage, t, loadTopic, loadIndex, LANGS } from "./i18n.js";
 
 const main = document.getElementById("main");
 const langSel = document.getElementById("lang");
-const $ = (tag, props = {}, ...kids) => {
-  const el = Object.assign(document.createElement(tag), props);
-  el.append(...kids.filter((k) => k != null));
-  return el;
-};
+const $ = h;
 
 // ---- Vistas ----
 async function showTopics() {
@@ -36,14 +34,8 @@ async function showBlock(topicId, n) {
   const card = $("section", { className: "card" },
     $("p", { className: "muted", textContent: `${topic.title} · ${t("blockOf", { n: n + 1, total })}` }),
     $("h2", { tabIndex: -1, textContent: b.title }),
-    ...(b.text || []).map((p) => $("p", { textContent: p })));
-  (b.inputs || []).forEach((inp) => {
-    const id = `in-${topicId}-${b.id}-${inp.id}`;
-    const field = $("input", { id, type: inp.type === "number" ? "text" : "text", value: store.getAnswer(topicId, inp.id) });
-    if (inp.type === "number") field.inputMode = "decimal";
-    field.addEventListener("input", () => store.setAnswer(topicId, inp.id, field.value));
-    card.append($("label", { htmlFor: id, textContent: inp.label }), field);
-  });
+    );
+  renderBlockBody(card, b, topic);
   const last = n === total - 1;
   const nav = $("div", { className: "nav" },
     $("button", { type: "button", className: "ghost", disabled: n === 0, textContent: t("back"), onclick: () => showBlock(topicId, n - 1) }),
@@ -62,14 +54,18 @@ langSel.addEventListener("change", () => safe(async () => {
   store.setLang(langSel.value);
   await setLanguage(langSel.value);
   document.title = t("appName");
+  showVersion();
   await showTopics();
 }));
 
 // ---- Versión y actualización (sin reinstalar) ----
+let build = "";
+const showVersion = () => { if (build) document.getElementById("ver").textContent = t("version", { build }); };
 async function setupUpdates() {
   try {
     const v = await (await fetch("version.json", { cache: "no-store" })).json();
-    document.getElementById("ver").textContent = t("version", { build: v.build });
+    build = v.build;
+    showVersion();
   } catch { /* sin conexión: se omite */ }
   if (!("serviceWorker" in navigator)) return;
   const banner = document.getElementById("update");
@@ -77,6 +73,7 @@ async function setupUpdates() {
     banner.hidden = false;
     document.getElementById("update-btn").onclick = () => worker.postMessage("SKIP_WAITING");
   };
+  let hadController = !!navigator.serviceWorker.controller;
   const reg = await navigator.serviceWorker.register("sw.js");
   if (reg.waiting && navigator.serviceWorker.controller) offer(reg.waiting);
   reg.addEventListener("updatefound", () => {
@@ -87,6 +84,7 @@ async function setupUpdates() {
   });
   let reloading = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (!hadController) { hadController = true; return; } // primera instalación: no recargar
     if (reloading) return;
     reloading = true;
     location.reload(); // los datos están en localStorage: no se pierden

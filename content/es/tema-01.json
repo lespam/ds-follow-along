@@ -1,4 +1,232 @@
-{"id": "tema-01", "title": "Tema 1: Planear ingresos y gastos", "blocks": [
-  {"id": "intro", "title": "Introducción", "text": ["Contenido de prueba. El Tema 1 completo llega en el siguiente bloque."]},
-  {"id": "ingresos", "title": "Tus ingresos", "text": ["Escribe tu ingreso mensual."], "inputs": [{"id": "ingreso", "label": "Ingreso del mes", "type": "number"}]}
-]}
+{
+ "id": "tema-01",
+ "title": "Tema 1: Planear ingresos y gastos",
+ "template": {
+  "ingresos": [
+   "Sueldo (pago neto)",
+   "Propinas",
+   "Otros ingresos"
+  ],
+  "gastos": [
+   [
+    "need",
+    "Renta o hipoteca"
+   ],
+   [
+    "need",
+    "Luz, agua e internet"
+   ],
+   [
+    "need",
+    "Comida y cosas de la casa"
+   ],
+   [
+    "need",
+    "Transporte"
+   ],
+   [
+    "need",
+    "Teléfono"
+   ],
+   [
+    "need",
+    "Ropa, medicinas y cuidado personal"
+   ],
+   [
+    "oblig",
+    "Dinero para la familia"
+   ],
+   [
+    "oblig",
+    "Pago de tarjeta o deudas"
+   ],
+   [
+    "oblig",
+    "Apartado para impuestos"
+   ],
+   [
+    "save",
+    "Fondo de emergencia"
+   ],
+   [
+    "save",
+    "Gastos de una vez al año"
+   ],
+   [
+    "want",
+    "Salir a comer y divertirse"
+   ],
+   [
+    "want",
+    "Streaming"
+   ],
+   [
+    "extra",
+    "Extra para sorpresas"
+   ]
+  ]
+ },
+ "blocks": [
+  {
+   "id": "intro",
+   "title": "Introducción",
+   "text": [
+    "Un plan mensual le da un lugar a cada dólar antes de gastarlo.",
+    "Vas a ver el ejemplo de Carlos y luego vas a hacer el tuyo, con tus propios números."
+   ]
+  },
+  {
+   "id": "estados",
+   "title": "Reúne tus estados de cuenta",
+   "text": [
+    "Lo ideal es revisar los estados de cuenta de los últimos 4 meses. Así ves cuánto entra y cuánto sale de verdad."
+   ],
+   "note": {
+    "title": "No tienes que tenerlos todos hoy.",
+    "text": "Empieza con el mes que recuerdes mejor. Puedes agregar los otros meses después, y el plan los va a usar."
+   }
+  },
+  {
+   "id": "carlos",
+   "type": "carlos",
+   "title": "El ejemplo de Carlos",
+   "text": [
+    "Carlos vive en Langley Park, Maryland, y comparte un apartamento de dos habitaciones con su primo. Es cocinero de línea en un restaurante en Columbia Heights, DC, y cobra cada dos semanas. También recibe propinas y algunos fines de semana pinta apartamentos. Cada mes envía dinero a su mamá en El Salvador.",
+    "Carlos usa un mes base: el mes con los ingresos más bajos. Si el plan funciona en un mes bajo, funciona en los demás."
+   ],
+   "cols": {
+    "item": "Ingreso",
+    "amount": "Cantidad",
+    "type": "Tipo",
+    "what": "Para qué es",
+    "baseIncome": "Ingreso base"
+   },
+   "ingresos": {
+    "caption": "Ingresos de Carlos en un mes base",
+    "rows": [
+     [
+      "Dos sueldos del restaurante (pago neto)",
+      1800
+     ],
+     [
+      "Propinas (mes típico más bajo)",
+      300
+     ],
+     [
+      "Trabajo de pintura en efectivo (mes más bajo)",
+      300
+     ]
+    ]
+   },
+   "gastos": {
+    "caption": "Plan de gastos mensual de Carlos",
+    "rows": [
+     [
+      "need",
+      "Renta (su mitad)",
+      1050
+     ],
+     [
+      "need",
+      "Luz e internet (su mitad)",
+      85
+     ],
+     [
+      "need",
+      "Comida y cosas de la casa",
+      380
+     ],
+     [
+      "need",
+      "Metro y autobús",
+      110
+     ],
+     [
+      "need",
+      "Teléfono",
+      45
+     ],
+     [
+      "need",
+      "Ropa, cortes de pelo y medicinas",
+      70
+     ],
+     [
+      "oblig",
+      "Dinero para su mamá, más la comisión de envío",
+      210
+     ],
+     [
+      "oblig",
+      "Pago de tarjeta de crédito",
+      50
+     ],
+     [
+      "oblig",
+      "Apartado para impuestos del trabajo en efectivo (20% de $300)",
+      60
+     ],
+     [
+      "save",
+      "Fondo de emergencia",
+      100
+     ],
+     [
+      "save",
+      "Gastos de una vez al año (seguro de inquilino, regalos)",
+      40
+     ],
+     [
+      "want",
+      "Salir a comer y divertirse con amigos",
+      130
+     ],
+     [
+      "want",
+      "Streaming",
+      15
+     ],
+     [
+      "extra",
+      "Extra para sorpresas",
+      55
+     ]
+    ]
+   },
+   "after": [
+    "Cada dólar tiene su lugar. El ahorro y el extra para sorpresas también son parte del plan."
+   ]
+  },
+  {
+   "id": "tipos",
+   "type": "tipos",
+   "title": "Los cinco tipos de gasto",
+   "text": [
+    "Cada gasto va en uno de cinco tipos."
+   ],
+   "types": {
+    "need": "Lo que necesitas para vivir y trabajar: renta, comida, transporte, teléfono.",
+    "oblig": "Lo que ya prometiste pagar: deudas, dinero para tu familia, impuestos.",
+    "save": "Dinero para emergencias y gastos que llegan una vez al año.",
+    "want": "Lo que disfrutas pero puedes recortar: salir a comer, streaming.",
+    "extra": "Un colchón pequeño para sorpresas del mes."
+   }
+  },
+  {
+   "id": "plan",
+   "type": "budget",
+   "title": "Tu plan",
+   "text": [
+    "Llena un mes a la vez con tus números. Cambia los nombres, agrega o quita filas, y elige el tipo de cada gasto. Meta sugerida: 4 meses."
+   ]
+  },
+  {
+   "id": "resumen",
+   "type": "summary",
+   "title": "Tu resultado",
+   "text": [
+    "Esto se calcula con los meses que llenaste. El ingreso base es el del mes con menos ingresos."
+   ]
+  }
+ ]
+}
