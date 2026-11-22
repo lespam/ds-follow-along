@@ -1,7 +1,8 @@
 import * as store from "./storage.js";
 import { h } from "./dom.js";
 import { renderBlockBody } from "./blocks.js";
-import { detectLang, setLanguage, getLanguage, t, loadTopic, loadIndex, LANGS } from "./i18n.js";
+import { detectLang, initLanguages, setLanguage, t, loadTopic, loadIndex } from "./i18n.js";
+import { renderBackup } from "./backup.js";
 
 const main = document.getElementById("main");
 const langSel = document.getElementById("lang");
@@ -21,7 +22,8 @@ async function showTopics() {
   }
   const ul = $("ul", { className: "topics" });
   idx.topics.forEach((tp) => ul.append($("li", {}, $("button", { type: "button", className: "ghost", textContent: tp.title, onclick: () => showBlock(tp.id, store.getLast()?.topic === tp.id ? store.getLast().block : 0) }))));
-  main.append(ul, $("p", { className: "muted", textContent: store.isMemoryOnly() ? t("memoryOnly") : t("saved") }));
+  main.append(ul, $("p", { className: "muted", textContent: store.isMemoryOnly() ? t("memoryOnly") : t("saved") }),
+    $("button", { type: "button", className: "ghost", textContent: t("myData"), onclick: () => { renderBackup(main, showTopics); } }));
   focusHeading();
 }
 
@@ -48,8 +50,6 @@ const focusHeading = () => main.querySelector("h2")?.focus({ preventScroll: fals
 const safe = (fn) => fn().catch(() => main.replaceChildren($("p", { role: "alert", textContent: t("loadError") })));
 
 // ---- Idioma ----
-langSel.innerHTML = "";
-LANGS.forEach((l) => langSel.append($("option", { value: l, textContent: l === "es" ? "Español" : "English" })));
 langSel.addEventListener("change", () => safe(async () => {
   store.setLang(langSel.value);
   await setLanguage(langSel.value);
@@ -96,6 +96,7 @@ async function setupUpdates() {
 
 // ---- Arranque ----
 safe(async () => {
+  langSel.replaceChildren(...(await initLanguages()).map((l) => $("option", { value: l.code, textContent: l.name })));
   const lang = detectLang(store.getLang());
   langSel.value = lang;
   await setLanguage(lang);

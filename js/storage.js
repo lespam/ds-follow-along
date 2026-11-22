@@ -11,20 +11,22 @@ const blank = () => ({ v: DATA_VERSION, lang: null, last: null, answers: {}, don
 let memoryOnly = false;
 let data = load();
 
+// Lleva datos de cualquier versión anterior a la actual. Datos más nuevos que la app: no se tocan.
+function migrate(d) {
+  d.v = Number.isInteger(d.v) ? d.v : 1;
+  while (d.v < DATA_VERSION) {
+    const from = d.v;
+    d = (migrations[from] || ((x) => x))(d);
+    d.v = from + 1;
+  }
+  return { ...blank(), ...d };
+}
+
 function load() {
   try {
     const raw = localStorage.getItem(KEY);
-    if (!raw) return blank();
-    let d = JSON.parse(raw);
-    if (!d || typeof d !== "object") return blank();
-    d.v = Number.isInteger(d.v) ? d.v : 1;
-    // Datos de una versión más nueva que la app: no tocar, solo leer.
-    while (d.v < DATA_VERSION) {
-      const from = d.v;
-      d = (migrations[from] || ((x) => x))(d);
-      d.v = from + 1;
-    }
-    return { ...blank(), ...d };
+    const d = raw && JSON.parse(raw);
+    return d && typeof d === "object" ? migrate(d) : blank();
   } catch { memoryOnly = true; return blank(); }
 }
 
@@ -44,3 +46,18 @@ export const isDone = (topic, block) => !!data.done[topic]?.[block];
 export const getBudget = () => data.budget;
 export const saveBudget = persist;
 export const askPersistent = () => navigator.storage?.persist?.().catch(() => {});
+
+// ---- Respaldo: exportar, importar, borrar ----
+export const exportData = () => JSON.stringify({ app: "ds-follow-along", exportedAt: new Date().toISOString(), data }, null, 2);
+export function importData(text) {
+  try {
+    const o = JSON.parse(text);
+    const d = o && o.app === "ds-follow-along" ? o.data : null;
+    if (!d || typeof d !== "object" || !Number.isInteger(d.v) || d.v > DATA_VERSION) return false; // v mayor: de una app más nueva
+    if (typeof d.answers !== "object" || (d.budget && !Array.isArray(d.budget.months))) return false;
+    data = migrate(d);
+    persist();
+    return true;
+  } catch { return false; }
+}
+export const wipeData = () => { const lang = data.lang; data = blank(); data.lang = lang; persist(); };
