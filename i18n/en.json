@@ -1,0 +1,19 @@
+{
+  "appName": "Dollar Scholars Follow-Along",
+  "skip": "Skip to content",
+  "language": "Language",
+  "updateText": "A new version is available.",
+  "updateBtn": "Update",
+  "topics": "Topics",
+  "continue": "Continue where I left off",
+  "continueTo": "Topic: {topic}, block {n} of {total}",
+  "back": "Back",
+  "next": "Next",
+  "finish": "Finish topic",
+  "toTopics": "Back to topics",
+  "blockOf": "Block {n} of {total}",
+  "saved": "Your answers are saved only on this device.",
+  "memoryOnly": "This browser cannot save data. Your progress will be lost when you close it.",
+  "loadError": "Could not load. Check your connection and try again.",
+  "version": "Version {build}"
+}

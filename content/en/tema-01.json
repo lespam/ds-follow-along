@@ -1,0 +1,4 @@
+{"id": "tema-01", "title": "Topic 1: Plan income and expenses", "blocks": [
+  {"id": "intro", "title": "Introduction", "text": ["Placeholder content. The full Topic 1 arrives in the next block."]},
+  {"id": "ingresos", "title": "Your income", "text": ["Write your monthly income."], "inputs": [{"id": "ingreso", "label": "Income for the month", "type": "number"}]}
+]}

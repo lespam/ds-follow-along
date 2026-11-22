@@ -1,0 +1,19 @@
+{
+  "appName": "Dollar Scholars Follow-Along",
+  "skip": "Saltar al contenido",
+  "language": "Idioma",
+  "updateText": "Hay una versión nueva.",
+  "updateBtn": "Actualizar",
+  "topics": "Temas",
+  "continue": "Continuar donde me quedé",
+  "continueTo": "Tema: {topic}, bloque {n} de {total}",
+  "back": "Anterior",
+  "next": "Siguiente",
+  "finish": "Terminar tema",
+  "toTopics": "Volver a los temas",
+  "blockOf": "Bloque {n} de {total}",
+  "saved": "Tus respuestas se guardan solo en este dispositivo.",
+  "memoryOnly": "Este navegador no permite guardar datos. Tu avance se perderá al cerrar.",
+  "loadError": "No se pudo cargar. Revisa tu conexión e intenta de nuevo.",
+  "version": "Versión {build}"
+}

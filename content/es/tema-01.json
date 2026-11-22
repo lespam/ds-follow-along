@@ -1,0 +1,4 @@
+{"id": "tema-01", "title": "Tema 1: Planear ingresos y gastos", "blocks": [
+  {"id": "intro", "title": "Introducción", "text": ["Contenido de prueba. El Tema 1 completo llega en el siguiente bloque."]},
+  {"id": "ingresos", "title": "Tus ingresos", "text": ["Escribe tu ingreso mensual."], "inputs": [{"id": "ingreso", "label": "Ingreso del mes", "type": "number"}]}
+]}
